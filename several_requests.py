@@ -98,7 +98,7 @@ def save_to_csv(ads_data):
         writer.writerows(ads_data)
 
 # Function to fetch data for all pages and save to CSV with batching to introduce delays and save at each break
-def fetch_all_data_and_save_to_csv(total_pages, batch_size=20, timeout=2):
+def fetch_all_data_and_save_to_csv(total_pages, batch_size=50, timeout=2):
     # Write headers to CSV before the main scraping loop (if the file doesn't exist)
     with open('listings/rental_data.csv', mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
@@ -108,7 +108,7 @@ def fetch_all_data_and_save_to_csv(total_pages, batch_size=20, timeout=2):
 
     for batch_start in range(1, total_pages + 1, batch_size):
         ads_data = []  # Reset for each batch
-        with ThreadPoolExecutor(max_workers=1) as executor:
+        with ThreadPoolExecutor(max_workers=10) as executor:
             futures = [executor.submit(fetch_page_data, page, timeout=timeout) for page in range(batch_start, min(batch_start + batch_size, total_pages + 1))]
             
             with tqdm(total=min(batch_size, total_pages - batch_start + 1), desc=f"Scraping Pages {batch_start}-{min(batch_start + batch_size - 1, total_pages)}") as progress_bar:
