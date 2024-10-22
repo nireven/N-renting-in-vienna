@@ -1,11 +1,13 @@
-name: Willhaben Data Scraper
+name: Python Script Runner and Committer
 
+# Controls when the workflow will run
 on:
   schedule:
     # Run every 2 hours
     - cron: "0 */2 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering of the workflow from the Actions tab
 
+# The type of machine that will run the workflow
 jobs:
   run-scripts:
     runs-on: ubuntu-latest
@@ -19,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10
+          python-version: '3.10'  # Specify your Python version
 
       # Step 3: Install dependencies from requirements.txt
       - name: Install dependencies
@@ -27,18 +29,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Step 4: Run the scripts
+      # Step 4: Run the Python scripts
       - name: Run several_requests.py
         run: python several_requests.py
 
       - name: Run filter_datatset.py
         run: python filter_datatset.py
 
-      # Step 5: Commit and push changes if any files are generated/changed
+      # Step 5: Commit and push any changes
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto-commit: Generated files after running Python scripts" || echo "No changes to commit"
+          git diff --quiet || git commit -m "Auto-commit: Generated files after running Python scripts"
           git push
