@@ -8,6 +8,8 @@ It then filters the listings down according to my preferences and stores these l
 
 You can change filter in the `filter_dataset.py` script.
 
+## Recent Listings
+
 |   Rent (€) |   Size (m²) |   Rooms | Location                               | Link                                                                                                                                                                                                     |
 |-----------:|------------:|--------:|:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     792    |          50 |       2 | Wien, 21. Bezirk, Floridsdorf          | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1210-floridsdorf/wohnung-ab-oktober-2024-zu-vermieten-1727828166/)                                                                |
