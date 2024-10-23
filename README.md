@@ -3,10 +3,10 @@
 
 # Renting in Vienna
 
-This repo fetches every **5 minutes** the latest listings from [willhaben](https://www.willhaben.at/).
-It then filters the listings down according to my preferences and stores these listings in `check_these.csv`. 
+This repo fetches every **5 minutes** the latest apartments from [willhaben](https://www.willhaben.at/).
+It then filters the listings according to my preferences and stores them in `check_these.csv`. 
 
-You can change filter in the `filter_dataset.py` script.
+You can change filter settings in the `filter_dataset.py` script.
 
 ## Recent Listings
 |   Rent (€) |   Size (m²) |   Rooms | Location                      | Link                                                                                                                                                                                           |
