@@ -9,7 +9,7 @@ df['Published Date'] = pd.to_datetime(df['Published Date'], errors='coerce')
 # ---------- FILTERING ---------- #
 
 now = pd.Timestamp.now()
-five_days_ago = now.tz_localize('UTC') - pd.Timedelta(days=5)
+one_day_ago = now.tz_localize('UTC') - pd.Timedelta(days=1)
 
 # Filter the DataFrame with all conditions
 filtered_df = df[(df.State == 'Wien') & 
@@ -17,7 +17,7 @@ filtered_df = df[(df.State == 'Wien') &
                  (df.Price > 400) &
                  (df.Rooms > 1) &
                  (df['Property Type'] == 'Wohnung') &
-                 (df['Published Date'] >= five_days_ago)]
+                 (df['Published Date'] >= one_day_ago)]
 
 print(f'There are {filtered_df.shape[0]} listings that match your requirements.')
 
