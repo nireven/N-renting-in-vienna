@@ -10,7 +10,6 @@ The 20 latest listings according to my preferences are printed in this README fo
 The table is sorted by publish times in ascending order, with the closest publish time to the current time listed first.
 
 ## Recent Listings
-
 |   Rent (€) |   Size (m²) |   Rooms | Location                      | Link                                                                                                                                                                                           |
 |-----------:|------------:|--------:|:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     650    |          58 |       2 | Wien, 14. Bezirk, Penzing     | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1140-penzing/helle-ruhige-2-zimmer-wohnung-mit-blick-ins-grüne-1691838531/)                                              |
