@@ -1,4 +1,4 @@
-![Python Script Runner and Committer](https://github.com/AthomsG/renting-in-vienna/actions/workflows/python_run_and_push.yml/badge.svg)
+![Python Script Runner and Committer](https://github.com/AthomsG/renting-in-vienna/actions/workflows/run_pipeline.yml/badge.svg)
 
 
 # renting-in-vienna
