@@ -27,10 +27,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run several_requests.py
+      - name: Scraping Data
         run: python several_requests.py
 
-      - name: Run filter_datatset.py
+      - name: Filtering Data to your preferences
+        run: python filter_datatset.py
+
+      - name: Updating ReadMe
         run: python filter_datatset.py
 
       - name: Commit and push changes
