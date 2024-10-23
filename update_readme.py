@@ -8,6 +8,11 @@ df = df.sort_values(by='Published Date', ascending=False)
 recent_listings = df.head(20)
 recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Location', 'Link']]
 
+# Extract district number and name in the format '14. Penzing'
+recent_listings['Location'] = recent_listings['Location'].apply(lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}")
+
+recent_listings = recent_listings.rename(columns={'Rent (€)': '💰 Rent (€)', 'Size (m²)': '📏 Size (m²)', 'Rooms': '🛏️ Rooms', 'Location': '🏙️ District'})
+
 recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗]({x})')
 
 markdown_table = recent_listings.to_markdown(index=False)
