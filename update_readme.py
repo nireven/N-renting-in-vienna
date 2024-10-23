@@ -26,5 +26,6 @@ readme_contents[start_index:] = [markdown_table + "\n"]
 
 with open('README.md', 'w') as readme_file:
     readme_file.writelines(readme_contents)
+    readme_file.flush()
 
 print("README.md updated with the 20 most recent listings.")
