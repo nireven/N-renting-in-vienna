@@ -34,7 +34,7 @@ jobs:
         run: python filter_datatset.py
 
       - name: Updating ReadMe
-        run: python filter_datatset.py
+        run: python update_readme.py
 
       - name: Commit and push changes
         run: |
