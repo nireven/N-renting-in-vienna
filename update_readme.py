@@ -54,7 +54,10 @@ channel_id = os.getenv('CHANNEL_ID')
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
 for index, row in new_listings.iterrows():
-    message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n 🔗[Link]({row['Link']})"
+    # Use raw URL for Telegram
+    raw_url = row['Link'].replace('[🔗](', '').replace(')', '')
+    
+    message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n🔗 [Link]({raw_url})"
     
     message_data = {
         'chat_id': channel_id,
@@ -64,4 +67,4 @@ for index, row in new_listings.iterrows():
     response = requests.post(telegram_url, data=message_data)
     
     if response.status_code != 200:
-        print(f"Failed to send message for listing: {row['Link']}. Response: {response.text}")
+        print(f"Failed to send message for listing: {raw_url}. Response: {response.text}")
