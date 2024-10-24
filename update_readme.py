@@ -54,7 +54,7 @@ channel_id = os.getenv('CHANNEL_ID')
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
 for index, row in new_listings.iterrows():
-    message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n [🔗]({row['Link']})"
+    message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n 🔗[Link]({row['Link']})"
     
     message_data = {
         'chat_id': channel_id,
