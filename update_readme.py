@@ -17,6 +17,7 @@ recent_listings['Location'] = recent_listings['Location'].apply(lambda x: f"{x.s
 
 recent_listings = recent_listings.rename(columns={'Rent (€)': '💰 Rent (€)', 'Size (m²)': '📏 Size (m²)', 'Rooms': '🛏️ Rooms', 'Location': '🏙️ District'})
 
+# Keep the Markdown link for the README
 recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗]({x})')
 
 current_listings = recent_listings.copy()
@@ -54,9 +55,10 @@ channel_id = os.getenv('CHANNEL_ID')
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
 for index, row in new_listings.iterrows():
-    # Use raw URL for Telegram
+    # Extract the raw URL from the Markdown link
     raw_url = row['Link'].replace('[🔗](', '').replace(')', '')
     
+    # Send the message with the raw link to Telegram (raw_url)
     message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n🔗 [Link]({raw_url})"
     
     message_data = {
