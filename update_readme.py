@@ -13,13 +13,12 @@ df['Published Date'] = pd.to_datetime(df['Published Date'])
 df = df.sort_values(by='Published Date', ascending=False)
 
 recent_listings = df.head(20)
-recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Location', 'Link']]
+recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Location', 'Link', 'Published Date']]
 
 recent_listings['Location'] = recent_listings['Location'].apply(
     lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}"
 )
 
-# Encode URLs to handle special characters like '|'
 recent_listings['Link'] = recent_listings['Link'].apply(lambda x: quote(x, safe='/:?=&%'))
 
 current_listings = recent_listings.rename(columns={
@@ -30,8 +29,8 @@ current_listings = recent_listings.rename(columns={
 })
 
 current_listings['Link'] = current_listings['Link'].apply(lambda x: f'[🔗]({x})')
+current_listings['Published Date'] = recent_listings['Published Date'].dt.strftime('%b %d, %H:%M').apply(lambda x: f'📅 {x}')
 
-# Read old README.md and extract old links
 try:
     with open('README.md', 'r') as readme_file:
         readme_contents = readme_file.read()
@@ -39,8 +38,7 @@ try:
 except FileNotFoundError:
     old_links = []
 
-# Update README.md
-markdown_table = current_listings.to_markdown(index=False)
+markdown_table = current_listings[['💰 Rent (€)', '📏 Size (m²)', '🛏️ Rooms', '🏙️ District', 'Link', 'Published Date']].to_markdown(index=False)
 
 with open('README.md', 'r') as readme_file:
     readme_contents = readme_file.read()
@@ -58,13 +56,13 @@ with open('README.md', 'w') as readme_file:
 Send new listings to Telegram channel.
 """
 
-# Extract current encoded links
 current_links = recent_listings['Link'].tolist()
 
-# Identify new listings
 new_links = [link for link in current_links if link not in old_links]
 
 new_listings = recent_listings[recent_listings['Link'].isin(new_links)]
+
+new_listings = new_listings.sort_values(by='Published Date', ascending=True)
 
 api_token = os.getenv('BOT_API_KEY')
 channel_id = os.getenv('CHANNEL_ID')
@@ -76,11 +74,13 @@ if not api_token or not channel_id:
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
 for _, row in new_listings.iterrows():
+    formatted_date = row['Published Date'].strftime('%b %d, %H:%M')
     message = (
         f"**District**: {row['Location']}\n"
         f"**Rent**: {row['Rent (€)']} €\n"
         f"**Size**: {row['Size (m²)']} m²\n"
         f"**Rooms**: {row['Rooms']} rooms\n"
+        f"**Published**: {formatted_date}\n"
         f"[Link]({row['Link']})"
     )
     message_data = {
