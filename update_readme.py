@@ -10,15 +10,16 @@ df = pd.read_csv('check_these.csv')
 df['Published Date'] = pd.to_datetime(df['Published Date'])
 df = df.sort_values(by='Published Date', ascending=False)
 
-recent_listings = df.head(20)
-recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Location', 'Link']]
+recent_listings = df.head(20)[['Rent (€)', 'Size (m²)', 'Rooms', 'Location', 'Link']]
 
-recent_listings['Location'] = recent_listings['Location'].apply(lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}")
+recent_listings['Location'] = recent_listings['Location'].apply(
+    lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}"
+)
 
 recent_listings = recent_listings.rename(columns={
-    'Rent (€)': '💰 Rent (€)', 
-    'Size (m²)': '📏 Size (m²)', 
-    'Rooms': '🛏️ Rooms', 
+    'Rent (€)': '💰 Rent (€)',
+    'Size (m²)': '📏 Size (m²)',
+    'Rooms': '🛏️ Rooms',
     'Location': '🏙️ District'
 })
 
@@ -33,7 +34,16 @@ except FileNotFoundError:
 
 recent_listings.to_csv('previous_listings.csv', index=False)
 
-new_listings = pd.concat([current_listings, previous_listings]).drop_duplicates(keep=False) if not previous_listings.empty else current_listings
+if not previous_listings.empty:
+    new_listings = current_listings.merge(
+        previous_listings,
+        how='left',
+        indicator=True
+    )
+    new_listings = new_listings[new_listings['_merge'] == 'left_only']
+    new_listings = new_listings.drop(columns=['_merge'])
+else:
+    new_listings = current_listings
 
 if not new_listings.empty:
     markdown_table = current_listings.to_markdown(index=False)
@@ -42,7 +52,11 @@ if not new_listings.empty:
         readme_contents = readme_file.readlines()
 
     start_marker = "## Recent Listings\n"
-    start_index = readme_contents.index(start_marker) + 1 if start_marker in readme_contents else len(readme_contents)
+    start_index = (
+        readme_contents.index(start_marker) + 1
+        if start_marker in readme_contents
+        else len(readme_contents)
+    )
     readme_contents[start_index:] = [markdown_table + "\n"]
 
     with open('README.md', 'w') as readme_file:
@@ -61,13 +75,13 @@ if not api_token or not channel_id:
 
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
-for index, row in new_listings.iterrows():
-    if pd.isna(row['🏙️ District']) or pd.isna(row['💰 Rent (€)']) or pd.isna(row['📏 Size (m²)']) or pd.isna(row['🛏️ Rooms']) or pd.isna(row['Link']):
+for _, row in new_listings.iterrows():
+    if row[['🏙️ District', '💰 Rent (€)', '📏 Size (m²)', '🛏️ Rooms', 'Link']].isnull().any():
         print(f"Skipping row with missing data: {row}")
         continue
-    
+
     raw_url = row['Link'].replace('[🔗](', '').replace(')', '')
-    
+
     message = (
         f"**District**: {row['🏙️ District']}\n"
         f"**Rent**: {row['💰 Rent (€)']} €\n"
@@ -75,17 +89,15 @@ for index, row in new_listings.iterrows():
         f"**Rooms**: {row['🛏️ Rooms']} rooms\n"
         f"[Link]({raw_url})"
     )
-    
+
     message_data = {
         'chat_id': channel_id,
         'text': message,
         'parse_mode': 'Markdown'
     }
-    
-    print(f"Sending message data to Telegram: {message_data}")
-    
+
     response = requests.post(telegram_url, data=message_data)
-    
+
     if response.status_code != 200:
         print(f"Failed to send message for listing: {raw_url}. Response: {response.text}")
     else:
