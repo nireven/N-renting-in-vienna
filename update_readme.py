@@ -18,7 +18,7 @@ recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Locatio
 # Adjust the Location formatting
 recent_listings['Location'] = recent_listings['Location'].apply(lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}")
 
-# Add emojis back to the column names
+# Add emojis to the column names for the Markdown table in the README
 recent_listings = recent_listings.rename(columns={
     'Rent (€)': '💰 Rent (€)', 
     'Size (m²)': '📏 Size (m²)', 
@@ -27,7 +27,7 @@ recent_listings = recent_listings.rename(columns={
 })
 
 # Format the links for the README
-recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗]({x})')
+recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗 Link]({x})')
 
 current_listings = recent_listings.copy()
 
@@ -75,33 +75,25 @@ else:
 
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
-# Function to escape MarkdownV2 special characters
-def escape_markdown(text):
-    # List of special characters in MarkdownV2
-    escape_chars = ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']
-    for char in escape_chars:
-        text = text.replace(char, f'\\{char}')
-    return text
-
 # Send each new listing to the Telegram channel
 for index, row in new_listings.iterrows():
     # Extract the raw URL from the Markdown link
     raw_url = row['Link'].replace('[🔗 Link](', '').replace(')', '')
     
-    # Prepare the message with emojis and MarkdownV2 formatting
+    # Prepare the message with bold text and clean formatting for Telegram
     message = (
-        f"🏙️ *District*: {escape_markdown(row['🏙️ District'])}\n"
-        f"💰 *Rent*: {row['💰 Rent (€)']} €\n"
-        f"📏 *Size*: {row['📏 Size (m²)']} m²\n"
-        f"🛏️ *Rooms*: {row['🛏️ Rooms']} rooms\n"
-        f"[🔗 Link]({escape_markdown(raw_url)})"
+        f"**District**: {row['🏙️ District']}\n"
+        f"**Rent**: {row['💰 Rent (€)']} €\n"
+        f"**Size**: {row['📏 Size (m²)']} m²\n"
+        f"**Rooms**: {row['🛏️ Rooms']} rooms\n"
+        f"[Link]({raw_url})"
     )
     
     # Prepare the data for the Telegram request
     message_data = {
         'chat_id': channel_id,
         'text': message,
-        'parse_mode': 'MarkdownV2'  # Use MarkdownV2 for proper escaping
+        'parse_mode': 'Markdown'  # Regular Markdown works fine here
     }
     print(f"Sending message data to Telegram: {message_data}")
     
