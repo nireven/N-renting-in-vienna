@@ -71,7 +71,7 @@ for index, row in new_listings.iterrows():
         f"💰 {row['💰 Rent (€)']} €\n"
         f"📏 {row['📏 Size (m²)']} m²\n"
         f"🛏️ {row['🛏️ Rooms']} rooms\n"
-        f"🔗 [Link]({raw_url.replace('.', '\\.').replace('-', '\\-')})"
+        f"🔗 [Link]({raw_url.replace('.', '\\\\.').replace('-', '\\\\-')})"
     )
     
     message_data = {
