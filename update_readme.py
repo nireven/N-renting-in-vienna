@@ -66,7 +66,7 @@ for index, row in new_listings.iterrows():
         print(f"Skipping row with missing data: {row}")
         continue
     
-    raw_url = row['Link'].replace('[🔗 Link](', '').replace(')', '')
+    raw_url = row['Link'].replace('[🔗](', '').replace(')', '')
     
     message = (
         f"**District**: {row['🏙️ District']}\n"
