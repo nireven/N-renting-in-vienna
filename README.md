@@ -6,6 +6,15 @@
 This repo fetches every **5 minutes** (Actually it's less than 30 minutes because github is a bit unreliable with the cron functionality) the latest apartments from [willhaben](https://www.willhaben.at/).
 It then filters the listings according to my preferences and stores them in `check_these.csv` - You can change filter settings in the `filter_dataset.py` script.
 
+```python
+filtered_df = df[(df.State == 'Wien') & 
+                 (df.Price < 800) &
+                 (df.Price > 400) &
+                 (df.Rooms > 1) &
+                 (df['Property Type'] == 'Wohnung') &
+                 (df['Published Date'] >= one_day_ago)]
+```
+
 The 20 latest listings according to my preferences are printed in this README for you conviniece! Press the link to see the listing post.
 The table is sorted by publish times in ascending order, with the closest publish time to the current time listed first.
 
