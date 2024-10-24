@@ -35,6 +35,8 @@ try:
     old_links = re.findall(r'\[🔗\]\((.*?)\)', readme_contents)
 except FileNotFoundError:
     old_links = []
+    
+print(old_links)
 
 # Update README.md
 markdown_table = current_listings.to_markdown(index=False)
