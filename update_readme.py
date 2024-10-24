@@ -65,21 +65,19 @@ for index, row in new_listings.iterrows():
     # Extract the raw URL from the Markdown link
     raw_url = row['Link'].replace('[🔗](', '').replace(')', '')
     
-    # Debugging: Print the raw URL and other message components
-    print(f"Sending message for listing:\n"
-          f"🏙️ District: {row['🏙️ District']}\n"
-          f"💰 Rent: {row['💰 Rent (€)']} €\n"
-          f"📏 Size: {row['📏 Size (m²)']} m²\n"
-          f"🛏️ Rooms: {row['🛏️ Rooms']}\n"
-          f"Link: {raw_url}")
-    
-    # Send the message with the raw link to Telegram (raw_url)
-    message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n🔗 [Link]({raw_url})"
+    # Use MarkdownV2 and escape special characters
+    message = (
+        f"🏙️ {row['🏙️ District']}\n"
+        f"💰 {row['💰 Rent (€)']} €\n"
+        f"📏 {row['📏 Size (m²)']} m²\n"
+        f"🛏️ {row['🛏️ Rooms']} rooms\n"
+        f"🔗 [Link]({raw_url.replace('.', '\\.').replace('-', '\\-')})"
+    )
     
     message_data = {
         'chat_id': channel_id,
         'text': message,
-        'parse_mode': 'Markdown'
+        'parse_mode': 'MarkdownV2'  # Use MarkdownV2 for better escaping
     }
     
     # Debugging: Print the message data being sent to Telegram
