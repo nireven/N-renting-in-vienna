@@ -1,44 +1,80 @@
 import pandas as pd
 import os
 import requests
+import re
 
 """
 Update README.md with the 20 most recent listings.
 """
 
+# Read and sort the data
 df = pd.read_csv('check_these.csv')
 df['Published Date'] = pd.to_datetime(df['Published Date'])
 df = df.sort_values(by='Published Date', ascending=False)
 
-current_listings = df.head(20).copy()
+# Select the top 20 listings
+recent_listings = df.head(20)
+recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Location', 'Link']]
 
-try:
-    previous_listings = pd.read_csv('previous_listings.csv')
-except FileNotFoundError:
-    previous_listings = pd.DataFrame()
-
-if not previous_listings.empty:
-    new_listings = current_listings[~current_listings['Link'].isin(previous_listings['Link'])]
-else:
-    new_listings = current_listings.copy()
-
-current_listings.to_csv('previous_listings.csv', index=False)
-
-current_listings['Location'] = current_listings['Location'].apply(
+# Transform 'Location' column
+recent_listings['Location'] = recent_listings['Location'].apply(
     lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}"
 )
 
-current_listings = current_listings.rename(columns={
+# Apply transformations for display
+recent_listings = recent_listings.rename(columns={
     'Rent (€)': '💰 Rent (€)',
     'Size (m²)': '📏 Size (m²)',
     'Rooms': '🛏️ Rooms',
     'Location': '🏙️ District'
 })
 
-current_listings['Link'] = current_listings['Link'].apply(lambda x: f'[🔗]({x})')
+recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗]({x})')
 
-current_listings = current_listings[['💰 Rent (€)', '📏 Size (m²)', '🛏️ Rooms', '🏙️ District', 'Link']]
+current_listings = recent_listings.copy()
 
+# Read the old README.md and extract existing listings
+try:
+    with open('README.md', 'r') as readme_file:
+        readme_contents = readme_file.read()
+    # Extract the markdown table from README.md
+    table_pattern = r'\|.*\|\n(\|.*\|\n)+'
+    match = re.search(table_pattern, readme_contents)
+    if match:
+        table_text = match.group(0)
+        old_listings = pd.read_csv(pd.compat.StringIO(table_text), sep='|', engine='python')
+        # Clean up DataFrame (remove empty columns and rows)
+        old_listings = old_listings.dropna(axis=1, how='all')
+        old_listings = old_listings.dropna(axis=0, how='all')
+        # Remove leading and trailing whitespace from column names
+        old_listings.columns = [col.strip() for col in old_listings.columns]
+        # Remove unnecessary index column if present
+        if '' in old_listings.columns:
+            old_listings = old_listings.drop(columns=[''])
+        # Remove leading and trailing whitespace from data
+        for col in old_listings.columns:
+            old_listings[col] = old_listings[col].str.strip()
+        # Remove the header separator row (the second row)
+        old_listings = old_listings.iloc[1:].reset_index(drop=True)
+    else:
+        old_listings = pd.DataFrame()
+except FileNotFoundError:
+    old_listings = pd.DataFrame()
+
+# Identify new listings by comparing 'Link' columns
+if not old_listings.empty:
+    # Extract the raw link from the markdown link
+    old_listings['Link'] = old_listings['Link'].apply(lambda x: re.search(r'\((.*?)\)', x).group(1))
+    current_listings_raw = current_listings.copy()
+    current_listings_raw['Link'] = current_listings_raw['Link'].apply(lambda x: re.search(r'\((.*?)\)', x).group(1))
+    new_listings = current_listings_raw[~current_listings_raw['Link'].isin(old_listings['Link'])]
+else:
+    # If no old listings, all current listings are new
+    current_listings_raw = current_listings.copy()
+    current_listings_raw['Link'] = current_listings_raw['Link'].apply(lambda x: re.search(r'\((.*?)\)', x).group(1))
+    new_listings = current_listings_raw.copy()
+
+# Update README.md
 markdown_table = current_listings.to_markdown(index=False)
 
 with open('README.md', 'r') as readme_file:
@@ -68,12 +104,13 @@ if not api_token or not channel_id:
 
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
+# Send new listings to Telegram
 for _, row in new_listings.iterrows():
     message = (
-        f"**District**: {row['Location']}\n"
-        f"**Rent**: {row['Rent (€)']} €\n"
-        f"**Size**: {row['Size (m²)']} m²\n"
-        f"**Rooms**: {row['Rooms']} rooms\n"
+        f"**District**: {row['🏙️ District']}\n"
+        f"**Rent**: {row['💰 Rent (€)']} €\n"
+        f"**Size**: {row['📏 Size (m²)']} m²\n"
+        f"**Rooms**: {row['🛏️ Rooms']} rooms\n"
         f"[Link]({row['Link']})"
     )
     message_data = {
@@ -81,10 +118,4 @@ for _, row in new_listings.iterrows():
         'text': message,
         'parse_mode': 'Markdown'
     }
-
     response = requests.post(telegram_url, data=message_data)
-
-    if response.status_code != 200:
-        print(f"Failed to send message for listing: {row['Link']}. Response: {response.text}")
-    else:
-        print(f"Message sent successfully for listing: {row['Link']}")
