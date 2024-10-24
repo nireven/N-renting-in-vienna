@@ -15,7 +15,9 @@ recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Locatio
 
 recent_listings['Location'] = recent_listings['Location'].apply(lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}")
 
-recent_listings = recent_listings.rename(columns={'Rent (€)': '💰 Rent (€)', '📏 Size (m²)': '📏 Size (m²)', '🛏️ Rooms': '🛏️ Rooms', '🏙️ District': '🏙️ District'})
+recent_listings = recent_listings.rename(columns={'Rent (€)': '💰 Rent (€)', 'Size (m²)': '📏 Size (m²)', 'Rooms': '🛏️ Rooms', 'Location': '🏙️ District'})
+
+recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗]({x})')
 
 current_listings = recent_listings.copy()
 
@@ -52,7 +54,7 @@ channel_id = os.getenv('CHANNEL_ID')
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
 for index, row in new_listings.iterrows():
-    message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n🔗 [Link to listing]({row['Link']})"
+    message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n [🔗]({row['Link']})"
     
     message_data = {
         'chat_id': channel_id,
