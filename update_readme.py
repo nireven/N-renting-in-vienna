@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import requests
 import re
+from urllib.parse import quote
 
 """
 Update README.md with the 20 most recent listings.
@@ -18,6 +19,9 @@ recent_listings['Location'] = recent_listings['Location'].apply(
     lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}"
 )
 
+# Encode URLs to handle special characters like '|'
+recent_listings['Link'] = recent_listings['Link'].apply(lambda x: quote(x, safe='/:?=&%'))
+
 current_listings = recent_listings.rename(columns={
     'Rent (€)': '💰 Rent (€)',
     'Size (m²)': '📏 Size (m²)',
@@ -31,12 +35,9 @@ current_listings['Link'] = current_listings['Link'].apply(lambda x: f'[🔗]({x}
 try:
     with open('README.md', 'r') as readme_file:
         readme_contents = readme_file.read()
-    # Extract all links from the old README.md
     old_links = re.findall(r'\[🔗\]\((.*?)\)', readme_contents)
 except FileNotFoundError:
     old_links = []
-    
-print(old_links)
 
 # Update README.md
 markdown_table = current_listings.to_markdown(index=False)
@@ -57,7 +58,7 @@ with open('README.md', 'w') as readme_file:
 Send new listings to Telegram channel.
 """
 
-# Extract current raw links
+# Extract current encoded links
 current_links = recent_listings['Link'].tolist()
 
 # Identify new listings
