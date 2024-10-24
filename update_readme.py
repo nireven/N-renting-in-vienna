@@ -22,7 +22,7 @@ recent_listings = recent_listings.rename(columns={
     'Location': '🏙️ District'
 })
 
-recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗 Link]({x})')
+recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗]({x})')
 
 current_listings = recent_listings.copy()
 
