@@ -34,6 +34,9 @@ jobs:
         run: python filter_datatset.py
 
       - name: Updating ReadMe
+        env:
+          BOT_API_KEY: ${{ secrets.BOT_API_KEY }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
         run: python update_readme.py
 
       - name: Commit and push changes
