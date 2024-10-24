@@ -15,10 +15,10 @@ recent_listings = recent_listings[['Rent (€)', 'Size (m²)', 'Rooms', 'Locatio
 
 recent_listings['Location'] = recent_listings['Location'].apply(lambda x: f"{x.split(',')[1].split('.')[0]}. {x.split(',')[-1].strip()}")
 
-recent_listings = recent_listings.rename(columns={'Rent (€)': '💰 Rent (€)', 'Size (m²)': '📏 Size (m²)', 'Rooms': '🛏️ Rooms', 'Location': '🏙️ District'})
+recent_listings = recent_listings.rename(columns={'Rent (€)': 'Rent (€)', 'Size (m²)': 'Size (m²)', 'Rooms': 'Rooms', 'Location': 'District'})
 
 # Keep the Markdown link for the README
-recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[🔗]({x})')
+recent_listings['Link'] = recent_listings['Link'].apply(lambda x: f'[Link]({x})')
 
 current_listings = recent_listings.copy()
 
@@ -63,24 +63,21 @@ telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
 for index, row in new_listings.iterrows():
     # Extract the raw URL from the Markdown link
-    raw_url = row['Link'].replace('[🔗](', '').replace(')', '')
+    raw_url = row['Link'].replace('[Link](', '').replace(')', '')
     
-    # Use MarkdownV2 and escape special characters
     message = (
-        f"🏙️ {row['🏙️ District']}\n"
-        f"💰 {row['💰 Rent (€)']} €\n"
-        f"📏 {row['📏 Size (m²)']} m²\n"
-        f"🛏️ {row['🛏️ Rooms']} rooms\n"
-        f"🔗 [Link]({raw_url.replace('.', '\\\\.').replace('-', '\\\\-')})"
+        f"District: {row['District']}\n"
+        f"Rent: {row['Rent (€)']} €\n"
+        f"Size: {row['Size (m²)']} m²\n"
+        f"Rooms: {row['Rooms']} rooms\n"
+        f"Link: {raw_url}"
     )
     
     message_data = {
         'chat_id': channel_id,
         'text': message,
-        'parse_mode': 'MarkdownV2'  # Use MarkdownV2 for better escaping
+        'parse_mode': 'Markdown'
     }
-    
-    # Debugging: Print the message data being sent to Telegram
     print(f"Sending message data to Telegram: {message_data}")
     
     response = requests.post(telegram_url, data=message_data)
