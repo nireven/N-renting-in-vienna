@@ -52,11 +52,26 @@ Send new listings to Telegram channel.
 api_token = os.getenv('BOT_API_KEY')
 channel_id = os.getenv('CHANNEL_ID')
 
+# Debugging: Check if API keys are loaded correctly
+if not api_token or not channel_id:
+    print("ERROR: API token or channel ID not found!")
+else:
+    print(f"API Token: {api_token[:5]}**** (truncated for security)")
+    print(f"Channel ID: {channel_id}")
+
 telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 
 for index, row in new_listings.iterrows():
     # Extract the raw URL from the Markdown link
     raw_url = row['Link'].replace('[🔗](', '').replace(')', '')
+    
+    # Debugging: Print the raw URL and other message components
+    print(f"Sending message for listing:\n"
+          f"🏙️ District: {row['🏙️ District']}\n"
+          f"💰 Rent: {row['💰 Rent (€)']} €\n"
+          f"📏 Size: {row['📏 Size (m²)']} m²\n"
+          f"🛏️ Rooms: {row['🛏️ Rooms']}\n"
+          f"Link: {raw_url}")
     
     # Send the message with the raw link to Telegram (raw_url)
     message = f"🏙️ {row['🏙️ District']}\n💰 {row['💰 Rent (€)']} €\n📏 {row['📏 Size (m²)']} m²\n🛏️ {row['🛏️ Rooms']} rooms\n🔗 [Link]({raw_url})"
@@ -66,7 +81,13 @@ for index, row in new_listings.iterrows():
         'text': message,
         'parse_mode': 'Markdown'
     }
+    
+    # Debugging: Print the message data being sent to Telegram
+    print(f"Sending message data to Telegram: {message_data}")
+    
     response = requests.post(telegram_url, data=message_data)
     
     if response.status_code != 200:
         print(f"Failed to send message for listing: {raw_url}. Response: {response.text}")
+    else:
+        print(f"Message sent successfully for listing: {raw_url}")
