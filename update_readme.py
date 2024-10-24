@@ -25,11 +25,13 @@ current_listings = recent_listings.rename(columns={
     'Rent (€)': '💰 Rent (€)',
     'Size (m²)': '📏 Size (m²)',
     'Rooms': '🛏️ Rooms',
-    'Location': '🏙️ District'
+    'Location': '🏙️ District',
+    'Published Date': '📅 Published Date'  # Add the calendar emoji to the header
 })
 
+# Format the 'Published Date' as 'Oct 24, 14:05'
 current_listings['Link'] = current_listings['Link'].apply(lambda x: f'[🔗]({x})')
-current_listings['Published Date'] = recent_listings['Published Date'].dt.strftime('%b %d, %H:%M').apply(lambda x: f'📅 {x}')
+current_listings['📅 Published Date'] = recent_listings['Published Date'].dt.strftime('%b %d, %H:%M')
 
 try:
     with open('README.md', 'r') as readme_file:
@@ -38,7 +40,7 @@ try:
 except FileNotFoundError:
     old_links = []
 
-markdown_table = current_listings[['💰 Rent (€)', '📏 Size (m²)', '🛏️ Rooms', '🏙️ District', 'Link', 'Published Date']].to_markdown(index=False)
+markdown_table = current_listings[['💰 Rent (€)', '📏 Size (m²)', '🛏️ Rooms', '🏙️ District', 'Link', '📅 Published Date']].to_markdown(index=False)
 
 with open('README.md', 'r') as readme_file:
     readme_contents = readme_file.read()
