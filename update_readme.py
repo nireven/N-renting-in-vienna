@@ -3,9 +3,13 @@ import os
 import requests
 import re
 from urllib.parse import quote
+from datetime import datetime
 
 """
 Update README.md with the 20 most recent listings.
+
+1. Format the listings by adjusting the 'Location' and encoding the URLs to handle special characters (see issue #1)
+2. Update the README.md
 """
 
 df = pd.read_csv('check_these.csv')
@@ -29,7 +33,6 @@ current_listings = recent_listings.rename(columns={
     'Published Date': '📅 Published Date'  # Add the calendar emoji to the header
 })
 
-# Format the 'Published Date' as 'Oct 24, 14:05'
 current_listings['Link'] = current_listings['Link'].apply(lambda x: f'[🔗]({x})')
 current_listings['📅 Published Date'] = recent_listings['Published Date'].dt.strftime('%b %d, %H:%M')
 
@@ -56,13 +59,29 @@ with open('README.md', 'w') as readme_file:
 
 """
 Send new listings to Telegram channel.
+
+1. Identify 'new listings' by finding links that are in the new markdown but not in the old markdown.
+2. Extract the 'old listings' from the previous markdown (those that are no longer in the top 20).
+3. Find the most recent 'Published Date' from the 'old listings'.
+4. Filter the 'new listings' to include only those more recent than the most recent 'old listing'. - because really nice deals have short lifespans
+5. Sort the filtered listings by 'Published Date' in ascending order and send these to the Telegram channel.
 """
 
 current_links = recent_listings['Link'].tolist()
 
 new_links = [link for link in current_links if link not in old_links]
 
-new_listings = recent_listings[recent_listings['Link'].isin(new_links)]
+old_listings = recent_listings[recent_listings['Link'].isin(old_links)]
+
+if not old_listings.empty:
+    max_old_published_date = old_listings['Published Date'].max()
+else:
+    max_old_published_date = datetime.min  # If no old listings, assume no previous entries
+
+new_listings = recent_listings[
+    (recent_listings['Link'].isin(new_links)) & 
+    (recent_listings['Published Date'] > max_old_published_date)
+]
 
 new_listings = new_listings.sort_values(by='Published Date', ascending=True)
 
@@ -91,3 +110,6 @@ for _, row in new_listings.iterrows():
         'parse_mode': 'Markdown'
     }
     response = requests.post(telegram_url, data=message_data)
+
+    if response.status_code != 200:
+        print(f"Failed to send message for listing: {row['Link']}. Response: {response.text}")
