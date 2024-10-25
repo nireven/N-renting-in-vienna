@@ -97,17 +97,17 @@ telegram_url = f'https://api.telegram.org/bot{api_token}/sendMessage'
 for _, row in new_listings.iterrows():
     formatted_date = row['Published Date'].strftime('%b %d, %H:%M')
     message = (
-        f"**District**: {row['Location']}\n"
-        f"**Rent**: {row['Rent (€)']} €\n"
-        f"**Size**: {row['Size (m²)']} m²\n"
-        f"**Rooms**: {row['Rooms']} rooms\n"
-        f"**Published**: {formatted_date}\n"
-        f"[Link]({row['Link']})"
+        f"🗓 <b>Published</b>: {formatted_date}\n\n"
+        f"🏙 <b>District</b>: {row['Location']}\n"
+        f"💰 <b>Rent</b>: {row['Rent (€)']} €\n"
+        f"📏 <b>Size</b>: {row['Size (m²)']} m²\n"
+        f"🛏 <b>Rooms</b>: {row['Rooms']} rooms\n"
+        f"<a href='{row['Link']}'>🔗 Link</a>"
     )
     message_data = {
         'chat_id': channel_id,
         'text': message,
-        'parse_mode': 'Markdown'
+        'parse_mode': 'HTML'
     }
     response = requests.post(telegram_url, data=message_data)
 
