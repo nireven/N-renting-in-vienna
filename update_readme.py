@@ -48,7 +48,7 @@ markdown_table = current_listings[['💰 Rent (€)', '📏 Size (m²)', '🛏�
 with open('README.md', 'r') as readme_file:
     readme_contents = readme_file.read()
 
-start_marker = "## Recent Listings\n"
+start_marker = "## Recent Active Listings\n"
 if start_marker in readme_contents:
     before_table = readme_contents.split(start_marker)[0] + start_marker
 else:
