@@ -1,6 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-1081914581,Modernes Wohnen in Wien - 2-Zimmer Wohnung (PROVISIONSFREI),"Wien, 13. Bezirk, Hietzing",1130,819.86,2,50,Wien,Wien,1.0,8,Wohnung,2024-10-24T16:36:00Z,819.86,Hietzinger Kai 125
-901486560,"3 Zi mit Altbauflair im 19. Bezirk, perfekte Anbindung mit der Straßenbahn D sowie U4 Heiligenstadt","Wien, 19. Bezirk, Döbling",1190,1870,3,85,Wien,Wien,1.0,2,Wohnung,2024-10-24T16:32:00Z,1870.0,Greinergasse 6
 1912402688,Obkirchergasse - helle Wohnung im 4. Stockwerk - PRIVAT,"Wien, 19. Bezirk, Döbling",1190,1190,3,67,Wien,Wien,1.0,4,Wohnung,2024-10-24T16:30:00Z,1190.0,Obkirchergasse 1
 992736999,ARNETHGASSE attraktive Garconniere in Ottakring,"Wien, 16. Bezirk, Ottakring",1160,550,1,30,Wien,Wien,0.0,N/A,Wohnung,2024-10-24T16:27:00Z,550.0,N/A
 1339578003,"3 Zi mit Altbauflair im 19. Bezirk, perfekte Anbindung mit der Straßenbahn D sowie U4 Heiligenstadt","Wien, 19. Bezirk, Döbling",1190,1870,3,89,Wien,Wien,1.0,1,Wohnung,2024-10-24T16:27:00Z,1870.0,Greinergasse 6
@@ -337,12 +335,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1291331742,"PROVISIONSFREI: 2 Zimmer Wohnung, Balkon, Grün- und Ruhelage","Wien, 16. Bezirk, Ottakring",1160,840,2,55,Wien,Wien,1.0,2,Wohnung,2024-10-23T22:14:00Z,840.0,Baumeistergasse 76
 2036814320,"2 Zi Wohnung in Wien West, 15. Bezirk Nähe Westbahnhof U3. In 13 Minuten in die Wiener Innenstadt","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1250,2,38,Wien,Wien,1.0,4,Wohnung,2024-10-23T21:52:00Z,1250.0,Sturzgasse 45
 1013530668,"2 ZI-WOHNUNG IN WIEN - 13. BEZIRK - HIETZING, MÖBLIERT, AUF ZEIT","Wien, 13. Bezirk, Hietzing",1130,1722,2,70,Wien,Wien,0.0,2,Wohnung,2024-10-23T21:46:00Z,1722.0,N/A
-782617572,(reserviert) Erstbezug in heller sanierter Altbauwohnung,"Wien, 16. Bezirk, Ottakring",1160,790,3,56,Wien,Wien,1.0,3,Wohnung,2024-10-23T21:44:00Z,790.0,Redtenbachergasse
-1618541808,Wohnen in Floridsdorf - 2-Zimmer-Wohnung Nähe Shopping City Nord & Klink Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,899.98,2,56,Wien,Wien,1.0,4,Wohnung,2024-10-23T21:38:00Z,899.98,Siemensstraße
-1761031337,3 Zi-Wohnung in der Tivoligasse- Unbefristet,"Wien, 12. Bezirk, Meidling",1120,1100.52,3,83,Wien,Wien,1.0,2,Wohnung,2024-10-23T21:38:00Z,1100.52,N/A
-1517790674,GESUCHT ! GEFUNDEN ! GEMIETET !!,"Wien, 07. Bezirk, Neubau",1070,1070,2,45,Wien,Wien,1.0,2,Wohnung,2024-10-23T21:35:00Z,1070.0,Lindengasse
-1444138833,K3 - Wir helfen als Immobilienmakler auch bei der Übersiedlung von/nach A - CH - D - DK - N - GB - IR,"Wien, 01. Bezirk, Innere Stadt",1010,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2024-10-23T21:35:00Z,N/A,N/A
-2032543183,"Vollmöblierte, sehr helle 2-Zimmer-Wohnung mit Terrasse und Garten in Ruhelage","Wien, 17. Bezirk, Hernals",1170,996.82,2,60,Wien,Wien,1.0,0,Wohnung,2024-10-23T21:34:00Z,996.82,Comeniusgasse
 1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.0,N/A,N/A,2024-10-23T13:27:00Z,N/A,N/A
 718841843,Mietwohnungen mit Kaufoption - Wohnen in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,690,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-23T08:34:00Z,N/A,Edi-Finger-Straße
 997458491,Schill 16,"Wien, 21. Bezirk, Floridsdorf",1210,590.01,0,N/A,Wien,Wien,0.0,N/A,N/A,2024-10-23T07:58:00Z,N/A,N/A
@@ -358,7 +350,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,830,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-19T04:23:00Z,N/A,Wagramer Straße
 1547927887,ina - Wohnanlage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,640.88,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-17T17:04:00Z,N/A,Rosa-Jochmann-Ring 12-16 / Leberweg 11
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-14T19:31:00Z,N/A,Kelsenstraße 5
-1284449205,Charmante 2-Zimmer-Wohnung im 16. Bezirk - perfekte Lage am Stillfriedplatz!,"Wien, 16. Bezirk, Ottakring",1160,430.16,2,37,Wien,Wien,1.0,N/A,Wohnung,2024-10-25T11:01:00Z,430.16,Stillfriedplatz 7
 1014661166,Moderne Neubauwohnungen nahe U1 Kagraner Platz - Aufstrebendes Wohnviertel. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,869.78,2,45,Wien,Wien,1.0,5,Wohnung,2024-10-25T10:58:00Z,869.78,Bertha-von-Suttner-Gasse 10a-12a
 879052555,BELVIEW - HIER WIRD WOHNEN NEU DEFINIERT! - MIT TRAUM-AUSSICHTEN AUF DIE GESAMTE CITY!,"Wien, 10. Bezirk, Favoriten",1100,1285.3,2,52,Wien,Wien,1.0,13,Wohnung,2024-10-25T10:58:00Z,1285.3,Canettistraße 1
 1922179677,Traumhafte Erstbezugswohnungen bei der U3 Kendlerstraße,"Wien, 16. Bezirk, Ottakring",1160,749,1,31,Wien,Wien,1.0,5,Wohnung,2024-10-25T10:58:00Z,749.0,Huttengasse 39-41
@@ -469,7 +460,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1211475129,Nette-2-Zimmer-Wohnung,"Wien, 19. Bezirk, Döbling",1190,816.46,2,47,Wien,Wien,1.0,N/A,Wohnung,2024-10-25T06:48:00Z,816.46,Aslangasse 14
 1734384126,"94m² Luxuswohnung mit 36m²Terrasse; am Wilhelminenberg; Blick ins Grüne, Ruhelage, Garten, Pool, Sauna, Garage","Wien, 16. Bezirk, Ottakring",1160,1700,3,94,Wien,Wien,0.96,1,Wohnung,2024-10-25T06:17:00Z,1700.0,Starkenburggasse
 1951948862,Attraktives Appartement mit West-Loggia in bester Hietzinger Lage - Garagenplatz,"Wien, 13. Bezirk, Hietzing",1130,1292.42,2,65,Wien,Wien,1.0,2,Wohnung,2024-10-25T06:09:00Z,1292.42,N/A
-1653472273,Altbauwohnung - Nähe Hauptbahnhof - unbefristet - 2 Zimmer,"Wien, 05. Bezirk, Margareten",1050,818.93,2,55,Wien,Wien,1.0,2,Wohnung,2024-10-25T03:39:00Z,818.93,N/A
 1860666173,"Dachgeschosswohnung (225 m²) + Dachterrasse (54 m²) in der Albertgasse 6, 1080 Wien","Wien, 08. Bezirk, Josefstadt",1080,3990,5,226,Wien,Wien,1.0,3,Wohnung,2024-10-25T03:26:00Z,3990.0,Albertgasse 6
 948847072,Wohnung mit Balkon - perfekt für Pärchen geeignet - Donaustadt,"Wien, 22. Bezirk, Donaustadt",1220,856.54,2,43,Wien,Wien,1.0,5,Wohnung,2024-10-25T03:26:00Z,856.54,Miriam-Makeba-Gasse
 1270828211,HOCHWERTIG UND KLIMATISIERT MIT GROSSER LOGGIA,"Wien, 20. Bezirk, Brigittenau",1200,1634.28,3,80,Wien,Wien,0.0,7,Wohnung,2024-10-25T02:32:00Z,1634.28,N/A
@@ -558,6 +548,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1272217340,DC Musicflats - Wohnen an der Neuen Donau - Top 13/04,"Wien, 22. Bezirk, Donaustadt",1220,950,2,39,Wien,Wien,N/A,1,Wohnung,2024-10-24T16:36:00Z,950.0,Donau-City-Straße 13-13A
 947082032,DC Musicflats - Wohnen an der Neuen Donau - Top 13/10,"Wien, 22. Bezirk, Donaustadt",1220,840,2,31,Wien,Wien,N/A,1,Wohnung,2024-10-24T16:36:00Z,840.0,Donau-City-Straße 13-13A
 1260562056,Hofseitige 2-Zimmer-Wohnung mit Balkon in Ottakring! Nähe Wilhelminenberg,"Wien, 16. Bezirk, Ottakring",1160,1074.45,2,46,Wien,Wien,1.0,1,Wohnung,2024-10-24T16:36:00Z,1074.45,Römergasse
+1081914581,Modernes Wohnen in Wien - 2-Zimmer Wohnung (PROVISIONSFREI),"Wien, 13. Bezirk, Hietzing",1130,819.86,2,50,Wien,Wien,1.0,8,Wohnung,2024-10-24T16:36:00Z,819.86,Hietzinger Kai 125
+901486560,"3 Zi mit Altbauflair im 19. Bezirk, perfekte Anbindung mit der Straßenbahn D sowie U4 Heiligenstadt","Wien, 19. Bezirk, Döbling",1190,1870,3,85,Wien,Wien,1.0,2,Wohnung,2024-10-24T16:32:00Z,1870.0,Greinergasse 6
 1018390653,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 1-Zimmer ERSTBEZUG mit Balkon! Provisionsfrei,"Wien, 12. Bezirk, Meidling",1120,1076.23,1,47,Wien,Wien,1.0,4,Wohnung,2024-10-25T14:24:00Z,1076.23,N/A
 2057334412,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 2-Zimmer ERSTBEZUG mit TERRASSE! Provisionsfrei!,"Wien, 12. Bezirk, Meidling",1120,1520.32,2,54,Wien,Wien,1.0,N/A,Wohnung,2024-10-25T14:24:00Z,1520.32,N/A
 1851665016,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 2-Zimmer Dachgeschoss-ERSTBEZUG mit Terrasse! Provisionsfrei,"Wien, 12. Bezirk, Meidling",1120,1605.36,2,61,Wien,Wien,1.0,N/A,Wohnung,2024-10-25T14:24:00Z,1605.36,N/A
