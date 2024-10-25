@@ -18,6 +18,8 @@ filtered_df = df[(df.State == 'Wien') &
 The 20 latest listings according to my preferences are printed in this README for you conviniece! Press the link to see the listing post.
 The table is sorted by publish times in ascending order, with the closest publish time to the current time listed first.
 
+If you want to get notifications in real time for when new apartments pop up, you can join the telegram channel synced to this repo [here](https://t.me/+1HPAYOf5BSsyNTlk).
+
 ## Recent Listings
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District              | Link                                                                                                                                                                                                                                                                       | 📅 Published Date   |
