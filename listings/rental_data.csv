@@ -1,4 +1,12 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1929551435,Penzing Apartments Urban Living - Innovativ. Nachhaltig. Attraktiv,"Wien, 14. Bezirk, Penzing",1140,685,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-18T11:36:00Z,N/A,Linzer Straße 104
+1547927887,ina - Wohnanlage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,640.88,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-17T17:04:00Z,N/A,Rosa-Jochmann-Ring 12-16 / Leberweg 11
+1268258243,"Donaumarina, Bestlage Donau & Innenstadt, direkt an der U-Bahn, 1 Zimmer mit Fitness, Sauna, etc.","Wien, 02. Bezirk, Leopoldstadt",1020,1620,2,55,Wien,Wien,1.0,7,Wohnung,2024-10-28T20:48:00Z,1620.0,Wehlistraße 330/stiege 3
+1844931161,Großzügige Altbauwohnung nahe Schönbrunn,"Wien, 12. Bezirk, Meidling",1120,2110,4,146,Wien,Wien,0.0,1. Etage,Wohnung,2024-10-28T20:44:00Z,2110.0,N/A
+1610489919,Neuer Parkettboden! Extra Raum mit Fenster für Küche (ohne Möblierung und Geräte) | U6 Dresdner Straße,"Wien, 20. Bezirk, Brigittenau",1200,825,2,54,Wien,Wien,1.0,1,Wohnung,2024-10-28T20:39:00Z,825.0,Leithastraße 21
+1212445294,Grün soweit das Auge reicht! Modern Wohnen in Süßenbrunner Ruhelage mit S-Bahn S1 in Gehweite und großer Terrasse! Luftwärmepumpe!,"Wien, 22. Bezirk, Donaustadt",1220,1299,4,74,Wien,Wien,1.0,N/A,Wohnung,2024-10-28T20:39:00Z,1299.0,Larischgasse 2
+1565144042,"Top Saniert Erstbezug, Stilaltbau wenige Schritte zum Rathaus, Volksgarten & 1. Bezirk, 140m2 + Büro","Wien, 08. Bezirk, Josefstadt",1080,3680,4,140,Wien,Wien,1.0,3,Wohnung,2024-10-28T20:38:00Z,3680.0,Josefstädter Str. 5
+1887855958,Grün soweit das Auge reicht! Modern Wohnen in Süßenbrunner Ruhelage mit S-Bahn S1 in Gehweite und großer Terrasse! Luftwärmepumpe!,"Wien, 22. Bezirk, Donaustadt",1220,1299,3,74,Wien,Wien,1.0,N/A,Wohnung,2024-10-28T20:38:00Z,1299.0,Larischgasse 2
 2030915307,4 Zimmer Wohnung mit 2 Bädern und 2 WC,"Wien, 10. Bezirk, Favoriten",1100,1479,4,100,Wien,Wien,0.92,4,Wohnung,2024-10-28T20:36:00Z,1479.0,Inzersdorfer Straße
 1072025704,** EXKLUSIVE STADTWOHNUNG AM TIEFEN GRABEN - 1010 WIEN **,"Wien, 01. Bezirk, Innere Stadt",1010,1790,2,45,Wien,Wien,1.0,N/A,Wohnung,2024-10-28T20:33:00Z,1790.0,N/A
 1644880784,Provisionsfrei: Schöner 93m² Stilaltbau mit Einbauküche und Balkon in Toplage - 1060 Wien,"Wien, 06. Bezirk, Mariahilf",1060,1410.77,2,93,Wien,Wien,1.0,1,Wohnung,2024-10-28T20:33:00Z,1410.77,N/A
@@ -122,7 +130,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1422625920,HELLE BALKON-WOHNUNG NÄHE U4 UND LAINZER TIERGARTEN!,"Wien, 13. Bezirk, Hietzing",1130,1108.05,2,54,Wien,Wien,0.0,1,Wohnung,2024-10-28T16:24:00Z,1108.05,N/A
 2125329284,"Helle Wohnung - U3 Reinlgasse, mit hochwertiger Ausstattung, ab SOFORT","Wien, 14. Bezirk, Penzing",1140,896.61,2,45,Wien,Wien,N/A,1,Wohnung,2024-10-28T16:24:00Z,896.61,N/A
 1902826457,"Gellertplatz, ruhige Erdgeschoßwohung mit kleinem Garten","Wien, 10. Bezirk, Favoriten",1100,653,1,59,Wien,Wien,1.0,N/A,Wohnung,2024-10-28T16:22:00Z,653.0,Gellertplatz 5
-1257364456,Helle 2 - Zimmer Wohnung mit Loggia Nähe Theresianum,"Wien, 04. Bezirk, Wieden",1040,1095,2,68,Wien,Wien,1.0,5,Wohnung,2024-10-28T16:17:00Z,1095.0,N/A
 1676737842,Helle und ruhige Zweizimmerwohnung mit Loggia,"Wien, 19. Bezirk, Döbling",1190,1039.31,2,54,Wien,Wien,1.0,4,Wohnung,2024-10-28T16:17:00Z,1039.31,N/A
 1703148319,Dachgeschoss-Maisonette mit Terrasse im Herzen von Wien zu vermieten,"Wien, 01. Bezirk, Innere Stadt",1010,2459.68,0,135,Wien,Wien,1.0,4,Wohnung,2024-10-28T16:17:00Z,2459.68,Riemergasse 11
 1588786523,Gemütliche 2-Zimmer-Wohnung in Ruhelage! Kurzzeitvermietung!,"Wien, 12. Bezirk, Meidling",1120,920,2,49,Wien,Wien,1.0,1,Wohnung,2024-10-28T16:16:00Z,920.0,Pachmüllergasse 18
@@ -580,8 +587,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2056076417,Charmante 3-Zimmer-Wohnung mit zwei Balkonen in ruhiger Lage in Simmering zu vermieten,"Wien, 11. Bezirk, Simmering",1110,1290,3,86,Wien,Wien,1.0,2,Wohnung,2024-10-26T21:34:00Z,1290.0,Rappachgasse 47
 1430281418,"LEO 131 - Neubau mit großem Balkon und Abstellraum! Nahe Siemens, Siemensstraße und Teresa-Tauscher-Park","Wien, 21. Bezirk, Floridsdorf",1210,937.6,2,52,Wien,Wien,1.0,4,Wohnung,2024-10-26T21:32:00Z,937.6,Leopoldauer Straße 131
 1596963444,"LEO 131 - tolle Neubauwohnung mit Abstellraum und sonnigem Balkon! Nahe Siemens, Siemensstraße Bahnhof und Teresa-Tauscher-Park","Wien, 21. Bezirk, Floridsdorf",1210,812.53,2,45,Wien,Wien,1.0,3,Wohnung,2024-10-26T21:32:00Z,812.53,Leopoldauer Straße 131
-2005568110,"Traumhaft sanierter Stilaltbau, Erstbezug, Himmelpfortstiege, Bestlage + U4/ U6, geräumige 3 Zimmer","Wien, 09. Bezirk, Alsergrund",1090,2420,3,90,Wien,Wien,1.0,1,Wohnung,2024-10-26T20:42:00Z,2420.0,Himmelpfortstiege 1
-1451008645,Neuwertige 2 Zimmerwohnung/ klimatisiert/ gute Lage im 22. Bezirk,"Wien, 22. Bezirk, Donaustadt",1220,780,2,48,Wien,Wien,1.0,2,Wohnung,2024-10-26T20:39:00Z,780.0,N/A
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,830,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-26T04:23:00Z,N/A,Wagramer Straße
 1743712489,Erstbezug im Grünen Nahe der U2: zwischen dem Badeteich Hirschstetten und der Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-25T17:32:00Z,N/A,Pfalzgasse 29
 1919567062,Wohnen auf der Schmelz,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-25T14:54:00Z,N/A,Schanzstraße
@@ -596,5 +601,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,942.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-23T03:59:00Z,N/A,Leopoldauer Straße
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-22T15:25:00Z,N/A,Pius-Parsch-Platz
 592227469,WOHNQUARTIER WILDGARTEN - Familienfreundliches Wohnen auf der Sonnenseite Wiens direkt am Rosenhügel,"Wien, 12. Bezirk, Meidling",1120,810,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-22T08:54:00Z,N/A,Mona-Lisa-Steiner-Weg
-1929551435,Penzing Apartments Urban Living - Innovativ. Nachhaltig. Attraktiv,"Wien, 14. Bezirk, Penzing",1140,685,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-18T11:36:00Z,N/A,Linzer Straße 104
-1547927887,ina - Wohnanlage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,640.88,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-17T17:04:00Z,N/A,Rosa-Jochmann-Ring 12-16 / Leberweg 11
