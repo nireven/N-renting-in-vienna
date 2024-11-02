@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1109883171,Stilaltbau in Topzustand/Zentrumsnahe Lage: Schlösselgasse,"Wien, 08. Bezirk, Josefstadt",1080,2590,4,135,Wien,Wien,0.0,N/A,Wohnung,2024-11-01T08:24:00Z,2590.0,Schlösselgasse
+2028499626,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1248.99,3,58,Wien,Wien,1.0,3,Wohnung,2024-11-01T08:23:00Z,1248.99,Pfalzgasse 29
 2057059946,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,909,2,49,Wien,Wien,1.0,2,Wohnung,2024-11-01T08:21:00Z,909.0,Pfalzgasse 29
 1583427792,Hofseitige 5-Zimmer-Wohnung mit Balkon und Terrasse - Neubauprojekt in Niedrigenergiehaus in Ottakring - zu Mieten in 1160 Wien,"Wien, 16. Bezirk, Ottakring",1160,2099,5,100,Wien,Wien,0.0,2,Wohnung,2024-11-01T08:20:00Z,2099.0,N/A
 1834682139,Attraktive 3-Zimmer Wohnung mit Terrasse in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,1090,3,67,Wien,Wien,0.0,4,Wohnung,2024-11-01T08:19:00Z,1090.0,N/A
@@ -105,25 +107,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2050964564,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,1247.77,3,75,Wien,Wien,1.0,3,Wohnung,2024-10-31T17:47:00Z,1247.77,Leopoldauer Straße 131
 1479898125,ALTBAUCHARME TRIFFT AUF MODERNE AUSSTATTUNG - 2 ZIMMERWOHNUNG MIT KAMIN UND GUTER ANBINDUNG,"Wien, 18. Bezirk, Währing",1180,894.1,2,69,Wien,Wien,1.0,0,Wohnung,2024-10-31T17:47:00Z,894.1,N/A
 891379571,LEO 131 - Neubau-Gartenwohnung! - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,1184.41,3,65,Wien,Wien,1.0,0,Wohnung,2024-10-31T17:47:00Z,1184.41,Leopoldauer Straße 131
-1922834727,Vollmöblierte moderne 2-Zimmerwohnung am Genochplatz,"Wien, 22. Bezirk, Donaustadt",1220,950.36,2,68,Wien,Wien,1.0,2,Wohnung,2024-10-31T17:38:00Z,950.36,Genochplatz 5
-1945318001,Sanierte Altbauwohnung mit Balkon - tolle Lage in 1040 Wien,"Wien, 04. Bezirk, Wieden",1040,2898.59,3,158,Wien,Wien,0.0,N/A,Wohnung,2024-10-31T17:37:00Z,2898.59,N/A
-984206777,Voll möbliert - sanierte Apartment-Wohnung mit 2 Zimmer Nähe U1-Nestroyplatz - Zentrum,"Wien, 02. Bezirk, Leopoldstadt",1020,1398.01,2,53,Wien,Wien,1.0,1,Wohnung,2024-10-31T17:36:00Z,1398.01,N/A
-1388411462,Provisionsfrei! Erstbezug! Modern und in attraktiver Lage.,"Wien, 22. Bezirk, Donaustadt",1220,1349.99,2,47,Wien,Wien,1.0,4,Wohnung,2024-10-31T17:32:00Z,1349.99,Wagramer Straße 2A
-762312557,+ BelView Apartments + provisionsfrei mit Fitness und Sauna,"Wien, 10. Bezirk, Favoriten",1100,1386.99,2,49,Wien,Wien,0.0,17,Wohnung,2024-10-31T17:30:00Z,1386.99,N/A
-762312594,+ BelView Apartments + provisionsfrei mit Fitness und Sauna,"Wien, 10. Bezirk, Favoriten",1100,1322.6,2,51,Wien,Wien,0.0,14,Wohnung,2024-10-31T17:30:00Z,1322.6,N/A
-762312600,+ BelView Apartments + provisionsfrei mit Fitness und Sauna,"Wien, 10. Bezirk, Favoriten",1100,1349,2,51,Wien,Wien,0.0,15,Wohnung,2024-10-31T17:30:00Z,1349.0,N/A
-762312604,+ BelView Apartments + provisionsfrei mit Fitness und Sauna,"Wien, 10. Bezirk, Favoriten",1100,1303.92,2,44,Wien,Wien,0.0,15,Wohnung,2024-10-31T17:30:00Z,1303.92,N/A
-1807848148,"Innenhof-Balkon mit Weitblick und moderne Einbauküche! Nahe Straßenbahn 26, S-Bahn Jedlersdorf, Lorettowiese und SCN!","Wien, 21. Bezirk, Floridsdorf",1210,1049,2,56,Wien,Wien,1.0,4,Wohnung,2024-10-31T17:26:00Z,1049.0,Prager Straße 105 109
-1771256597,"Tolle 2-Zimmer Neubauwohnung zum fairen Preis! - Nahe Donau, Lorettowiese & SCN - in 6min. zum Bahnhof Floridsdorf - inkl. vollmöblierter Küche & Freifläche","Wien, 21. Bezirk, Floridsdorf",1210,1049,2,56,Wien,Wien,1.0,4,Wohnung,2024-10-31T17:26:00Z,1049.0,Prager Straße 105 109
-829241403,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,800.45,2,45,Wien,Wien,1.0,3,Wohnung,2024-10-31T17:26:00Z,800.45,Leopoldauer Straße 131
-1767128474,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,1118.52,3,73,Wien,Wien,1.0,2,Wohnung,2024-10-31T17:26:00Z,1118.52,Leopoldauer Straße 131
-2030151956,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,882.54,2,51,Wien,Wien,1.0,3,Wohnung,2024-10-31T17:26:00Z,882.54,Leopoldauer Straße 131
-1062686807,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,819.19,2,45,Wien,Wien,1.0,4,Wohnung,2024-10-31T17:26:00Z,819.19,Leopoldauer Straße 131
-1372367544,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,706.49,1,35,Wien,Wien,1.0,4,Wohnung,2024-10-31T17:26:00Z,706.49,Leopoldauer Straße 131
-858532336,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen.","Wien, 22. Bezirk, Donaustadt",1220,1004.51,2,63,Wien,Wien,1.0,1,Wohnung,2024-10-31T17:25:00Z,1004.51,Ziegelhofstraße 70
-1010695924,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen.","Wien, 22. Bezirk, Donaustadt",1220,857.96,2,55,Wien,Wien,1.0,1,Wohnung,2024-10-31T17:25:00Z,857.96,Ziegelhofstraße 72
-2143191517,Moderne Neubauwohnung im 5. OG mit großem Balkon und Abstellraum nahe U1 Kagraner Platz - im neuen Wohnviertel Am Langen Felde. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,859.33,2,45,Wien,Wien,1.0,5,Wohnung,2024-10-31T17:25:00Z,859.33,Bertha-von-Suttner-Gasse 10a-12a
-1094636222,Panorama Apartment nächst Türkenschanzpark,"Wien, 18. Bezirk, Währing",1180,4499,4,196,Wien,Wien,0.0,6,Wohnung,2024-10-31T17:22:00Z,4499.0,N/A
 1764292079,"| HOCHWERTIGE MIETWOHNUNGEN | GRÖSSEN CA. 30M² - 92M² | AB 611EUR | ERSTBEZUG | AM MARCHFELDKANAL | PROJEKT ""MÜHLWEG - LEBEN AM WASSER""","Wien, 21. Bezirk, Floridsdorf",1210,951.59,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T12:27:00Z,N/A,Mühlweg
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T10:39:00Z,N/A,Dresdner Straße
 729819059,Am Schönen Platz - Am Bambushain - Nahe dem Erholungsgebiet Wienerberg,"Wien, 10. Bezirk, Favoriten",1100,1162.74,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T09:55:00Z,N/A,Laxenburger Straße
@@ -141,6 +124,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-28T10:15:00Z,N/A,Lienfeldergasse
 990581794,ERSTBEZUG | PERLE,"Wien, 17. Bezirk, Hernals",1170,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-22T09:03:00Z,N/A,N/A
 745416885,Ottakring - Jahrhundertwendehaus erstrahlt in neuem Glanz,"Wien, 16. Bezirk, Ottakring",1160,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-21T11:34:00Z,N/A,N/A
+821007871,Smarte Zwei-Zimmer-Wohnung in der Fasangasse 55 Top 23b,"Wien, 03. Bezirk, Landstraße",1030,812.68,2,48,Wien,Wien,1.0,2,Wohnung,2024-11-02T17:34:00Z,812.68,Fasangasse 55
+2079986548,Wohnung zu vermieten,"Wien, 14. Bezirk, Penzing",1140,374,0,33,Wien,Wien,0.0,N/A,Wohnung,2024-11-02T17:28:00Z,374.0,N/A
 2055214627,Moderne 2 Zimmer Wohnung mit grosser Terrasse,"Wien, 16. Bezirk, Ottakring",1160,1013.47,2,50,Wien,Wien,1.0,2,Wohnung,2024-11-02T17:03:00Z,1013.47,Grundsteingasse 4
 774575138,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1125.56,2,62,Wien,Wien,1.0,0,Wohnung,2024-11-02T16:45:00Z,1125.56,Anni-Haider-Weg 3
 1264247727,"KASTNERGASSE attraktive, ruhig gelegene 2-Zimmerwohnung im Herzen von Hernals mit Balkon","Wien, 17. Bezirk, Hernals",1170,999,2,63,Wien,Wien,0.0,N/A,Wohnung,2024-11-02T16:29:00Z,999.0,N/A
@@ -739,5 +724,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1922577537,5 Zimmer Dachgeschosswohnung und 2 Terrassen zur Miete in 1030 Wien,"Wien, 03. Bezirk, Landstraße",1030,2890,3,138,Wien,Wien,0.0,N/A,Wohnung,2024-11-01T08:26:00Z,2890.0,N/A
 1322667550,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,38,Wien,Wien,1.0,1,Wohnung,2024-11-01T08:26:00Z,829.0,Pfalzgasse 29
 1439429733,100M2 TERRASSE! Ein besonderer Luxus! Lichtdurchflutete Traumwohnung!,"Wien, 22. Bezirk, Donaustadt",1220,2000,2,63,Wien,Wien,N/A,N/A,Wohnung,2024-11-01T08:24:00Z,2000.0,N/A
-1109883171,Stilaltbau in Topzustand/Zentrumsnahe Lage: Schlösselgasse,"Wien, 08. Bezirk, Josefstadt",1080,2590,4,135,Wien,Wien,0.0,N/A,Wohnung,2024-11-01T08:24:00Z,2590.0,Schlösselgasse
-2028499626,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1248.99,3,58,Wien,Wien,1.0,3,Wohnung,2024-11-01T08:23:00Z,1248.99,Pfalzgasse 29
