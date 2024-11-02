@@ -20,8 +20,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1531603758,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,874.85,2,45,Wien,Wien,1.0,2,Wohnung,2024-10-31T08:45:00Z,874.85,Leopoldauer Straße 131
 1781899114,LUXUSDACHTERRASSENWOHNUNG AM ROCHUSMARKT !,"Wien, 03. Bezirk, Landstraße",1030,6145.92,7,345,Wien,Wien,0.0,DG,Wohnung,2024-10-31T08:38:00Z,6145.92,Landstraßer Hauptstraße
 2105106804,Single City-Apartment in Liesing,"Wien, 23. Bezirk, Liesing",1230,880,2,37,Wien,Wien,0.0,2,Wohnung,2024-10-31T08:35:00Z,880.0,N/A
-1711570544,Exklusive 45 m² Wohnung im Herzen Wien - erste Bezirk. Einfach mittendrin.,"Wien, 01. Bezirk, Innere Stadt",1010,1074.02,2,45,Wien,Wien,0.0,N/A,Wohnung,2024-10-31T08:33:00Z,1074.02,N/A
-1061195733,Gut ausgestattete 2-Zimmer Terrassenwohnung,"Wien, 23. Bezirk, Liesing",1230,800,2,45,Wien,Wien,1.0,3,Wohnung,2024-10-31T08:31:00Z,800.0,Elisenstrasse
 1635107309,In der Stadt der Musik gelangt mit den DC Musicflats ...,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-30T17:32:00Z,N/A,Donau-City-Str. 13-13A
 1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.0,N/A,N/A,2024-10-30T13:27:00Z,N/A,N/A
 718841843,Mietwohnungen mit Kaufoption - Wohnen in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,690,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-30T08:34:00Z,N/A,Edi-Finger-Straße
@@ -643,8 +641,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1728440284,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,1,Wohnung,2024-11-02T08:02:00Z,829.0,Pfalzgasse 29
 1059297149,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,2,Wohnung,2024-11-02T08:02:00Z,829.0,Pfalzgasse 29
 1117153197,Hochwertiger Erstbezug in Kaisermühlen - direkt am Wasser & der U1 - mit Fußbodenkühlung,"Wien, 22. Bezirk, Donaustadt",1220,1349.99,2,49,Wien,Wien,1.0,7,Wohnung,2024-11-02T07:57:00Z,1349.99,Wagramer Straße 2A
-1770133314,Provisionsfrei! Luxus im 4. Liftstock mit großartigem Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,1999.99,3,73,Wien,Wien,1.0,4,Wohnung,2024-11-02T07:55:00Z,1999.99,Wagramer Straße 2A
 1706480482,"PROVISIONSFREI - Neubau in zentraler Lage & perfekter Infrastruktur nähe U3 mit hohem Wohlfühlfaktor durch 2,8m Raumhöhe","Wien, 03. Bezirk, Landstraße",1030,920,2,51,Wien,Wien,1.0,6,Wohnung,2024-11-02T07:55:00Z,920.0,Schöpsstraße 6
+1770133314,Provisionsfrei! Luxus im 4. Liftstock mit großartigem Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,1999.99,3,73,Wien,Wien,1.0,4,Wohnung,2024-11-02T07:55:00Z,1999.99,Wagramer Straße 2A
 853337172,"Lust auf leistbaren Luxus? Top Lage, Designküche und ein Traumbalkon warten auf Sie!","Wien, 22. Bezirk, Donaustadt",1220,960,1,31,Wien,Wien,1.0,7,Wohnung,2024-11-02T07:50:00Z,960.0,Wagramer Straße 2A
 853494564,Provisionsfrei! Attraktive Studiowohnung im 5. Liftstock mit tollem Balkon und Ausblick,"Wien, 22. Bezirk, Donaustadt",1220,880,1,31,Wien,Wien,1.0,5,Wohnung,2024-11-02T07:48:00Z,880.0,Wagramer Straße 2A
 1680819041,"Frisch sanierte DG-Maisonette mit Blick ins Grüne, Terrasse und Klimaanlage bei Schönbrunn","Wien, 12. Bezirk, Meidling",1120,1999,5,132,Wien,Wien,1.0,4,Wohnung,2024-11-02T07:43:00Z,1999.0,Bischoffgasse 7
@@ -724,7 +722,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1468800931,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,929,2,46,Wien,Wien,1.0,3,Wohnung,2024-11-01T17:48:00Z,929.0,Podhagskygasse 12
 652123095,TOP WOHNUNG | TRAUMLAGE IM GRÜNEN,"Wien, 18. Bezirk, Währing",1180,1049,2,65,Wien,Wien,1.0,1,Wohnung,2024-11-01T17:47:00Z,1049.0,Pötzleinsdorferstrasse 194/5
 1020450339,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,3,Wohnung,2024-11-01T17:46:00Z,829.0,Podhagskygasse 12
-775888633,Zentrale begehbare 4-Zimmerwohnung nahe Albertina und Josefsplatz,"Wien, 01. Bezirk, Innere Stadt",1010,1650,4,84,Wien,Wien,1.0,1,Wohnung,2024-11-01T17:41:00Z,1650.0,Dorotheergasse 22
+775888633,Zentral begehbare 4-Zimmerwohnung nahe Albertina und Josefsplatz,"Wien, 01. Bezirk, Innere Stadt",1010,1650,4,84,Wien,Wien,1.0,1,Wohnung,2024-11-01T17:41:00Z,1650.0,Dorotheergasse 22
 2009116743,Preiswerte 2-Zimmerwohnung mit Balkon im 1. OG im grüner Umgebung,"Wien, 12. Bezirk, Meidling",1120,799,2,46,Wien,Wien,1.0,1,Wohnung,2024-11-01T17:36:00Z,799.0,Wildgartenallee 17/2
 2131104915,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,2,Wohnung,2024-11-01T17:35:00Z,829.0,Podhagskygasse 12
 787294249,"Preiswerte 1,5-Zimmerwohnung mit Balkon in naturnaher Umgebung ab 01.02. bezugsbereit","Wien, 12. Bezirk, Meidling",1120,695,1,39,Wien,Wien,1.0,2,Wohnung,2024-11-01T17:34:00Z,695.0,Wildgartenallee 17/2
