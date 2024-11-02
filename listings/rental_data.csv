@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1320727794,"+++ PROVISIONSFREI! RUHIGE UND GROSSZÜGIGE 2.5 ZIMMER WOHNUNG NÄHE U-BAHN U6 SIEBENHIRTEN, SCS UND KETZERGASSE MIT TOLLER NAHVERSORGUNG & NAHERHOLUNG +++","Wien, 23. Bezirk, Liesing",1230,845,2,57,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T07:59:00Z,845.0,Nowakgasse 10
+866081557,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1509,4,74,Wien,Wien,1.0,2,Wohnung,2024-11-01T07:58:00Z,1509.0,Pfalzgasse 29
 1303982424,New and unique! 3-rooms with large balcony,"Wien, 22. Bezirk, Donaustadt",1220,1980,3,73,Wien,Wien,N/A,3,Wohnung,2024-11-01T07:57:00Z,1980.0,N/A
 1704280680,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,1,Wohnung,2024-11-01T07:54:00Z,829.0,Pfalzgasse 29
 1065084546,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1248.99,3,58,Wien,Wien,1.0,1,Wohnung,2024-11-01T07:48:00Z,1248.99,Pfalzgasse 29
@@ -158,13 +160,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1215140504,Nähe U1 Station Donauinsel - DC Music Flats - Ideal für Musiker,"Wien, 22. Bezirk, Donaustadt",1220,1090,2,45,Wien,Wien,1.0,3,Wohnung,2024-10-31T15:57:00Z,1090.0,Donau-City-Straße
 1337952454,Unbefristete Neubauhauptmietwohnung,"Wien, 16. Bezirk, Ottakring",1160,850,1,47,Wien,Wien,1.0,4,Wohnung,2024-10-31T15:54:00Z,850.0,Neulerchenfelderstraße 32
 1416415855,Helle 5 Zimmer Wohnung im 1. Bezirk - fair wohnen,"Wien, 01. Bezirk, Innere Stadt",1010,3537.31,5,167,Wien,Wien,1.0,N/A,Wohnung,2024-10-31T15:51:00Z,3537.31,Stubenring 24
-1336266963,BLISS XIX - Einzigartige Wohnqualität am Puls der Stadt | 360° Tour,"Wien, 19. Bezirk, Döbling",1190,1795.35,3,75,Wien,Wien,1.0,2,Wohnung,2024-10-31T15:37:00Z,1795.35,N/A
-1761775812,NEU! Lichtdurchflutete 2-Zimmer-Neubauwohnung! Energieeffizientes Haus! Garagenstellplatz möglich!,"Wien, 21. Bezirk, Floridsdorf",1210,845.93,2,45,Wien,Wien,1.0,4,Wohnung,2024-10-31T15:37:00Z,845.93,N/A
-2010728490,UNBEFRISTETE TEILSANIERTE ALTBAUWOHNUNG IN DER SPENGERGASSE,"Wien, 05. Bezirk, Margareten",1050,992.12,3,80,Wien,Wien,1.0,4,Wohnung,2024-10-31T15:36:00Z,992.12,Spengergasse
-2009141394,UNBEFRISTETE ALTBAUWOHNUNG BEIM AUGARTEN,"Wien, 02. Bezirk, Leopoldstadt",1020,1583.62,4,97,Wien,Wien,1.0,0,Wohnung,2024-10-31T15:36:00Z,1583.62,Castellezgasse
-867133540,"Neu sanierte, moderne 2-Zimmer-Wohnung in zentraler Lage!","Wien, 21. Bezirk, Floridsdorf",1210,787.26,2,40,Wien,Wien,1.0,0,Wohnung,2024-10-31T15:36:00Z,787.26,Freytaggasse 25
-2030090848,Super SINGLEWOHNUNG vis a vis der U1 Station Trostgasse,"Wien, 10. Bezirk, Favoriten",1100,598.58,1,36,Wien,Wien,1.0,1,Wohnung,2024-10-31T15:36:00Z,598.58,N/A
-953787569,"DIREKTÜBERGABE mit gültigem Wohn-Ticket (Wiener Wohnen, Gemeindebau)","Wien, 18. Bezirk, Währing",1180,610,3,60,Wien,Wien,0.0,4,Wohnung,2024-10-31T15:32:00Z,610.0,N/A
 1764292079,"| HOCHWERTIGE MIETWOHNUNGEN | GRÖSSEN CA. 30M² - 92M² | AB 611EUR | ERSTBEZUG | AM MARCHFELDKANAL | PROJEKT ""MÜHLWEG - LEBEN AM WASSER""","Wien, 21. Bezirk, Floridsdorf",1210,951.59,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T12:27:00Z,N/A,Mühlweg
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T10:39:00Z,N/A,Dresdner Straße
 729819059,Am Schönen Platz - Am Bambushain - Nahe dem Erholungsgebiet Wienerberg,"Wien, 10. Bezirk, Favoriten",1100,1162.74,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T09:55:00Z,N/A,Laxenburger Straße
@@ -182,6 +177,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-28T10:15:00Z,N/A,Lienfeldergasse
 990581794,ERSTBEZUG | PERLE,"Wien, 17. Bezirk, Hernals",1170,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-22T09:03:00Z,N/A,N/A
 745416885,Ottakring - Jahrhundertwendehaus erstrahlt in neuem Glanz,"Wien, 16. Bezirk, Ottakring",1160,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-21T11:34:00Z,N/A,N/A
+1178961579,1190 Wien: Wohnung in Grün- / Ruhelage von Privat - provisionsfrei zu vermieten,"Wien, 19. Bezirk, Döbling",1190,1500,3,68,Wien,Wien,0.0,1,Wohnung,2024-11-02T15:38:00Z,1500.0,N/A
 1328732159,! Schnell sein ! Traumhafte 2 Zimmer Wohnung mit Balkon II U1 Kagran,"Wien, 22. Bezirk, Donaustadt",1220,880,2,41,Wien,Wien,0.95,1,Wohnung,2024-11-02T15:30:00Z,880.0,Erzherzog-Karl-Straße
 1958545480,Nachmieter für 4 Zimmer Privatmietwohnung,"Wien, 23. Bezirk, Liesing",1230,981,4,88,Wien,Wien,0.95,2,Wohnung,2024-11-02T15:21:00Z,981.0,Taglieberstraße
 1328780463,ERSTBEZUG NACH SANIERUNG! MIT GEMEINSCHAFTSGARTEN!,"Wien, 19. Bezirk, Döbling",1190,1300,3,95,Wien,Wien,N/A,1,Wohnung,2024-11-02T15:13:00Z,1300.0,N/A
@@ -781,4 +777,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 903451782,"HUTT AB - Hochwertige, erstklassige Wohnqualität, die überzeugt - Provisionsfreier Erstbezug in direkter U-Bahn-Nähe","Wien, 16. Bezirk, Ottakring",1160,2299,4,108,Wien,Wien,1.0,1,Wohnung,2024-11-01T08:00:00Z,2299.0,Huttengasse 39-41
 1878372279,Stilvolles Design trifft auf Clevere Layouts - Ihre neue Traumwohnung wartet auf Sie - in der Huttengasse,"Wien, 16. Bezirk, Ottakring",1160,2098.99,5,100,Wien,Wien,1.0,2,Wohnung,2024-11-01T08:00:00Z,2098.99,Huttengasse 39-41
 1493737069,Exclusive first occupancy right by the Donauinsel,"Wien, 22. Bezirk, Donaustadt",1220,1210,2,46,Wien,Wien,N/A,1,Wohnung,2024-11-01T07:59:00Z,1210.0,N/A
-1320727794,"+++ PROVISIONSFREI! RUHIGE UND GROSSZÜGIGE 2.5 ZIMMER WOHNUNG NÄHE U-BAHN U6 SIEBENHIRTEN, SCS UND KETZERGASSE MIT TOLLER NAHVERSORGUNG & NAHERHOLUNG +++","Wien, 23. Bezirk, Liesing",1230,845,2,57,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T07:59:00Z,845.0,Nowakgasse 10
