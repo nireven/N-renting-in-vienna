@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1229179400,"1020 Wien, Stuwerstrasse: zentral gelegene 3-Zimmer-ALTBAUTRAUMWOHNUNG, ca. 80 m2, langfristig zu vermieten","Wien, 02. Bezirk, Leopoldstadt",1020,1154,3,80,Wien,Wien,1.0,3,Wohnung,2024-11-02T12:25:00Z,1154.0,Stuwerstrasse
 1380688875,Dachgeschoßmaisonette Nähe Schottenring,"Wien, 01. Bezirk, Innere Stadt",1010,3479.78,4,136,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:04:00Z,3479.78,N/A
 1443241804,Wohnung in Top zustand 59qm,"Wien, 10. Bezirk, Favoriten",1100,830,2,59,Wien,Wien,1.0,1,Wohnung,2024-11-02T12:04:00Z,830.0,Wielandgasse 23/7
 853438511,Familientraum nahe Michaelaplatz - geräumige und helle Wohnung in absoluter bester Lage des 1. Bezirks!,"Wien, 01. Bezirk, Innere Stadt",1010,2995.12,5,149,Wien,Wien,1.0,1,Wohnung,2024-11-02T11:40:00Z,2995.12,N/A
@@ -98,13 +99,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1619475479,"Traumhafte vollmöblierte Wohnung mit Pool - Kurzzeitmiete möglich, U3 Simmering","Wien, 11. Bezirk, Simmering",1110,1700,4,70,Wien,Wien,0.0,2,Wohnung,2024-11-01T18:34:00Z,1700.0,N/A
 2133826053,*Provisionsfrei* Kompakte 4-Zimmer Wohnung am Wolfersberg,"Wien, 14. Bezirk, Penzing",1140,1011,4,65,Wien,Wien,1.0,1,Wohnung,2024-11-01T18:33:00Z,1011.0,Bierhäuselberggasse
 915682797,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1599,3,73,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T18:32:00Z,1599.0,Podhagskygasse 12
-1803512878,"KOHLMARKT - Bestlage! Erstbezug, 3 Zimmer, 118m2, Sofortbezug!","Wien, 01. Bezirk, Innere Stadt",1010,2907.16,3,118,Wien,Wien,1.0,3,Wohnung,2024-11-01T18:26:00Z,2907.16,Kohlmarkt 7
-698227033,Repräsentative Luxus-Altbauwohnung in toller innerstädtischer Lage! Prächtiger Altbau an einem ruhigen Platzl in 1010 Wien! Einziehen und Wohlfühlen...,"Wien, 01. Bezirk, Innere Stadt",1010,4620,4,153,Wien,Wien,1.0,2,Wohnung,2024-11-01T18:25:00Z,4620.0,N/A
-1522913632,2-Zimmer Wohnung in 1210 Wien zu vermieten!,"Wien, 21. Bezirk, Floridsdorf",1210,841,2,44,Wien,Wien,1.0,3,Wohnung,2024-11-01T18:25:00Z,841.0,N/A
-1582144955,Helle Wohnung zu vermieten inklusive Parkplatz Nahe U6 ohne Provision,"Wien, 23. Bezirk, Liesing",1230,1170,2,63,Wien,Wien,0.0,N/A,Wohnung,2024-11-01T18:22:00Z,1170.0,N/A
-1206554410,"3 Zi Neubau mit Balkon, Nahe zum 6. Bezirk, U4 Längengeldgasse/ U4 Margareten Gürtel","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1840,3,61,Wien,Wien,1.0,5,Wohnung,2024-11-01T18:17:00Z,1840.0,Pfeiffergasse 3
-1151780662,3 Zimmerwohnung in Rodaun,"Wien, 23. Bezirk, Liesing",1230,900,3,69,Wien,Wien,1.0,1,Wohnung,2024-11-01T18:16:00Z,900.0,Willergasse
-1089255840,Provisionsfreie Wohnung 3-Zimmer 1130 Wien,"Wien, 13. Bezirk, Hietzing",1130,1350,3,74,Wien,Wien,1.0,1,Wohnung,2024-11-01T18:16:00Z,1350.0,in der Auhofstrasse 225
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-01T17:32:00Z,N/A,Pfalzgasse 29
 1764292079,"| HOCHWERTIGE MIETWOHNUNGEN | GRÖSSEN CA. 30M² - 92M² | AB 611EUR | ERSTBEZUG | AM MARCHFELDKANAL | PROJEKT ""MÜHLWEG - LEBEN AM WASSER""","Wien, 21. Bezirk, Floridsdorf",1210,951.59,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T12:27:00Z,N/A,Mühlweg
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T10:39:00Z,N/A,Dresdner Straße
@@ -112,6 +106,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1006870175,JOSEPH- Wohnraum findet Stadt,"Wien, 09. Bezirk, Alsergrund",1090,1215,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-29T17:06:00Z,N/A,Nordbergstraße 7- 9
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-29T15:25:00Z,N/A,Pius-Parsch-Platz
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-28T19:31:00Z,N/A,Kelsenstraße 5
+1166381759,ZWISCHEN NASCHMARKT UND HAUS DES MEERES - HELLE UND FREUNDLICHE 3 ZIMMER-TERRASSENWOHNUNG MIT GARAGENPLATZ,"Wien, 06. Bezirk, Mariahilf",1060,1489.33,3,56,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T18:25:00Z,1489.33,N/A
 869938533,Direktvergabe Gemeindewohnung 2 Wohnräume/ Reihung : 30.06.2024,"Wien, 11. Bezirk, Simmering",1110,680,0,66,Wien,Wien,1.0,1,Wohnung,2024-11-03T18:08:00Z,680.0,Lindenbauergasse 72
 1437928898,"*-10 % Rabatt * ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,1349,2,43,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T18:06:00Z,1349.0,Kelsenstraße 5
 1430536299,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,1439,1,43,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T18:06:00Z,1439.0,Kelsenstraße 5
@@ -311,4 +306,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1150279217,*Neubaugasse* - Möblierte 2-Zimmer Neubauwohnung - Toplage!,"Wien, 07. Bezirk, Neubau",1070,1399,2,52,Wien,Wien,1.0,5,Wohnung,2024-11-02T12:25:00Z,1399.0,N/A
 1306600828,Exklusive Villenetage beim Pötzleinsdorfer Schlosspark ++ Terrasse mit Garten- und Stadtblick + Garagenplatz inklusive,"Wien, 18. Bezirk, Währing",1180,3500,6,217,Wien,Wien,1.0,3,Wohnung,2024-11-02T12:25:00Z,3500.0,Hockegasse
 844480360,Wohnen in Floridsdorf - 2-Zimmer-Wohnung mit Balkon und Garagenplatz Nähe Shopping City Nord & Klink Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,728.21,2,35,Wien,Wien,1.0,2,Wohnung,2024-11-02T12:25:00Z,728.21,Siemensstraße
-1229179400,"1020 Wien, Stuwerstrasse: zentral gelegene 3-Zimmer-ALTBAUTRAUMWOHNUNG, ca. 80 m2, langfristig zu vermieten","Wien, 02. Bezirk, Leopoldstadt",1020,1154,3,80,Wien,Wien,1.0,3,Wohnung,2024-11-02T12:25:00Z,1154.0,Stuwerstrasse
