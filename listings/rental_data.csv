@@ -1,4 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1535536601,++Provisionsfrei++ 3-Zimmer Townhouse mit großer Wohn-Küche in bester Lage mit Garten!,"Wien, 20. Bezirk, Brigittenau",1200,2099,3,102,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T14:24:00Z,2099.0,N/A
+1745696075,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 3-Zimmer ERSTBEZUG mit Balkon! Provisionsfrei,"Wien, 12. Bezirk, Meidling",1120,1687.71,3,70,Wien,Wien,1.0,3,Wohnung,2024-11-01T14:23:00Z,1687.71,N/A
+1857699174,++RARITÄT++ Hochwertiges 3-Zimmer Townhouse in bester Lage mit Garten!,"Wien, 20. Bezirk, Brigittenau",1200,1928.3,3,93,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T14:23:00Z,1928.3,N/A
 1396372873,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 1-Zimmer ERSTBEZUG mit Balkon! Provisionsfrei,"Wien, 12. Bezirk, Meidling",1120,1027.18,1,46,Wien,Wien,1.0,2,Wohnung,2024-11-01T14:23:00Z,1027.18,N/A
 1352544950,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 2-Zimmer ERSTBEZUG mit LOGGIA! Provisionsfrei!,"Wien, 12. Bezirk, Meidling",1120,1308.71,2,58,Wien,Wien,1.0,1,Wohnung,2024-11-01T14:23:00Z,1308.71,N/A
 1823983976,"Six in the City: Premium 3-Zimmer Neubauwohnung mit Loggia, BESTLAGE!","Wien, 06. Bezirk, Mariahilf",1060,2095,3,96,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T14:23:00Z,2095.0,Luftbadgasse
@@ -105,9 +108,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1251481756,#1050 Wohnen in Urbaner Lage mit Flair | 2 Zimmer mit 2 Balkonen,"Wien, 05. Bezirk, Margareten",1050,998,2,53,Wien,Wien,1.0,1,Wohnung,2024-11-01T12:56:00Z,998.0,N/A
 1770390525,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen.","Wien, 22. Bezirk, Donaustadt",1220,899.74,2,55,Wien,Wien,1.0,3,Wohnung,2024-11-01T12:56:00Z,899.74,Ziegelhofstraße 72
 851259237,Sonnige Wohnung mit Balkon - Nähe Krankenhaus Hietzing,"Wien, 13. Bezirk, Hietzing",1130,795,1,50,Wien,Wien,1.0,2,Wohnung,2024-11-01T12:53:00Z,795.0,Wlassakstrasse 39
-1813187564,Ideal für WG - Wohnung in ruhiger Allee - 4 Zimmer zentral begehbar,"Wien, 13. Bezirk, Hietzing",1130,1519,4,102,Wien,Wien,0.99,2,Wohnung,2024-11-01T12:52:00Z,1519.0,Wlassakastrasse 39
-1093785801,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1199,2,54,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T12:48:00Z,1199.0,Pfalzgasse 29
-1295868728,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,3,Wohnung,2024-11-01T12:41:00Z,829.0,Pfalzgasse 29
 1929551435,Penzing Apartments Urban Living - Innovativ. Nachhaltig. Attraktiv,"Wien, 14. Bezirk, Penzing",1140,685,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-01T11:36:00Z,N/A,Linzer Straße 104
 1764292079,"| HOCHWERTIGE MIETWOHNUNGEN | GRÖSSEN CA. 30M² - 92M² | AB 611EUR | ERSTBEZUG | AM MARCHFELDKANAL | PROJEKT ""MÜHLWEG - LEBEN AM WASSER""","Wien, 21. Bezirk, Floridsdorf",1210,951.59,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T12:27:00Z,N/A,Mühlweg
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T10:39:00Z,N/A,Dresdner Straße
@@ -120,6 +120,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.0,N/A,N/A,2024-10-28T11:19:00Z,N/A,N/A
 990581794,ERSTBEZUG | PERLE,"Wien, 17. Bezirk, Hernals",1170,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-22T09:03:00Z,N/A,N/A
 745416885,Ottakring - Jahrhundertwendehaus erstrahlt in neuem Glanz,"Wien, 16. Bezirk, Ottakring",1160,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-21T11:34:00Z,N/A,N/A
+2116697508,"Schöne 6-Zimmer-Altbauwohnung, Nähe Schloss Belvedere in 1030 Wien zu mieten","Wien, 03. Bezirk, Landstraße",1030,3120,6,205,Wien,Wien,0.0,1,Wohnung,2024-11-03T12:49:00Z,3120.0,N/A
+1072261420,Gemeindewohnung 76m² in DIREKTVERGABE mit Vormerkschein und Ablöse zu vergeben,"Wien, 10. Bezirk, Favoriten",1100,783.3,3,76,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T12:41:00Z,783.3,Bergtaidingweg 17
+1695889008,Neubau- 2 Zimmer Wohnung mit Balkon zu vermieten,"Wien, 21. Bezirk, Floridsdorf",1210,849,2,43,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T12:40:00Z,849.0,Frauenstiftgasse 5/1/4
+960688275,Möbilierte Smartwohnung mit Garage,"Wien, 02. Bezirk, Leopoldstadt",1020,1100.73,2,42,Wien,Wien,0.0,4,Wohnung,2024-11-03T12:39:00Z,1100.73,N/A
 1963583490,Großzügige 5 Zimmer Wohnung in Toplage mit Terrasse und Pool - Gartenmitbenützung,"Wien, 18. Bezirk, Währing",1180,2783.24,5,129,Wien,Wien,1.0,1,Wohnung,2024-11-03T12:19:00Z,2783.24,N/A
 1435660495,Wohnung im Viertel Zwei mit großem Balkon direkt bei WU - PROVISIONSFREI,"Wien, 02. Bezirk, Leopoldstadt",1020,950,2,32,Wien,Wien,0.86,4,Wohnung,2024-11-03T12:12:00Z,950.0,Am grünen Prater
 1126347835,"Flexible Mietdauer, Nähe 1. Bezirk und Wien Mitte","Wien, 03. Bezirk, Landstraße",1030,795,1,33,Wien,Wien,1.0,3,Wohnung,2024-11-03T12:10:00Z,795.0,Hetzgasse
@@ -320,7 +324,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 853337172,"Lust auf leistbaren Luxus? Top Lage, Designküche und ein Traumbalkon warten auf Sie!","Wien, 22. Bezirk, Donaustadt",1220,960,1,31,Wien,Wien,1.0,7,Wohnung,2024-11-02T07:50:00Z,960.0,Wagramer Straße 2A
 853494564,Provisionsfrei! Attraktive Studiowohnung im 5. Liftstock mit tollem Balkon und Ausblick,"Wien, 22. Bezirk, Donaustadt",1220,880,1,31,Wien,Wien,1.0,5,Wohnung,2024-11-02T07:48:00Z,880.0,Wagramer Straße 2A
 1680819041,"Frisch sanierte DG-Maisonette mit Blick ins Grüne, Terrasse und Klimaanlage bei Schönbrunn","Wien, 12. Bezirk, Meidling",1120,1999,5,132,Wien,Wien,1.0,4,Wohnung,2024-11-02T07:43:00Z,1999.0,Bischoffgasse 7
-1680819041,"Frisch sanierte DG-Maisonette mit Blick ins Grüne, Terrasse und Klimaanlage bei Schönbrunn","Wien, 12. Bezirk, Meidling",1120,1999,5,132,Wien,Wien,1.0,4,Wohnung,2024-11-02T07:43:00Z,1999.0,Bischoffgasse 7
 1798005930,in Trienna Living mit 15m2 Balkon - PRIVAT,"Wien, 03. Bezirk, Landstraße",1030,1297,2,48,Wien,Wien,0.99,3,Wohnung,2024-11-02T07:34:00Z,1297.0,Fred Zinnemannn Platz
 1081042131,"3-Zimmer-Wohntraum mit Balkon, komplett saniert in Mauer","Wien, 23. Bezirk, Liesing",1230,1390.01,3,78,Wien,Wien,1.0,2,Wohnung,2024-11-02T07:12:00Z,1390.01,N/A
 1421745424,"Kleine City-Wohnung für Diplomaten, Expats & Angestellte intern. Org. // Tiny City-Apartment for diplomats, expats & employees of intern. orgs //","Wien, 01. Bezirk, Innere Stadt",1010,2588.15,2,95,Wien,Wien,1.0,4,Wohnung,2024-11-02T07:11:00Z,2588.15,N/A
@@ -517,6 +520,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 862897766,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 3-Zimmer ERSTBEZUG mit Balkon! Provisionsfrei!,"Wien, 12. Bezirk, Meidling",1120,1448.12,3,58,Wien,Wien,1.0,4,Wohnung,2024-11-01T14:24:00Z,1448.12,N/A
 1851665016,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 2-Zimmer Dachgeschoss-ERSTBEZUG mit Terrasse! Provisionsfrei,"Wien, 12. Bezirk, Meidling",1120,1605.36,2,61,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T14:24:00Z,1605.36,N/A
 1966292038,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 2-Zimmer ERSTBEZUG mit TERRASSE! Provisionsfrei!,"Wien, 12. Bezirk, Meidling",1120,1518.68,2,55,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T14:24:00Z,1518.68,N/A
-1535536601,++Provisionsfrei++ 3-Zimmer Townhouse mit großer Wohn-Küche in bester Lage mit Garten!,"Wien, 20. Bezirk, Brigittenau",1200,2099,3,102,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T14:24:00Z,2099.0,N/A
-1745696075,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 3-Zimmer ERSTBEZUG mit Balkon! Provisionsfrei,"Wien, 12. Bezirk, Meidling",1120,1687.71,3,70,Wien,Wien,1.0,3,Wohnung,2024-11-01T14:23:00Z,1687.71,N/A
-1857699174,++RARITÄT++ Hochwertiges 3-Zimmer Townhouse in bester Lage mit Garten!,"Wien, 20. Bezirk, Brigittenau",1200,1928.3,3,93,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T14:23:00Z,1928.3,N/A
