@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1695365089,Exclusive residential complex at the Danube Island! Enjoy the stunning terrace.,"Wien, 22. Bezirk, Donaustadt",1220,1800,2,56,Wien,Wien,1.0,8,Wohnung,2024-11-02T13:30:00Z,1800.0,Wagramer Straße 2A
+1458576822,"Danubeview! THE modern residential complex. 2 rooms, terrace at the 8th floor.","Wien, 22. Bezirk, Donaustadt",1220,1699.99,2,58,Wien,Wien,1.0,8,Wohnung,2024-11-02T13:28:00Z,1699.99,Wagramer Straße 2A
 1976774388,"PROVISIONSFREI, Balkon, Stellplatz, 4-Zimmer Wohnung in ruhigen, gehobenen Wohnviertel","Wien, 22. Bezirk, Donaustadt",1220,1890,4,100,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T13:28:00Z,1890.0,Benjowskigasse 13/2
 1861058528,Rare opportunity! A luxurious apartment with a dream view over Vienna.,"Wien, 22. Bezirk, Donaustadt",1220,1999.99,2,63,Wien,Wien,1.0,8,Wohnung,2024-11-02T13:26:00Z,1999.99,Wagramer Straße 2A
 1739702621,Wohnen in Floridsdorf - 2-Zimmer-Dachgeschosswohnung mit einer Traumterrasse und Garagenplatz Nähe Shopping City Nord & Klink Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,1030,2,63,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T13:25:00Z,1030.0,Siemensstraße
@@ -106,8 +108,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1358612561,Unbefristete exklusive 3-Zimmer Wohnung in Top-Lage!,"Wien, 01. Bezirk, Innere Stadt",1010,2404.27,3,110,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T00:38:00Z,2404.27,N/A
 1960364504,"Frisch sanierte 3Zi Wohnung im Zentrum des 3. Bezirks, viele Restaurants und Einkaufsmöglichkeiten","Wien, 03. Bezirk, Landstraße",1030,1770,3,59,Wien,Wien,N/A,2,Wohnung,2024-11-01T23:55:00Z,1770.0,Erdbergstraße 118
 1358809374,Altbauwohnung 59m2 in Wien Neubau,"Wien, 07. Bezirk, Neubau",1070,940,3,59,Wien,Wien,1.0,4,Wohnung,2024-11-01T22:31:00Z,940.0,Neubaugasse
-1430615720,"Ruhige 2-Zimmer Wohnung, nur 10 Minuten zu Fuß zum Schwedenplatz","Wien, 02. Bezirk, Leopoldstadt",1020,880,0,51,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T22:11:00Z,880.0,Untere Donaustraße 33
-1788571253,Dachterrasse im herzen des. 8. Bezirks in eine 4Zi-Maisonette Wohnung,"Wien, 08. Bezirk, Josefstadt",1080,3100,4,103,Wien,Wien,1.0,4,Wohnung,2024-11-01T21:56:00Z,3100.0,Tigergasse 9
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-01T17:32:00Z,N/A,Pfalzgasse 29
 1764292079,"| HOCHWERTIGE MIETWOHNUNGEN | GRÖSSEN CA. 30M² - 92M² | AB 611EUR | ERSTBEZUG | AM MARCHFELDKANAL | PROJEKT ""MÜHLWEG - LEBEN AM WASSER""","Wien, 21. Bezirk, Floridsdorf",1210,951.59,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T12:27:00Z,N/A,Mühlweg
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T10:39:00Z,N/A,Dresdner Straße
@@ -116,6 +116,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-29T15:25:00Z,N/A,Pius-Parsch-Platz
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-28T19:31:00Z,N/A,Kelsenstraße 5
 1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-28T17:26:00Z,N/A,Donau-City-Straße
+1547382281,Direktvergabe Gemeinde Wohnung in 18 Bez.,"Wien, 18. Bezirk, Währing",1180,990,5,94,Wien,Wien,0.0,EG,Wohnung,2024-11-03T22:09:00Z,990.0,N/A
+1980951580,Top lage!!! Direkt am Spitz!!! Keine provison!!! Voll möbliert Order kann ohne sein,"Wien, 21. Bezirk, Floridsdorf",1210,1690,3,104,Wien,Wien,1.0,2,Wohnung,2024-11-03T22:08:00Z,1690.0,Am spitz 7
 2090655421,Wohnung zu vermieten,"Wien, 20. Bezirk, Brigittenau",1200,750,1,50,Wien,Wien,1.0,2,Wohnung,2024-11-03T21:50:00Z,750.0,Klosterneuburgerstrasse
 1838052815,Balkonwohnung neu renoviert inkl Garage,"Wien, 06. Bezirk, Mariahilf",1060,1100,2,51,Wien,Wien,1.0,2,Wohnung,2024-11-03T21:45:00Z,1100.0,Stumpergasse
 961921590,Wohnung mit Loggia bei U-Bahn Thaliastraße,"Wien, 16. Bezirk, Ottakring",1160,720,2,45,Wien,Wien,1.0,1,Wohnung,2024-11-03T21:43:00Z,720.0,Hippgasse 28
@@ -314,5 +316,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1873591067,Ruhige 3-Zimmer-Wohnung,"Wien, 19. Bezirk, Döbling",1190,1140.7,3,68,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T13:36:00Z,1140.7,N/A
 2083194415,Ruhige neu adaptierte 3 Zimmer Wohnung in Ober St. Veit,"Wien, 13. Bezirk, Hietzing",1130,1290,3,86,Wien,Wien,0.0,1,Wohnung,2024-11-02T13:36:00Z,1290.0,N/A
 791159782,A real dream flat. Look at this view!,"Wien, 22. Bezirk, Donaustadt",1220,1900,2,55,Wien,Wien,1.0,8,Wohnung,2024-11-02T13:33:00Z,1900.0,Wagramer Straße 2A
-1695365089,Exclusive residential complex at the Danube Island! Enjoy the stunning terrace.,"Wien, 22. Bezirk, Donaustadt",1220,1800,2,56,Wien,Wien,1.0,8,Wohnung,2024-11-02T13:30:00Z,1800.0,Wagramer Straße 2A
-1458576822,"Danubeview! THE modern residential complex. 2 rooms, terrace at the 8th floor.","Wien, 22. Bezirk, Donaustadt",1220,1699.99,2,58,Wien,Wien,1.0,8,Wohnung,2024-11-02T13:28:00Z,1699.99,Wagramer Straße 2A
