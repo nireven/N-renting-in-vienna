@@ -1,4 +1,11 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1736737352,100m2 helle 3 Zimmer Neubauwohnung mit 2 Balkonen inkl. Garagenplatz am Wolfersberg,"Wien, 14. Bezirk, Penzing",1140,1750,3,100,Wien,Wien,1.0,1,Wohnung,2024-11-03T16:19:00Z,1750.0,Bujattigasse 15A/10
+1372023401,Rochusmarkt-Nähe: geräumige Altbauwohnung - Hoflage - befristet,"Wien, 03. Bezirk, Landstraße",1030,1700,3,116,Wien,Wien,1.0,2,Wohnung,2024-11-03T16:17:00Z,1700.0,"Beatrixgasse, Neulinggasse"
+1944879853,Gemeindewohnung Direktvergabe Helle 2 Zimmerwohnung VMS bis 30.09.2024,"Wien, 16. Bezirk, Ottakring",1160,540,2,54,Wien,Wien,1.0,1,Wohnung,2024-11-03T16:13:00Z,540.0,Maroltingergasse 19-25
+1190258936,Charmante 2-Zimmer Wohnung im Herzen von Oberdöbling,"Wien, 19. Bezirk, Döbling",1190,995,2,50,Wien,Wien,1.0,2,Wohnung,2024-11-03T16:11:00Z,995.0,Arbesbachgasse/Obkirchergasse
+1593267957,"Lichtdurchflutete, attraktive Neubauwohnung mit Saarpark Blick","Wien, 19. Bezirk, Döbling",1190,990,0,56,Wien,Wien,N/A,1. Stock,Wohnung,2024-11-03T16:08:00Z,990.0,Ruthgasse 1/ Saarplatz 11
+1519362483,2-Zimmerwohnung in 1180 Wien mit Lift zu vermieten,"Wien, 18. Bezirk, Währing",1180,1253.22,2,61,Wien,Wien,1.0,3,Wohnung,2024-11-03T16:05:00Z,1253.22,N/A
+1216278105,Großzügige 2-Zimmer Wohnung in Dornbach,"Wien, 17. Bezirk, Hernals",1170,1400,2,90,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T16:02:00Z,1400.0,Zwerngasse
 1119928113,"Charmante, frisch sanierte Wohnung in Top-Zustand","Wien, 02. Bezirk, Leopoldstadt",1020,2200,3,74,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T15:59:00Z,2200.0,Castellezgasse 28
 1421869385,Erstbezug in Top-Lage: Moderne möblierte 2-Zimmer-Wohnung in 1090 Wien zur Miete,"Wien, 09. Bezirk, Alsergrund",1090,942.21,2,37,Wien,Wien,1.0,4,Wohnung,2024-11-03T15:54:00Z,942.21,N/A
 1658511528,Helle und ruhige Wohnung in Wien Simmering - ideal für Studierende,"Wien, 11. Bezirk, Simmering",1110,600,1,32,Wien,Wien,1.0,3,Wohnung,2024-11-03T15:51:00Z,600.0,Braunhubergasse
@@ -318,7 +325,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 813297785,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,2,Wohnung,2024-11-01T17:25:00Z,829.0,Podhagskygasse 12
 1898436012,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,999,2,52,Wien,Wien,1.0,1,Wohnung,2024-11-01T17:23:00Z,999.0,Podhagskygasse 12
 1784328719,nahe Hügelpark: Balkonwohnung - befristet auf 5 Jahre,"Wien, 13. Bezirk, Hietzing",1130,1272.27,2,62,Wien,Wien,1.0,1,Wohnung,2024-11-01T17:17:00Z,1272.27,Münichreiterstraße
-1964385298,Terrassenwohnung beim Servitenviertel - unbefristet,"Wien, 09. Bezirk, Alsergrund",1090,1626.92,3,80,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T17:17:00Z,1626.92,"Rögergasse, Porzellangasse"
 1426066826,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,1,Wohnung,2024-11-01T17:17:00Z,829.0,Podhagskygasse 12
 1630202996,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,1,Wohnung,2024-11-01T17:15:00Z,829.0,Podhagskygasse 12
 1124649799,"Neubau mit 15m2 Balkon direkt am Park am Hundsturm & Ubahn, geräumige 2 Zimmer, 72m2, 6. Liftstock","Wien, 05. Bezirk, Margareten",1050,1330,2,70,Wien,Wien,1.0,6,Wohnung,2024-11-01T17:14:00Z,1330.0,Am Hundsturm 5
@@ -343,8 +349,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1500069469,Ottakring - Jahrhundertwendehaus erstrahlt in neuem Glanz,"Wien, 16. Bezirk, Ottakring",1160,1444.2,2,52,Wien,Wien,1.0,1,Wohnung,2024-11-01T16:36:00Z,1444.2,N/A
 1417522169,WINTERAKTION - Erster Monat Mietfrei! Helle 2-Zimmer-Wohnung mit Balkon!,"Wien, 11. Bezirk, Simmering",1110,982.39,2,52,Wien,Wien,0.0,N/A,Wohnung,2024-11-01T16:35:00Z,982.39,N/A
 1861270583,Helle 4-Zimmer-Wohnung in Grünruhelage mit 2 Balkonen im wunderschönen Grinzing!,"Wien, 19. Bezirk, Döbling",1190,1749.99,4,92,Wien,Wien,1.0,1,Wohnung,2024-11-01T16:32:00Z,1749.99,Kaasgrabengasse
-1147759511,Topmoderne Traumwohnung mit 2 Balkonen an der Alten Donau in Ruhelage zu vermieten,"Wien, 21. Bezirk, Floridsdorf",1210,1490,3,89,Wien,Wien,1.0,4,Wohnung,2024-11-01T16:24:00Z,1490.0,Floridusgasse 60
-1985949887,"Sehr schöne, moderne und helle 3-Zimmer Wohnung mit 28 m² Balkon","Wien, 22. Bezirk, Donaustadt",1220,1498,3,66,Wien,Wien,1.0,5,Wohnung,2024-11-01T16:22:00Z,1498.0,Attemsgasse 44
 1764292079,"| HOCHWERTIGE MIETWOHNUNGEN | GRÖSSEN CA. 30M² - 92M² | AB 611EUR | ERSTBEZUG | AM MARCHFELDKANAL | PROJEKT ""MÜHLWEG - LEBEN AM WASSER""","Wien, 21. Bezirk, Floridsdorf",1210,951.59,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T12:27:00Z,N/A,Mühlweg
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T10:39:00Z,N/A,Dresdner Straße
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,942.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-30T03:59:00Z,N/A,Leopoldauer Straße
