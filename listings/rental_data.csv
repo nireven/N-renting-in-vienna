@@ -1,4 +1,8 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1738934484,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,994.99,2,53,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,994.99,N/A
+2095858096,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,945,2,49,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,945.0,N/A
+2043709744,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,945,2,51,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,945.0,N/A
+1150279217,*Neubaugasse* - Möblierte 2-Zimmer Neubauwohnung - Toplage!,"Wien, 07. Bezirk, Neubau",1070,1399,2,52,Wien,Wien,1.0,5,Wohnung,2024-11-02T12:25:00Z,1399.0,N/A
 1306600828,Exklusive Villenetage beim Pötzleinsdorfer Schlosspark ++ Terrasse mit Garten- und Stadtblick + Garagenplatz inklusive,"Wien, 18. Bezirk, Währing",1180,3500,6,217,Wien,Wien,1.0,3,Wohnung,2024-11-02T12:25:00Z,3500.0,Hockegasse
 844480360,Wohnen in Floridsdorf - 2-Zimmer-Wohnung mit Balkon und Garagenplatz Nähe Shopping City Nord & Klink Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,728.21,2,35,Wien,Wien,1.0,2,Wohnung,2024-11-02T12:25:00Z,728.21,Siemensstraße
 1229179400,"1020 Wien, Stuwerstrasse: zentral gelegene 3-Zimmer-ALTBAUTRAUMWOHNUNG, ca. 80 m2, langfristig zu vermieten","Wien, 02. Bezirk, Leopoldstadt",1020,1154,3,80,Wien,Wien,1.0,3,Wohnung,2024-11-02T12:25:00Z,1154.0,Stuwerstrasse
@@ -91,10 +95,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2067786301,Wunderschön sanierte 4 Zimmer Altbau-Mietwohnung - mit BALKON - 1 Gehminute zur U4 - 1140 Wien,"Wien, 14. Bezirk, Penzing",1140,2766.91,4,109,Wien,Wien,1.0,3,Wohnung,2024-11-01T19:32:00Z,2766.91,N/A
 1988129955,| NACHVERMIETUNG | LOGGIA | 4 ZIMMER | AB SOFORT VERFÜGBAR | MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1792.74,4,107,Wien,Wien,1.0,3,Wohnung,2024-11-01T19:32:00Z,1792.74,Fritz-Kandl-Gasse
 1176389705,| 4 ZIMMER | MARCHFELDKANAL | AB SOFORT | TOP LAGE,"Wien, 21. Bezirk, Floridsdorf",1210,1717.07,4,116,Wien,Wien,1.0,2,Wohnung,2024-11-01T19:32:00Z,1717.07,Fritz-Kandl-Gasse
-1845618241,ideal geschnittene 2-Zimmerwohnung,"Wien, 07. Bezirk, Neubau",1070,1130,2,58,Wien,Wien,1.0,N/A,Wohnung,2024-11-01T19:17:00Z,1130.0,Kaiserstrasse 85
-1649808479,Cityapartment in Toplage mit hofseitigem Fernblick - Neubau mit Balkon,"Wien, 12. Bezirk, Meidling",1120,1100,2,51,Wien,Wien,1.0,8,Wohnung,2024-11-01T19:02:00Z,1100.0,Rechte Wienzeile 229
-1331716560,Tolle 3-Zimmer in absolut ruhiger Lage *POG 81*. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,1139.61,3,69,Wien,Wien,1.0,2,Wohnung,2024-11-01T18:57:00Z,1139.61,Pogrelzstraße 81
-2091833819,| MARCHFELDKANAL | 3-ZIMMER | AB SOFORT | LOGGIA,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,3,99,Wien,Wien,1.0,2,Wohnung,2024-11-01T18:57:00Z,1381.14,Fritz-Kandl-Gasse
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-01T17:32:00Z,N/A,Pfalzgasse 29
 1764292079,"| HOCHWERTIGE MIETWOHNUNGEN | GRÖSSEN CA. 30M² - 92M² | AB 611EUR | ERSTBEZUG | AM MARCHFELDKANAL | PROJEKT ""MÜHLWEG - LEBEN AM WASSER""","Wien, 21. Bezirk, Floridsdorf",1210,951.59,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T12:27:00Z,N/A,Mühlweg
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T10:39:00Z,N/A,Dresdner Straße
@@ -102,6 +102,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1006870175,JOSEPH- Wohnraum findet Stadt,"Wien, 09. Bezirk, Alsergrund",1090,1215,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-29T17:06:00Z,N/A,Nordbergstraße 7- 9
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-29T15:25:00Z,N/A,Pius-Parsch-Platz
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-28T19:31:00Z,N/A,Kelsenstraße 5
+1872133360,"Top 2,5 Zimmer im 1160","Wien, 16. Bezirk, Ottakring",1160,750,2,52,Wien,Wien,1.0,3+ Aufzug,Wohnung,2024-11-03T19:12:00Z,750.0,Yppenplatz
+1300576365,Wohnung in 1140 Wien - Nachmieter gesucht!,"Wien, 14. Bezirk, Penzing",1140,979,2,49,Wien,Wien,1.0,5,Wohnung,2024-11-03T19:05:00Z,979.0,Spallartgasse
+1912194440,Wohnung mit Gartenblick,"Wien, 02. Bezirk, Leopoldstadt",1020,805,2,61,Wien,Wien,0.85,1,Wohnung,2024-11-03T18:58:00Z,805.0,Große Mohrengasse
+2063806069,Ruhige Dachgeschoss-Maisonette mit 15m2 Terrasse! Nähe Hauptbahnhof - JETZT ANFRAGEN,"Wien, 04. Bezirk, Wieden",1040,1348.72,3,73,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T18:56:00Z,1348.72,Schelleingasse 23
 827427738,4-Zimmer-Altbauwohnung - Erstbezug nach Renovierung,"Wien, 09. Bezirk, Alsergrund",1090,1203.76,4,81,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T18:55:00Z,1203.76,N/A
 946077925,1-Zimmer // Neubau - Erstbezug - 3min zur U1 Kagraner Platz,"Wien, 22. Bezirk, Donaustadt",1220,996.08,1,48,Wien,Wien,0.95,2,Wohnung,2024-11-03T18:43:00Z,996.08,Donaufelder Straße 230
 1166381759,ZWISCHEN NASCHMARKT UND HAUS DES MEERES - HELLE UND FREUNDLICHE 3 ZIMMER-TERRASSENWOHNUNG MIT GARAGENPLATZ,"Wien, 06. Bezirk, Mariahilf",1060,1489.33,3,56,Wien,Wien,1.0,N/A,Wohnung,2024-11-03T18:25:00Z,1489.33,N/A
@@ -298,7 +302,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1345150223,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,875,2,47,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,875.0,N/A
 908155255,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,935,2,53,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,935.0,N/A
 894432071,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,1024.99,1,53,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,1024.99,N/A
-1738934484,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,994.99,2,53,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,994.99,N/A
-2095858096,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,945,2,49,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,945.0,N/A
-2043709744,Wohnen mit Nähe zur Donau + Anbindung in Wien Brigittenau,"Wien, 20. Bezirk, Brigittenau",1200,945,2,51,Wien,Wien,1.0,N/A,Wohnung,2024-11-02T12:26:00Z,945.0,N/A
-1150279217,*Neubaugasse* - Möblierte 2-Zimmer Neubauwohnung - Toplage!,"Wien, 07. Bezirk, Neubau",1070,1399,2,52,Wien,Wien,1.0,5,Wohnung,2024-11-02T12:25:00Z,1399.0,N/A
