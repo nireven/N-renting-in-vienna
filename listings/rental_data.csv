@@ -1,4 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+725225108,"Wunderschöne provisionsfreie Wohnung inkl. Pool, Sauna, Fitness, Urban Gardening und Balkon","Wien, 23. Bezirk, Liesing",1230,990,2,53,Wien,Wien,1.0,7,Wohnung,2024-11-03T10:44:00Z,990.0,"Helene-Lieser-Platz 2, Stiege 3"
+1712339936,TOWER APARTMENT fully furnished with roof Swimmingpool!,"Wien, 22. Bezirk, Donaustadt",1220,1500,2,46,Wien,Wien,1.0,22,Wohnung,2024-11-03T10:35:00Z,1500.0,Dr Adolf Schärf Platz
+1438013635,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1289,3,54,Wien,Wien,1.0,0,Wohnung,2024-11-03T10:32:00Z,1289.0,Pfalzgasse 29
 1904606435,INA - Pärchenwohnung mit Freifläche nähe Wasserspielplatz Leberberg,"Wien, 11. Bezirk, Simmering",1110,749.71,2,42,Wien,Wien,1.0,1,Wohnung,2024-11-03T10:24:00Z,749.71,Rosa-Jochmann-Ring
 1343024311,Stadt & Natur im Einklang: Helle 2-Zimmer Erstbezug-Wohnung im Wohnquartier Wildgarten,"Wien, 12. Bezirk, Meidling",1120,890,2,49,Wien,Wien,0.96,1,Wohnung,2024-11-03T10:09:00Z,890.0,Lore-Kutschera-Weg 12
 1229422444,* NAHE THERESA-TAUSCHER-PARK * RICHTUNG SÜD-NORD-OST * 10 JAHRE MIETDAUER * 3-ZIMMER * NEUBAUWOHNUNG * 2 TERRASSEN * 6. STOCK * NIEDRIGENERGIEHAUS,"Wien, 21. Bezirk, Floridsdorf",1210,1393.08,3,77,Wien,Wien,1.0,6,Wohnung,2024-11-03T10:04:00Z,1393.08,Leopoldauer Straße
@@ -33,9 +36,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1069836713,TEMPORARY LIVING VIENNA (JANUARY - APRIL 2025),"Wien, 17. Bezirk, Hernals",1170,1100,2,50,Wien,Wien,1.0,3,Wohnung,2024-11-02T22:38:00Z,1100.0,Ottakringer Strasse 52
 1430281418,"LEO 131 - Neubau mit großem Balkon und Abstellraum! Nahe Siemens, Siemensstraße und Teresa-Tauscher-Park","Wien, 21. Bezirk, Floridsdorf",1210,937.6,2,52,Wien,Wien,1.0,4,Wohnung,2024-11-02T21:32:00Z,937.6,Leopoldauer Straße 131
 1596963444,"LEO 131 - tolle Neubauwohnung mit Abstellraum und sonnigem Balkon! Nahe Siemens, Siemensstraße Bahnhof und Teresa-Tauscher-Park","Wien, 21. Bezirk, Floridsdorf",1210,812.53,2,45,Wien,Wien,1.0,3,Wohnung,2024-11-02T21:32:00Z,812.53,Leopoldauer Straße 131
-984447689,2-Zimmer-Wohnung + Fernblick zum KAHLENBERG + Terrasse + NEUBAU + Provisionsfrei,"Wien, 20. Bezirk, Brigittenau",1200,1090,2,55,Wien,Wien,0.0,8,Wohnung,2024-11-02T21:03:00Z,1090.0,N/A
-2093421469,Gemeinde Wohnung direkt Vergabe Wien 1220 Vormerkschein ab den 30.9.2024,"Wien, 22. Bezirk, Donaustadt",1220,615,2,52,Wien,Wien,0.95,1,Wohnung,2024-11-02T20:58:00Z,615.0,Viktor-Kaplan-Straße 7
-1873385092,*30. Stock* Mietwohnung - Nachmieter gesucht,"Wien, 10. Bezirk, Favoriten",1100,988.44,2,58,Wien,Wien,0.95,30,Wohnung,2024-11-02T20:55:00Z,988.44,Laaer-Berg-Straße
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,830,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-02T04:23:00Z,N/A,Wagramer Straße
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-01T17:32:00Z,N/A,Pfalzgasse 29
 1919567062,Wohnen auf der Schmelz,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-01T14:54:00Z,N/A,Schanzstraße
@@ -54,6 +54,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 592227469,WOHNQUARTIER WILDGARTEN - Familienfreundliches Wohnen auf der Sonnenseite Wiens direkt am Rosenhügel,"Wien, 12. Bezirk, Meidling",1120,810,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-29T08:54:00Z,N/A,Mona-Lisa-Steiner-Weg
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-28T19:31:00Z,N/A,Kelsenstraße 5
 990581794,ERSTBEZUG | PERLE,"Wien, 17. Bezirk, Hernals",1170,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-22T09:03:00Z,N/A,N/A
+1104390456,All IN TARIF! PROVISIONSFREI! Koffer packen und einziehen! Kurzzeitmiete Auhofstraße,"Wien, 13. Bezirk, Hietzing",1130,1099,2,35,Wien,Wien,0.0,N/A,Wohnung,2024-11-04T20:50:00Z,1099.0,Auhofstraße 210
+1268258243,"Donaumarina, Bestlage Donau & Innenstadt, direkt an der U-Bahn, 1 Zimmer mit Fitness, Sauna, etc.","Wien, 02. Bezirk, Leopoldstadt",1020,1350,2,55,Wien,Wien,1.0,7,Wohnung,2024-11-04T20:48:00Z,1350.0,Wehlistraße 330/stiege 3
 1844931161,Große Altbauwohnung nahe Schönbrunn,"Wien, 12. Bezirk, Meidling",1120,1990,4,146,Wien,Wien,0.0,1. Etage,Wohnung,2024-11-04T20:44:00Z,1990.0,N/A
 1157277931,Top Wohnung Nähe U3 Enkplatz,"Wien, 11. Bezirk, Simmering",1110,890,2,38,Wien,Wien,1.0,3,Wohnung,2024-11-04T20:42:00Z,890.0,Mautner-Markhof-Gasse 72
 1256864580,Wundervolle 3 Zimmerwohnung mit Terrasse und Garten nahe Obkirchermarkt!,"Wien, 19. Bezirk, Döbling",1190,1792.85,3,76,Wien,Wien,1.0,0,Wohnung,2024-11-04T20:41:00Z,1792.85,N/A
@@ -254,6 +256,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1760279891,"Apartmenthaus Fröhlichgasse 1-Raum-Apartment KEINE Provision, KEINE Vermittlungsgebühr, KEINE Ablöse!","Wien, 23. Bezirk, Liesing",1230,780,1,52,Wien,Wien,1.0,N/A,Wohnung,2024-11-04T14:29:00Z,780.0,Karl-Sarg-Gasse 5-9
 2090599211,"Apartmenthaus Brünner Straße 1-ZImmer-Apartment KEINE Provision, KEINE Vermittlungsgebühr","Wien, 21. Bezirk, Floridsdorf",1210,520,1,37,Wien,Wien,0.0,N/A,Wohnung,2024-11-04T14:28:00Z,520.0,Brünner Straße 213
 1191376965,MÖBLIERTE CITY-WOHNUNG,"Wien, 08. Bezirk, Josefstadt",1080,2179.99,3,64,Wien,Wien,1.0,N/A,Wohnung,2024-11-04T14:28:00Z,2179.99,N/A
+2125977046,*NEUES PROJEKT* Urbanes Wohnen im Wildgarten ab 01.02.2025,"Wien, 12. Bezirk, Meidling",1120,N/A,5,97,Wien,Wien,1.0,0,Wohnung,2024-11-04T14:28:00Z,N/A,Wildgartenallee 17
 878707100,Zu vermieten: 4-Zimmer-Wohnung mit traumhaftem Ausblick und Garage,"Wien, 02. Bezirk, Leopoldstadt",1020,4542.88,4,130,Wien,Wien,1.0,2,Wohnung,2024-11-04T14:27:00Z,4542.88,N/A
 946632948,"Praktisch aufgeteilte 3-Zimmer-Wohnung mit Einbauküche, Gemeinschaftsgarten und günstigen Konditionen","Wien, 16. Bezirk, Ottakring",1160,916.72,3,80,Wien,Wien,1.0,HP,Wohnung,2024-11-04T14:25:00Z,916.72,Effingergasse 22
 1023529073,PROVISIONSFREI: 2 Zimmer Wohnung mit Balkon Nähe U6 Floridsdorf in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,1045.2,2,54,Wien,Wien,0.0,3,Wohnung,2024-11-04T14:21:00Z,1045.2,N/A
@@ -454,7 +457,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 915431798,ina - Wohnanlage am Leberberg : Top A3-46,"Wien, 11. Bezirk, Simmering",1110,799.05,2,46,Wien,Wien,1.0,3,Wohnung,2024-11-04T09:34:00Z,799.05,Rosa-Jochmann-Ring 16
 1773365340,ina ● Wohnanlage am Leberberg: B1-12,"Wien, 11. Bezirk, Simmering",1110,757.82,2,43,Wien,Wien,1.0,1,Wohnung,2024-11-04T09:34:00Z,757.82,Rosa-Jochmann-Ring 12-16 / Leberweg 11 12
 1372444054,Großzügige Atelierwohnung in ruhiger Lage mit Gartenbenutzung - U3 Hütteldorfer Straße,"Wien, 14. Bezirk, Penzing",1140,1541.67,4,170,Wien,Wien,1.0,0,Wohnung,2024-11-04T09:29:00Z,1541.67,Matznergasse
-1372444054,Großzügige Atelierwohnung in ruhiger Lage mit Gartenbenutzung - U3 Hütteldorfer Straße,"Wien, 14. Bezirk, Penzing",1140,1541.67,4,170,Wien,Wien,1.0,0,Wohnung,2024-11-04T09:29:00Z,1541.67,Matznergasse
 1983416397,Altbauwohntraum in TOP Lage - Erstbezug nach Sanierung im Herzen von Wien!,"Wien, 03. Bezirk, Landstraße",1030,2822.05,5,144,Wien,Wien,1.0,3,Wohnung,2024-11-04T09:25:00Z,2822.05,Reisnerstraße
 1156947572,Heller 5-Zimmerwohntraum mit Eigengarten!,"Wien, 21. Bezirk, Floridsdorf",1210,2168.34,5,111,Wien,Wien,1.0,0,Wohnung,2024-11-04T09:25:00Z,2168.34,Oskar-Grissemann-Straße
 1653805772,Karmelitermarkt - wunderschöne 2-Zimmer-Wohnung,"Wien, 02. Bezirk, Leopoldstadt",1020,1150,2,62,Wien,Wien,0.85,3,Wohnung,2024-11-04T09:18:00Z,1150.0,Floßgasse
@@ -652,5 +654,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1523476617,THE METROPOLITAN - Modern Living im belebten Sonnwendviertel! ++ 3-Zimmer mit Balkon!,"Wien, 10. Bezirk, Favoriten",1100,1650,3,80,Wien,Wien,1.0,1,Wohnung,2024-11-03T10:55:00Z,1650.0,Karl-Popper-Straße 5
 1558434982,New 2 room apartment with garden - U-Bahn-Stationen Gasometer & Zippererstraße in Fußweite,"Wien, 11. Bezirk, Simmering",1110,930,2,52,Wien,Wien,1.0,0,Wohnung,2024-11-03T10:55:00Z,930.0,Hallergasse 8
 1309819156,Familientraum in absoluter Ruhelage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,1748.76,3,111,Wien,Wien,1.0,4,Wohnung,2024-11-03T10:45:00Z,1748.76,Rosa-Jochmann-Ring
-725225108,"Wunderschöne provisionsfreie Wohnung inkl. Pool, Sauna, Fitness, Urban Gardening und Balkon","Wien, 23. Bezirk, Liesing",1230,990,2,53,Wien,Wien,1.0,7,Wohnung,2024-11-03T10:44:00Z,990.0,"Helene-Lieser-Platz 2, Stiege 3"
-1712339936,TOWER APARTMENT fully furnished with roof Swimmingpool!,"Wien, 22. Bezirk, Donaustadt",1220,1500,2,46,Wien,Wien,1.0,22,Wohnung,2024-11-03T10:35:00Z,1500.0,Dr Adolf Schärf Platz
