@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1296365609,"PROVISIONSFREI für den Mieter! Baumannstraße, Zentrumslage, repräsentative 186m² Altbauhauptmiete, nächst U3/U4","Wien, 03. Bezirk, Landstraße",1030,2998,4,186,Wien,Wien,0.0,3,Wohnung,2024-11-07T09:08:00Z,2998.0,Baumannstraße 3
 1500561545,"LEO 131 - Sonnige Süd-Balkon Wohnung mit Innenhofausrichtung! Gute Anbindung nach Floridsdorf, nahe Siemens und Teresa-Tauscher-Park","Wien, 21. Bezirk, Floridsdorf",1210,874.85,2,45,Wien,Wien,1.0,2,Wohnung,2024-11-07T08:56:00Z,874.85,Leopoldauer Straße 131
 850877294,"ruhige, neu sanierte 4-Zimmer-Wohnung mit Terrasse, mitten in der Fußgängerzone","Wien, 06. Bezirk, Mariahilf",1060,2556.27,4,138,Wien,Wien,1.0,0,Wohnung,2024-11-07T08:56:00Z,2556.27,Mariahilfer Straße 49
 1185686201,Unbefristet: Elegante 4-Zimmer-Altbau-Wohnung mit Balkon in bester City-Lage,"Wien, 01. Bezirk, Innere Stadt",1010,2995,4,120,Wien,Wien,1.0,1,Wohnung,2024-11-07T08:56:00Z,2995.0,Marc-Aurel-Straße
@@ -21,11 +22,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 964294730,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,2,Wohnung,2024-11-07T08:05:00Z,829.0,Pfalzgasse 29
 2104181788,"Nähe Einsiedlerpark, Hell & freundlich, neue Küche, Schlafzimmer in den Innenhof,unbefristet","Wien, 05. Bezirk, Margareten",1050,676.17,2,45,Wien,Wien,1.0,1,Wohnung,2024-11-07T07:55:00Z,676.17,N/A
 2051554620,Charmante Altbauwohnung im Herzen Döblings,"Wien, 19. Bezirk, Döbling",1190,1800,4,98,Wien,Wien,1.0,N/A,Wohnung,2024-11-07T07:54:00Z,1800.0,Medlergasse
-1332242502,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,919,2,49,Wien,Wien,1.0,3,Wohnung,2024-11-07T07:47:00Z,919.0,Pfalzgasse 29
-1336187972,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,909,2,46,Wien,Wien,1.0,2,Wohnung,2024-11-07T07:45:00Z,909.0,Pfalzgasse 29
-1881694930,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,38,Wien,Wien,1.0,1,Wohnung,2024-11-07T07:45:00Z,829.0,Pfalzgasse 29
-1133191041,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,1,Wohnung,2024-11-07T07:43:00Z,829.0,Pfalzgasse 29
-838689655,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,3,Wohnung,2024-11-07T07:41:00Z,829.0,Pfalzgasse 29
 1635107309,In der Stadt der Musik gelangt mit den DC Musicflats ...,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-06T17:32:00Z,N/A,Donau-City-Str. 13-13A
 1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.0,N/A,N/A,2024-11-06T13:27:00Z,N/A,N/A
 921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-06T10:37:00Z,N/A,Fritz-Kandl-Gasse
@@ -41,6 +37,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-04T10:15:00Z,N/A,Lienfeldergasse
 1547927887,ina - Wohnanlage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,749.83,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-31T17:04:00Z,N/A,Rosa-Jochmann-Ring 12-16 / Leberweg 11
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-10-28T19:31:00Z,N/A,Kelsenstraße 5
+891379571,"LEO 131 - Neubau-Gartenwohnung! - Nahe Siemens, Bahnhof und Teresa-Tauscher-Park","Wien, 21. Bezirk, Floridsdorf",1210,1184.41,3,65,Wien,Wien,1.0,0,Wohnung,2024-11-07T17:47:00Z,1184.41,Leopoldauer Straße 131
 1645599113,LEO 131 - Tolle Neubau-Wohnung nahe Siemens mit Blick über den Sportplatz! Abstellraum und Küche inklusive,"Wien, 21. Bezirk, Floridsdorf",1210,1166.03,3,70,Wien,Wien,1.0,2,Wohnung,2024-11-07T17:47:00Z,1166.03,Leopoldauer Straße 131
 796976195,Von Privat: Klimatisierte Traum-Wohnung im 4. Bezirk gegenueber Hauptbahnhof,"Wien, 04. Bezirk, Wieden",1040,1080,0,72,Wien,Wien,1.0,1,Wohnung,2024-11-07T17:45:00Z,1080.0,Suedtirolerplatz 9
 2008976846,"""ALL-INCLUSIVE-APARTMENT"" möbliert und mit Loggia im Sonnwendviertel","Wien, 10. Bezirk, Favoriten",1100,863.46,1,37,Wien,Wien,0.0,1,Wohnung,2024-11-07T17:37:00Z,863.46,N/A
@@ -240,7 +237,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1033595092,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,990.08,2,60,Wien,Wien,1.0,5,Wohnung,2024-11-07T12:25:00Z,990.08,Anni-Haider-Weg 3
 2094339658,PFALZGASSE 29 - ERSTBEZUG IN RUHELAGE: Wohnen und genießen: 4 Zimmer mit großzügigem Balkon,"Wien, 22. Bezirk, Donaustadt",1220,1508.99,4,74,Wien,Wien,1.0,2,Wohnung,2024-11-07T12:21:00Z,1508.99,Pfalzgasse 29
 836134213,Wohnen in Floridsdorf - 2-Zimmer-Wohnung mit Balkon und Garagenplatz Nähe Shopping City Nord & Klink Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,728.21,2,35,Wien,Wien,1.0,2,Wohnung,2024-11-07T12:20:00Z,728.21,Siemensstraße
-1480088428,helle 4 Zimmer Terrassenwohnung in Hietzinger Bestlage zu Mieten!,"Wien, 13. Bezirk, Hietzing",1130,3311,4,150,Wien,Wien,1.0,N/A,Wohnung,2024-11-07T12:20:00Z,3311.0,N/A
+1680819041,"Frisch sanierte DG-Maisonette mit Blick ins Grüne, Terrasse und Klimaanlage bei Schönbrunn","Wien, 12. Bezirk, Meidling",1120,1999,5,132,Wien,Wien,1.0,4,Wohnung,2024-11-09T07:43:00Z,1999.0,Bischoffgasse 7
 1996527596,360° TOUR // TERRASSEN - NEUBAUWOHNUNG IM COTTAGE,"Wien, 19. Bezirk, Döbling",1190,3499.99,6,172,Wien,Wien,1.0,2,Wohnung,2024-11-09T07:12:00Z,3499.99,N/A
 1026039343,"""2 Rooms, furnished - KEIN AIRBNB MÖGLICH""","Wien, 01. Bezirk, Innere Stadt",1010,1698,2,66,Wien,Wien,1.0,5,Wohnung,2024-11-09T07:12:00Z,1698.0,N/A
 907736766,360° TOUR // NUSSDORFER ALTBAUWOHNUNG,"Wien, 19. Bezirk, Döbling",1190,892.02,3,78,Wien,Wien,N/A,1,Wohnung,2024-11-09T07:12:00Z,892.02,N/A
@@ -440,7 +437,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1086497863,"Kurzzeitvermietung! Schön möblierte, sehr helle 2-Zimmer-Wohnung!","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,920,2,45,Wien,Wien,1.0,3,Wohnung,2024-11-08T14:55:00Z,920.0,Märzstraße 23
 1919567062,Wohnen auf der Schmelz,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-08T14:54:00Z,N/A,Schanzstraße
 2134039394,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1670.87,3,78,Wien,Wien,1.0,2,Wohnung,2024-11-08T14:51:00Z,1670.87,Linzer Straße
-1960095191,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1672.29,3,78,Wien,Wien,1.0,2,Wohnung,2024-11-08T14:51:00Z,1672.29,Linzer Straße
+1660070615,Repräsentatives Büro + kleiner Wohnung mit Balkon in super Lage! Provisionsfrei,"Wien, 10. Bezirk, Favoriten",1100,1409.99,3,68,Wien,Wien,0.0,1,Wohnung,2024-11-08T11:36:00Z,1409.99,N/A
 1761955625,Am schönen Platz! Wohnen in einer Gartenoase,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,0.0,N/A,Wohnung,2024-11-08T11:36:00Z,N/A,N/A
 1033823677,Lichtdurchflutete Balkonwohnung nur für Menschen ab 60! Provisionsfrei,"Wien, 23. Bezirk, Liesing",1230,1153.73,2,60,Wien,Wien,N/A,N/A,Wohnung,2024-11-08T11:36:00Z,1153.73,N/A
 1762179800,Sensationelle Kombination aus Wohnung und Büro! Sie werden begeistert sein.,"Wien, 10. Bezirk, Favoriten",1100,1520,3,79,Wien,Wien,0.0,2,Wohnung,2024-11-08T11:36:00Z,1520.0,N/A
@@ -640,7 +637,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1415933304,WUNDERSCHÖNE 1-ZIMMER-WOHNUNG IM 12. BEZIRK!,"Wien, 12. Bezirk, Meidling",1120,661.57,1,31,Wien,Wien,1.0,4,Wohnung,2024-11-07T18:15:00Z,661.57,Vivenotgasse 48
 1429712910,LEO 131 - Hochwertiger Neubau mit großem Eck-Balkon! Nahe Siemensstraße Bahnhof und Teresa-Tauscher-Park,"Wien, 21. Bezirk, Floridsdorf",1210,908.08,2,51,Wien,Wien,1.0,3,Wohnung,2024-11-07T17:47:00Z,908.08,Leopoldauer Straße 131
 2050964564,LEO 131 - Tolle Neubau-Wohnung mit Abend-Sonne und Abstellraum! Nahe Siemensstraße Bahnhof und Teresa-Tauscher-Park,"Wien, 21. Bezirk, Floridsdorf",1210,1247.77,3,75,Wien,Wien,1.0,3,Wohnung,2024-11-07T17:47:00Z,1247.77,Leopoldauer Straße 131
-891379571,"LEO 131 - Neubau-Gartenwohnung! - Nahe Siemens, Bahnhof und Teresa-Tauscher-Park","Wien, 21. Bezirk, Floridsdorf",1210,1184.41,3,65,Wien,Wien,1.0,0,Wohnung,2024-11-07T17:47:00Z,1184.41,Leopoldauer Straße 131
+1480088428,helle 4 Zimmer Terrassenwohnung in Hietzinger Bestlage zu Mieten!,"Wien, 13. Bezirk, Hietzing",1130,3311,4,150,Wien,Wien,1.0,N/A,Wohnung,2024-11-07T12:20:00Z,3311.0,N/A
 1859939417,Gemeindewohnung Direktvergabe 3 Zimmer,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,736,3,63,Wien,Wien,1.0,2,Wohnung,2024-11-07T12:20:00Z,736.0,Fünfhausgasse 14
 2118991252,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1426.64,3,88,Wien,Wien,1.0,4,Wohnung,2024-11-07T12:19:00Z,1426.64,Anni-Haider-Weg 3
 1272354856,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,990.08,2,60,Wien,Wien,1.0,4,Wohnung,2024-11-07T12:16:00Z,990.08,Anni-Haider-Weg 3
@@ -840,7 +837,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 913393564,Top Lage! wunderschöne 2-Zimmer-Wohnung mitten im 10. Bezirk!,"Wien, 10. Bezirk, Favoriten",1100,555.78,2,45,Wien,Wien,1.0,3.Stock,Wohnung,2024-11-07T09:13:00Z,555.78,Senefeldergasse 5
 819712721,Luxuriöser 2 Zimmer Erstbezug im 21. Bezirk,"Wien, 21. Bezirk, Floridsdorf",1210,1079.99,2,52,Wien,Wien,1.0,N/A,Wohnung,2024-11-07T09:10:00Z,1079.99,Floridusgasse
 2015473616,Traumlage Zieglergasse!! Neubauwohnung mit evon-Smart-Home-Technologie!!!,"Wien, 07. Bezirk, Neubau",1070,1375,2,52,Wien,Wien,0.0,2,Wohnung,2024-11-07T09:09:00Z,1375.0,N/A
-1296365609,"PROVISIONSFREI für den Mieter! Baumannstraße, Zentrumslage, repräsentative 186m² Altbauhauptmiete, nächst U3/U4","Wien, 03. Bezirk, Landstraße",1030,2998,4,186,Wien,Wien,0.0,3,Wohnung,2024-11-07T09:08:00Z,2998.0,Baumannstraße 3
+1960095191,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1672.29,3,78,Wien,Wien,1.0,2,Wohnung,2024-11-08T14:51:00Z,1672.29,Linzer Straße
 1403503913,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,979.03,2,52,Wien,Wien,1.0,1,Wohnung,2024-11-08T14:51:00Z,979.03,Linzer Straße
 955068289,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1249.8,2,57,Wien,Wien,1.0,2,Wohnung,2024-11-08T14:51:00Z,1249.8,Linzer Straße
 1803695044,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1594.79,3,76,Wien,Wien,1.0,2,Wohnung,2024-11-08T14:51:00Z,1594.79,Linzer Straße
@@ -1040,4 +1037,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 797205030,Provisionsfrei! Barrierefreie und lichtdurchflutete Seniorenwohnung in Oberlaa!,"Wien, 10. Bezirk, Favoriten",1100,1164.98,2,53,Wien,Wien,0.0,N/A,Wohnung,2024-11-08T11:36:00Z,1164.98,N/A
 1846793696,Provisionsfrei und unbefristet! Seniorenwohnung ab 60 - Ihr neues Zuhause in ländlicher Idylle,"Wien, 10. Bezirk, Favoriten",1100,1246.96,2,56,Wien,Wien,0.0,N/A,Wohnung,2024-11-08T11:36:00Z,1246.96,N/A
 1311491870,Perfekte Kombination aus Wohnung und Büro! Repräsentative Gartenlandschaft! Provisionsfrei,"Wien, 10. Bezirk, Favoriten",1100,1641.18,4,94,Wien,Wien,0.0,2,Wohnung,2024-11-08T11:36:00Z,1641.18,N/A
-1660070615,Repräsentatives Büro + kleiner Wohnung mit Balkon in super Lage! Provisionsfrei,"Wien, 10. Bezirk, Favoriten",1100,1409.99,3,68,Wien,Wien,0.0,1,Wohnung,2024-11-08T11:36:00Z,1409.99,N/A
