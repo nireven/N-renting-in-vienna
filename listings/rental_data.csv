@@ -1,4 +1,8 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1338545595,Charmante Neubauwohnung in zentraler Lage,"Wien, 05. Bezirk, Margareten",1050,949,2,50,Wien,Wien,1.0,1,Wohnung,2024-11-11T02:29:00Z,949.0,Gassergasse 32
+888413544,Moderne Neubauwohnung in zentraler Lage,"Wien, 05. Bezirk, Margareten",1050,849,2,43,Wien,Wien,1.0,0,Wohnung,2024-11-11T02:27:00Z,849.0,Gassergasse 32
+2038071977,WOHNEN ZWISCHEN NATUR UND STADT,"Wien, 22. Bezirk, Donaustadt",1220,1799,2,52,Wien,Wien,0.9,1,Wohnung,2024-11-11T02:25:00Z,1799.0,N/A
+2122384275,LICHTDURCHFLUTETER WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,1669,2,61,Wien,Wien,0.9,1,Wohnung,2024-11-11T02:25:00Z,1669.0,N/A
 1336936329,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1463.35,3,88,Wien,Wien,1.0,0,Wohnung,2024-11-11T00:38:00Z,1463.35,Anni-Haider-Weg 3
 1899736815,WG Eignung: Sanierte 2 Zimmer-Wohnung PLUS Ess-Küche,"Wien, 20. Bezirk, Brigittenau",1200,974.37,2,76,Wien,Wien,1.0,N/A,Wohnung,2024-11-11T00:38:00Z,974.37,N/A
 1286632718,Wohnung,"Wien, 03. Bezirk, Landstraße",1030,412,1,30,Wien,Wien,1.0,1,Wohnung,2024-11-11T00:07:00Z,412.0,Schlachthausgasse 40
@@ -94,8 +98,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 855170992,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,910.77,2,60,Wien,Wien,1.0,N/A,Wohnung,2024-11-10T15:27:00Z,910.77,Anni-Haider-Weg 3
 1250881894,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1021.29,2,61,Wien,Wien,1.0,0,Wohnung,2024-11-10T15:27:00Z,1021.29,Anni-Haider-Weg 3
 1163720601,"Wunderschöne 2-Zimmer-Wohnung Toplage in 1030 Wien - Ideal für Studenten, Paare und kleine Familien!","Wien, 03. Bezirk, Landstraße",1030,1280,2,72,Wien,Wien,1.0,3,Wohnung,2024-11-10T15:19:00Z,1280.0,Hainburger Str. 26
-833386502,Gemeinede wohnung DIRKTVERGABE KAISERMÜHLEN Neben U1,"Wien, 22. Bezirk, Donaustadt",1220,663,3,62,Wien,Wien,0.9,4,Wohnung,2024-11-10T15:15:00Z,663.0,Schüttaustraße 4-10/
 1129462037,Kleine aber feine provisionsfreie Wohnung mit Ausblick auf den Kirschblütenpark,"Wien, 22. Bezirk, Donaustadt",1220,690,2,35,Wien,Wien,1.0,4,Wohnung,2024-11-10T15:15:00Z,690.0,Bonsaigasse 3
+833386502,Gemeinede wohnung DIRKTVERGABE KAISERMÜHLEN Neben U1,"Wien, 22. Bezirk, Donaustadt",1220,663,3,62,Wien,Wien,0.9,4,Wohnung,2024-11-10T15:15:00Z,663.0,Schüttaustraße 4-10/
 2093286640,"Gemeinde Wohnung, DIREKTVERGABR","Wien, 02. Bezirk, Leopoldstadt",1020,551,3,84,Wien,Wien,0.85,1,Wohnung,2024-11-10T15:06:00Z,551.0,Engerstraße 189/1/5
 1390175627,HELLE 2-ZIMMER WOHNUNG - IDEAL FÜR SINGLES ODER PAARE,"Wien, 14. Bezirk, Penzing",1140,730,2,37,Wien,Wien,1.0,3,Wohnung,2024-11-10T15:04:00Z,730.0,Kefergasse 22
 1585233117,Moderne Gartenwohnung nähe Marchfeldkankal - Erstbezug mit 2 Terrassen,"Wien, 21. Bezirk, Floridsdorf",1210,1490.01,0,82,Wien,Wien,1.0,0,Wohnung,2024-11-10T14:54:00Z,1490.01,N/A
@@ -359,7 +363,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1049565472,3-Zimmer Terrassenwohnung,"Wien, 20. Bezirk, Brigittenau",1200,1289,3,63,Wien,Wien,1.0,6,Wohnung,2024-11-09T03:32:00Z,1289.0,N/A
 2025814677,Exklusive Stadtwohnung mit Panoramablick in Wien-Donaustadt,"Wien, 22. Bezirk, Donaustadt",1220,2430,0,116,Wien,Wien,1.0,21,Wohnung,2024-11-09T03:29:00Z,2430.0,N/A
 901858595,Exklusive 3-Zimmer-Wohnung im Zentrum von Wien - 131m² und luxuriöser Ausstattung!,"Wien, 01. Bezirk, Innere Stadt",1010,2840.22,3,131,Wien,Wien,1.0,3,Wohnung,2024-11-09T03:22:00Z,2840.22,N/A
-1872819407,ERSTBEZUG - Exklusive Stadtwohnung mit Freifläche und Küche,"Wien, 10. Bezirk, Favoriten",1100,1173.75,2,45,Wien,Wien,1.0,3,Wohnung,2024-11-09T02:30:00Z,1173.75,Laxenburger Straße 2D
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-08T17:32:00Z,N/A,Pfalzgasse 29
 1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-08T04:52:00Z,N/A,N/A
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-07T10:39:00Z,N/A,Dresdner Straße
