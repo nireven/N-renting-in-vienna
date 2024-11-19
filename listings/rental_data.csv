@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+955605909,360 Grad RUNDGANG - Exklusiven Wohnkomfort erleben,"Wien, 03. Bezirk, Landstraße",1030,1150,2,49,Wien,Wien,1.0,7,Wohnung,2024-11-17T17:06:00Z,1150.0,Erdberger Lände 38
 1163260269,Hochwertig saniert - 3 Zimmer Wohnung mit Balkon in Bestlage 7. Bezirk,"Wien, 07. Bezirk, Neubau",1070,1990,3,118,Wien,Wien,1.0,1,Wohnung,2024-11-17T16:54:00Z,1990.0,N/A
 920138028,3- Zimmer Wohnung im Cottageviertel inklusive Loggia und Garagenstellplatz,"Wien, 18. Bezirk, Währing",1180,1350,3,84,Wien,Wien,0.0,2,Wohnung,2024-11-17T16:41:00Z,1350.0,N/A
 778319597,"*-10 Rabatt * ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,809,1,20,Wien,Wien,1.0,N/A,Wohnung,2024-11-17T16:35:00Z,809.0,Kelsenstraße 5
@@ -105,7 +106,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1581673972,Außergewöhnliches Terrassen-Penthouse in hervorragender Lage!,"Wien, 01. Bezirk, Innere Stadt",1010,7750,7,293,Wien,Wien,1.0,7,Wohnung,2024-11-17T03:46:00Z,7750.0,Reichsratsstraße
 1134205555,| OSTEN | BALKON | 3 ZIMMER | AB SOFORT | NIEDRIGENERGIEHAUS | GREGORYGASSE,"Wien, 23. Bezirk, Liesing",1230,1217.41,3,73,Wien,Wien,1.0,3,Wohnung,2024-11-17T03:36:00Z,1217.41,Gregorygasse
 1911632422,TOP LAGE MIT WEITBLICK AUF GANZ WIEN!,"Wien, 16. Bezirk, Ottakring",1160,2286.47,3,101,Wien,Wien,0.67,N/A,Wohnung,2024-11-17T02:23:00Z,2286.47,N/A
-2046814352,"Wohnung in zentraler Lage, nur für Singles - ab sofort","Wien, 03. Bezirk, Landstraße",1030,680,1,41,Wien,Wien,0.0,5,Wohnung,2024-11-17T01:20:00Z,680.0,Kölblgasse 12
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,830,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-16T04:23:00Z,N/A,Wagramer Straße
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-15T17:32:00Z,N/A,Pfalzgasse 29
 1919567062,Wohnen auf der Schmelz,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-15T14:54:00Z,N/A,Schanzstraße
@@ -122,6 +122,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 592227469,WOHNQUARTIER WILDGARTEN - Familienfreundliches Wohnen auf der Sonnenseite Wiens direkt am Rosenhügel,"Wien, 12. Bezirk, Meidling",1120,810,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-12T08:54:00Z,N/A,Mona-Lisa-Steiner-Weg
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-11T19:31:00Z,N/A,Kelsenstraße 5
 990581794,ERSTBEZUG | PERLE,"Wien, 17. Bezirk, Hernals",1170,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-05T09:03:00Z,N/A,N/A
+1129438122,Business Apartment for 3 month (1.1.2025-31.3.2025) all inclusive,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1350,2,40,Wien,Wien,1.0,1,Wohnung,2024-11-19T01:17:00Z,1350.0,Sturzgasse 45
 1967568197,**Preis inkl. Heizung und Warmwasser** - Charmante 2-Zimmer Wohnung in guter Lage in *1050 Wien*,"Wien, 05. Bezirk, Margareten",1050,830,2,56,Wien,Wien,1.0,EG,Wohnung,2024-11-19T00:44:00Z,830.0,Laurenzgasse 3
 896652795,Liebevolle 2-Zimmer Wohnung in *1050 Wien* - nahe Wiedner Hauptstraße *perfekte StudentInnenwohnung*,"Wien, 05. Bezirk, Margareten",1050,499,2,42,Wien,Wien,1.0,EG,Wohnung,2024-11-19T00:41:00Z,499.0,Kriehubergasse 19-21
 1204370999,SCHLOSS HETZENDORF Nähe + RUHELAGE + SONNIG + Terrassen + INKLUSIVE Garagenplatz!,"Wien, 12. Bezirk, Meidling",1120,1299,2,51,Wien,Wien,0.93,3 mit Lift,Wohnung,2024-11-19T00:13:00Z,1299.0,Jägerhausgasse
@@ -721,4 +722,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1401147363,3-Zimmerwohnung mit Balkon - PRIVAT,"Wien, 10. Bezirk, Favoriten",1100,1120,3,84,Wien,Wien,0.0,4,Wohnung,2024-11-17T17:30:00Z,1120.0,N/A
 1944479031,"Helle, sanierte 2-Zimmer-Wohnung nur 5 Gehminuten vom Liesinger Bahnhof entfernt","Wien, 23. Bezirk, Liesing",1230,697.92,2,65,Wien,Wien,1.0,2,Wohnung,2024-11-17T17:21:00Z,697.92,Perchtoldsdorfer Str. 21
 2121554559,ERSTBEZUG - beim Sachsenplatz / Nähe Augarten und Donaukanal,"Wien, 20. Bezirk, Brigittenau",1200,990,2,57,Wien,Wien,1.0,5,Wohnung,2024-11-17T17:16:00Z,990.0,Sachsenplatz
-955605909,360 Grad RUNDGANG - Exklusiven Wohnkomfort erleben,"Wien, 03. Bezirk, Landstraße",1030,1150,2,49,Wien,Wien,1.0,7,Wohnung,2024-11-17T17:06:00Z,1150.0,Erdberger Lände 38
