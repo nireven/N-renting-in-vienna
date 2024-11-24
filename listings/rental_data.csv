@@ -1,6 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-21T10:39:00Z,N/A,Dresdner Straße
-542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,942.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-20T03:59:00Z,N/A,Leopoldauer Straße
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-19T15:25:00Z,N/A,Pius-Parsch-Platz
 1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-18T17:26:00Z,N/A,Donau-City-Straße
 1658774693,"1,5 Zi. Gemeindewohnung Direktvergabe nur mit Wohnticket","Wien, 12. Bezirk, Meidling",1120,525,1,49,Wien,Wien,1.0,1,Wohnung,2024-11-24T23:14:00Z,525.0,Rotdornallee 3 (Ulmenhof)
@@ -240,7 +238,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 965681865,Tolle 2-Zimmer Wohnung mit schöner Raumaufteilung im Flair in the City - ab Jänner 2025. - WOHNTRAUM,"Wien, 23. Bezirk, Liesing",1230,1057.28,2,60,Wien,Wien,1.0,5,Wohnung,2024-11-23T18:56:00Z,1057.28,Scherbangasse 3
 1459659758,Erstbezug direkt bei der U3 Kendlerstraße im 5. OG!,"Wien, 16. Bezirk, Ottakring",1160,699,1,30,Wien,Wien,1.0,5,Wohnung,2024-11-23T18:56:00Z,699.0,Huttengasse 39-41
 1775367323,"Moderne, ruhige 2 Zimmerwohnung zu vermieten oder kaufen/ Nähe Millenium City","Wien, 20. Bezirk, Brigittenau",1200,950,2,52,Wien,Wien,0.95,2,Wohnung,2024-11-23T18:38:00Z,950.0,Vorgartenstraße 80
-998952886,"RUHIG, SONNIG, ERSTBEZUG, KOSTENGARANTIE BEI BETRIEBSKOSTEN","Wien, 19. Bezirk, Döbling",1190,1040,3,56,Wien,Wien,1.0,N/A,Wohnung,2024-11-23T18:35:00Z,1040.0,Kreindlgasse 14
+998952886,"RUHIG, SONNIG, ERSTBEZUG, KOSTENGARANTIE BEI BETRIEBSKOSTEN","Wien, 19. Bezirk, Döbling",1190,1040,0,56,Wien,Wien,1.0,N/A,Wohnung,2024-11-23T18:35:00Z,1040.0,Kreindlgasse 14
 979652708,"3-Zimmer-Wohnung in Wien, 1160 - WG-tauglich, sonnig und zentral","Wien, 16. Bezirk, Ottakring",1160,1175,3,86,Wien,Wien,0.95,2,Wohnung,2024-11-23T18:34:00Z,1175.0,Thaliastraße
 1259308334,Wunderschöne,"Wien, 21. Bezirk, Floridsdorf",1210,854.23,2,58,Wien,Wien,1.0,1,Wohnung,2024-11-23T18:27:00Z,854.23,Mengergasse 41-43
 1090913430,NEU SANIERT: Zauberhafte 2-Zimmer-Altbauwohnung beim Rochusmarkt,"Wien, 03. Bezirk, Landstraße",1030,1300,2,64,Wien,Wien,1.0,2,Wohnung,2024-11-23T18:25:00Z,1300.0,Landstraßer Hauptstraße 32
@@ -399,7 +397,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 901858595,Exklusive 3-Zimmer-Wohnung im Zentrum von Wien - 131m² und luxuriöser Ausstattung!,"Wien, 01. Bezirk, Innere Stadt",1010,2840.22,3,131,Wien,Wien,1.0,3,Wohnung,2024-11-23T03:22:00Z,2840.22,N/A
 1872819407,ERSTBEZUG - Exklusive Stadtwohnung mit Freifläche und Küche,"Wien, 10. Bezirk, Favoriten",1100,1173.75,2,45,Wien,Wien,1.0,3,Wohnung,2024-11-23T02:30:00Z,1173.75,Laxenburger Straße 2D
 1436288238,LICHTDURCHFLUTETER WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,1690,3,86,Wien,Wien,0.9,1,Wohnung,2024-11-23T02:27:00Z,1690.0,N/A
-901357220,Gemiende Wohnung,"Wien, 22. Bezirk, Donaustadt",1220,258.36,1,29,Wien,Wien,0.95,2,Wohnung,2024-11-23T00:18:00Z,258.36,Donaustadtstraße 44
-1946714333,Wohnen im Ambassy,"Wien, 03. Bezirk, Landstraße",1030,2500,3,74,Wien,Wien,1.0,5,Wohnung,2024-11-23T00:01:00Z,2500.0,Beatrixgasse 27
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,798.23,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-22T17:32:00Z,N/A,Pfalzgasse 29
 1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-22T04:52:00Z,N/A,N/A
+1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-21T10:39:00Z,N/A,Dresdner Straße
+542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,942.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-20T03:59:00Z,N/A,Leopoldauer Straße
