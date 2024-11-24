@@ -1,7 +1,9 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-21T10:39:00Z,N/A,Dresdner Straße
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,942.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-20T03:59:00Z,N/A,Leopoldauer Straße
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-19T15:25:00Z,N/A,Pius-Parsch-Platz
 1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-18T17:26:00Z,N/A,Donau-City-Straße
+1008892995,"2-Zimmer-Wohnung, Teilmöbiert, privat, 6. Bezirk (Mariahilf)","Wien, 06. Bezirk, Mariahilf",1060,873,2,45,Wien,Wien,0.88,1,Wohnung,2024-11-24T23:06:00Z,873.0,Mariahilfer Gürtel 12
 1928666029,Ruhige Neubauwohnung - gartenseitiger Balkon - moderne Einbauküche - gut aufgeteilt,"Wien, 10. Bezirk, Favoriten",1100,845,2,43,Wien,Wien,1.0,1,Wohnung,2024-11-24T22:28:00Z,845.0,Alxingergasse
 1478136998,"Möblierte 2,5-Zimmer-Wohnung mit Balkon und Parkplatz im 16. Bezirk","Wien, 16. Bezirk, Ottakring",1160,1100,3,65,Wien,Wien,0.95,4,Wohnung,2024-11-24T22:13:00Z,1100.0,Albrechskreithgasse
 1547382281,Letzte Chance!!! Ohne Ablöse!! Direktvergabe Gemeinde Wohnung in 18 Bez.,"Wien, 18. Bezirk, Währing",1180,990,5,94,Wien,Wien,0.0,EG,Wohnung,2024-11-24T22:09:00Z,990.0,N/A
@@ -143,8 +145,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 869974245,Gemeindewohnung mit VMD bis 31.10.2024 für 3 Zimmer,"Wien, 10. Bezirk, Favoriten",1100,586,3,58,Wien,Wien,1.0,3,Wohnung,2024-11-24T13:19:00Z,586.0,Davidgasse 76-80
 2133930286,(reserviert) Gartenwohnung,"Wien, 13. Bezirk, Hietzing",1130,1058,2,55,Wien,Wien,0.98,0,Wohnung,2024-11-24T12:44:00Z,1058.0,Preyergasse
 1624698448,3 Zimmer Wohnung in Zentraler Lage,"Wien, 03. Bezirk, Landstraße",1030,1300,3,80,Wien,Wien,1.0,8,Wohnung,2024-11-24T12:18:00Z,1300.0,Kleistgasse 23
-1713625245,Attraktiver Erstbezug in Ruhelage und guter Verkehrsanbindung,"Wien, 23. Bezirk, Liesing",1230,845,2,46,Wien,Wien,0.95,2,Wohnung,2024-11-24T12:12:00Z,845.0,Erlaaer Straße
 1887682130,(reserviert) All IN TARIF! PROVISIONSFREI! Koffer packen und einziehen! Wohnung voll Möbliert,"Wien, 13. Bezirk, Hietzing",1130,710,2,32,Wien,Wien,1.0,N/A,Wohnung,2024-11-24T12:12:00Z,710.0,Hetzendorferstrasse 156
+1713625245,Attraktiver Erstbezug in ruhiger Gegend mit guter Verkehrsanbindung,"Wien, 23. Bezirk, Liesing",1230,845,2,46,Wien,Wien,0.95,2,Wohnung,2024-11-24T12:12:00Z,845.0,Erlaaer Straße
 950401757,| ERSTBEZUG | 2 ZIMMER | 5. OG | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,1075,2,56,Wien,Wien,1.0,5,Wohnung,2024-11-24T12:05:00Z,1075.0,Dresdner Straße
 1935289590,| ERSTBEZUG | 2 ZIMMER | 5. OG | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,1045.01,2,53,Wien,Wien,1.0,5,Wohnung,2024-11-24T12:05:00Z,1045.01,Dresdner Straße
 1504590070,| ERSTBEZUG | 2 ZIMMER | 5. OG | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,1045.01,2,53,Wien,Wien,1.0,5,Wohnung,2024-11-24T12:05:00Z,1045.01,Dresdner Straße
@@ -401,4 +403,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1960364504,"Frisch sanierte 3Zi Wohnung im Zentrum des 3. Bezirks, viele Restaurants und Einkaufsmöglichkeiten","Wien, 03. Bezirk, Landstraße",1030,1360,3,59,Wien,Wien,N/A,2,Wohnung,2024-11-22T23:55:00Z,1360.0,Erdbergstraße 118
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,798.23,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-22T17:32:00Z,N/A,Pfalzgasse 29
 1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-22T04:52:00Z,N/A,N/A
-1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-21T10:39:00Z,N/A,Dresdner Straße
