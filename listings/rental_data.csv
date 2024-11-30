@@ -98,6 +98,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 740907094,DANUBEVIEW,"Wien, 22. Bezirk, Donaustadt",1220,870,0,N/A,Wien,Wien,0.95,N/A,N/A,2024-11-25T16:17:00Z,N/A,Wagramer Straße 2A
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2024-11-25T11:19:00Z,N/A,N/A
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-25T10:15:00Z,N/A,Lienfeldergasse
+884410276,Provisionsfrei! Traumwohnung nahe U1 mit großem Balkon und optionalem Stellplatz!,"Wien, 22. Bezirk, Donaustadt",1220,999,2,77,Wien,Wien,0.95,2,Wohnung,2024-11-30T19:54:00Z,999.0,Breitenleerstraße 50/ 209
 1987107174,Hochwertige 3-Zimmer-Neubauwohnung mit Balkon - Nähe U4 Friedensbrücke,"Wien, 09. Bezirk, Alsergrund",1090,2348.99,3,77,Wien,Wien,1.0,8,Wohnung,2024-11-30T19:36:00Z,2348.99,Nordbergstraße 13
 1726926140,BEZIEHBAR AB 01.02.2025 - NACHMIETERSUCHE - TOLLE 2 ZIMMER WOHNUNG MIT GARTEN UND TERRASSE! - JETZT ZUSCHLAGEN,"Wien, 23. Bezirk, Liesing",1230,1099.24,2,61,Wien,Wien,1.0,0,Wohnung,2024-11-30T18:57:00Z,1099.24,Draschestraße 10
 965681865,Tolle 2-Zimmer Wohnung mit schöner Raumaufteilung im Flair in the City - ab Jänner 2025. - WOHNTRAUM,"Wien, 23. Bezirk, Liesing",1230,1057.28,2,60,Wien,Wien,1.0,5,Wohnung,2024-11-30T18:56:00Z,1057.28,Scherbangasse 3
@@ -297,7 +298,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1060567690,"Wohnung im Herzen 7. Bezirk, 71m2","Wien, 07. Bezirk, Neubau",1070,1370,2,71,Wien,Wien,1.0,1,Wohnung,2024-11-29T20:17:00Z,1370.0,Siebensterngasse
 940113281,"Neubauprojekt ""JOSEPH"": Dein Traum-Erstbezug mit hohem Wohnkomfort - viele Extras inkludiert","Wien, 09. Bezirk, Alsergrund",1090,2439,4,88,Wien,Wien,1.0,6,Wohnung,2024-11-29T19:50:00Z,2439.0,Nordbergstraße 7-9
 1184930529,"Neubauprojekt ""JOSEPH"": Dein Traum-Erstbezug mit hohem Wohnkomfort - viele Extras inkludiert","Wien, 09. Bezirk, Alsergrund",1090,2539.01,4,88,Wien,Wien,1.0,7,Wohnung,2024-11-29T19:46:00Z,2539.01,Nordbergstraße 7-9
-1784234321,Geräumige und WG-taugliche 4-Zimmer-Neubauwohnung inkl. Abstellraum & mit Balkon - Nähe U4 Friedensbrücke,"Wien, 09. Bezirk, Alsergrund",1090,2659.01,4,94,Wien,Wien,1.0,6,Wohnung,2024-11-29T19:42:00Z,2659.01,Nordbergstraße 13
 1602628727,Geräumige und WG-taugliche 4-Zimmer-Neubauwohnung inkl. Abstellraum & mit Balkon - Nähe U4 Friedensbrücke,"Wien, 09. Bezirk, Alsergrund",1090,2790,4,94,Wien,Wien,1.0,8,Wohnung,2024-11-29T19:40:00Z,2790.0,Nordbergstraße 13
 1464416716,Geräumige und WG-taugliche 4-Zimmer-Neubauwohnung inkl. Abstellraum & mit Balkon - Nähe U4 Friedensbrücke,"Wien, 09. Bezirk, Alsergrund",1090,2790,4,94,Wien,Wien,1.0,7,Wohnung,2024-11-29T19:39:00Z,2790.0,Nordbergstraße 13
 914904782,Naturnah Wohnen in deiner neuen 3-Zimmerwohnung mit Balkon im 1. OG ab Februar,"Wien, 12. Bezirk, Meidling",1120,1042,3,61,Wien,Wien,1.0,1,Wohnung,2024-11-29T19:36:00Z,1042.0,Wildgartenallee 23
@@ -498,6 +498,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2038587487,Vermiete Wohnung im 12ten !,"Wien, 12. Bezirk, Meidling",1120,950,3,65,Wien,Wien,1.0,2,Wohnung,2024-11-29T13:29:00Z,950.0,Krichbaumgasse 19
 2005959982,Musicflats - Wohnen wo Musik entsteht - Nähe U1 Station Neue Donau,"Wien, 22. Bezirk, Donaustadt",1220,840,2,31,Wien,Wien,1.0,1,Wohnung,2024-11-29T13:28:00Z,840.0,Donau-City-Straße
 1863744243,"Neubauwohnung perfekt für Singles geeignet - Nähe ""UNO City""","Wien, 22. Bezirk, Donaustadt",1220,870,1,34,Wien,Wien,1.0,4,Wohnung,2024-11-29T13:28:00Z,870.0,Wagramer Straße
+1863744243,"Neubauwohnung perfekt für Singles geeignet - Nähe ""UNO City""","Wien, 22. Bezirk, Donaustadt",1220,870,1,34,Wien,Wien,1.0,4,Wohnung,2024-11-29T13:28:00Z,870.0,Wagramer Straße
 1095064945,Neubauwohnung mit Fußbodenheizung im Winter und Temperierung im Sommer - Nähe Alte Donau,"Wien, 22. Bezirk, Donaustadt",1220,1280,2,44,Wien,Wien,1.0,7,Wohnung,2024-11-29T13:28:00Z,1280.0,Wagramer Straße
 1596289835,"Exklusive Erstbezug-Wohnung mit Garten, Terrasse und 2x Stellplätzen in 1230 Wien - Luxus pur!","Wien, 23. Bezirk, Liesing",1230,4785,4,150,Wien,Wien,1.0,0,Wohnung,2024-11-29T13:27:00Z,4785.0,Rosenhügelstraße 208
 1037771371,Wo Midcentury-Modern auf minimalistische Raffinesse trifft: Ihre Traumwohnung im 7. Bezirk,"Wien, 07. Bezirk, Neubau",1070,1900,2,114,Wien,Wien,1.0,2,Wohnung,2024-11-29T13:27:00Z,1900.0,N/A
@@ -697,4 +698,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1823834693,3-Zimmer-Wohung im Herzen Wiens mit Blick auf die Karlskirche - zu mieten in 1010 Wien,"Wien, 01. Bezirk, Innere Stadt",1010,3101.91,3,142,Wien,Wien,0.73,3,Wohnung,2024-11-29T09:19:00Z,3101.91,N/A
 916004346,Unique apartment with 3 rooms and a large balcony in a perfect location!,"Wien, 22. Bezirk, Donaustadt",1220,1889.99,3,71,Wien,Wien,1.0,2,Wohnung,2024-11-29T09:16:00Z,1889.99,Wagramer Straße 2A
 1338535774,Moderne und lichtdurchflutete Traumwohnung an der Donau!,"Wien, 22. Bezirk, Donaustadt",1220,1379.98,2,49,Wien,Wien,1.0,6,Wohnung,2024-11-29T09:12:00Z,1379.98,Wagramer Straße 2A
-1214407127,Hochwertiger Erstbezug in Kaisermühlen - direkt am Wasser & der U1 - mit Fußbodenkühlung,"Wien, 22. Bezirk, Donaustadt",1220,1419.99,2,47,Wien,Wien,1.0,7,Wohnung,2024-11-29T09:10:00Z,1419.99,Wagramer Straße 2A
