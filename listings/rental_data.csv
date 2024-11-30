@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1211475129,Nette-2-Zimmer-Wohnung,"Wien, 19. Bezirk, Döbling",1190,816.46,2,47,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T06:48:00Z,816.46,Aslangasse 14
+1859817148,"3 Zi-Dachgeschoss Wohnung im grünen Bezirk Donaustadt mit Aufzug, U2 Aspernstraße 5 Min. zu Fuß","Wien, 22. Bezirk, Donaustadt",1220,1820,3,100,Wien,Wien,1.0,4,Wohnung,2024-11-29T05:43:00Z,1820.0,Mühlhausergasse 5
 1149385936,PAUL&INA ● Erstbezug ● Top 2.53,"Wien, 14. Bezirk, Penzing",1140,1475,4,76,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T05:39:00Z,1475.0,Linzer Straße 104
 1504513062,PAUL&INA ● Erstbezug ● Top 2.01,"Wien, 14. Bezirk, Penzing",1140,1270,3,66,Wien,Wien,1.0,1,Wohnung,2024-11-29T05:39:00Z,1270.0,Linzer Straße 104
 2141006389,PAUL&INA ● Erstbezug ● Top 1.55,"Wien, 14. Bezirk, Penzing",1140,885,2,46,Wien,Wien,1.0,4,Wohnung,2024-11-29T05:39:00Z,885.0,Linzer Straße 104
@@ -167,9 +169,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 614868809,"Provisionsfrei, Fabelhafte Mietwohnung + Terrasse! Wohnen im edlen 19. Bezirk - Döbling + 2x Garagenplätze","Wien, 19. Bezirk, Döbling",1190,3500,2,123,Wien,Wien,1.0,0,Wohnung,2024-11-28T15:04:00Z,3500.0,Schätzgasse
 2069485547,DC Musicflats - Neue Mietwohnung - Top 13-22,"Wien, 22. Bezirk, Donaustadt",1220,850,2,30,Wien,Wien,1.0,2,Wohnung,2024-11-28T15:02:00Z,850.0,Donau-City-Str. 13-13A
 1423925440,DC Musicflats - Neue Mietwohnung - Top 13-16,"Wien, 22. Bezirk, Donaustadt",1220,1550,3,59,Wien,Wien,1.0,2,Wohnung,2024-11-28T14:59:00Z,1550.0,Donau-City-Str. 13-13A
-1650379881,"Traumblick über Wien, 22. Stock Q-Tower mit Gym, Interspar & Lounges, 2 Zimmer + Balkon, U-Bahn","Wien, 03. Bezirk, Landstraße",1030,1170,2,45,Wien,Wien,N/A,22,Wohnung,2024-11-28T14:54:00Z,1170.0,Leopold-Böhm-Straße 5
-1707811958,PROVISIONSFREI - 3 Zimmer Neubauwohnung mit geräumiger Terrasse nähe Naschmarkt,"Wien, 06. Bezirk, Mariahilf",1060,1400,3,82,Wien,Wien,1.0,2,Wohnung,2024-11-28T14:46:00Z,1400.0,Turmburggasse 2/6/4
-854927074,Charmante unbefristete Altbauwohnung direkt am Schottentor sucht Nachmieter ab 01.01.2025,"Wien, 09. Bezirk, Alsergrund",1090,909.47,2,57,Wien,Wien,1.0,1,Wohnung,2024-11-28T14:42:00Z,909.47,Kolingasse
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-28T10:39:00Z,N/A,Dresdner Straße
 729819059,Am Schönen Platz - Am Bambushain - Nahe dem Erholungsgebiet Wienerberg,"Wien, 10. Bezirk, Favoriten",1100,1162.74,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-28T09:55:00Z,N/A,Laxenburger Straße
 1635107309,In der Stadt der Musik gelangt mit den DC Musicflats ...,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T17:32:00Z,N/A,Donau-City-Str. 13-13A
@@ -186,6 +185,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 740907094,DANUBEVIEW,"Wien, 22. Bezirk, Donaustadt",1220,870,0,N/A,Wien,Wien,0.95,N/A,N/A,2024-11-25T16:17:00Z,N/A,Wagramer Straße 2A
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2024-11-25T11:19:00Z,N/A,N/A
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-25T10:15:00Z,N/A,Lienfeldergasse
+1560625265,Provisionsfrei: Unbefristete 60m² Altbau-Hauptmiete mit Einbauküche - 1070 Wien,"Wien, 07. Bezirk, Neubau",1070,1129.06,2,60,Wien,Wien,1.0,1,Wohnung,2024-11-30T14:55:00Z,1129.06,N/A
+2098881327,Schnäppchen ! Moderne Wohnung mit 3 Schlafzimmer und sonnigen Balkon,"Wien, 18. Bezirk, Währing",1180,1750,4,80,Wien,Wien,0.98,4,Wohnung,2024-11-30T14:50:00Z,1750.0,Klettenhofergasse
 918144176,"ELEGANT LOFTARTIGE GARTENWOHNUNG stilsicher saniert - viel Liebe zum Detail, moderner 60ies Style","Wien, 18. Bezirk, Währing",1180,2720,3,132,Wien,Wien,0.0,1,Wohnung,2024-11-30T14:32:00Z,2720.0,N/A
 793996888,2-Zimmer-Loggiawohnung ohne Küchenmöblierung in Ruhelage,"Wien, 20. Bezirk, Brigittenau",1200,966.7,2,72,Wien,Wien,1.0,4,Wohnung,2024-11-30T14:25:00Z,966.7,Aignerstraße
 1944957992,Für Individualisten mit Anspruch | Dachgeschosswohnung mit traumhafter Dachterrasse | Schrankraum | Glaskamin | Klimaanlage,"Wien, 14. Bezirk, Penzing",1140,1840,3,110,Wien,Wien,1.0,3,Wohnung,2024-11-30T14:25:00Z,1840.0,N/A
@@ -584,7 +585,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1093785801,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1199,2,54,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T12:48:00Z,1199.0,Pfalzgasse 29
 1007946507,Charmante 2-Zimmer-Wohnung in Ottakring,"Wien, 16. Bezirk, Ottakring",1160,630,2,40,Wien,Wien,0.0,2,Wohnung,2024-11-29T12:45:00Z,630.0,N/A
 2080720170,Wohnung in Top-Lage im Herzen von Mariahilf,"Wien, 06. Bezirk, Mariahilf",1060,1395.9,3,70,Wien,Wien,1.0,3,Wohnung,2024-11-29T12:41:00Z,1395.9,Barnabitengasse 7
-1295868728,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,3,Wohnung,2024-11-29T12:41:00Z,829.0,Pfalzgasse 29
 1358898640,Schöne 2-Zimmer Wohnung. KEINE ANRUFE - ANFRAGEN NUR PER MAIL,"Wien, 16. Bezirk, Ottakring",1160,815.58,0,60,Wien,Wien,0.67,N/A,Wohnung,2024-11-29T12:39:00Z,815.58,N/A
 1440875681,PAUL&INA ● Erstbezug ● Top 2.52,"Wien, 14. Bezirk, Penzing",1140,1275,3,61,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T12:39:00Z,1275.0,Linzer Straße 104
 1065271299,PAUL&INA ● Erstbezug ● Top 2.54,"Wien, 14. Bezirk, Penzing",1140,1990,4,94,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T12:39:00Z,1990.0,Linzer Straße 104
@@ -785,4 +785,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1288832031,Studentenapartment für kurze Zeit - noch heute besichtigen & flexibel einziehen. - WOHNTRAUM,"Wien, 10. Bezirk, Favoriten",1100,1109.42,2,52,Wien,Wien,1.0,3,Wohnung,2024-11-29T06:55:00Z,1109.42,Laaer Wald 1
 1628910476,Geräumige 3-Zimmer Wohnung,"Wien, 19. Bezirk, Döbling",1190,1134.2,3,78,Wien,Wien,1.0,3,Wohnung,2024-11-29T06:53:00Z,1134.2,Klabundgasse 6
 1211475129,Nette-2-Zimmer-Wohnung,"Wien, 19. Bezirk, Döbling",1190,816.46,2,47,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T06:48:00Z,816.46,Aslangasse 14
-1859817148,"3 Zi-Dachgeschoss Wohnung im grünen Bezirk Donaustadt mit Aufzug, U2 Aspernstraße 5 Min. zu Fuß","Wien, 22. Bezirk, Donaustadt",1220,1820,3,100,Wien,Wien,1.0,4,Wohnung,2024-11-29T05:43:00Z,1820.0,Mühlhausergasse 5
