@@ -1,15 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-938345127,Neubauprojekt/Erstbezug | Energieeffizienz durch Luftwärmepumpe - 3fach Verglasung - Fußbodenheizung I ca. 120m² Dachterrasse I Hochwertige Ausstattung,"Wien, 23. Bezirk, Liesing",1230,845.46,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T16:15:00Z,N/A,N/A
-612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T15:17:00Z,N/A,Laxenburger Straße 2D
-1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.71,N/A,N/A,2024-11-27T13:27:00Z,N/A,N/A
-921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T10:37:00Z,N/A,Fritz-Kandl-Gasse
-718841843,Mietwohnungen mit Kaufoption - Wohnen in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,690,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T08:34:00Z,N/A,Edi-Finger-Straße
-542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,942.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T03:59:00Z,N/A,Leopoldauer Straße
-1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-26T15:25:00Z,N/A,Pius-Parsch-Platz
-1084264605,Casa Oberlaa - Die neue Art des Wohnens ab 60 Jahren,"Wien, 10. Bezirk, Favoriten",1100,975.1,0,N/A,Wien,Wien,0.9,N/A,N/A,2024-11-26T07:49:00Z,N/A,N/A
-1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-25T19:31:00Z,N/A,Kelsenstraße 5
-1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-25T17:26:00Z,N/A,Donau-City-Straße
-1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2024-11-25T11:19:00Z,N/A,N/A
+814817414,Zentralgelegene Wohnung - Nähe Meidlinger Markt zu Mieten,"Wien, 12. Bezirk, Meidling",1120,800,2,52,Wien,Wien,0.0,1,Wohnung,2024-12-01T11:16:00Z,800.0,N/A
+804699953,Traumhaft sanierte Altbauwohnung,"Wien, 01. Bezirk, Innere Stadt",1010,3093.75,4,142,Wien,Wien,1.0,N/A,Wohnung,2024-12-01T11:15:00Z,3093.75,Predigergasse
+1523476617,THE METROPOLITAN - Modern Living im belebten Sonnwendviertel! ++ 3-Zimmer mit Balkon!,"Wien, 10. Bezirk, Favoriten",1100,1650,3,80,Wien,Wien,1.0,1,Wohnung,2024-12-01T10:55:00Z,1650.0,Karl-Popper-Straße 5
 1770805665,Sonnige Mietwohnung mit Kaufoption,"Wien, 22. Bezirk, Donaustadt",1220,1299,3,66,Wien,Wien,0.9,1,Wohnung,2024-12-01T10:48:00Z,1299.0,Tokistr 9/2
 1309819156,Familientraum in absoluter Ruhelage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,1748.76,3,111,Wien,Wien,1.0,4,Wohnung,2024-12-01T10:45:00Z,1748.76,Rosa-Jochmann-Ring
 1265102624,Modernes Wohnen mit Gartenflair: Exklusive Gartenwohnung,"Wien, 23. Bezirk, Liesing",1230,1322.21,3,69,Wien,Wien,1.0,N/A,Wohnung,2024-12-01T10:30:00Z,1322.21,Levasseurgasse
@@ -588,25 +580,16 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1161243921,Erstbezug: 2-Zimmer-Wohnung mit Loggia/Balkon - in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,989,2,52,Wien,Wien,0.71,1,Wohnung,2024-11-29T11:21:00Z,989.0,N/A
 942833692,Neubauwohnung im Herzen Ottakrings-Garagenplätze mit E-Ladestation,"Wien, 16. Bezirk, Ottakring",1160,895,2,52,Wien,Wien,1.0,1,Wohnung,2024-11-29T11:19:00Z,895.0,Neulerchenfelder Str. 24
 1117984452,Erstbezug: Smarte 1-Zimmer-Wohnung mit Außenfläche im Neubauprojekt SOPHIE - zu mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,1235.99,1,47,Wien,Wien,0.85,7,Wohnung,2024-11-29T11:19:00Z,1235.99,N/A
-1799434727,2-Zimmer-Gartenwohnung mit Terrasse - in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,949,2,46,Wien,Wien,0.71,0,Wohnung,2024-11-29T11:18:00Z,949.0,N/A
-1523184880,3-ZIMMER-FERNBLICK!!!,"Wien, 10. Bezirk, Favoriten",1100,1269.51,3,75,Wien,Wien,1.0,8,Wohnung,2024-11-29T11:18:00Z,1269.51,Sonnleithnergasse 2
-1988623552,gut aufgeteilte 3-Zimmer Wohnung in Grünruhelage,"Wien, 23. Bezirk, Liesing",1230,980,3,67,Wien,Wien,1.0,1,Wohnung,2024-11-29T11:18:00Z,980.0,N/A
-1955816977,Erstbezug - Modernes voll möbliertes Apartment mit ALL-IN Miete und Garten - anna8 | apartments,"Wien, 08. Bezirk, Josefstadt",1080,1799,2,52,Wien,Wien,1.0,0,Wohnung,2024-11-29T11:17:00Z,1799.0,Feldgasse 9
-803354331,Q11 Leben in Simmering - 2-Zimmer-Wohnung mit Balkon und Deckenkühlung in zentraler Lage!,"Wien, 11. Bezirk, Simmering",1110,840.39,2,53,Wien,Wien,0.95,1,Wohnung,2024-11-29T11:15:00Z,840.39,Simmeringer Hauptstraße 170
-2023906394,3-ZIMMER-HOFRUHELAGE MIT TERRASSE *IN SPITZNÄHE*,"Wien, 21. Bezirk, Floridsdorf",1210,1264.84,3,88,Wien,Wien,1.0,2,Wohnung,2024-11-29T11:07:00Z,1264.84,Prager Straße 14
-1564154124,"Neu adaptierte 2,5 Zimmer Wohnung im begrünten Innenhof!","Wien, 05. Bezirk, Margareten",1050,940,3,61,Wien,Wien,1.0,4,Wohnung,2024-11-29T11:07:00Z,940.0,Siebenbrunneng.
-1233670279,"Zweizimmerwohnung mit Terrasse und Fernblick, neben U-Bahn","Wien, 16. Bezirk, Ottakring",1160,1033,2,51,Wien,Wien,1.0,6,Wohnung,2024-11-29T11:06:00Z,1033.0,Kendlerstrasse
-1896085602,Lichtdurchflutete Maisonette im Dachgeschoss mit Dachterrasse,"Wien, 03. Bezirk, Landstraße",1030,3199,4,141,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T10:59:00Z,3199.0,Arsenal 3
-824264098,Lichtdurchflutete Maisonette im Dachgeschoss mit Dachterrasse,"Wien, 03. Bezirk, Landstraße",1030,1999,3,80,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T10:59:00Z,1999.0,Arsenal 3
-2118314970,Der Himmel zum Greifen nah: Dachgeschoss-Maisonette mit Terrasse,"Wien, 03. Bezirk, Landstraße",1030,2999,5,125,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T10:59:00Z,2999.0,Arsenal 3
-2131796354,Dachgeschoss-Maisonette mit exklusivem Panorama,"Wien, 03. Bezirk, Landstraße",1030,1999,3,82,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T10:59:00Z,1999.0,Arsenal 3
-1405076126,Charmante Maisonette im Dachgeschoss mit einzigartigem Charakter,"Wien, 03. Bezirk, Landstraße",1030,1999,3,81,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T10:59:00Z,1999.0,Arsenal 3
-879052555,BELVIEW - HIER WIRD WOHNEN NEU DEFINIERT! - MIT TRAUM-AUSSICHTEN AUF DIE GESAMTE CITY!,"Wien, 10. Bezirk, Favoriten",1100,1285.3,2,52,Wien,Wien,1.0,13,Wohnung,2024-11-29T10:58:00Z,1285.3,Arsenalstraße 8
-1027008977,Moderne 2-Zimmerwohnung mit Balkon und U-Bahn-Nähe!,"Wien, 14. Bezirk, Penzing",1140,975,2,55,Wien,Wien,1.0,5,Wohnung,2024-11-29T10:57:00Z,975.0,Leyserstraße
-850674460,Unbefristete 2-Zimmer-Wohnung mit großzügiger Freifläche!,"Wien, 10. Bezirk, Favoriten",1100,692.63,0,58,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T10:57:00Z,692.63,Kundratstraße
-1579688053,Erstbezug: 2-Zimmer-Wohnung mit Loggia/Balkon - in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,949,2,47,Wien,Wien,0.71,2,Wohnung,2024-11-29T10:56:00Z,949.0,N/A
-2028742527,Neubauprojekt JOSEPH/Turm: Hochwertige 3-Zimmer-Wohnung mit Außenfläche - in 1090 Wien zu mieten,"Wien, 09. Bezirk, Alsergrund",1090,1959,3,63,Wien,Wien,0.85,10,Wohnung,2024-11-29T10:55:00Z,1959.0,N/A
-1424712639,Erstbezug: 2-Zimmer-Wohnung mit Loggia/Balkon - in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,949,2,48,Wien,Wien,0.71,2,Wohnung,2024-11-29T10:54:00Z,949.0,N/A
-1116611072,Moderne Altbauwohnung in Toplage,"Wien, 03. Bezirk, Landstraße",1030,2490,4,131,Wien,Wien,0.75,N/A,Wohnung,2024-11-29T10:53:00Z,2490.0,Landstraße Hauptstraße 7
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-28T10:39:00Z,N/A,Dresdner Straße
 729819059,Am Schönen Platz - Am Bambushain - Nahe dem Erholungsgebiet Wienerberg,"Wien, 10. Bezirk, Favoriten",1100,1162.74,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-28T09:55:00Z,N/A,Laxenburger Straße
+938345127,Neubauprojekt/Erstbezug | Energieeffizienz durch Luftwärmepumpe - 3fach Verglasung - Fußbodenheizung I ca. 120m² Dachterrasse I Hochwertige Ausstattung,"Wien, 23. Bezirk, Liesing",1230,845.46,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T16:15:00Z,N/A,N/A
+612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T15:17:00Z,N/A,Laxenburger Straße 2D
+1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.71,N/A,N/A,2024-11-27T13:27:00Z,N/A,N/A
+921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T10:37:00Z,N/A,Fritz-Kandl-Gasse
+718841843,Mietwohnungen mit Kaufoption - Wohnen in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,690,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T08:34:00Z,N/A,Edi-Finger-Straße
+542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,942.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T03:59:00Z,N/A,Leopoldauer Straße
+1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-26T15:25:00Z,N/A,Pius-Parsch-Platz
+1084264605,Casa Oberlaa - Die neue Art des Wohnens ab 60 Jahren,"Wien, 10. Bezirk, Favoriten",1100,975.1,0,N/A,Wien,Wien,0.9,N/A,N/A,2024-11-26T07:49:00Z,N/A,N/A
+1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-25T19:31:00Z,N/A,Kelsenstraße 5
+1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-25T17:26:00Z,N/A,Donau-City-Straße
+1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2024-11-25T11:19:00Z,N/A,N/A
