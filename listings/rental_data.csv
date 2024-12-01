@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1168417379,Schöne 2-Zimmer-Wohnung mit Garagenstellplatz im 16. Bezirk in Wien!,"Wien, 16. Bezirk, Ottakring",1160,1093.7,2,46,Wien,Wien,1.0,1,Wohnung,2024-11-29T17:27:00Z,1093.7,N/A
 2090807948,Gepflegte 2-Zimmer-Wohnung mit Garagenstellplatz im 16. Bezirk in Wien!,"Wien, 16. Bezirk, Ottakring",1160,1107.91,2,48,Wien,Wien,1.0,1,Wohnung,2024-11-29T17:27:00Z,1107.91,N/A
 897785320,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,909,2,46,Wien,Wien,1.0,2,Wohnung,2024-11-29T17:27:00Z,909.0,Podhagskygasse 12
 796786895,"Wunderschöne 2,5-Zimmer-Wohnung mit Süd-Loggia in zentraler Lage - ab Jänner 2025 zu vermieten","Wien, 01. Bezirk, Innere Stadt",1010,1399,2,62,Wien,Wien,0.0,3,Wohnung,2024-11-29T17:27:00Z,1399.0,N/A
@@ -22,11 +23,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1373150420,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1299,3,55,Wien,Wien,1.0,0,Wohnung,2024-11-29T16:56:00Z,1299.0,Podhagskygasse 12
 1077068092,"*-10 % Rabatt - nur für kurze Zeit * ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,746,1,17,Wien,Wien,1.0,2,Wohnung,2024-11-29T16:55:00Z,746.0,Kelsenstraße 5
 2010588689,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1599,4,74,Wien,Wien,1.0,0,Wohnung,2024-11-29T16:53:00Z,1599.0,Podhagskygasse 12
-885601252,"Wunderschön sanierte 3 Zimmer Altbauwohnung im 3ten Bezirk, Nähe U-Bahn U3, Donaukanal & Prater","Wien, 03. Bezirk, Landstraße",1030,1030,2,46,Wien,Wien,1.0,3,Wohnung,2024-11-29T16:47:00Z,1030.0,Schlachthausgasse 14
-2012412985,"3½ ZI-WOHNUNG IN WIEN - 4. BEZIRK - WIEDEN, MÖBLIERT, AUF ZEIT","Wien, 04. Bezirk, Wieden",1040,1500,3,80,Wien,Wien,0.9,7,Wohnung,2024-11-29T16:47:00Z,1500.0,N/A
-1198485916,Viel Platz zum Wohlfühlen: 6-Zimmer-Wohnung im Herzen Wiens mit Klimaanlage,"Wien, 01. Bezirk, Innere Stadt",1010,4975.02,6,194,Wien,Wien,1.0,N/A,Wohnung,2024-11-29T16:46:00Z,4975.02,Sterngasse
-1769607610,Ab 1.1.25: ruhige 2-Zimmer-Wohnung mit Balkon in der Badgasse,"Wien, 09. Bezirk, Alsergrund",1090,1480,2,61,Wien,Wien,1.0,2,Wohnung,2024-11-29T16:45:00Z,1480.0,Badgasse
-2130676868,Zieglergasse - Top moderne ruhige 3- Zimmer Neubauwohnung mit großem Balkon,"Wien, 07. Bezirk, Neubau",1070,1686,3,90,Wien,Wien,1.0,3,Wohnung,2024-11-29T16:39:00Z,1686.0,Zieglergasse 51
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,875.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-28T10:39:00Z,N/A,Dresdner Straße
 612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T15:17:00Z,N/A,Laxenburger Straße 2D
 921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-27T10:37:00Z,N/A,Fritz-Kandl-Gasse
@@ -35,6 +31,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-26T15:25:00Z,N/A,Pius-Parsch-Platz
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-25T19:31:00Z,N/A,Kelsenstraße 5
 961339968,"Nachmieter für wunderschöne, helle Altbauwohnung gesucht - Privat","Wien, 13. Bezirk, Hietzing",1130,1263.98,4,105,Wien,Wien,1.0,1,Wohnung,2024-12-01T16:39:00Z,1263.98,Speisinger Strasse 16
+1995791791,"Wunderschöne, generalsanierte Altbauwohnung mit Balkon in sehr guter, zentrumsnaher Lage","Wien, 02. Bezirk, Leopoldstadt",1020,1900,3,121,Wien,Wien,0.85,3,Wohnung,2024-12-01T16:37:00Z,1900.0,N/A
 787994246,Attraktive Neubauhauptmietwohnung /Alxingergasse,"Wien, 10. Bezirk, Favoriten",1100,929.99,2,65,Wien,Wien,1.0,3,Wohnung,2024-12-01T16:36:00Z,929.99,Alxingergasse
 778319597,"*-10 Rabatt * ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,809,1,20,Wien,Wien,1.0,N/A,Wohnung,2024-12-01T16:35:00Z,809.0,Kelsenstraße 5
 1851977942,++NEU++ Tolle 2-Zimmer-Wohnung im Erdgeschoss in absoluter Bestlage!,"Wien, 09. Bezirk, Alsergrund",1090,795.57,2,43,Wien,Wien,1.0,0,Wohnung,2024-12-01T16:25:00Z,795.57,N/A
@@ -195,7 +192,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1726926140,BEZIEHBAR AB 01.02.2025 - NACHMIETERSUCHE - TOLLE 2 ZIMMER WOHNUNG MIT GARTEN UND TERRASSE! - JETZT ZUSCHLAGEN,"Wien, 23. Bezirk, Liesing",1230,1099.24,2,61,Wien,Wien,1.0,0,Wohnung,2024-11-30T18:57:00Z,1099.24,Draschestraße 10
 965681865,Tolle 2-Zimmer Wohnung mit schöner Raumaufteilung im Flair in the City - ab Jänner 2025. - WOHNTRAUM,"Wien, 23. Bezirk, Liesing",1230,1057.28,2,60,Wien,Wien,1.0,5,Wohnung,2024-11-30T18:56:00Z,1057.28,Scherbangasse 3
 1459659758,Erstbezug direkt bei der U3 Kendlerstraße im 5. OG!,"Wien, 16. Bezirk, Ottakring",1160,699,1,30,Wien,Wien,1.0,5,Wohnung,2024-11-30T18:56:00Z,699.0,Huttengasse 39-41
-1259308334,Wunderschöne,"Wien, 21. Bezirk, Floridsdorf",1210,854.23,2,58,Wien,Wien,1.0,1,Wohnung,2024-11-30T18:27:00Z,854.23,Mengergasse 41-43
+1259308334,(reserviert) Wunderschöne,"Wien, 21. Bezirk, Floridsdorf",1210,854.23,2,58,Wien,Wien,1.0,1,Wohnung,2024-11-30T18:27:00Z,854.23,Mengergasse 41-43
 1275756929,45 m² TERRASSEN-TRAUM IN SANIERTEM BIEDERMAIER-HAUS - U4-SCHÖNBRUNN!,"Wien, 12. Bezirk, Meidling",1120,1475.05,2,67,Wien,Wien,1.0,3,Wohnung,2024-11-30T18:25:00Z,1475.05,Tivoligasse
 1060979898,| TOPLAGE | GARTENWOHNUNG | ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21,"Wien, 21. Bezirk, Floridsdorf",1210,1499.01,3,75,Wien,Wien,1.0,1,Wohnung,2024-11-30T18:24:00Z,1499.01,Pius-Parsch-Platz
 1703768581,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1599,3,73,Wien,Wien,1.0,N/A,Wohnung,2024-11-30T18:05:00Z,1599.0,Podhagskygasse 12
@@ -433,4 +430,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2131104915,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,2,Wohnung,2024-11-29T17:35:00Z,829.0,Podhagskygasse 12
 787294249,"Preiswerte 1,5-Zimmerwohnung mit Balkon in naturnaher Umgebung ab 01.02. bezugsbereit","Wien, 12. Bezirk, Meidling",1120,695,1,39,Wien,Wien,1.0,2,Wohnung,2024-11-29T17:34:00Z,695.0,Wildgartenallee 17/2
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-11-29T17:32:00Z,N/A,Pfalzgasse 29
-1168417379,Schöne 2-Zimmer-Wohnung mit Garagenstellplatz im 16. Bezirk in Wien!,"Wien, 16. Bezirk, Ottakring",1160,1093.7,2,46,Wien,Wien,1.0,1,Wohnung,2024-11-29T17:27:00Z,1093.7,N/A
