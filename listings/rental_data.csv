@@ -1,5 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+778335921,1090// Unbefristet wohnen im beliebten Servitenviertel - Perfekt für WG's!,"Wien, 09. Bezirk, Alsergrund",1090,1523.75,4,87,Wien,Wien,1.0,0,Wohnung,2024-12-08T12:26:00Z,1523.75,Porzellangasse
 1011985083,3 Zimmerwohnung mit Einbauküche,"Wien, 13. Bezirk, Hietzing",1130,1499.91,3,77,Wien,Wien,1.0,1,Wohnung,2024-12-08T12:09:00Z,1499.91,Amalienstraße 57
+1270607086,"PROVISIONSFREIE Hochwertige, exklusive & moderne 97 m² Wohnung mit Tiefgaragenabstellplatz","Wien, 22. Bezirk, Donaustadt",1220,2500,3,97,Wien,Wien,0.0,3,Wohnung,2024-12-08T12:09:00Z,2500.0,N/A
 780979206,"2-Zimmer Neubau Wohnung! Top-Lage und Verkehrsanbindung, ideal für Singles und Pärchen, ab sofort beziehbar, provisionsfrei 40 m2, 2 Zimmer, Balkon, begrünte Hofruhelage","Wien, 16. Bezirk, Ottakring",1160,840,2,40,Wien,Wien,0.95,3,Wohnung,2024-12-08T12:08:00Z,840.0,Heigerleinstraße
 950401757,| ERSTBEZUG | 2 ZIMMER | 5. OG | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,1075,2,56,Wien,Wien,1.0,5,Wohnung,2024-12-08T12:05:00Z,1075.0,Dresdner Straße
 1935289590,| ERSTBEZUG | 2 ZIMMER | 5. OG | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,1045.01,2,53,Wien,Wien,1.0,5,Wohnung,2024-12-08T12:05:00Z,1045.01,Dresdner Straße
@@ -197,8 +199,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 979328286,3-Zimmer-Wohnung mit Loggia im 3. Obergeschoß zu mieten in 1200 Wien,"Wien, 20. Bezirk, Brigittenau",1200,1192.81,3,79,Wien,Wien,0.58,3,Wohnung,2024-12-07T12:19:00Z,1192.81,N/A
 1622840325,"Sonnige, ruhige Wohnung, Nähe Donauzentrum, ideal für Singles und Paare","Wien, 22. Bezirk, Donaustadt",1220,1200.29,2,77,Wien,Wien,1.0,3,Wohnung,2024-12-07T12:11:00Z,1200.29,Steigenteschgasse 16
 1182454802,"360° TOUR// NEUBAU-MIETWOHNUNG nahe SONNBERGMARKT // MODERN APARTMENT next to ""SONNBERG MARKET""","Wien, 19. Bezirk, Döbling",1190,1199.95,2,47,Wien,Wien,1.0,3,Wohnung,2024-12-07T12:07:00Z,1199.95,N/A
-1277695418,"2-Zimmer Wohnung, inkl. Stellplatz, Erstbezug nach Sanierung! Jetzt anfragen!","Wien, 22. Bezirk, Donaustadt",1220,848.98,2,60,Wien,Wien,1.0,1,Wohnung,2024-12-07T12:05:00Z,848.98,Eßlinger Hauptstraße 3
-778277370,Exklusives Altbau-Juwel mit traumhaften Parkblick | ZELLMANN IMMOBILIEN,"Wien, 09. Bezirk, Alsergrund",1090,1799,2,86,Wien,Wien,1.0,2,Wohnung,2024-12-07T12:04:00Z,1799.0,N/A
+1334010872,"All inclusive, Cozy, quiet, central, spacious, bright flat next to Augarten and city centre.","Wien, 02. Bezirk, Leopoldstadt",1020,1300,1,42,Wien,Wien,1.0,1,Wohnung,2024-12-06T16:26:00Z,1300.0,Blumauergasse
+957923169,Herrschaftliche Wohnung beim Rathaus!,"Wien, 01. Bezirk, Innere Stadt",1010,4999.91,6,219,Wien,Wien,1.0,5,Wohnung,2024-12-06T16:16:00Z,4999.91,N/A
 1190384801,VOLLMÖBLIERTE GARCONNIERE IN WIENER BESTLAGE,"Wien, 01. Bezirk, Innere Stadt",1010,1699,1,54,Wien,Wien,1.0,N/A,Wohnung,2024-12-06T16:15:00Z,1699.0,N/A
 1708646215,(reserviert) großzügige 2-Zimmerwohnung mit Gartenbenützung,"Wien, 13. Bezirk, Hietzing",1130,1300,2,87,Wien,Wien,1.0,2 Stock,Wohnung,2024-12-06T16:12:00Z,1300.0,Lainzerstr. 24b/7
 1859414102,Moderne 3-Zimmer Gartenwohnung in unmittelbarer Nähe zur Siemensstraße,"Wien, 21. Bezirk, Floridsdorf",1210,1389.51,3,67,Wien,Wien,1.0,EG,Wohnung,2024-12-06T16:07:00Z,1389.51,Berzeliusgasse
@@ -378,18 +380,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 737423371,Zuhause finden in Stammersdorfer Ruheoase: Mietwohnungen und Kaufoption,"Wien, 21. Bezirk, Floridsdorf",1210,930,2,56,Wien,Wien,1.0,1,Wohnung,2024-12-06T12:27:00Z,930.0,Edi-Finger-Straße
 737423409,Ihr Weg zum Eigenheim: Mieten mit Kaufoption in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,1100,3,68,Wien,Wien,1.0,1,Wohnung,2024-12-06T12:27:00Z,1100.0,Edi-Finger-Straße
 737423413,Ihr Zuhause in Stammersdorfer Ruhelage: Mietwohnung mit Kaufoption,"Wien, 21. Bezirk, Floridsdorf",1210,849,2,48,Wien,Wien,1.0,1,Wohnung,2024-12-06T12:27:00Z,849.0,Edi-Finger-Straße
-1165863733,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829.01,2,39,Wien,Wien,1.0,1,Wohnung,2024-12-06T12:23:00Z,829.01,Pfalzgasse 29
-1695091049,Althietzing/ nahe Hügelpark: sonnige Balkonwohnung- befristet,"Wien, 13. Bezirk, Hietzing",1130,1390,2,60,Wien,Wien,1.0,2,Wohnung,2024-12-06T12:22:00Z,1390.0,"Larochegasse, Hügelpark"
-1881360668,Erstbezug: 2-Zimmer-Wohnung mit Loggia/Balkon - in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,929,2,47,Wien,Wien,0.71,1,Wohnung,2024-12-06T12:21:00Z,929.0,N/A
-1617364007,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,46,Wien,Wien,1.0,1,Wohnung,2024-12-06T12:21:00Z,899.0,Pfalzgasse 29
-1193457345,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829.01,2,39,Wien,Wien,1.0,1,Wohnung,2024-12-06T12:19:00Z,829.01,Pfalzgasse 29
-1438078917,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,706.49,1,35,Wien,Wien,1.0,4,Wohnung,2024-12-06T12:17:00Z,706.49,Leopoldauer Straße 131
-1009022414,Innenhof - Helle 2-Zimmer-Wohnung mit Balkon - Bahnhof Meidling,"Wien, 12. Bezirk, Meidling",1120,890,2,49,Wien,Wien,1.0,4,Wohnung,2024-12-06T12:16:00Z,890.0,Eichenstraße 66
-762707410,ERSTBEZUG MIT 2 BALKONEN - 3 ZIMMER WOHNUNG DIREKT BEI DER U-BAHN (U1),"Wien, 21. Bezirk, Floridsdorf",1210,2490,3,93,Wien,Wien,1.0,5,Wohnung,2024-12-06T12:15:00Z,2490.0,Rieglgasse 1
 1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-06T04:52:00Z,N/A,N/A
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,905.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-05T10:39:00Z,N/A,Dresdner Straße
 729819059,Am Schönen Platz - Am Bambushain - Nahe dem Erholungsgebiet Wienerberg,"Wien, 10. Bezirk, Favoriten",1100,1162.74,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-05T09:55:00Z,N/A,Laxenburger Straße
-1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.71,N/A,N/A,2024-12-04T13:27:00Z,N/A,N/A
 921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-04T10:37:00Z,N/A,Fritz-Kandl-Gasse
 718841843,Mietwohnungen mit Kaufoption - Wohnen in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,690,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-04T08:34:00Z,N/A,Edi-Finger-Straße
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,882.54,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-04T03:59:00Z,N/A,Leopoldauer Straße
