@@ -1,6 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-10T15:25:00Z,N/A,Pius-Parsch-Platz
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-09T19:31:00Z,N/A,Kelsenstraße 5
+1148205461,Schöne Helle Wohnung bei Messe Wien *Unbefristet*,"Wien, 02. Bezirk, Leopoldstadt",1020,1333.17,4,106,Wien,Wien,N/A,1,Wohnung,2024-12-15T16:39:00Z,1333.17,Aussstellungstraße 55
+778319597,"*-10 Rabatt * ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,809,1,20,Wien,Wien,1.0,N/A,Wohnung,2024-12-15T16:35:00Z,809.0,Kelsenstraße 5
 1773195134,Direktgabe Gemeindewohnung,"Wien, 12. Bezirk, Meidling",1120,550,2,61,Wien,Wien,1.0,2,Wohnung,2024-12-15T16:30:00Z,550.0,Rotdornallee
 907369313,Gemeindewohnung,"Wien, 10. Bezirk, Favoriten",1100,240,1,30,Wien,Wien,1.0,3,Wohnung,2024-12-15T16:20:00Z,240.0,Laaerbergstrasse 36
 1519362483,1-Zimmerwohnung in 1180 Wien mit Lift zu vermieten,"Wien, 18. Bezirk, Währing",1180,1185.96,1,61,Wien,Wien,1.0,3,Wohnung,2024-12-15T16:05:00Z,1185.96,N/A
@@ -112,9 +113,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1911632422,TOP LAGE MIT WEITBLICK AUF GANZ WIEN!,"Wien, 16. Bezirk, Ottakring",1160,2286.47,3,101,Wien,Wien,0.67,N/A,Wohnung,2024-12-15T02:23:00Z,2286.47,N/A
 2119197603,4 ZIMMER IN RUHELAGE | NÄHE SCHÖNBRUNN | JUGENDSTIL-JUWEL | ERSTBEZUG NACH KOMPLETTSANIERUNG,"Wien, 12. Bezirk, Meidling",1120,1675.99,4,128,Wien,Wien,0.66,2.OG,Wohnung,2024-12-14T21:36:00Z,1675.99,N/A
 2005568110,"Traumhaft sanierter Stilaltbau, Erstbezug, Himmelpfortstiege, Bestlage + U4/ U6, geräumige 3 Zimmer","Wien, 09. Bezirk, Alsergrund",1090,1710,3,90,Wien,Wien,1.0,1,Wohnung,2024-12-14T20:42:00Z,1710.0,Himmelpfortstiege 1
-798119800,Günstige Wohnung direkt bei U - Bahnstation Friedensbrücke,"Wien, 02. Bezirk, Leopoldstadt",1020,650,2,32,Wien,Wien,0.95,1,Wohnung,2024-12-14T20:37:00Z,650.0,Brigittenauer Lände 32
-1650136900,"++Provisionsfrei++ BESTLAGE des 2. Bezirks, 5 Zimmer Maisonette-Wohnung!","Wien, 02. Bezirk, Leopoldstadt",1020,3750,5,173,Wien,Wien,1.0,N/A,Wohnung,2024-12-14T20:37:00Z,3750.0,Raimundgasse
 1324622838,"++Provisionsfrei++ BESTLAGE des 2. Bezirks, 5 Zimmer Maisonette-Wohnung!","Wien, 02. Bezirk, Leopoldstadt",1020,3499,5,157,Wien,Wien,1.0,N/A,Wohnung,2024-12-14T20:37:00Z,3499.0,Raimundgasse
+1650136900,"++Provisionsfrei++ BESTLAGE des 2. Bezirks, 5 Zimmer Maisonette-Wohnung!","Wien, 02. Bezirk, Leopoldstadt",1020,3750,5,173,Wien,Wien,1.0,N/A,Wohnung,2024-12-14T20:37:00Z,3750.0,Raimundgasse
+798119800,Günstige Wohnung direkt bei U - Bahnstation Friedensbrücke,"Wien, 02. Bezirk, Leopoldstadt",1020,650,2,32,Wien,Wien,0.95,1,Wohnung,2024-12-14T20:37:00Z,650.0,Brigittenauer Lände 32
 952355145,"++PROVISIONSFREI++ Hochwertige 2-Zimmer Neubauwohnung mit Loggia, BESTLAGE","Wien, 06. Bezirk, Mariahilf",1060,1544.99,2,62,Wien,Wien,1.0,N/A,Wohnung,2024-12-14T20:32:00Z,1544.99,Luftbadgasse
 950397286,"Nette 2 Zi Wohnung im boomenden 5. Bezirk, unweit U4 Margartengürtel","Wien, 05. Bezirk, Margareten",1050,1170,2,56,Wien,Wien,1.0,2,Wohnung,2024-12-14T20:10:00Z,1170.0,Brandmayergasse 18
 1214630139,Charmante 1-Zimmer-Wohnung mit Klimaanlage,"Wien, 21. Bezirk, Floridsdorf",1210,792.12,1,51,Wien,Wien,1.0,3,Wohnung,2024-12-14T19:59:00Z,792.12,Freytaggasse 25
@@ -395,9 +396,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1198485916,Viel Platz zum Wohlfühlen: 6-Zimmer-Wohnung im Herzen Wiens mit Klimaanlage,"Wien, 01. Bezirk, Innere Stadt",1010,4975.02,6,194,Wien,Wien,1.0,N/A,Wohnung,2024-12-13T16:46:00Z,4975.02,Sterngasse
 1738704565,"Residieren in den Danube Flats - Pool, Concierge & weitere Annehmlichkeiten","Wien, 22. Bezirk, Donaustadt",1220,4500,3,86,Wien,Wien,1.0,19,Wohnung,2024-12-13T16:46:00Z,4500.0,Wagramer Straße
 1769607610,Ab sofort beziehbar: ruhige 2-Zimmer-Wohnung mit Balkon in der Badgasse,"Wien, 09. Bezirk, Alsergrund",1090,1480,2,61,Wien,Wien,1.0,2,Wohnung,2024-12-13T16:45:00Z,1480.0,Badgasse
-2130676868,Zieglergasse - Top moderne ruhige 3- Zimmer Neubauwohnung mit großem Balkon,"Wien, 07. Bezirk, Neubau",1070,1686,3,90,Wien,Wien,1.0,3,Wohnung,2024-12-13T16:39:00Z,1686.0,Zieglergasse 51
-2000150259,stilvoll sanierte Altbauwohnung mitten im 1.Bezirk,"Wien, 01. Bezirk, Innere Stadt",1010,2644.8,5,160,Wien,Wien,0.73,3,Wohnung,2024-12-13T16:38:00Z,2644.8,N/A
-1417522169,WINTERAKTION - Erster Monat Mietfrei! Helle 2-Zimmer-Wohnung mit Balkon!,"Wien, 11. Bezirk, Simmering",1110,982.39,2,52,Wien,Wien,0.67,N/A,Wohnung,2024-12-13T16:35:00Z,982.39,N/A
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,905.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-12T10:39:00Z,N/A,Dresdner Straße
 921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-11T10:37:00Z,N/A,Fritz-Kandl-Gasse
 1006870175,JOSEPH- Wohnraum findet Stadt,"Wien, 09. Bezirk, Alsergrund",1090,1959,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-10T17:06:00Z,N/A,Nordbergstraße 7- 9
+1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-10T15:25:00Z,N/A,Pius-Parsch-Platz
