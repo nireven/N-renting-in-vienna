@@ -1,7 +1,10 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-1507821722,NEUE KÜCHE | 4. LIFTSTOCK | KLINK FAVORITEN,"Wien, 10. Bezirk, Favoriten",1100,589,1,38,Wien,Wien,1.0,4,Wohnung,2024-12-15T17:25:00Z,589.0,N/A
+1969853649,Kurzzeitvermietung für 2 Monate,"Wien, 02. Bezirk, Leopoldstadt",1020,3350,2,60,Wien,Wien,1.0,2,Wohnung,2024-12-15T17:40:00Z,3350.0,Novaragasse
+1781741500,Helle 3 Zimmerwohnung - Längenfeldgasse,"Wien, 12. Bezirk, Meidling",1120,1765,3,74,Wien,Wien,1.0,6,Wohnung,2024-12-15T17:39:00Z,1765.0,Schönbrunnerstraße 211
+1408163315,"*-10 % Rabatt - nur für kurze Zeit * ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,1079,1,29,Wien,Wien,1.0,N/A,Wohnung,2024-12-15T17:36:00Z,1079.0,Kelsenstraße 5
 1770041086,PENDLER WOHNUNG | HOCHPARTERRE | KEIN WASCHMASCHINENANSCHLUSS,"Wien, 10. Bezirk, Favoriten",1100,435,1,26,Wien,Wien,1.0,0,Wohnung,2024-12-15T17:25:00Z,435.0,N/A
 1935743905,"Unbefristet! TOP STUDENTENWOHNUNG, 3. Stockwerk, möbliert, ruhig, JAHNGASSE","Wien, 05. Bezirk, Margareten",1050,540,1,40,Wien,Wien,1.0,3,Wohnung,2024-12-15T17:25:00Z,540.0,N/A
+1507821722,NEUE KÜCHE | 4. LIFTSTOCK | KLINK FAVORITEN,"Wien, 10. Bezirk, Favoriten",1100,589,1,38,Wien,Wien,1.0,4,Wohnung,2024-12-15T17:25:00Z,589.0,N/A
 1107424351,Moderne Wohnung direkt am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,870,2,43,Wien,Wien,0.0,4,Wohnung,2024-12-15T17:15:00Z,870.0,N/A
 1077620479,"Grenze 4. Bezirk ERSTBEZUG NEUBAU hochwertiges teilmöbeliertes 1,5-Zimmer Appartement am Hauptbahnhof / Quartier Belvedere / Erste Campus zur Erstvermietung","Wien, 10. Bezirk, Favoriten",1100,929,2,35,Wien,Wien,1.0,2. Stock,Wohnung,2024-12-15T17:07:00Z,929.0,Laxenburger Straße 2D
 1139802230,moderne Wohnung mit Gartenparadies im Westen Wiens | ZELLMANN IMMOBILIEN,"Wien, 14. Bezirk, Penzing",1140,991.98,1,45,Wien,Wien,1.0,N/A,Wohnung,2024-12-15T16:55:00Z,991.98,N/A
@@ -35,7 +38,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1336924300,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1518.62,4,111,Wien,Wien,1.0,1,Wohnung,2024-12-15T15:27:00Z,1518.62,Anni-Haider-Weg 3
 1058091319,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,952.21,2,54,Wien,Wien,1.0,0,Wohnung,2024-12-15T15:27:00Z,952.21,Anni-Haider-Weg 3
 1990230861,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1490.98,4,103,Wien,Wien,1.0,N/A,Wohnung,2024-12-15T15:27:00Z,1490.98,Anni-Haider-Weg 3
-917060431,GENERALSANIERTE 1-ZIMMER WOHNUNG: RUHIGE LAGE & TROTZDEM SCHNELL IN DER CITY - IDEAL FÜR STUDENTEN,"Wien, 10. Bezirk, Favoriten",1100,650,1,33,Wien,Wien,1.0,3,Wohnung,2024-12-15T14:56:00Z,650.0,Leebgasse
+917060431,GENERALSANIERTE 1-ZIMMER WOHNUNG: RUHIGE LAGE & TROTZDEM SCHNELL IN DER CITY - IDEAL FÜR STUDENTEN,"Wien, 10. Bezirk, Favoriten",1100,650,1,33,Wien,Wien,1.0,3,Wohnung,2024-12-15T14:56:00Z,650.0,Leebgasse 49
 1392586780,"Miete auf Zeit, bei FH Technikum","Wien, 20. Bezirk, Brigittenau",1200,1050,2,31,Wien,Wien,1.0,3,Wohnung,2024-12-15T14:53:00Z,1050.0,Pasettistrasse 31
 1251212131,Mietwohnung im neuen und modernen Stadtteil Wiens // Rental apartment in the new and modern district of Vienna //,"Wien, 02. Bezirk, Leopoldstadt",1020,1308.68,2,52,Wien,Wien,1.0,2,Wohnung,2024-12-15T14:36:00Z,1308.68,N/A
 1847427787,"Moderne, neue Wohnung mit Mietkaufoption","Wien, 13. Bezirk, Hietzing",1130,1050,2,55,Wien,Wien,0.95,1,Wohnung,2024-12-15T14:33:00Z,1050.0,Lainzer Straße 172
@@ -367,13 +370,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1235122596,2 Zimmer Wohnung,"Wien, 04. Bezirk, Wieden",1040,650,2,51,Wien,Wien,0.82,N/A,Wohnung,2024-12-13T17:49:00Z,650.0,Weyringerstrasse 19
 811999952,RESERVIERT: 44m² Wohnung im Herzen Wiens- 1090,"Wien, 09. Bezirk, Alsergrund",1090,675,1,44,Wien,Wien,0.0,3,Wohnung,2024-12-13T17:48:00Z,675.0,N/A
 1721921677,Exklusives Wohnen in Stadlau - Erzherzog-Karl-Straße Bahnhof und U2 Stadlau in wenigen Gehminuten!,"Wien, 22. Bezirk, Donaustadt",1220,729,2,33,Wien,Wien,1.0,3,Wohnung,2024-12-13T17:47:00Z,729.0,Langobardenstraße 3
-1413100971,"3-Zimmer Mietwohnung mit Kaufoption | ERSTBEZUG NACH SANIEREUNG | Nähe Kagran U-Bahn U1, Shoppingcenter DONAUZENTRUM","Wien, 22. Bezirk, Donaustadt",1220,1299,3,66,Wien,Wien,1.0,1,Wohnung,2024-12-13T17:45:00Z,1299.0,N/A
-1517958398,Ruhelage neben Kongresspark!,"Wien, 17. Bezirk, Hernals",1170,910,2,55,Wien,Wien,1.0,1,Wohnung,2024-12-13T17:42:00Z,910.0,Kainzgasse
-2009116743,Preiswerte 2-Zimmerwohnung mit Balkon im 1. OG im grüner Umgebung,"Wien, 12. Bezirk, Meidling",1120,799,2,46,Wien,Wien,1.0,1,Wohnung,2024-12-13T17:36:00Z,799.0,Wildgartenallee 17/2
-2131104915,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,2,39,Wien,Wien,1.0,2,Wohnung,2024-12-13T17:35:00Z,829.0,Podhagskygasse 12
-787294249,"Preiswerte 1,5-Zimmerwohnung mit Balkon in naturnaher Umgebung ab 01.02. bezugsbereit","Wien, 12. Bezirk, Meidling",1120,695,1,39,Wien,Wien,1.0,2,Wohnung,2024-12-13T17:34:00Z,695.0,Wildgartenallee 17/2
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-13T17:32:00Z,N/A,Pfalzgasse 29
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,905.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-12T10:39:00Z,N/A,Dresdner Straße
 921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-11T10:37:00Z,N/A,Fritz-Kandl-Gasse
 1006870175,JOSEPH- Wohnraum findet Stadt,"Wien, 09. Bezirk, Alsergrund",1090,1959,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-10T17:06:00Z,N/A,Nordbergstraße 7- 9
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-10T15:25:00Z,N/A,Pius-Parsch-Platz
+1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-09T19:31:00Z,N/A,Kelsenstraße 5
