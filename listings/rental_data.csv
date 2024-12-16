@@ -1,4 +1,8 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1904606435,INA - Pärchenwohnung mit Freifläche nähe Wasserspielplatz Leberberg,"Wien, 11. Bezirk, Simmering",1110,749.71,2,42,Wien,Wien,1.0,1,Wohnung,2024-12-15T10:24:00Z,749.71,Rosa-Jochmann-Ring
+986045628,"UNBEFRISTET: Zweitbezug nach Generalsanierung: 1220, Brausewettergasse 9 -Top 5","Wien, 22. Bezirk, Donaustadt",1220,806.01,2,56,Wien,Wien,1.0,1,Wohnung,2024-12-15T10:14:00Z,806.01,Brausewettergasse 9
+1951691481,Zweizimmerwohnung in der Brigittenau: Hartlgasse 17 - Top 14,"Wien, 20. Bezirk, Brigittenau",1200,799.85,2,47,Wien,Wien,1.0,3,Wohnung,2024-12-15T10:12:00Z,799.85,Hartlgasse 17
+2027259487,Neubauwohnung in Ruhelage - Singlehit mit Balkon - Leberberg,"Wien, 11. Bezirk, Simmering",1110,668.08,1,38,Wien,Wien,1.0,3,Wohnung,2024-12-15T10:04:00Z,668.08,Rosa-Jochmann-Ring
 1581418928,Naturnahes WOHLFÜHLEN – Neubau - RUHELAGE – Dachterrasse mit Fernsicht- KLIMAANLAGE – provisionsfrei,"Wien, 22. Bezirk, Donaustadt",1220,1497,3,73,Wien,Wien,0.95,3,Wohnung,2024-12-15T10:00:00Z,1497.0,Lannesstraße 40
 1618026645,ina - innovativ. nachhaltig. außergewöhnlich.,"Wien, 11. Bezirk, Simmering",1110,663.26,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-15T09:55:00Z,N/A,Rosa-Jochmann-Ring
 1954956548,"2 Zimmer Wohnung - neu renoviert, Nähe Sonnwendviertel","Wien, 10. Bezirk, Favoriten",1100,890,2,56,Wien,Wien,1.0,4.Stock,Wohnung,2024-12-15T09:35:00Z,890.0,Hofherrgasse
@@ -42,6 +46,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-10T15:25:00Z,N/A,Pius-Parsch-Platz
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-09T19:31:00Z,N/A,Kelsenstraße 5
 990581794,ERSTBEZUG | PERLE,"Wien, 17. Bezirk, Hernals",1170,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-03T09:03:00Z,N/A,N/A
+1389426649,| ERSTBEZUG | 2 ZIMMER | 3. OG | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,1045,2,56,Wien,Wien,1.0,3,Wohnung,2024-12-16T10:09:00Z,1045.0,Dresdner Straße
+1921014732,Exklusives Altbaujuwel am Opernring - Stilvolles Wohnen im Herzen Wiens,"Wien, 01. Bezirk, Innere Stadt",1010,3800,4,192,Wien,Wien,1.0,3,Wohnung,2024-12-16T10:07:00Z,3800.0,N/A
+1260442226,Herrschaftliche 5 1/2 Zimmer Wohnung auf der Alser Straße - unbefristet!,"Wien, 09. Bezirk, Alsergrund",1090,2991.79,5,182,Wien,Wien,1.0,2,Wohnung,2024-12-16T09:58:00Z,2991.79,N/A
+1911556921,++Der Platzhirsch++ Fantastischer 2 Zimmer Erstbezug mit Terrasse!,"Wien, 22. Bezirk, Donaustadt",1220,1049,1,50,Wien,Wien,1.0,2,Wohnung,2024-12-16T09:57:00Z,1049.0,N/A
 1744693034,++Der Platzhirsch++ Großartiger 2 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,1,Wohnung,2024-12-16T09:57:00Z,899.0,N/A
 1804330586,BELVIEW - HIER WIRD WOHNEN NEU DEFINIERT! - MIT TRAUM-AUSSICHTEN AUF DIE GESAMTE CITY!,"Wien, 10. Bezirk, Favoriten",1100,1203.9,2,52,Wien,Wien,1.0,10,Wohnung,2024-12-16T09:57:00Z,1203.9,Arsenalstraße 8
 1237001862,"2 ZI-WOHNUNG IN WIEN - 17. BEZIRK - HERNALS, MÖBLIERT, AUF ZEIT","Wien, 17. Bezirk, Hernals",1170,1425,2,45,Wien,Wien,1.0,2,Wohnung,2024-12-16T09:53:00Z,1425.0,N/A
@@ -238,10 +246,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1523476617,THE METROPOLITAN - Modern Living im belebten Sonnwendviertel! ++ 3-Zimmer mit Balkon!,"Wien, 10. Bezirk, Favoriten",1100,1650,3,80,Wien,Wien,1.0,1,Wohnung,2024-12-15T10:55:00Z,1650.0,Karl-Popper-Straße 5
 1309819156,Familientraum in absoluter Ruhelage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,1748.76,3,111,Wien,Wien,1.0,4,Wohnung,2024-12-15T10:45:00Z,1748.76,Rosa-Jochmann-Ring
 2013456806,Frisch sanierte 3-Zimmer-Wohnung in Hietzing - Lichtdurchflutet und inkl. Heizkosten,"Wien, 13. Bezirk, Hietzing",1130,1437.62,3,81,Wien,Wien,1.0,2,Wohnung,2024-12-15T10:35:00Z,1437.62,Lainzer Straße
-1904606435,INA - Pärchenwohnung mit Freifläche nähe Wasserspielplatz Leberberg,"Wien, 11. Bezirk, Simmering",1110,749.71,2,42,Wien,Wien,1.0,1,Wohnung,2024-12-15T10:24:00Z,749.71,Rosa-Jochmann-Ring
-986045628,"UNBEFRISTET: Zweitbezug nach Generalsanierung: 1220, Brausewettergasse 9 -Top 5","Wien, 22. Bezirk, Donaustadt",1220,806.01,2,56,Wien,Wien,1.0,1,Wohnung,2024-12-15T10:14:00Z,806.01,Brausewettergasse 9
-1951691481,Zweizimmerwohnung in der Brigittenau: Hartlgasse 17 - Top 14,"Wien, 20. Bezirk, Brigittenau",1200,799.85,2,47,Wien,Wien,1.0,3,Wohnung,2024-12-15T10:12:00Z,799.85,Hartlgasse 17
-2027259487,Neubauwohnung in Ruhelage - Singlehit mit Balkon - Leberberg,"Wien, 11. Bezirk, Simmering",1110,668.08,1,38,Wien,Wien,1.0,3,Wohnung,2024-12-15T10:04:00Z,668.08,Rosa-Jochmann-Ring
+1850603245,Gemeinde Wohnung Vormerkschein 31.05.2024,"Wien, 20. Bezirk, Brigittenau",1200,680,3,81,Wien,Wien,1.0,2,Wohnung,2024-12-16T21:33:00Z,680.0,Romanogasse 31
+1021259449,Traumhafte 4 Zi.-Terrassenwohnung mit Garagenplatz,"Wien, 19. Bezirk, Döbling",1190,2498,4,134,Wien,Wien,1.0,N/A,Wohnung,2024-12-16T21:28:00Z,2498.0,N/A
+2060321537,Top möbliertes Studio Apartment bei der Oper / Fully furnished studio apartment at Opera,"Wien, 01. Bezirk, Innere Stadt",1010,1080,1,31,Wien,Wien,1.0,7,Wohnung,2024-12-16T21:27:00Z,1080.0,Walfischgasse
+1376086778,Pärchen-Hit im Grünen,"Wien, 23. Bezirk, Liesing",1230,700,1,40,Wien,Wien,1.0,2,Wohnung,2024-12-16T21:26:00Z,700.0,Josef-Kutscha-Gasse
 2119696154,"Neubau 2 ZIMMER + LOGGIA / U3 SIMMERING (privat, provisionsfrei)","Wien, 11. Bezirk, Simmering",1110,795,2,41,Wien,Wien,0.95,3,Wohnung,2024-12-16T21:03:00Z,795.0,Kaiser-Ebersdorfer Straße 2
 1272762783,"(reserviert) 80 m² Gemeindewohnung mit Balkon, 3 Wohnräume - Direktvergabe","Wien, 22. Bezirk, Donaustadt",1220,795,3,80,Wien,Wien,0.9,3,Wohnung,2024-12-16T20:51:00Z,795.0,Siebenbürgerstraße
 1104390456,All IN TARIF! PROVISIONSFREI! Koffer packen und einziehen! Kurzzeitmiete Auhofstraße,"Wien, 13. Bezirk, Hietzing",1130,1099,2,35,Wien,Wien,0.95,N/A,Wohnung,2024-12-16T20:50:00Z,1099.0,Auhofstraße 210
@@ -638,7 +646,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 864526380,2 Zi. NB 2002/Wiedner Hauptstraße/2. Liftstock,"Wien, 05. Bezirk, Margareten",1050,810.8,2,47,Wien,Wien,1.0,2,Wohnung,2024-12-16T10:15:00Z,810.8,Wiedner Hauptstraße 118
 856261353,2-Zimmer Verandawohnung im 17. Bezirk,"Wien, 17. Bezirk, Hernals",1170,799.99,2,39,Wien,Wien,0.0,EG,Wohnung,2024-12-16T10:14:00Z,799.99,Schuhmanngasse
 1386978224,Unbefristet! Aparte 2-Zimmer Wohnung in der Raaber Bahn Gasse,"Wien, 10. Bezirk, Favoriten",1100,820.71,2,55,Wien,Wien,1.0,1,Wohnung,2024-12-16T10:14:00Z,820.71,Raaber Bahn Gasse 3-5
-1389426649,| ERSTBEZUG | 2 ZIMMER | 3. OG | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,1045,2,56,Wien,Wien,1.0,3,Wohnung,2024-12-16T10:09:00Z,1045.0,Dresdner Straße
-1921014732,Exklusives Altbaujuwel am Opernring - Stilvolles Wohnen im Herzen Wiens,"Wien, 01. Bezirk, Innere Stadt",1010,3800,4,192,Wien,Wien,1.0,3,Wohnung,2024-12-16T10:07:00Z,3800.0,N/A
-1260442226,Herrschaftliche 5 1/2 Zimmer Wohnung auf der Alser Straße - unbefristet!,"Wien, 09. Bezirk, Alsergrund",1090,2991.79,5,182,Wien,Wien,1.0,2,Wohnung,2024-12-16T09:58:00Z,2991.79,N/A
-1911556921,++Der Platzhirsch++ Fantastischer 2 Zimmer Erstbezug mit Terrasse!,"Wien, 22. Bezirk, Donaustadt",1220,1049,1,50,Wien,Wien,1.0,2,Wohnung,2024-12-16T09:57:00Z,1049.0,N/A
