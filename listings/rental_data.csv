@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1666634977,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1699,4,78,Wien,Wien,1.0,1,Wohnung,2024-12-20T08:29:00Z,1699.0,Pfalzgasse 29
+2058843157,3-Zimmer-Wohnung mit Balkon zu mieten in 1070 Wien,"Wien, 07. Bezirk, Neubau",1070,1641.83,3,78,Wien,Wien,0.9,2,Wohnung,2024-12-20T08:28:00Z,1641.83,N/A
 1922577537,5 Zimmer Dachgeschosswohnung und 2 Terrassen zur Miete in 1030 Wien,"Wien, 03. Bezirk, Landstraße",1030,2890,5,138,Wien,Wien,0.0,N/A,Wohnung,2024-12-20T08:26:00Z,2890.0,N/A
 1322667550,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829.01,2,38,Wien,Wien,1.0,1,Wohnung,2024-12-20T08:26:00Z,829.01,Pfalzgasse 29
 1122261565,Außergewöhnliche 4-Zimmer Altbau-Wohnung nahe Dr. Karl-Lueger-Platz in 1010 Wien zu mieten,"Wien, 01. Bezirk, Innere Stadt",1010,4520.01,4,166,Wien,Wien,0.73,4,Wohnung,2024-12-20T08:25:00Z,4520.01,N/A
@@ -506,11 +508,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1736685009,Idyllische Gartenwohnung mit Wienblick,"Wien, 16. Bezirk, Ottakring",1160,1190,2,57,Wien,Wien,0.0,N/A,Wohnung,2024-12-18T21:54:00Z,1190.0,N/A
 2036814320,"2 Zi Wohnung in Wien West, 15. Bezirk Nähe Westbahnhof U3. In 13 Minuten in die Wiener Innenstadt","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1000,2,38,Wien,Wien,1.0,4,Wohnung,2024-12-18T21:52:00Z,1000.0,Sturzgasse 45
 1013530668,"2 ZI-WOHNUNG IN WIEN - 13. BEZIRK - HIETZING, MÖBLIERT, AUF ZEIT","Wien, 13. Bezirk, Hietzing",1130,1722,2,70,Wien,Wien,0.65,2,Wohnung,2024-12-18T21:46:00Z,1722.0,N/A
-2123370494,"Traumblick über Wien, 27. Stock Q-Tower mit Gym, Interspar & Lounges, 3 Zimmer + Balkon, U-Bahn","Wien, 03. Bezirk, Landstraße",1030,1720,3,75,Wien,Wien,N/A,27,Wohnung,2024-12-18T21:41:00Z,1720.0,Leopold-Böhm-Straße 5
-857223320,Großzügige 2-Zimmer Wohnung mit Balkon!,"Wien, 23. Bezirk, Liesing",1230,948.5,2,53,Wien,Wien,1.0,1,Wohnung,2024-12-18T21:41:00Z,948.5,Atzlergasse
-1631200025,PROVISIONSFREI! MIETKAUF - LEO AM TEICH!,"Wien, 22. Bezirk, Donaustadt",1220,1043.95,2,55,Wien,Wien,1.0,N/A,Wohnung,2024-12-18T21:39:00Z,1043.95,Ziegelhofstraße 72
-1406425318,PROVISIONSFREI! MIETKAUF - LEO AM TEICH!,"Wien, 22. Bezirk, Donaustadt",1220,1074.66,2,55,Wien,Wien,1.0,N/A,Wohnung,2024-12-18T21:39:00Z,1074.66,Ziegelhofstraße 72
-1618541808,Wohnen in Floridsdorf - 2-Zimmer-Wohnung mit Garagenplatz Nähe Shopping City Nord & Klink Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,899.98,2,56,Wien,Wien,1.0,4,Wohnung,2024-12-18T21:38:00Z,899.98,Siemensstraße
 1635107309,In der Stadt der Musik gelangt mit den DC Musicflats ...,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T17:32:00Z,N/A,Donau-City-Str. 13-13A
 612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T15:17:00Z,N/A,Laxenburger Straße 2D
 1436279877,Hochwertige Neubauwohnungen nahe der Alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,1105.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T14:45:00Z,N/A,N/A
@@ -524,7 +521,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-16T10:15:00Z,N/A,Lienfeldergasse
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-14T04:23:00Z,N/A,Wagramer Straße
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-09T19:31:00Z,N/A,Kelsenstraße 5
+1373701169,Wunderschöne 2-Zimmer Neubauwohnung Nähe Margaretengürtel,"Wien, 05. Bezirk, Margareten",1050,899,2,46,Wien,Wien,1.0,2,Wohnung,2024-12-20T21:36:00Z,899.0,Brandmayergasse
 1327077605,"Entzückende, helle Altbauwohnung mit offenem Kamin","Wien, 01. Bezirk, Innere Stadt",1010,1750,2,60,Wien,Wien,1.0,4,Wohnung,2024-12-20T21:34:00Z,1750.0,Schultergasse
+1455811634,NEU SANIERT: 3-Zimmer-Altbauwohnung beim Rochusmarkt,"Wien, 03. Bezirk, Landstraße",1030,1660,3,79,Wien,Wien,1.0,1,Wohnung,2024-12-20T21:33:00Z,1660.0,Landstraßer Hauptstraße 32
 816736494,NEU SANIERT: 4-Zimmer-Altbauwohnung mit Balkon beim Rochusmarkt,"Wien, 03. Bezirk, Landstraße",1030,2900,4,128,Wien,Wien,1.0,1,Wohnung,2024-12-20T21:30:00Z,2900.0,Landstraßer Hauptstraße 32
 2070065715,Neu renovierte 4 Zimmer Wohnung im Stadtzentrum,"Wien, 05. Bezirk, Margareten",1050,800,4,86,Wien,Wien,1.0,3,Wohnung,2024-12-20T21:23:00Z,800.0,Einsiedlerplatz
 746308339,WOHNEN AM HELMUT-ZILK-PARK OHNE MAKLERPROVISION,"Wien, 10. Bezirk, Favoriten",1100,1590,3,82,Wien,Wien,1.0,2,Wohnung,2024-12-20T21:14:00Z,1590.0,Hlawkagasse 16
@@ -922,5 +921,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1461110812,PROVISIONSFREI UND ALL IN: Koffer packen und einziehen! Vollmöbliertes Apartment direkt bei der U4!,"Wien, 12. Bezirk, Meidling",1120,1299,2,50,Wien,Wien,1.0,1,Wohnung,2024-12-20T08:34:00Z,1299.0,Aichhorngasse 10
 1003241897,Hochwertiger Erstbezug in Kaisermühlen - direkt am Wasser und der U1,"Wien, 22. Bezirk, Donaustadt",1220,940,1,31,Wien,Wien,1.0,7,Wohnung,2024-12-20T08:32:00Z,940.0,Wagramer Straße 2A
 1350329828,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,908.99,2,46,Wien,Wien,1.0,2,Wohnung,2024-12-20T08:32:00Z,908.99,Pfalzgasse 29
-1666634977,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1699,4,78,Wien,Wien,1.0,1,Wohnung,2024-12-20T08:29:00Z,1699.0,Pfalzgasse 29
-2058843157,3-Zimmer-Wohnung mit Balkon zu mieten in 1070 Wien,"Wien, 07. Bezirk, Neubau",1070,1641.83,3,78,Wien,Wien,0.9,2,Wohnung,2024-12-20T08:28:00Z,1641.83,N/A
