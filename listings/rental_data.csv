@@ -1,10 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-943234822,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829.01,2,39,Wien,Wien,1.0,1,Wohnung,2024-12-20T08:50:00Z,829.01,Podhagskygasse 12
-1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T04:52:00Z,N/A,N/A
-1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,905.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-19T10:39:00Z,N/A,Dresdner Straße
-612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T15:17:00Z,N/A,Laxenburger Straße 2D
-1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.71,N/A,N/A,2024-12-18T13:27:00Z,N/A,N/A
-921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T10:37:00Z,N/A,Fritz-Kandl-Gasse
 718841843,Mietwohnungen mit Kaufoption - Wohnen in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,690,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T08:34:00Z,N/A,Edi-Finger-Straße
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-17T15:25:00Z,N/A,Pius-Parsch-Platz
 1084264605,Casa Oberlaa - Die neue Art des Wohnens ab 60 Jahren,"Wien, 10. Bezirk, Favoriten",1100,975.1,0,N/A,Wien,Wien,0.9,N/A,N/A,2024-12-17T07:49:00Z,N/A,N/A
@@ -12,6 +6,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2024-12-16T11:19:00Z,N/A,N/A
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-16T10:15:00Z,N/A,Lienfeldergasse
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-09T19:31:00Z,N/A,Kelsenstraße 5
+1978829305,Erstbezug Dachgeschoßwohnung in Strebersdorf,"Wien, 21. Bezirk, Floridsdorf",1210,978,2,51,Wien,Wien,1.0,N/A,Wohnung,2024-12-22T08:50:00Z,978.0,Rußbergstraße 60
 2089014190,"++Provisionsfrei++ BESTLAGE des 2. Bezirks, 5 Zimmer Maisonette-Wohnung!","Wien, 02. Bezirk, Leopoldstadt",1020,3498,5,157,Wien,Wien,1.0,N/A,Wohnung,2024-12-22T08:25:00Z,3498.0,Raimundgasse
 1874306522,"++Provisionsfrei++ BESTLAGE des 2. Bezirks, 5 Zimmer Maisonette-Wohnung!","Wien, 02. Bezirk, Leopoldstadt",1020,3749,5,173,Wien,Wien,1.0,N/A,Wohnung,2024-12-22T08:05:00Z,3749.0,Raimundgasse
 1647044870,"2-Zimmer Mietwohnung nahe der Innenstadt - Ideal für Studenten, Singles oder Pärchen!","Wien, 02. Bezirk, Leopoldstadt",1020,798,2,55,Wien,Wien,1.0,4,Wohnung,2024-12-22T07:10:00Z,798.0,N/A
@@ -606,9 +601,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 916004346,Unique apartment with 3 rooms and a large balcony in a perfect location!,"Wien, 22. Bezirk, Donaustadt",1220,1889.99,3,71,Wien,Wien,1.0,2,Wohnung,2024-12-20T09:16:00Z,1889.99,Wagramer Straße 2A
 881163014,Großzügig - vielseitig - zentral! Ihre neue WG oder Familienoase!,"Wien, 20. Bezirk, Brigittenau",1200,1650,4,121,Wien,Wien,0.58,N/A,Wohnung,2024-12-20T09:13:00Z,1650.0,N/A
 1338535774,Moderne und lichtdurchflutete Traumwohnung an der Donau!,"Wien, 22. Bezirk, Donaustadt",1220,1379.98,2,49,Wien,Wien,1.0,6,Wohnung,2024-12-20T09:12:00Z,1379.98,Wagramer Straße 2A
-1214407127,Hochwertiger Erstbezug in Kaisermühlen - direkt am Wasser & der U1 - mit Fußbodenkühlung,"Wien, 22. Bezirk, Donaustadt",1220,1419.99,2,47,Wien,Wien,1.0,7,Wohnung,2024-12-20T09:10:00Z,1419.99,Wagramer Straße 2A
-922132227,Gartenwohnung-Erstbezug direkt bei der U3 Kendlerstraße mit Abstellraum!,"Wien, 16. Bezirk, Ottakring",1160,1099,2,55,Wien,Wien,1.0,0,Wohnung,2024-12-20T09:08:00Z,1099.0,Huttengasse 39-41
-1504473676,Traumstudio direkt bei der Donauinsel. Neuerbaut!,"Wien, 22. Bezirk, Donaustadt",1220,960,1,31,Wien,Wien,1.0,7,Wohnung,2024-12-20T09:06:00Z,960.0,Wagramer Straße 2A
-1828966585,Elegante 3-Zimmer Wohnung im 1. Bezirk,"Wien, 01. Bezirk, Innere Stadt",1010,2199.99,3,110,Wien,Wien,1.0,5.OG,Wohnung,2024-12-20T09:05:00Z,2199.99,Elisabethstraße
-1874791159,Geschmackvoll sanierte Altbauwohnung mit Balkon in eleganter Cottage-Villa,"Wien, 18. Bezirk, Währing",1180,1190,0,63,Wien,Wien,1.0,1.Stock,Wohnung,2024-12-20T09:02:00Z,1190.0,Haizingergasse 49
-1240558380,Wohnen wie am Land - Mitten in der Stadt - LIVING LAA,"Wien, 10. Bezirk, Favoriten",1100,2499,3,114,Wien,Wien,1.0,3,Wohnung,2024-12-20T08:55:00Z,2499.0,Sassmanngasse 11
+1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T04:52:00Z,N/A,N/A
+1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,905.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-19T10:39:00Z,N/A,Dresdner Straße
+612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T15:17:00Z,N/A,Laxenburger Straße 2D
+1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.71,N/A,N/A,2024-12-18T13:27:00Z,N/A,N/A
+921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T10:37:00Z,N/A,Fritz-Kandl-Gasse
