@@ -1,17 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-1680059841,Unbefristet---renovierte & klimatisierte Wohnung nahe U4 Kennedybrücke---,"Wien, 14. Bezirk, Penzing",1140,2654.47,6,167,Wien,Wien,1.0,1,Wohnung,2024-12-20T14:46:00Z,2654.47,N/A
-814008734,Schloss Laudon - 3 Zimmer mit großer verglaster Loggia und Garage,"Wien, 14. Bezirk, Penzing",1140,1235.5,3,105,Wien,Wien,1.0,1,Wohnung,2024-12-20T14:46:00Z,1235.5,Mauerbachstraße
-1915730601,/ BALKON / 4 ZIMMER / ZWEITBEZUG / FREIFLÄCHE / VERFÜGBAR AB 1.03.2025,"Wien, 10. Bezirk, Favoriten",1100,1852.77,4,96,Wien,Wien,1.0,2,Wohnung,2024-12-20T14:46:00Z,1852.77,Erich-Sokol-Gasse
-1802922480,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1148.37,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T14:45:00Z,N/A,Linzer Straße
-737461147,"""Flori Flats"": Mietkauf in Floridsdorf - Idyllisches Wohnen in Heurigengegend","Wien, 21. Bezirk, Floridsdorf",1210,775,2,48,Wien,Wien,1.0,2,Wohnung,2024-12-20T14:45:00Z,775.0,Edi-Finger-Straße
-893962787,| VIOLA HOMES | HOCHWERTIGE MIETWOHNUNGEN | BEIM LAAER WALD | ZWEITBEZUG,"Wien, 10. Bezirk, Favoriten",1100,1475.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T14:44:00Z,N/A,Erich-Sokol-Gasse
-1151668719,Einzigartiger Blick über Wien! Garconniere mit Terrasse am Kahlenberg,"Wien, 19. Bezirk, Döbling",1190,1293.6,1,82,Wien,Wien,1.0,-2,Wohnung,2024-12-20T14:39:00Z,1293.6,N/A
-1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T04:52:00Z,N/A,N/A
-1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,905.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-19T10:39:00Z,N/A,Dresdner Straße
-921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T10:37:00Z,N/A,Fritz-Kandl-Gasse
-718841843,Mietwohnungen mit Kaufoption - Wohnen in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,690,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T08:34:00Z,N/A,Edi-Finger-Straße
-1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-17T15:25:00Z,N/A,Pius-Parsch-Platz
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2024-12-16T11:19:00Z,N/A,N/A
+1251212131,Mietwohnung im neuen und modernen Stadtteil Wiens // Rental apartment in the new and modern district of Vienna //,"Wien, 02. Bezirk, Leopoldstadt",1020,1113.21,2,52,Wien,Wien,1.0,6,Wohnung,2024-12-22T14:36:00Z,1113.21,N/A
 1792676728,Wohnung Nähe Westbahnhof ab sofort zu vermieten. (ca 10 Gehminuten Westbahnhof / 5 Minuten Gumpendorfer Strasse),"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,550,0,29,Wien,Wien,1.0,N/A,Wohnung,2024-12-22T14:25:00Z,550.0,Talgasse
 795569089,Helle Wohnung mit Erstbezug in Toplage - provisionsfrei / Privatverkauf,"Wien, 12. Bezirk, Meidling",1120,1125,2,48,Wien,Wien,0.63,3,Wohnung,2024-12-22T14:20:00Z,1125.0,Aßmayergasse
 1755339538,"Querstrasse zu Thaliastrasse, provisionsfrei, Top - 2-Zimmer Wohnung, sehr schöne Ausstattung von Küche und Bad","Wien, 16. Bezirk, Ottakring",1160,930,2,42,Wien,Wien,1.0,N/A,Wohnung,2024-12-22T14:15:00Z,930.0,Deinhardsteingasse
@@ -406,9 +395,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1120866615,1030 Wien- große 2 Zimmer Wohnung mit Balkon,"Wien, 03. Bezirk, Landstraße",1030,1486.59,2,81,Wien,Wien,1.0,2,Wohnung,2024-12-20T14:57:00Z,1486.59,N/A
 1926316437,Exklusive 3-Zimmer Wohnung in optimaler Lage mit hochwertiger Einbauküche & Balkon,"Wien, 09. Bezirk, Alsergrund",1090,1790,3,62,Wien,Wien,1.0,3,Wohnung,2024-12-20T14:56:00Z,1790.0,N/A
 765537016,ERSTBEZUG IN DER LOBAUGASSE  4 ZIMMER FAMILIENWOHNUNG MIT 2 BÄDERN,"Wien, 22. Bezirk, Donaustadt",1220,3290,4,122,Wien,Wien,1.0,4,Wohnung,2024-12-20T14:55:00Z,3290.0,Lobaugasse 25
-1954741997,Neubauprojekt JOSEPH/Turm: Hochwertige 3-Zimmer-Wohnung mit Außenfläche - in 1090 Wien zu mieten,"Wien, 09. Bezirk, Alsergrund",1090,1859,3,65,Wien,Wien,0.85,9,Wohnung,2024-12-20T14:51:00Z,1859.0,N/A
-2134039394,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1670.87,3,78,Wien,Wien,1.0,2,Wohnung,2024-12-20T14:51:00Z,1670.87,Linzer Straße
-1960095191,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1672.29,3,78,Wien,Wien,1.0,2,Wohnung,2024-12-20T14:51:00Z,1672.29,Linzer Straße
-955068289,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1249.8,2,57,Wien,Wien,1.0,2,Wohnung,2024-12-20T14:51:00Z,1249.8,Linzer Straße
-1616327394,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1613.09,3,80,Wien,Wien,1.0,1,Wohnung,2024-12-20T14:51:00Z,1613.09,Linzer Straße
-1450633652,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1148.37,2,58,Wien,Wien,1.0,2,Wohnung,2024-12-20T14:51:00Z,1148.37,Linzer Straße
+893962787,| VIOLA HOMES | HOCHWERTIGE MIETWOHNUNGEN | BEIM LAAER WALD | ZWEITBEZUG,"Wien, 10. Bezirk, Favoriten",1100,1475.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T14:44:00Z,N/A,Erich-Sokol-Gasse
+1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T04:52:00Z,N/A,N/A
+1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,905.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-19T10:39:00Z,N/A,Dresdner Straße
+921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1381.14,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T10:37:00Z,N/A,Fritz-Kandl-Gasse
+1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-17T15:25:00Z,N/A,Pius-Parsch-Platz
