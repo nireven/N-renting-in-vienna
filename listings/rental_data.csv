@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1522287969,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829.01,2,39,Wien,Wien,1.0,2,Wohnung,2024-12-21T17:38:00Z,829.01,Podhagskygasse 12
+1753237766,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829.01,2,39,Wien,Wien,1.0,2,Wohnung,2024-12-21T17:36:00Z,829.01,Podhagskygasse 12
 1250723640,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,908.99,2,46,Wien,Wien,1.0,2,Wohnung,2024-12-21T17:29:00Z,908.99,Podhagskygasse 12
 1205993891,voll ausgestattetes Appartment mit direktem Zugang zum privaten Garten im Hinterhof,"Wien, 16. Bezirk, Ottakring",1160,600,0,26,Wien,Wien,1.0,N/A,Wohnung,2024-12-21T17:25:00Z,600.0,Haberlgasse
 1296699103,Perfekt aufgeteilte 2-Zimmer-Wohnung in Bahnhofsnähe,"Wien, 12. Bezirk, Meidling",1120,850,2,53,Wien,Wien,1.0,0,Wohnung,2024-12-21T17:24:00Z,850.0,N/A
@@ -23,8 +25,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1671585287,Schöne 3 - Zimmer - Altbauwohnung | unbefristet,"Wien, 10. Bezirk, Favoriten",1100,942.12,3,83,Wien,Wien,1.0,4,Wohnung,2024-12-21T15:07:00Z,942.12,N/A
 1511292463,"TOPLAGE und ERSTBEZUG: Hofseitige, moderne 2-Zimmerwohnung mit Balkon! Besichtigung ab Februar 2025 möglich!","Wien, 07. Bezirk, Neubau",1070,1649.75,2,56,Wien,Wien,1.0,3,Wohnung,2024-12-21T15:05:00Z,1649.75,Apollogasse 16-18
 1718813852,Wohnen in Ruhe und Stil - Neu renovierte 4-Zimmer-Wohnung mit 2 Balkonen in idyllischer Lage des 18. Bezirks - Jetzt zugreifen!,"Wien, 18. Bezirk, Währing",1180,1850,3,95,Wien,Wien,1.0,2,Wohnung,2024-12-21T15:05:00Z,1850.0,Peter-Jordan-Straße
-835418124,"TOPLAGE und ERSTBEZUG: Hofseitige, moderne 3-Zimmerwohnung mit großer Loggia! Besichtigung ab Februar 2025 möglich!","Wien, 07. Bezirk, Neubau",1070,2794.97,3,105,Wien,Wien,1.0,2,Wohnung,2024-12-21T14:55:00Z,2794.97,Apollogasse 16-18
-1929157231,2-Zimmer Wohnung mit Balkon Top Lage direkt am Donau,"Wien, 20. Bezirk, Brigittenau",1200,1067,2,50,Wien,Wien,1.0,7,Wohnung,2024-12-21T14:52:00Z,1067.0,Handelskai
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-21T04:23:00Z,N/A,Wagramer Straße
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T17:32:00Z,N/A,Pfalzgasse 29
 1919567062,Wohnen auf der Schmelz,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1599,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T14:54:00Z,N/A,Schanzstraße
@@ -34,6 +34,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 718841843,Mietwohnungen mit Kaufoption - Wohnen in Stammersdorfer Ruhelage,"Wien, 21. Bezirk, Floridsdorf",1210,690,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-18T08:34:00Z,N/A,Edi-Finger-Straße
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-17T15:25:00Z,N/A,Pius-Parsch-Platz
 1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-16T17:26:00Z,N/A,Donau-City-Straße
+1496492997,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1200.89,3,75,Wien,Wien,1.0,5,Wohnung,2024-12-23T08:28:00Z,1200.89,Anni-Haider-Weg 3
+1474081269,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,896.96,2,54,Wien,Wien,1.0,4,Wohnung,2024-12-23T08:28:00Z,896.96,Anni-Haider-Weg 3
 2007409782,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,952.21,2,65,Wien,Wien,1.0,0,Wohnung,2024-12-23T08:28:00Z,952.21,Anni-Haider-Weg 3
 1414675612,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1187.06,3,80,Wien,Wien,1.0,5,Wohnung,2024-12-23T08:28:00Z,1187.06,Anni-Haider-Weg 3
 1695789091,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1228.51,3,81,Wien,Wien,1.0,5,Wohnung,2024-12-23T08:28:00Z,1228.51,Anni-Haider-Weg 3
@@ -232,8 +234,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 964895860,"Vollmoblierte, sanierte und gepflegte Wohnung in einem ruhigen Gebäude im 2. Stock mit Lift im 2. Wiener Gemeindebezirk","Wien, 02. Bezirk, Leopoldstadt",1020,750,2,47,Wien,Wien,1.0,2,Wohnung,2024-12-21T17:48:00Z,750.0,Schönngasse 6
 1928524172,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,908.99,2,46,Wien,Wien,1.0,2,Wohnung,2024-12-21T17:42:00Z,908.99,Podhagskygasse 12
 1674422021,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,908.99,2,46,Wien,Wien,1.0,2,Wohnung,2024-12-21T17:40:00Z,908.99,Podhagskygasse 12
-1522287969,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829.01,2,39,Wien,Wien,1.0,2,Wohnung,2024-12-21T17:38:00Z,829.01,Podhagskygasse 12
-1753237766,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829.01,2,39,Wien,Wien,1.0,2,Wohnung,2024-12-21T17:36:00Z,829.01,Podhagskygasse 12
+1456061750,"3006 - ""Helle 3-Zimmer Neubau-Dachgeschosswohnung mit 2 Terrassen - Erstbezug!""","Wien, 23. Bezirk, Liesing",1230,1359.25,3,65,Wien,Wien,0.72,DG,Wohnung,2024-12-23T14:48:00Z,1359.25,N/A
+2003539719,"Jahrhundertwendehaus! Geräumige, helle 2 Zimmer Wohnung - ab sofort beziehbar!","Wien, 16. Bezirk, Ottakring",1160,849.01,2,62,Wien,Wien,1.0,0,Wohnung,2024-12-23T14:47:00Z,849.01,Speckbachergasse 29
 1731926151,DACHGESCHOSSWOHNUNG MIT DACHTERRASSE - FERNBLICK,"Wien, 14. Bezirk, Penzing",1140,2490,0,148,Wien,Wien,1.0,3,Wohnung,2024-12-23T14:37:00Z,2490.0,Kienmayergasse 62
 1356736581,tolle 3-Zimmerwohnung,"Wien, 05. Bezirk, Margareten",1050,1596.5,0,98,Wien,Wien,1.0,3,Wohnung,2024-12-23T14:37:00Z,1596.5,Kohlgasse 44
 1578044101,"Top-sanierte Wohnung mit Balkon nahe Schwendermarkt, Mariahilfer Straße","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,980,2,59,Wien,Wien,1.0,2,Wohnung,2024-12-23T14:37:00Z,980.0,N/A
@@ -432,5 +434,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1645081340,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1021.29,2,61,Wien,Wien,1.0,0,Wohnung,2024-12-23T08:28:00Z,1021.29,Anni-Haider-Weg 3
 1697992153,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1200.89,3,82,Wien,Wien,1.0,1,Wohnung,2024-12-23T08:28:00Z,1200.89,Anni-Haider-Weg 3
 2101373536,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,910.77,2,54,Wien,Wien,1.0,5,Wohnung,2024-12-23T08:28:00Z,910.77,Anni-Haider-Weg 3
-1496492997,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1200.89,3,75,Wien,Wien,1.0,5,Wohnung,2024-12-23T08:28:00Z,1200.89,Anni-Haider-Weg 3
-1474081269,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,896.96,2,54,Wien,Wien,1.0,4,Wohnung,2024-12-23T08:28:00Z,896.96,Anni-Haider-Weg 3
