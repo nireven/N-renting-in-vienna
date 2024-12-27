@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+761411372,"Ihr neues Zuhause in den ""Flori Flats"": Mietwohnungen mit Kaufoption","Wien, 21. Bezirk, Floridsdorf",1210,860,2,47,Wien,Wien,1.0,1,Wohnung,2024-12-25T10:07:00Z,860.0,Edi-Finger-Straße
+761411382,"Jetzt mieten, später kaufen: Wohnen in Stammersdorfer Naturidylle","Wien, 21. Bezirk, Floridsdorf",1210,770,2,49,Wien,Wien,1.0,1,Wohnung,2024-12-25T10:07:00Z,770.0,Edi-Finger-Straße
 2132364416,Neubau - Pärchenwohnung mit Blick zur Donau und Innenstadt - Nähe U1 Station Donau,"Wien, 22. Bezirk, Donaustadt",1220,1490,2,50,Wien,Wien,1.0,3,Wohnung,2024-12-25T10:07:00Z,1490.0,Wagramer Straße
 1865999082,2-Zimmer Wohnung inkl. Einbauküche und Freifläche in Wien Favoriten - ab sofort beziehbar!,"Wien, 10. Bezirk, Favoriten",1100,839,2,47,Wien,Wien,1.0,4,Wohnung,2024-12-25T10:00:00Z,839.0,Van-der-Nüll-Gasse 47
 988053140,LEO 131 - hochwertiger Neubau zu fairen Preisen - gut angebunden (U1 Leopoldau + U6 Floridsdorf) - mit vollmöblierter Küche & Freifläche,"Wien, 21. Bezirk, Floridsdorf",1210,829.75,2,41,Wien,Wien,1.0,0,Wohnung,2024-12-25T10:00:00Z,829.75,Leopoldauer Straße 131
@@ -70,9 +72,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1059631599,PENTHOUSE DER SUPERLATIVE - Elegante Dachgeschoss-Maisonette - im 6. BEZIRK Nähe HAUS DES MEERES - ZU VERMIETEN! - JETZT ZUSCHLAGEN,"Wien, 06. Bezirk, Mariahilf",1060,4689.76,4,252,Wien,Wien,1.0,N/A,Wohnung,2024-12-25T06:56:00Z,4689.76,Gumpendorfer Straße 66
 1979297605,Maisonette Wohnung in Ruhelage! Innenhof Terrasse - 3 - Zimmer! Jetzt anfragen - JETZT ANFRAGEN,"Wien, 12. Bezirk, Meidling",1120,1872.93,3,106,Wien,Wien,1.0,N/A,Wohnung,2024-12-25T06:56:00Z,1872.93,Tanbruckgasse 34
 1738872363,Jetzt einziehen! Exzellente Unterkunft beim Laaer Wald! All-Inclusive-Apartments - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,1038.68,2,52,Wien,Wien,1.0,2,Wohnung,2024-12-25T06:56:00Z,1038.68,Laaer Wald 1
-951519353,Provisionsfrei: Exklusiver 132m² Altbau mit Einbauküche Nähe Spittelberg - 1070 Wien,"Wien, 07. Bezirk, Neubau",1070,2997.82,4,132,Wien,Wien,1.0,4,Wohnung,2024-12-25T05:11:00Z,2997.82,N/A
-1116734750,2 Zi Wohnung mit tollem Ausblick auf Prater/Donauinsel im 20. Stock mit Balkon mitten im grünen,"Wien, 02. Bezirk, Leopoldstadt",1020,1680,2,53,Wien,Wien,0.95,41,Wohnung,2024-12-25T05:07:00Z,1680.0,Wehlistraße 291
-1776136215,"Traumhafter Altbau, Pilgramgasse 5. Bezirk, großzügige 3 Zi-Wohnung, wenige Schritte zu U-bahn U4","Wien, 05. Bezirk, Margareten",1050,2210,3,85,Wien,Wien,1.0,6,Wohnung,2024-12-25T04:59:00Z,2210.0,Pilgramgasse 15
 770061231,WINZENZ - Genussvoll Wohnen in Nussdorf,"Wien, 19. Bezirk, Döbling",1190,2003.1,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-24T14:34:00Z,N/A,Zahnradbahnstraße 13a
 1084264605,Casa Oberlaa - Die neue Art des Wohnens ab 60 Jahren,"Wien, 10. Bezirk, Favoriten",1100,975.1,0,N/A,Wien,Wien,0.9,N/A,N/A,2024-12-24T07:49:00Z,N/A,N/A
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-23T19:31:00Z,N/A,Kelsenstraße 5
@@ -83,6 +82,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-21T04:23:00Z,N/A,Wagramer Straße
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,829,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-20T17:32:00Z,N/A,Pfalzgasse 29
 644051836,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-17T12:39:00Z,N/A,N/A
+1755824921,"Großzügige 3 Zimmer Wohnung mit 2 Balkonen, 4. Liftstock, Ubahn U2 in Gehweite","Wien, 22. Bezirk, Donaustadt",1220,1860,3,71,Wien,Wien,1.0,8,Wohnung,2024-12-27T05:21:00Z,1860.0,Erzherzog-Karl-Straße 176
+1221453594,"Bestlage Innere Stadt, traumhafte 3 Zi in Stilaltbau, top saniert, Gehweite zu Heldenplatz & U-Bahn","Wien, 01. Bezirk, Innere Stadt",1010,2230,3,69,Wien,Wien,1.0,6,Wohnung,2024-12-27T05:11:00Z,2230.0,Bellariastraße 12
 848878341,"Weitblick über Wien & Prater, Triiiple Tower, Rooftop Pool, U-Bahn nähe, Doorman, Erstbezug, traumhaft","Wien, 03. Bezirk, Landstraße",1030,1820,2,50,Wien,Wien,1.0,30,Wohnung,2024-12-27T04:29:00Z,1820.0,Schnirchgasse 11
 1430091954,Gemütliche 2-Zimmer-Wohnung in ruhiger Lage!,"Wien, 17. Bezirk, Hernals",1170,868.38,2,59,Wien,Wien,1.0,4,Wohnung,2024-12-27T03:51:00Z,868.38,Steinergasse 9
 2015807049,Weihnachtsaktion - Miete reduziert! Luxury Living! Maßgefertigte Tischlerküche! elektrische Rollos! Klima-Vorb! Nähe U2!,"Wien, 22. Bezirk, Donaustadt",1220,849,2,36,Wien,Wien,1.0,2,Wohnung,2024-12-27T03:44:00Z,849.0,Am Krautgarten 15
@@ -281,8 +282,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1976677494,Moderne Neubauwohnungen nahe U1 Kagraner Platz - Aufstrebendes Wohnviertel! - JETZT ZUSCHLAGEN,"Wien, 22. Bezirk, Donaustadt",1220,825.81,2,44,Wien,Wien,1.0,6,Wohnung,2024-12-26T13:19:00Z,825.81,Bertha-von-Suttner-Gasse 10a-12a
 1092610636,Exklusives Haus im 19. Bezirk,"Wien, 19. Bezirk, Döbling",1190,2715,4,100,Wien,Wien,1.0,2,Wohnung,2024-12-26T13:18:00Z,2715.0,Silbergasse
 1173600372,Stylish single apartment with outdoor space - excellent location!,"Wien, 22. Bezirk, Donaustadt",1220,890.04,1,31,Wien,Wien,1.0,6,Wohnung,2024-12-26T13:11:00Z,890.04,Wagramer Straße 2A
-1620094657,Penthouse-Feeling im vorletzten 37. Stock: Erstbezug - The One - 49m2 plus Terrasse,"Wien, 03. Bezirk, Landstraße",1030,1250,2,49,Wien,Wien,1.0,37,Wohnung,2024-12-26T13:10:00Z,1250.0,Modecenterstrasse 20
-1506665560,MIETWOHNUNGEN BEIM CASINOPARK,"Wien, 14. Bezirk, Penzing",1140,1670.7,3,78,Wien,Wien,0.99,2,Wohnung,2024-12-26T13:09:00Z,1670.7,Linzer Straße 286-288
+991186348,3-ZIMMER WOHNUNG MIT GRÜNBLICK DIREKT BEI DER U6 JÄGERSTRASSE,"Wien, 20. Bezirk, Brigittenau",1200,1400,3,99,Wien,Wien,0.58,N/A,Wohnung,2024-12-25T14:32:00Z,1400.0,N/A
+1682403933,Nachmieter Gesucht - Gemütliche 2-Zimmer-Wohnung nahe Naschmarkt und Mariahilfer Straße,"Wien, 06. Bezirk, Mariahilf",1060,938,2,53,Wien,Wien,1.0,1,Wohnung,2024-12-25T14:32:00Z,938.0,Mollardgasse 23
 1072447221,Holbeingasse 6 - Stilvolles Wohnen in Favoriten,"Wien, 10. Bezirk, Favoriten",1100,1269.63,4,95,Wien,Wien,1.0,4,Wohnung,2024-12-25T14:28:00Z,1269.63,Holbeingasse 6
 2132175079,"Geräumige 4-Zimmer Wohnung mit Einbauküche, zwei Abstellräumen und unbefristetem Mietvertrag - ab sofort beziehbar!","Wien, 10. Bezirk, Favoriten",1100,1308.66,4,98,Wien,Wien,1.0,4,Wohnung,2024-12-25T14:28:00Z,1308.66,Holbeingasse 6
 1376167084,Lichtdurchflutete 4-Zimmer Wohnung inkl. Einbauküche - unbefristet und ab sofort beziehbar!,"Wien, 10. Bezirk, Favoriten",1100,1269.63,4,95,Wien,Wien,1.0,4,Wohnung,2024-12-25T14:28:00Z,1269.63,Holbeingasse 6
@@ -481,8 +482,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1765979690,Arbeiten & Wohnen direkt bei U4-Station und Nähe 1. Bezirk,"Wien, 09. Bezirk, Alsergrund",1090,2849.62,0,160,Wien,Wien,0.85,N/A,Wohnung,2024-12-25T10:11:00Z,2849.62,N/A
 761411350,"""Flori Flats"": Singlewohnung mit Kaufoption in Stammersdorf","Wien, 21. Bezirk, Floridsdorf",1210,690,1,38,Wien,Wien,1.0,2,Wohnung,2024-12-25T10:07:00Z,690.0,Edi-Finger-Straße
 761411356,"Mietwohnung genießen, Kaufoption nutzen: Wohnen in Stammersdorfer Naturkulisse","Wien, 21. Bezirk, Floridsdorf",1210,720,2,44,Wien,Wien,1.0,2,Wohnung,2024-12-25T10:07:00Z,720.0,Edi-Finger-Straße
-761411372,"Ihr neues Zuhause in den ""Flori Flats"": Mietwohnungen mit Kaufoption","Wien, 21. Bezirk, Floridsdorf",1210,860,2,47,Wien,Wien,1.0,1,Wohnung,2024-12-25T10:07:00Z,860.0,Edi-Finger-Straße
-761411382,"Jetzt mieten, später kaufen: Wohnen in Stammersdorfer Naturidylle","Wien, 21. Bezirk, Floridsdorf",1210,770,2,49,Wien,Wien,1.0,1,Wohnung,2024-12-25T10:07:00Z,770.0,Edi-Finger-Straße
+834091139,"94 m2, helle Wohnung, 2 Schlafzimmer, gute Anbindung am Matzleinsdorferplatz, moderne Ausstattung","Wien, 05. Bezirk, Margareten",1050,2070,3,94,Wien,Wien,1.0,3,Wohnung,2024-12-26T08:20:00Z,2070.0,Wiedner Hauptstraße 134
+1690478712,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1399,3,66,Wien,Wien,1.0,N/A,Wohnung,2024-12-26T08:20:00Z,1399.0,Pfalzgasse 29
 1050842651,2-Zimmer-Wohnung mit Balkon im 3. OG in ländlicher Ruhelage und schönem Neubau zu mieten in 1230 Wien,"Wien, 23. Bezirk, Liesing",1230,989,2,51,Wien,Wien,0.72,3,Wohnung,2024-12-26T08:19:00Z,989.0,N/A
 2076411002,möblierte Terrassenwohnung nahe Schwarzenbergplatz - befristet,"Wien, 04. Bezirk, Wieden",1040,3025,2,86,Wien,Wien,1.0,N/A,Wohnung,2024-12-26T08:17:00Z,3025.0,"Schwarzenbergplatz, Belvedere"
 985775975,WINTERAKTION - Erster Monat Mietfrei! Gute Anbindung im modernen Neubau,"Wien, 11. Bezirk, Simmering",1110,1270.61,3,72,Wien,Wien,0.67,N/A,Wohnung,2024-12-26T08:15:00Z,1270.61,N/A
@@ -681,8 +682,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1383109335,Erstbezug! Top sanierte 2 Zimmer-Wohnung in zentraler Lage im 3. Bezirk. Komplett möbliert und bestens ausgestattet!,"Wien, 03. Bezirk, Landstraße",1030,1470,2,51,Wien,Wien,1.0,2,Wohnung,2024-12-25T14:37:00Z,1470.0,Oberzellergasse 4
 1723755865,Moderne Eleganz in Top-Lage: 2-Zimmer Wohnung mit Concierge Service,"Wien, 08. Bezirk, Josefstadt",1080,2777.5,2,70,Wien,Wien,1.0,1,Wohnung,2024-12-25T14:36:00Z,2777.5,Krotenthallergasse
 1074556879,Singlehit mit moderner Ausstattung,"Wien, 10. Bezirk, Favoriten",1100,650,1,39,Wien,Wien,1.0,2,Wohnung,2024-12-25T14:34:00Z,650.0,Leibnizgasse
-991186348,3-ZIMMER WOHNUNG MIT GRÜNBLICK DIREKT BEI DER U6 JÄGERSTRASSE,"Wien, 20. Bezirk, Brigittenau",1200,1400,3,99,Wien,Wien,0.58,N/A,Wohnung,2024-12-25T14:32:00Z,1400.0,N/A
-1682403933,Nachmieter Gesucht - Gemütliche 2-Zimmer-Wohnung nahe Naschmarkt und Mariahilfer Straße,"Wien, 06. Bezirk, Mariahilf",1060,938,2,53,Wien,Wien,1.0,1,Wohnung,2024-12-25T14:32:00Z,938.0,Mollardgasse 23
+1620094657,Penthouse-Feeling im vorletzten 37. Stock: Erstbezug - The One - 49m2 plus Terrasse,"Wien, 03. Bezirk, Landstraße",1030,1250,2,49,Wien,Wien,1.0,37,Wohnung,2024-12-26T13:10:00Z,1250.0,Modecenterstrasse 20
+1506665560,MIETWOHNUNGEN BEIM CASINOPARK,"Wien, 14. Bezirk, Penzing",1140,1670.7,3,78,Wien,Wien,0.99,2,Wohnung,2024-12-26T13:09:00Z,1670.7,Linzer Straße 286-288
 1486575760,Moderne 3-Zimmer Neubauwohnung - TOP-Ausstattung - Traumlage!,"Wien, 07. Bezirk, Neubau",1070,1649,3,70,Wien,Wien,0.9,1,Wohnung,2024-12-26T13:07:00Z,1649.0,N/A
 1569039717,"orea | 2,5-Zimmer und Fernblick mit 2 Terrassen | Smart besichtigen · Online anmieten | VIE","Wien, 11. Bezirk, Simmering",1110,1150,2,65,Wien,Wien,1.0,5,Wohnung,2024-12-26T13:07:00Z,1150.0,Trinkhausstraße
 706236211,2 Zimmer-Wohnungen und Balkon in Miete (Baugruppe),"Wien, 22. Bezirk, Donaustadt",1220,923.6,2,53,Wien,Wien,1.0,N/A,Wohnung,2024-12-26T13:05:00Z,923.6,Mimi-Grossberg-Gasse 4
@@ -881,5 +882,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 850877294,"ruhige, neu sanierte 4-Zimmer-Wohnung mit Terrasse, mitten in der Fußgängerzone","Wien, 06. Bezirk, Mariahilf",1060,2556.27,4,138,Wien,Wien,1.0,0,Wohnung,2024-12-26T08:56:00Z,2556.27,Mariahilfer Straße 49
 1024625966,RAX2: Hofseitige 2-Zimmer Wohnung mit großer Loggia in 1100 Wien zu mieten,"Wien, 10. Bezirk, Favoriten",1100,929.24,2,63,Wien,Wien,0.9,1,Wohnung,2024-12-26T08:49:00Z,929.24,N/A
 882915168,GARTENWOHNUNG mit zwei Zimmern und großzügiger Terrasse in ländlicher Ruhelage zu mieten in 1230 Wien,"Wien, 23. Bezirk, Liesing",1230,1099,2,53,Wien,Wien,0.72,0,Wohnung,2024-12-26T08:22:00Z,1099.0,N/A
-834091139,"94 m2, helle Wohnung, 2 Schlafzimmer, gute Anbindung am Matzleinsdorferplatz, moderne Ausstattung","Wien, 05. Bezirk, Margareten",1050,2070,3,94,Wien,Wien,1.0,3,Wohnung,2024-12-26T08:20:00Z,2070.0,Wiedner Hauptstraße 134
-1690478712,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1399,3,66,Wien,Wien,1.0,N/A,Wohnung,2024-12-26T08:20:00Z,1399.0,Pfalzgasse 29
