@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1388904579,Hochwertige Neubauwohnungen nahe der Alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,1860,3,85,Wien,Wien,1.0,0,Wohnung,2024-12-26T09:50:00Z,1860.0,N/A
 1240212394,Hochwertige Neubauwohnungen nahe der Alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,1206,2,55,Wien,Wien,1.0,1,Wohnung,2024-12-26T09:50:00Z,1206.0,N/A
 1026025164,Hochwertige Neubauwohnungen nahe der Alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,1105.01,2,50,Wien,Wien,1.0,1,Wohnung,2024-12-26T09:50:00Z,1105.01,N/A
 1592366358,Hochwertige Neubauwohnungen nahe der Alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,1722,3,78,Wien,Wien,1.0,0,Wohnung,2024-12-26T09:50:00Z,1722.0,N/A
@@ -37,7 +38,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1191172900,Gemütliche Singlewohnung im 19. Bezirk,"Wien, 19. Bezirk, Döbling",1190,733.77,2,42,Wien,Wien,1.0,0,Wohnung,2024-12-26T06:48:00Z,733.77,Dr.-Eduard-Heinl-Gasse 7
 1140179140,Schöne 2-Zimmer Wohnung im 19. Bezirk,"Wien, 19. Bezirk, Döbling",1190,705.19,2,41,Wien,Wien,1.0,N/A,Wohnung,2024-12-26T06:48:00Z,705.19,Dr.-Eduard-Heinl-Gasse 7
 1972699462,Wohnung,"Wien, 10. Bezirk, Favoriten",1100,922,2,60,Wien,Wien,1.0,6,Wohnung,2024-12-26T06:39:00Z,922.0,Czeikestrasse
-1437548321,Möblierte Balkonwohnung mit 2 Zimmern bei der Mariahilfer Straße,"Wien, 06. Bezirk, Mariahilf",1060,2148.52,2,63,Wien,Wien,1.0,5,Wohnung,2024-12-26T03:45:00Z,2148.52,N/A
 1635107309,In der Stadt der Musik gelangt mit den DC Musicflats ...,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-25T17:32:00Z,N/A,Donau-City-Str. 13-13A
 612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-25T15:17:00Z,N/A,Laxenburger Straße 2D
 1436279877,Hochwertige Neubauwohnungen nahe der Alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,1105.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-25T14:45:00Z,N/A,N/A
@@ -51,6 +51,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-23T10:15:00Z,N/A,Lienfeldergasse
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-21T04:23:00Z,N/A,Wagramer Straße
 644051836,HEAVENLY AM SCHAFBERG,"Wien, 17. Bezirk, Hernals",1170,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-17T12:39:00Z,N/A,N/A
+1170429950,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen. - WOHNTRAUM","Wien, 22. Bezirk, Donaustadt",1220,940.73,2,60,Wien,Wien,1.0,1,Wohnung,2024-12-27T06:57:00Z,940.73,Ziegelhofstraße 70
 2103809698,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen! - JETZT ZUSCHLAGEN","Wien, 22. Bezirk, Donaustadt",1220,1233.2,3,74,Wien,Wien,1.0,5,Wohnung,2024-12-27T06:57:00Z,1233.2,Ziegelhofstraße 72
 1738915394,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen - JETZT ANFRAGEN","Wien, 22. Bezirk, Donaustadt",1220,1398.4,3,74,Wien,Wien,1.0,9,Wohnung,2024-12-27T06:57:00Z,1398.4,Ziegelhofstraße 72
 1463284667,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen. - WOHNTRAUM","Wien, 22. Bezirk, Donaustadt",1220,1251.91,3,73,Wien,Wien,1.0,6,Wohnung,2024-12-27T06:57:00Z,1251.91,Ziegelhofstraße 72
@@ -250,7 +251,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1726863407,PROVISIONSFREI - GRÜN SOWEIT DAS AUGE REICHT - RESIDIEREN AM MARCHFELDKANAL - JETZT ANFRAGEN,"Wien, 21. Bezirk, Floridsdorf",1210,1498.88,3,101,Wien,Wien,1.0,4,Wohnung,2024-12-26T13:55:00Z,1498.88,Stammersdorfer Straße 236
 2099375507,PROVISIONSFREI - GRÜN SOWEIT DAS AUGE REICHT - RESIDIEREN AM MARCHFELDKANAL! - JETZT ZUSCHLAGEN,"Wien, 21. Bezirk, Floridsdorf",1210,1199.16,3,74,Wien,Wien,1.0,1,Wohnung,2024-12-26T13:55:00Z,1199.16,Stammersdorfer Straße 238
 1142927426,PROVISIONSFREI - GRÜN SOWEIT DAS AUGE REICHT - RESIDIEREN AM MARCHFELDKANAL! - JETZT ZUSCHLAGEN,"Wien, 21. Bezirk, Floridsdorf",1210,1499.46,4,98,Wien,Wien,1.0,2,Wohnung,2024-12-26T13:55:00Z,1499.46,Stammersdorfer Straße 238
-1852216919,"Neubauprojekt ""JOSEPH"": Dein Traum-Erstbezug mit hohem Wohnkomfort - viele Extras inkludiert","Wien, 09. Bezirk, Alsergrund",1090,1669,3,67,Wien,Wien,1.0,3,Wohnung,2024-12-26T13:49:00Z,1669.0,Nordbergstraße 7-9
+1541880422,gemütliche 2-Zimmer Neubauwohnung in der Felbigergasse - ab 01.03.25 beziehbar!,"Wien, 14. Bezirk, Penzing",1140,849,2,56,Wien,Wien,1.0,3,Wohnung,2024-12-28T03:39:00Z,849.0,Felbigergasse
 1426858105,Prächtige Altbauwohnung,"Wien, 06. Bezirk, Mariahilf",1060,5995,6,281,Wien,Wien,1.0,2,Wohnung,2024-12-28T03:31:00Z,5995.0,N/A
 1529525160,"Traumhaftes Altbauhaus in Bestlage nahe Brunnenmarkt! Rundum saniertes, prachtvolles Altbauhaus + Beste Infrastrukur und U-Bahn Nähe + Letzter Liftstock + Lichtdurchflutet!","Wien, 16. Bezirk, Ottakring",1160,1005.11,2,62,Wien,Wien,1.0,3,Wohnung,2024-12-28T03:26:00Z,1005.11,N/A
 690124279,traumhaftes Penthouse mit Dachgarten I nahe dem Parlament - befristet,"Wien, 01. Bezirk, Innere Stadt",1010,7100,4,213,Wien,Wien,1.0,N/A,Wohnung,2024-12-28T01:33:00Z,7100.0,"Parlament, Rathausplatz, Volksgarten"
@@ -450,7 +451,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 787756086,Leben am Wasser! ERSTBEZUG 2-Zimmer Wohnung mit Freifläche und Blick auf die Donau !,"Wien, 22. Bezirk, Donaustadt",1220,1310,2,49,Wien,Wien,0.9,5,Wohnung,2024-12-27T13:36:00Z,1310.0,N/A
 1360796301,traumhafter Innenstadt-Flair: 5 Zimmer - Altbauwohnung nahe Rathaus,"Wien, 01. Bezirk, Innere Stadt",1010,5111.51,5,214,Wien,Wien,1.0,4,Wohnung,2024-12-27T13:29:00Z,5111.51,N/A
 2005959982,Musicflats - Wohnen wo Musik entsteht - Nähe U1 Station Neue Donau,"Wien, 22. Bezirk, Donaustadt",1220,840,2,31,Wien,Wien,1.0,1,Wohnung,2024-12-27T13:28:00Z,840.0,Donau-City-Straße
-923216972,"TOPLAGE und ERSTBEZUG: Straßenseitige, moderne 2-Zimmerwohnung mit Loggia! Besichtigung ab Februar 2025 möglich!","Wien, 07. Bezirk, Neubau",1070,1749.9,2,70,Wien,Wien,1.0,1,Wohnung,2024-12-27T13:28:00Z,1749.9,Apollogasse 16-18
+1852216919,"Neubauprojekt ""JOSEPH"": Dein Traum-Erstbezug mit hohem Wohnkomfort - viele Extras inkludiert","Wien, 09. Bezirk, Alsergrund",1090,1669,3,67,Wien,Wien,1.0,3,Wohnung,2024-12-26T13:49:00Z,1669.0,Nordbergstraße 7-9
 1238007630,3D RUNDGANG | TOP LAGE NÄHE KARLSPLATZ | 3-ZIMMER,"Wien, 04. Bezirk, Wieden",1040,2199.2,3,137,Wien,Wien,1.0,3,Wohnung,2024-12-26T13:48:00Z,2199.2,Paulanergasse
 965538160,Moderne Innenhof-Wohnung mit großer Terrasse in direkter Nähe zu U6 und S-Bahn Handelskai! Ab Februar 2025. - WOHNTRAUM,"Wien, 20. Bezirk, Brigittenau",1200,848.99,2,45,Wien,Wien,1.0,1,Wohnung,2024-12-26T13:48:00Z,848.99,Engerthstraße 102
 1488485682,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,49,Wien,Wien,1.0,1,Wohnung,2024-12-26T13:43:00Z,899.0,Pfalzgasse 29
@@ -650,7 +651,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1527367731,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1518.62,4,103,Wien,Wien,1.0,2,Wohnung,2024-12-26T09:58:00Z,1518.62,Anni-Haider-Weg 3
 1831512415,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1200.89,3,81,Wien,Wien,1.0,2,Wohnung,2024-12-26T09:58:00Z,1200.89,Anni-Haider-Weg 3
 859399848,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,46,Wien,Wien,1.0,2,Wohnung,2024-12-26T09:53:00Z,899.0,Podhagskygasse 12
-1388904579,Hochwertige Neubauwohnungen nahe der Alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,1860,3,85,Wien,Wien,1.0,0,Wohnung,2024-12-26T09:50:00Z,1860.0,N/A
+923216972,"TOPLAGE und ERSTBEZUG: Straßenseitige, moderne 2-Zimmerwohnung mit Loggia! Besichtigung ab Februar 2025 möglich!","Wien, 07. Bezirk, Neubau",1070,1749.9,2,70,Wien,Wien,1.0,1,Wohnung,2024-12-27T13:28:00Z,1749.9,Apollogasse 16-18
 841743573,"TOPLAGE und ERSTBEZUG: Hofseitige, moderne 3-Zimmerwohnung mit Balkon! Besichtigung ab Februar 2025 möglich!","Wien, 07. Bezirk, Neubau",1070,2795.14,3,82,Wien,Wien,1.0,3,Wohnung,2024-12-27T13:28:00Z,2795.14,Apollogasse 16-18
 1862641556,"TOPLAGE und ERSTBEZUG: Hofseitige, moderne 2-Zimmerwohnung mit großer Loggia! Besichtigung ab Februar 2025 möglich!","Wien, 07. Bezirk, Neubau",1070,1694.97,2,72,Wien,Wien,1.0,1,Wohnung,2024-12-27T13:28:00Z,1694.97,Apollogasse 16-18
 1150494988,"TOPLAGE und ERSTBEZUG: Straßenseitige, moderne 2-Zimmerwohnung mit Loggia! Besichtigung ab Februar 2025 möglich!","Wien, 07. Bezirk, Neubau",1070,1450.23,2,53,Wien,Wien,1.0,1,Wohnung,2024-12-27T13:28:00Z,1450.23,Apollogasse 16-18
@@ -850,4 +851,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 902215828,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen! - JETZT ZUSCHLAGEN","Wien, 22. Bezirk, Donaustadt",1220,905.38,2,55,Wien,Wien,1.0,4,Wohnung,2024-12-27T06:57:00Z,905.38,Ziegelhofstraße 72
 790095594,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen. - WOHNTRAUM","Wien, 22. Bezirk, Donaustadt",1220,1006.46,2,56,Wien,Wien,1.0,8,Wohnung,2024-12-27T06:57:00Z,1006.46,Ziegelhofstraße 72
 1412983709,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen! - JETZT ZUSCHLAGEN","Wien, 22. Bezirk, Donaustadt",1220,1335.59,3,72,Wien,Wien,1.0,8,Wohnung,2024-12-27T06:57:00Z,1335.59,Ziegelhofstraße 72
-1170429950,"Ihr entspannter Weg zur Eigentumswohnung am See: Jetzt mieten, später kaufen. - WOHNTRAUM","Wien, 22. Bezirk, Donaustadt",1220,940.73,2,60,Wien,Wien,1.0,1,Wohnung,2024-12-27T06:57:00Z,940.73,Ziegelhofstraße 70
