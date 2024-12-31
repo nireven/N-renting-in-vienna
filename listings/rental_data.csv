@@ -1,4 +1,9 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+847384237,All-In | Beautifully furnished air-conditioned 1-BR Apartment nearby subway | 13sqm Balcony,"Wien, 20. Bezirk, Brigittenau",1200,1390,2,48,Wien,Wien,1.0,5,Wohnung,2024-12-30T07:35:00Z,1390.0,Treustraße
+1281350932,Ihr wohlverdientes Zuhause für Senioren mit erstklassigem Hotelkomfort,"Wien, 08. Bezirk, Josefstadt",1080,4240,2,55,Wien,Wien,1.0,1,Wohnung,2024-12-30T07:11:00Z,4240.0,N/A
+1976863876,Provisionsfrei: Sehr helle und top-sanierte 3-Zimmer-Wohnung mit perfekter Anbindung,"Wien, 13. Bezirk, Hietzing",1130,1085,3,53,Wien,Wien,1.0,2,Wohnung,2024-12-30T06:37:00Z,1085.0,Steinhardtgasse
+1734855935,Townhouse mit Grünfläche und Terrasse in Hofruhelage - Altbaucharme trifft modernen Wohngenuss - Tolle Lage beim Fasanviertel,"Wien, 03. Bezirk, Landstraße",1030,2700.01,4,113,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T06:25:00Z,2700.01,Steingasse 28
+1317755230,LEOPOLD XXI - traumhafte 2-Zimmerwohnung mit Anbindung ins Stadtinnere,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,50,Wien,Wien,1.0,1,Wohnung,2024-12-30T03:34:00Z,899.0,Leopoldauer Platz 9-11
 1396882848,"Terrassentraum - Koffer packen, einziehen!","Wien, 22. Bezirk, Donaustadt",1220,1030,2,53,Wien,Wien,1.0,4,Wohnung,2024-12-30T03:34:00Z,1030.0,Erzherzog-Karl-Straße 9
 1761974840,Zentrale 2-Zimmerwohnung Nähe Kardinal-Nagl-Platz,"Wien, 03. Bezirk, Landstraße",1030,699,2,54,Wien,Wien,1.0,4,Wohnung,2024-12-30T03:29:00Z,699.0,Göllnergasse
 1929548334,WOHNPARADIS MIT GROSSER DACHTERRASSE UND TRAUMAUSSICHT,"Wien, 21. Bezirk, Floridsdorf",1210,1847,3,120,Wien,Wien,0.71,4,Wohnung,2024-12-30T02:27:00Z,1847.0,N/A
@@ -110,10 +115,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1657093736,---LUXURIÖSE VILLENETAGE MIT TERRASSE UND EIGENGARTEN IM WÄHRINGER COTTAGE---,"Wien, 18. Bezirk, Währing",1180,5496.94,7,238,Wien,Wien,1.0,1,Wohnung,2024-12-29T13:25:00Z,5496.94,N/A
 833386502,Gemeinde wohnung DIREKT VERGABE KAISERMÜHLEN Neben U1,"Wien, 22. Bezirk, Donaustadt",1220,658,3,62,Wien,Wien,0.9,4,Wohnung,2024-12-29T13:05:00Z,658.0,Schüttaustraße 4-10/
 1627755267,JETZT VORMERKEN Erstbezug nach Sanierung - Nähe Rochusmarkt!,"Wien, 03. Bezirk, Landstraße",1030,1365.56,2,55,Wien,Wien,0.0,2,Wohnung,2024-12-29T12:51:00Z,1365.56,N/A
-1126781711,Gemeindewohnung Direktvergabe,"Wien, 10. Bezirk, Favoriten",1100,496,2,60,Wien,Wien,0.95,2,Wohnung,2024-12-29T12:40:00Z,496.0,Laaer-Berg-Straße
-1914883917,Zentrale Grünlage am Belvedere - mit Überblick,"Wien, 10. Bezirk, Favoriten",1100,1405,2,65,Wien,Wien,1.0,12,Wohnung,2024-12-29T12:37:00Z,1405.0,Arsenalstraße 16
-1400909603,Ruhige Wohnung mit Balkon direkt am Donaukanal,"Wien, 20. Bezirk, Brigittenau",1200,830,2,42,Wien,Wien,0.95,1,Wohnung,2024-12-29T12:35:00Z,830.0,Treustraße
-1554466103,(reserviert) Wohnung mit Balkon nähe Bahnhof Floridsdorf,"Wien, 21. Bezirk, Floridsdorf",1210,690,1,34,Wien,Wien,0.95,1,Wohnung,2024-12-29T12:33:00Z,690.0,Floridsdorfer Hauptstraße 40
 1618423767,Jetzt vormerken: Projekt APOLLOGASSE18: exklusives Mietwohnungsprojekt (Erstbezug ab Q1/2025),"Wien, 07. Bezirk, Neubau",1070,1450,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-29T03:28:00Z,N/A,Apollogasse
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-28T04:23:00Z,N/A,Wagramer Straße
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-27T17:32:00Z,N/A,Pfalzgasse 29
@@ -127,6 +128,11 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1006870175,JOSEPH- Wohnraum findet Stadt,"Wien, 09. Bezirk, Alsergrund",1090,1959,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-24T17:06:00Z,N/A,Nordbergstraße 7- 9
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1050.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-24T15:25:00Z,N/A,Pius-Parsch-Platz
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-23T19:31:00Z,N/A,Kelsenstraße 5
+856601986,"Perspektivstrasse, 1BD, Elevator, Gym","Wien, 02. Bezirk, Leopoldstadt",1020,2970,2,28,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T20:07:00Z,2970.0,Perspektivstr. 6
+1256518962,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1020.18,2,63,Wien,Wien,1.0,2,Wohnung,2024-12-30T20:02:00Z,1020.18,Anni-Haider-Weg 3
+1497576499,"Perspektivstrasse,1Bd, Elevator, Gym","Wien, 02. Bezirk, Leopoldstadt",1020,2670,2,0,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T20:01:00Z,2670.0,Perspektivstr. 6
+1869307285,"Kürnbergergasse, Studio, Elevator, Air conditioning","Wien, 02. Bezirk, Leopoldstadt",1020,1770,1,37,Wien,Wien,0.85,N/A,Wohnung,2024-12-30T19:53:00Z,1770.0,Kürnbergergasse 4
+1681564475,DRINGEND - Gemeindewohnung (NUR MIT WOHNTICKET!!),"Wien, 21. Bezirk, Floridsdorf",1210,330,1,34,Wien,Wien,0.0,2,Wohnung,2024-12-30T19:46:00Z,330.0,N/A
 2060300123,UNBEFRISTET WERKSTÄTTENWEG 9! Kleine 2-Zimmer-Balkon-Wohnung w3,"Wien, 11. Bezirk, Simmering",1110,824.14,2,44,Wien,Wien,1.0,1,Wohnung,2024-12-30T19:41:00Z,824.14,Werkstättenweg 9
 1367004514,Urbanes Wohnen mit Top-Ausstattung: Moderne 3-Zimmer-Wohnung mit Balkon & Loggia,"Wien, 22. Bezirk, Donaustadt",1220,1149,3,64,Wien,Wien,1.0,6,Wohnung,2024-12-30T19:36:00Z,1149.0,Erzherzog-Karl-Straße
 1048225910,Wohnen am Rosenhügel: Geräumige 3-Zimmerwohnung mit Balkon im 3. OG,"Wien, 12. Bezirk, Meidling",1120,1299,3,71,Wien,Wien,1.0,3,Wohnung,2024-12-30T19:34:00Z,1299.0,Spitzahornweg 1
@@ -327,6 +333,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1467659312,Schöne kleine Altbauwohnung,"Wien, 18. Bezirk, Währing",1180,650,1,33,Wien,Wien,1.0,2,Wohnung,2024-12-30T13:33:00Z,650.0,Staudgasse 81
 1540787455,Großzügige 2 Zimmerwohnung mit Loggia! U-BAHN Nähe & Grünlage,"Wien, 23. Bezirk, Liesing",1230,949.99,2,62,Wien,Wien,1.0,2,Wohnung,2024-12-30T13:32:00Z,949.99,Basler Gasse
 1538932296,Neu sanierte 2-Zimmer Altbauwohnung - Modernisiertes Wohnen in 1160 Wien !,"Wien, 16. Bezirk, Ottakring",1160,931.6,2,65,Wien,Wien,1.0,1,Wohnung,2024-12-30T13:32:00Z,931.6,N/A
+1037944371,***FEINER ERSTBEZUG***,"Wien, 12. Bezirk, Meidling",1120,954.13,2,42,Wien,Wien,0.66,3,Wohnung,2024-12-30T13:31:00Z,954.13,N/A
 1576787867,Danubeview - Familienwohnung mit großer Freifläche - Fußbodenheizung im Winter und Temperierung im Sommer,"Wien, 22. Bezirk, Donaustadt",1220,1980,3,73,Wien,Wien,1.0,3,Wohnung,2024-12-30T13:29:00Z,1980.0,Wagramer Straße
 1534472970,MODERNE 3 ZIMMERWOHNUUNG AM SECHSHAUSER GÜRTEL!,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1005.21,3,71,Wien,Wien,1.0,4,Wohnung,2024-12-30T13:28:00Z,1005.21,N/A
 2005745878,| ERSTBEZUG | 2 ZIMMER | 4. OG | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,995.01,2,53,Wien,Wien,1.0,4,Wohnung,2024-12-30T13:27:00Z,995.01,Dresdner Straße
@@ -521,12 +528,11 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 847587698,Ihr neues Zuhause: Charmante 2-Zimmer-Wohnung in unmittelbarer Nähe zur U1 Kagraner Platz,"Wien, 22. Bezirk, Donaustadt",1220,938.37,2,49,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T08:22:00Z,938.37,Doningasse 8 - Stiege 1 - Top 18
 2037465969,Hofseitig-ruhig! Klimatisiert! Großzügiger Schnitt im HOCHHAUS HERRENGASSE!!!!,"Wien, 01. Bezirk, Innere Stadt",1010,2000,2,95,Wien,Wien,0.73,4,Wohnung,2024-12-30T08:12:00Z,2000.0,N/A
 785789774,Traumhafte DG-Maisonette mit herrlichem Grünblick - Top ausgestattetet und geschnitten,"Wien, 18. Bezirk, Währing",1180,3090.1,5,139,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T07:35:00Z,3090.1,N/A
-847384237,All-In | Beautifully furnished air-conditioned 1-BR Apartment nearby subway | 13sqm Balcony,"Wien, 20. Bezirk, Brigittenau",1200,1390,2,48,Wien,Wien,1.0,5,Wohnung,2024-12-30T07:35:00Z,1390.0,Treustraße
-1281350932,Ihr wohlverdientes Zuhause für Senioren mit erstklassigem Hotelkomfort,"Wien, 08. Bezirk, Josefstadt",1080,4240,2,55,Wien,Wien,1.0,1,Wohnung,2024-12-30T07:11:00Z,4240.0,N/A
-1976863876,Provisionsfrei: Sehr helle und top-sanierte 3-Zimmer-Wohnung mit perfekter Anbindung,"Wien, 13. Bezirk, Hietzing",1130,1085,3,53,Wien,Wien,1.0,2,Wohnung,2024-12-30T06:37:00Z,1085.0,Steinhardtgasse
-1734855935,Townhouse mit Grünfläche und Terrasse in Hofruhelage - Altbaucharme trifft modernen Wohngenuss - Tolle Lage beim Fasanviertel,"Wien, 03. Bezirk, Landstraße",1030,2700.01,4,113,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T06:25:00Z,2700.01,Steingasse 28
-1317755230,LEOPOLD XXI - traumhafte 2-Zimmerwohnung mit Anbindung ins Stadtinnere,"Wien, 21. Bezirk, Floridsdorf",1210,899,2,50,Wien,Wien,1.0,1,Wohnung,2024-12-30T03:34:00Z,899.0,Leopoldauer Platz 9-11
-1396882848,"Terrassentraum - Koffer packen, einziehen!","Wien, 22. Bezirk, Donaustadt",1220,1030,2,53,Wien,Wien,1.0,4,Wohnung,2024-12-30T03:34:00Z,1030.0,Erzherzog-Karl-Straße 9
+1916296899,"Top 2,5 Zimmerwohnung Im 1200 Wien","Wien, 20. Bezirk, Brigittenau",1200,850,3,60,Wien,Wien,0.85,2+ Aufzug,Wohnung,2024-12-31T12:42:00Z,850.0,Klosterneuburgstrsse
+1291439664,2 Room 70m2 Flat in 3. Bezirk,"Wien, 03. Bezirk, Landstraße",1030,1000,2,70,Wien,Wien,1.0,1,Wohnung,2024-12-31T12:42:00Z,1000.0,Bechardgasse 13
+885559825,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1652.45,4,111,Wien,Wien,1.0,1,Wohnung,2024-12-31T12:40:00Z,1652.45,Anni-Haider-Weg 3
+795204278,** Mietfrei im Dezember - 3 Zimmer Wohnung mit 15m² Loggia ab sofort verfügbar,"Wien, 21. Bezirk, Floridsdorf",1210,1299.43,3,79,Wien,Wien,0.71,N/A,Wohnung,2024-12-31T12:36:00Z,1299.43,N/A
+764583237,+ BelView Apartments + provisionsfrei mit Fitness und Sauna,"Wien, 10. Bezirk, Favoriten",1100,1275.76,2,44,Wien,Wien,0.9,15,Wohnung,2024-12-31T12:28:00Z,1275.76,N/A
 2006961282,2-Zimmer-Wohnung mit grosser Wohnküche zu mieten!,"Wien, 17. Bezirk, Hernals",1170,940.2,2,53,Wien,Wien,1.0,N/A,Wohnung,2024-12-31T12:27:00Z,940.2,N/A
 786959402,Donaumarina: Moderne 2 bis 3 Zimmer-Wohnungen samt Gym & Sauna zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1545,3,72,Wien,Wien,0.85,5,Wohnung,2024-12-31T12:19:00Z,1545.0,N/A
 1889974047,Unbefristete 3-Zimmer Altbau-Wohnung nahe Alois-Drasche-Park in 1040 Wien zu mieten,"Wien, 04. Bezirk, Wieden",1040,1689,3,100,Wien,Wien,0.9,2,Wohnung,2024-12-31T12:19:00Z,1689.0,N/A
@@ -722,8 +728,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1104390456,All IN TARIF! PROVISIONSFREI! Koffer packen und einziehen! Kurzzeitmiete Auhofstraße,"Wien, 13. Bezirk, Hietzing",1130,1099,2,35,Wien,Wien,0.95,N/A,Wohnung,2024-12-30T20:50:00Z,1099.0,Auhofstraße 210
 1090424851,Leopold XXI - RUHELAGE - 4-Zimmer-Wohnung zum Wohlfühlen,"Wien, 21. Bezirk, Floridsdorf",1210,1499.01,4,86,Wien,Wien,1.0,0,Wohnung,2024-12-30T20:38:00Z,1499.01,Leopoldauer Platz 9-11
 890167162,"Perspektivstrasse,1Bd, Elevator, Gym","Wien, 02. Bezirk, Leopoldstadt",1020,3270,2,28,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T20:11:00Z,3270.0,Perspektivstr. 6
-856601986,"Perspektivstrasse, 1BD, Elevator, Gym","Wien, 02. Bezirk, Leopoldstadt",1020,2970,2,28,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T20:07:00Z,2970.0,Perspektivstr. 6
-1256518962,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1020.18,2,63,Wien,Wien,1.0,2,Wohnung,2024-12-30T20:02:00Z,1020.18,Anni-Haider-Weg 3
-1497576499,"Perspektivstrasse,1Bd, Elevator, Gym","Wien, 02. Bezirk, Leopoldstadt",1020,2670,2,0,Wien,Wien,1.0,N/A,Wohnung,2024-12-30T20:01:00Z,2670.0,Perspektivstr. 6
-1869307285,"Kürnbergergasse, Studio, Elevator, Air conditioning","Wien, 02. Bezirk, Leopoldstadt",1020,1770,1,37,Wien,Wien,0.85,N/A,Wohnung,2024-12-30T19:53:00Z,1770.0,Kürnbergergasse 4
-1681564475,DRINGEND - Gemeindewohnung (NUR MIT WOHNTICKET!!),"Wien, 21. Bezirk, Floridsdorf",1210,330,1,34,Wien,Wien,0.0,2,Wohnung,2024-12-30T19:46:00Z,330.0,N/A
