@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1214407127,Hochwertiger Erstbezug in Kaisermühlen - direkt am Wasser & der U1 - mit Fußbodenkühlung,"Wien, 22. Bezirk, Donaustadt",1220,1419.99,2,47,Wien,Wien,1.0,7,Wohnung,2025-01-03T09:10:00Z,1419.99,Wagramer Straße 2A
 922132227,Gartenwohnung-Erstbezug direkt bei der U3 Kendlerstraße mit Abstellraum!,"Wien, 16. Bezirk, Ottakring",1160,1099,2,55,Wien,Wien,1.0,0,Wohnung,2025-01-03T09:08:00Z,1099.0,Huttengasse 39-41
 1817701366,PROVISIONSFREI - Schicke Sonnenwohnung,"Wien, 19. Bezirk, Döbling",1190,2690,6,174,Wien,Wien,1.0,2,Wohnung,2025-01-03T09:08:00Z,2690.0,Friedlgasse 57
 1504473676,Traumstudio direkt bei der Donauinsel. Neuerbaut!,"Wien, 22. Bezirk, Donaustadt",1220,960,1,31,Wien,Wien,1.0,7,Wohnung,2025-01-03T09:06:00Z,960.0,Wagramer Straße 2A
@@ -96,7 +97,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1803327243,"Luxus & High-Tech Ausstattung, 48m2, Ensuite Badezimmer, Ruhelage nähe Karlsplatz, 2 min zur U1","Wien, 04. Bezirk, Wieden",1040,1450,2,48,Wien,Wien,1.0,1,Wohnung,2025-01-03T00:23:00Z,1450.0,Fleischmanngasse 4
 1252283967,Balkonwohnung mit Grünblick,"Wien, 14. Bezirk, Penzing",1140,1050,3,70,Wien,Wien,1.0,1,Wohnung,2025-01-02T23:56:00Z,1050.0,Felbigergasse
 1272759253,"Neubauwohnung, 2 Zimmer mit Balkon, U3 vor der Tür, verfügbar ab April 2025","Wien, 16. Bezirk, Ottakring",1160,895,2,54,Wien,Wien,0.0,2,Wohnung,2025-01-02T23:39:00Z,895.0,N/A
-1131373262,TABORAMA - Beeindruckend aufgeteilte 2 - Zimmer Balkon Wohnung inkl. Einbauküche & teilmöbliert - Rooftop Pool & Fitness im Haus --- 6. Stock,"Wien, 02. Bezirk, Leopoldstadt",1020,1390,2,55,Wien,Wien,N/A,6,Wohnung,2025-01-02T23:22:00Z,1390.0,"Am Tabor 23, 02. Bezirk, Leopoldstadt"
 612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-01T15:17:00Z,N/A,Laxenburger Straße 2D
 1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,799,0,N/A,Wien,Wien,0.71,N/A,N/A,2025-01-01T13:27:00Z,N/A,N/A
 921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1717.07,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-01T10:37:00Z,N/A,Fritz-Kandl-Gasse
@@ -108,6 +108,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2024-12-30T11:19:00Z,N/A,N/A
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-30T10:15:00Z,N/A,Lienfeldergasse
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2024-12-23T19:31:00Z,N/A,Kelsenstraße 5
+775195657,Single-Wohnung in 1220 Wien zur Weitergabe,"Wien, 22. Bezirk, Donaustadt",1220,390,1,44,Wien,Wien,1.0,N/A,Wohnung,2025-01-04T23:32:00Z,390.0,Berresgasse
 1919149239,Helle 3-Zimmer Wohnung mit Grünblick,"Wien, 10. Bezirk, Favoriten",1100,1200,3,90,Wien,Wien,1.0,N/A,Wohnung,2025-01-04T22:16:00Z,1200.0,Hentzigasse 13
 1857746228,Wohnung für 1 bis 6 Monate - möbliert - all inclusive,"Wien, 21. Bezirk, Floridsdorf",1210,1300,2,56,Wien,Wien,0.87,N/A,Wohnung,2025-01-04T22:14:00Z,1300.0,Ödenburgerstraße 1
 1320768336,Top möbliertes Studio Apartment bei der Oper / Fully furnished studio apartment at Opera,"Wien, 01. Bezirk, Innere Stadt",1010,1180,1,31,Wien,Wien,1.0,7,Wohnung,2025-01-04T22:02:00Z,1180.0,Walfischgasse
@@ -707,4 +708,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 881163014,Großzügig - vielseitig - zentral! Ihre neue WG oder Familienoase!,"Wien, 20. Bezirk, Brigittenau",1200,1650,4,121,Wien,Wien,0.58,N/A,Wohnung,2025-01-03T09:13:00Z,1650.0,N/A
 1539379576,Helle 2-Zimmer-Wohnung mit sehr guter Infrastruktur - provisionsfrei,"Wien, 21. Bezirk, Floridsdorf",1210,999,2,63,Wien,Wien,0.98,2,Wohnung,2025-01-03T09:12:00Z,999.0,Schlimpweg
 1338535774,Moderne und lichtdurchflutete Traumwohnung an der Donau!,"Wien, 22. Bezirk, Donaustadt",1220,1379.98,2,49,Wien,Wien,1.0,6,Wohnung,2025-01-03T09:12:00Z,1379.98,Wagramer Straße 2A
-1214407127,Hochwertiger Erstbezug in Kaisermühlen - direkt am Wasser & der U1 - mit Fußbodenkühlung,"Wien, 22. Bezirk, Donaustadt",1220,1419.99,2,47,Wien,Wien,1.0,7,Wohnung,2025-01-03T09:10:00Z,1419.99,Wagramer Straße 2A
