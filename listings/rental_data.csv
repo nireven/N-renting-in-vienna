@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+889339678,"Exquisit wohnen, Provisionsfrei","Wien, 03. Bezirk, Landstraße",1030,1700,2,54,Wien,Wien,1.0,14,Wohnung,2025-01-12T22:18:00Z,1700.0,Schnirchgasse
 1948426501,TOPLAGE - FREIHAUSVIERTEL | HELLE 2 ZIMMER NÄHE KARLSPLATZ | OPERNGASSE | U-BAHN NÄHE,"Wien, 04. Bezirk, Wieden",1040,1380.9,2,62,Wien,Wien,0.9,3.OG,Wohnung,2025-01-12T21:45:00Z,1380.9,N/A
 1956221661,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1532.42,4,99,Wien,Wien,1.0,N/A,Wohnung,2025-01-12T21:41:00Z,1532.42,Anni-Haider-Weg 3
 1838644884,++Der Platzhirsch++ Fantastischer 3 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,1999,3,92,Wien,Wien,1.0,N/A,Wohnung,2025-01-12T21:40:00Z,1999.0,N/A
@@ -328,7 +329,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 957633950,Top 2-Zimmer-Wohnung Gottschalkgasse 3 - Top 15,"Wien, 11. Bezirk, Simmering",1110,909.7,3,49,Wien,Wien,1.0,4,Wohnung,2025-01-11T10:23:00Z,909.7,Gottschalkgasse 3
 1397356926,DIREKTVERGABE Gemeindebauwohnung,"Wien, 10. Bezirk, Favoriten",1100,354.99,1,33,Wien,Wien,1.0,2,Wohnung,2025-01-11T10:13:00Z,354.99,Friesenplatz 1-2
 1059049918,"Vollmöblierte, sehr helle 2-Zimmer-Wohnung mit Terrasse und Garten in Ruhelage","Wien, 17. Bezirk, Hernals",1170,996.82,2,60,Wien,Wien,1.0,0,Wohnung,2025-01-11T10:05:00Z,996.82,Comeniusgasse
-1616532609,53m2 Mietwohnung im 10. Bezirk,"Wien, 10. Bezirk, Favoriten",1100,750,2,53,Wien,Wien,0.0,N/A,Wohnung,2025-01-11T10:00:00Z,750.0,N/A
 1654444163,5 Zimmer Altbauwohnung mit vielen Möglichkeiten,"Wien, 14. Bezirk, Penzing",1140,2490,5,156,Wien,Wien,1.0,1,Wohnung,2025-01-11T09:55:00Z,2490.0,N/A
 1334788964,Grinzing! 2-Zimmer-Wohnung in der Barawitzkagasse 7 - Top 12,"Wien, 19. Bezirk, Döbling",1190,899.8,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-01-11T09:55:00Z,899.8,Barawitzkagasse 7
 1283496078,HELLER STUDENTENHIT,"Wien, 14. Bezirk, Penzing",1140,740.83,2,60,Wien,Wien,0.9,1,Wohnung,2025-01-11T09:52:00Z,740.83,N/A
@@ -387,8 +387,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1615530523,"Neuwertige 2-Zimmerwohnung mit ca. 62 m² in der Landgutgasse 35, 1100 Wien zu vermieten","Wien, 10. Bezirk, Favoriten",1100,895,2,62,Wien,Wien,1.0,2,Wohnung,2025-01-11T00:19:00Z,895.0,Landgutgasse 35
 2013185764,(reserviert) Gemeinde Wohnung 2 Zimmer Direktvergabe vormerkschein bis 31.12.2024,"Wien, 02. Bezirk, Leopoldstadt",1020,550,2,56,Wien,Wien,N/A,2,Wohnung,2025-01-11T00:04:00Z,550.0,Vorgartenstraße Ybbsstraße 39-41
 1960364504,"Frisch sanierte 3Zi Wohnung im Zentrum des 3. Bezirks, viele Restaurants und Einkaufsmöglichkeiten","Wien, 03. Bezirk, Landstraße",1030,1310,3,59,Wien,Wien,N/A,2,Wohnung,2025-01-10T23:55:00Z,1310.0,Erdbergstraße 118
-1281838469,Privat und provisionsfrei 3 Zimmer Erstbezug nach Sanierung Küche mit neuen Geräten,"Wien, 10. Bezirk, Favoriten",1100,1085,3,69,Wien,Wien,1.0,2,Wohnung,2025-01-10T22:24:00Z,1085.0,Herzgasse 36
-1039426334,Danubeflats: Zwei-Zimmer-Wohnung im 23. Stockwerk zu vermieten,"Wien, 22. Bezirk, Donaustadt",1220,1730,2,62,Wien,Wien,1.0,23,Wohnung,2025-01-10T22:19:00Z,1730.0,Wagramerstrasse 2
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-10T17:32:00Z,N/A,Pfalzgasse 29
 1570911773,| ERSTBEZUG | TOPLAGE | DRESDNER STRASSE | UNWEIT TECHNIKUM WIEN | AB FEBRUAR,"Wien, 20. Bezirk, Brigittenau",1200,995.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-09T10:39:00Z,N/A,Dresdner Straße
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1125,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-07T15:25:00Z,N/A,Pius-Parsch-Platz
