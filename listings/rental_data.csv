@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1523476617,THE METROPOLITAN - Modern Living im belebten Sonnwendviertel! ++ 3-Zimmer mit Balkon!,"Wien, 10. Bezirk, Favoriten",1100,1650,3,80,Wien,Wien,1.0,1,Wohnung,2025-01-12T10:55:00Z,1650.0,Karl-Popper-Straße 5
+1309819156,Familientraum in absoluter Ruhelage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,1748.76,3,111,Wien,Wien,1.0,4,Wohnung,2025-01-12T10:45:00Z,1748.76,Rosa-Jochmann-Ring
 1904606435,INA - Pärchenwohnung mit Freifläche nähe Wasserspielplatz Leberberg,"Wien, 11. Bezirk, Simmering",1110,749.71,2,42,Wien,Wien,1.0,1,Wohnung,2025-01-12T10:24:00Z,749.71,Rosa-Jochmann-Ring
 789546651,Sanierte 2 Zimmerwohnung in Rodaun,"Wien, 23. Bezirk, Liesing",1230,763.58,2,51,Wien,Wien,0.72,N/A,Wohnung,2025-01-12T10:20:00Z,763.58,N/A
 1203371909,helle Wohnung mit Blick über Wien,"Wien, 22. Bezirk, Donaustadt",1220,1376,2,67,Wien,Wien,1.0,14,Wohnung,2025-01-12T10:16:00Z,1376.0,Wagramer Straße 4
@@ -41,8 +43,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1061730221,Gemeinde Wohnung / direkt Vergabe/ Vormerkschein,"Wien, 22. Bezirk, Donaustadt",1220,344,1,32,Wien,Wien,0.0,5,Wohnung,2025-01-11T21:34:00Z,344.0,N/A
 1035696541,"TOPLAGE - NÄHE DONAUZENTRUM | HELLE 3,5 ZIMMER MIT BALKON | KOMPLETT HOFSEITIG","Wien, 22. Bezirk, Donaustadt",1220,1228,4,78,Wien,Wien,0.9,5.OG,Wohnung,2025-01-11T21:33:00Z,1228.0,N/A
 1267470181,| DANUBEFLATS | ATEMBERAUBENDER BLICK AUS DEM 13.STOCK | 10M² BALKON | U1 VOR DER TÜRE | AB SOFORT |,"Wien, 22. Bezirk, Donaustadt",1220,1190,2,38,Wien,Wien,1.0,13,Wohnung,2025-01-11T21:32:00Z,1190.0,Wagramer Straße
-1393820139,"Hübsch eingerichtetes, all-inklusive (exc. Strom) direkt bei U-bahn U1","Wien, 10. Bezirk, Favoriten",1100,790,1,35,Wien,Wien,1.0,1,Wohnung,2025-01-11T21:03:00Z,790.0,Columbusgasse 16
-1178205017,Hochwertig sanierte Altbauwohnung im DG - PROVISIONSFREI!!,"Wien, 14. Bezirk, Penzing",1140,1251.44,3,88,Wien,Wien,0.95,1.DG,Wohnung,2025-01-11T20:59:00Z,1251.44,Herzmanskystraße
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-11T04:23:00Z,N/A,Wagramer Straße
 1919567062,Wohnen auf der Schmelz,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1599,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-10T14:54:00Z,N/A,Schanzstraße
 1764292079,"| HOCHWERTIGE MIETWOHNUNGEN | GRÖSSEN CA. 30M² - 92M² | AB 611EUR | ERSTBEZUG | AM MARCHFELDKANAL | PROJEKT ""MÜHLWEG - LEBEN AM WASSER""","Wien, 21. Bezirk, Floridsdorf",1210,1541.55,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-09T12:27:00Z,N/A,Mühlweg
@@ -53,6 +53,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1196739019,| ERSTBEZUGSWOHNUNGEN | UNBEFRISTETE MIETDAUER | MIETBEGINN AUGUST 2024 | GREEN 21 | PAUSCHALMIETE,"Wien, 21. Bezirk, Floridsdorf",1210,1125,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-07T15:25:00Z,N/A,Pius-Parsch-Platz
 770061231,WINZENZ - Genussvoll Wohnen in Nussdorf,"Wien, 19. Bezirk, Döbling",1190,2003.1,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-07T14:34:00Z,N/A,Zahnradbahnstraße 13a
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-06T19:31:00Z,N/A,Kelsenstraße 5
+1412212188,ELEGANT EINGERICHTETE ALTBAUWOHNUNG ZU VERMIETEN,"Wien, 12. Bezirk, Meidling",1120,1287.68,2,78,Wien,Wien,1.0,1,Wohnung,2025-01-13T09:26:00Z,1287.68,Schönbrunner Straße
+1659687148,"Bertha-von-Suttner-Gasse 6, 1220 Wien / I3","Wien, 22. Bezirk, Donaustadt",1220,770,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-13T09:24:00Z,N/A,Bertha-von-Suttner-Gasse 6
 1470045289,schöne 3-Zimmerwohnung,"Wien, 05. Bezirk, Margareten",1050,1580,3,98,Wien,Wien,1.0,4,Wohnung,2025-01-13T09:21:00Z,1580.0,Kohlgasse 44
 1090723059,2 Zimmer Wohnung 4 Bezirk Zentrumsnähe,"Wien, 04. Bezirk, Wieden",1040,935,2,48,Wien,Wien,1.0,2 Stock,Wohnung,2025-01-13T09:19:00Z,935.0,Mostgasse
 910159939,6 Zimmer I Klimaanlage I Im Herzen Wiens I 2 Badezimmer I Altbauwohnung I Top Lage,"Wien, 01. Bezirk, Innere Stadt",1010,4760.56,6,194,Wien,Wien,1.0,5,Wohnung,2025-01-13T09:17:00Z,4760.56,Sterngasse 11
@@ -251,8 +253,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1136268514,"Ideale ruhige und HOFSEITIGE 2-Zi NB, gleich bei U4 !!","Wien, 20. Bezirk, Brigittenau",1200,949,2,41,Wien,Wien,1.0,4,Wohnung,2025-01-12T11:34:00Z,949.0,N/A
 1200916196,"Lichtdurchflutete, neu möblierte 2-Zimmer-Altbauwohnung - Nähe Mariahilfer Straße","Wien, 06. Bezirk, Mariahilf",1060,1501.71,2,53,Wien,Wien,1.0,3,Wohnung,2025-01-12T11:25:00Z,1501.71,Esterházygasse 28
 1902944236,Sonnige 2 Zimmer Wohnung mit neuer Küche (ab Februar),"Wien, 21. Bezirk, Floridsdorf",1210,881.53,2,55,Wien,Wien,1.0,2,Wohnung,2025-01-12T10:55:00Z,881.53,Luckenschwemmgasse 8
-1523476617,THE METROPOLITAN - Modern Living im belebten Sonnwendviertel! ++ 3-Zimmer mit Balkon!,"Wien, 10. Bezirk, Favoriten",1100,1650,3,80,Wien,Wien,1.0,1,Wohnung,2025-01-12T10:55:00Z,1650.0,Karl-Popper-Straße 5
-1309819156,Familientraum in absoluter Ruhelage am Leberberg,"Wien, 11. Bezirk, Simmering",1110,1748.76,3,111,Wien,Wien,1.0,4,Wohnung,2025-01-12T10:45:00Z,1748.76,Rosa-Jochmann-Ring
+1921791579,"Ihr neues Zuhause: Traumhafte 3,5-Zimmer-Wohnung mit Garten und Terrasse in Toplage nahe Maurer Hauptplatz","Wien, 23. Bezirk, Liesing",1230,1550,4,95,Wien,Wien,0.95,1,Wohnung,2025-01-13T21:02:00Z,1550.0,"Endresstraße, 92"
+1629648070,"Helle, ruhige 2-Zimmer Wohnung 58m2 zu vermieten","Wien, 12. Bezirk, Meidling",1120,710,2,58,Wien,Wien,1.0,N/A,Wohnung,2025-01-13T21:01:00Z,710.0,Flurschützstraße 6
+1104390456,All IN TARIF! PROVISIONSFREI! Koffer packen und einziehen! Kurzzeitmiete Auhofstraße,"Wien, 13. Bezirk, Hietzing",1130,1099,2,35,Wien,Wien,0.95,N/A,Wohnung,2025-01-13T20:50:00Z,1099.0,Auhofstraße 210
 1090424851,Leopold XXI - RUHELAGE - 4-Zimmer-Wohnung zum Wohlfühlen,"Wien, 21. Bezirk, Floridsdorf",1210,1499.01,4,86,Wien,Wien,1.0,0,Wohnung,2025-01-13T20:38:00Z,1499.01,Leopoldauer Platz 9-11
 1341970064,STUDIO WOLLZEILE I | RUHELAGE | 5. LIFTSTOCK,"Wien, 01. Bezirk, Innere Stadt",1010,697,1,35,Wien,Wien,1.0,5,Wohnung,2025-01-13T20:37:00Z,697.0,N/A
 1348125146,Nette Zimmerwohnung in Gersthof,"Wien, 18. Bezirk, Währing",1180,865,2,57,Wien,Wien,1.0,N/A,Wohnung,2025-01-13T20:35:00Z,865.0,N/A
@@ -361,8 +364,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1527834873,"Wohnen in Sievering- 3 Zimmer Mietwohnung mit 137,74 m² Wohnfläche + schöner Terrasse mit Grünblick","Wien, 19. Bezirk, Döbling",1190,2256.64,3,137,Wien,Wien,1.0,1,Wohnung,2025-01-13T16:32:00Z,2256.64,Sieveringerstrasse 239
 897732225,Schöne 1-Zimmer Wohnung mit Abstellraum in toller Lage *THE FAVE*. - WOHNTRAUM,"Wien, 10. Bezirk, Favoriten",1100,758.43,1,41,Wien,Wien,1.0,6,Wohnung,2025-01-13T16:30:00Z,758.43,Laaer Wald 1
 1307806153,Zwei Zimmer WG taugliche Wohnung nähe U6 Josefstädter Straße im 16. Bezirk,"Wien, 16. Bezirk, Ottakring",1160,890,2,52,Wien,Wien,1.0,1,Wohnung,2025-01-13T16:28:00Z,890.0,Neulerchenfelder Straße 19
-1801712947,"Blick über Wien, Sonnige, ruhige 4-Zimmer Wohnung mit TG","Wien, 18. Bezirk, Währing",1180,2700,4,140,Wien,Wien,1.0,2,Wohnung,2025-01-13T16:27:00Z,2700.0,Doktor-Heinrich-Maier-Straße
 1273797313,DANUBEVIEW - Familientraum mit hochwertiger Ausstattung,"Wien, 22. Bezirk, Donaustadt",1220,2270,3,73,Wien,Wien,1.0,6,Wohnung,2025-01-13T16:27:00Z,2270.0,Wagramer Straße
+1801712947,"Blick über Wien, Sonnige, ruhige 4-Zimmer Wohnung mit TG","Wien, 18. Bezirk, Währing",1180,2700,4,140,Wien,Wien,1.0,2,Wohnung,2025-01-13T16:27:00Z,2700.0,Doktor-Heinrich-Maier-Straße
 1691653167,Moderne Neubauwohnung mit großem Balkon und Abstellraum nahe U1 Kagraner Platz - im neuen Wohnviertel Am Langen Felde,"Wien, 22. Bezirk, Donaustadt",1220,830.93,2,43,Wien,Wien,1.0,5,Wohnung,2025-01-13T16:25:00Z,830.93,Bertha-von-Suttner-Gasse 10a-12a
 1422625920,HELLE BALKON-WOHNUNG NÄHE U4 UND LAINZER TIERGARTEN!,"Wien, 13. Bezirk, Hietzing",1130,1108.05,2,54,Wien,Wien,0.65,1,Wohnung,2025-01-13T16:24:00Z,1108.05,N/A
 1779855004,Gemeindewohnung 1110 Wien,"Wien, 11. Bezirk, Simmering",1110,760,3,74,Wien,Wien,0.0,6,Wohnung,2025-01-13T16:21:00Z,760.0,Thürnlhofstraße 22
@@ -379,8 +382,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1834783585,orea | Großzügige 4-Zimmer Wohnung mit Balkon und und herrlichem Ausblick in der Seestadt | Smart besichtigen · Online anmieten,"Wien, 22. Bezirk, Donaustadt",1220,1399.63,4,93,Wien,Wien,1.0,8,Wohnung,2025-01-13T15:57:00Z,1399.63,Janis-Joplin-Promenade
 1940620687,3- Zimmer-Wohntraum mit Süd-Westbalkon an der Lände!,"Wien, 03. Bezirk, Landstraße",1030,1550,3,74,Wien,Wien,1.0,4,Wohnung,2025-01-13T15:57:00Z,1550.0,Erdberger Lände 38
 1155449297,FRÜHJAHRSAKTION: 3-Zimmer-Wohnung mit Balkon und Tiefgaragenplatz inklusive!,"Wien, 21. Bezirk, Floridsdorf",1210,1418.41,3,71,Wien,Wien,1.0,N/A,Wohnung,2025-01-13T15:57:00Z,1418.41,N/A
-1979183509,KAY - NEUBAU IN TRAUM LAGE MIT EINMALIGER INFRASTRUKTUR! - JETZT ZUSCHLAGEN,"Wien, 20. Bezirk, Brigittenau",1200,1188.95,2,66,Wien,Wien,1.0,7,Wohnung,2025-01-13T15:55:00Z,1188.95,Engerthstraße 61-63
 1729815201,Hochwertige Singlewohnung mit Blick auf die Donau - Nähe U-Bahn Station Kaisermühlen,"Wien, 22. Bezirk, Donaustadt",1220,850,1,34,Wien,Wien,1.0,2,Wohnung,2025-01-13T15:55:00Z,850.0,Wagramer Straße
+1979183509,KAY - NEUBAU IN TRAUM LAGE MIT EINMALIGER INFRASTRUKTUR! - JETZT ZUSCHLAGEN,"Wien, 20. Bezirk, Brigittenau",1200,1188.95,2,66,Wien,Wien,1.0,7,Wohnung,2025-01-13T15:55:00Z,1188.95,Engerthstraße 61-63
 556819176,"Basler Gasse 65, 1230 Wien - Parkplätze","Wien, 23. Bezirk, Liesing",1230,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-01-13T15:54:00Z,N/A,Basler Gasse 65
 824346859,Modernes 2-Zimmer-Juwel mit Balkon nahe Floridsdorf Bahnhof - Entspannte und naturnahe Umgebung,"Wien, 21. Bezirk, Floridsdorf",1210,814.31,2,47,Wien,Wien,1.0,2,Wohnung,2025-01-13T15:48:00Z,814.31,Leopoldauer Straße 72
 1197338186,Erstbezug & Top ausgestattet! | Neubauwohnung inkl. Beschattung & Küche | Nähe Kirschblütenpark,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,40,Wien,Wien,1.0,N/A,Wohnung,2025-01-13T15:48:00Z,N/A,Arakawastraße/Tokiostraße 3 / 5A
@@ -607,7 +610,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1500966446,Hofruhelage: Moderne 3-Zimmer Wohnung mit Loggia nahe Donau,"Wien, 20. Bezirk, Brigittenau",1200,1549,3,93,Wien,Wien,1.0,3,Wohnung,2025-01-13T10:49:00Z,1549.0,N/A
 2068306248,WEIHNACHTSAKTION! Neubau-Familienhit auf der Schmelz,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1730,3,86,Wien,Wien,1.0,1,Wohnung,2025-01-13T10:48:00Z,1730.0,Schanzstraße
 1236937550,Erstbezug - Modernes voll möbliertes Apartment mit ALL- IN Miete - anna8 | apartments,"Wien, 08. Bezirk, Josefstadt",1080,1899,2,56,Wien,Wien,1.0,4,Wohnung,2025-01-13T10:45:00Z,1899.0,Feldgasse 9
-717848662,"Tiefgaragenplatz Nähe U1 Station Kagran, auch mit E Lademöglichkeit!","Wien, 22. Bezirk, Donaustadt",1220,110,0,11,Wien,Wien,1.0,N/A,Wohnung,2025-01-13T10:38:00Z,110.0,N/A
 1357910245,3 Zimmer Gemeindewohnung mit Balkon,"Wien, 21. Bezirk, Floridsdorf",1210,726,3,74,Wien,Wien,0.75,1,Wohnung,2025-01-13T10:38:00Z,726.0,Prager Straße 31/3
 1205157932,Einmaliger Grundriss im Projekt Apollogasse18! DG - 2 Zimmer Wohnung mit Balkon und Klima! VORMERKEN!,"Wien, 07. Bezirk, Neubau",1070,1650,2,56,Wien,Wien,1.0,3,Wohnung,2025-01-13T10:37:00Z,1650.0,Apollogasse
 985313805,"Erstbezug - Apollogasse18: gut geschnittene, großzügige 3 Zimmer-Wohnung mit Loggia ab 02/25!","Wien, 07. Bezirk, Neubau",1070,2795,3,90,Wien,Wien,1.0,2,Wohnung,2025-01-13T10:37:00Z,2795.0,Apollogasse
@@ -651,5 +653,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1357247547,POSTHÖFE - Harmonie von Altbau-Charme und modernem Luxus,"Wien, 01. Bezirk, Innere Stadt",1010,2310,2,82,Wien,Wien,1.0,1,Wohnung,2025-01-13T09:27:00Z,2310.0,Dominikanerbastei 11
 1747683360,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1228.51,3,81,Wien,Wien,1.0,N/A,Wohnung,2025-01-13T09:27:00Z,1228.51,Anni-Haider-Weg 3
 2082555670,"Topmoderne 3-Zimmer DG-Wohnung mit toller Terrasse nahe Urania, 1030!","Wien, 03. Bezirk, Landstraße",1030,2399.38,3,95,Wien,Wien,1.0,N/A,Wohnung,2025-01-13T09:27:00Z,2399.38,N/A
-1412212188,ELEGANT EINGERICHTETE ALTBAUWOHNUNG ZU VERMIETEN,"Wien, 12. Bezirk, Meidling",1120,1287.68,2,78,Wien,Wien,1.0,1,Wohnung,2025-01-13T09:26:00Z,1287.68,Schönbrunner Straße
-1659687148,"Bertha-von-Suttner-Gasse 6, 1220 Wien / I3","Wien, 22. Bezirk, Donaustadt",1220,770,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-13T09:24:00Z,N/A,Bertha-von-Suttner-Gasse 6
