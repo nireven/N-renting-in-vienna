@@ -1,5 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-15T21:41:00Z,N/A,N/A
 612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-15T15:17:00Z,N/A,Laxenburger Straße 2D
 1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,798.99,0,N/A,Wien,Wien,0.71,N/A,N/A,2025-01-15T13:27:00Z,N/A,N/A
 921413423,| PASSIVHOLZHAUS | IN GRÜNRUHELAGE | BEIM MARCHFELDKANAL,"Wien, 21. Bezirk, Floridsdorf",1210,1631.73,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-15T10:37:00Z,N/A,Fritz-Kandl-Gasse
@@ -10,6 +9,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1303607738,Erstbezugstraum im Herzen des 17. Bezirks - Wohnerlebnis in der begehrten 'Perle',"Wien, 17. Bezirk, Hernals",1170,1499,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-13T10:15:00Z,N/A,Lienfeldergasse
 1618026645,ina - innovativ. nachhaltig. außergewöhnlich.,"Wien, 11. Bezirk, Simmering",1110,749.71,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-12T09:55:00Z,N/A,Rosa-Jochmann-Ring
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-06T19:31:00Z,N/A,Kelsenstraße 5
+1618417554,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1149,3,54,Wien,Wien,1.0,N/A,Wohnung,2025-01-17T16:53:00Z,1149.0,Podhagskygasse 12
 775663721,Moderne Balkonwohnung mit Garagenplatz und hochwertiger Ausstattung in bester Lage - 1180 Wien!,"Wien, 18. Bezirk, Währing",1180,1486.36,3,74,Wien,Wien,1.0,N/A,Wohnung,2025-01-17T16:47:00Z,1486.36,N/A
 1331198514,ÜBER DEN DÄCHERN | 3 ZIMMER | U3 OTTAKRING | 1. DG,"Wien, 16. Bezirk, Ottakring",1160,1099.99,3,59,Wien,Wien,1.0,7,Wohnung,2025-01-17T16:47:00Z,1099.99,N/A
 898849961,Exklusives Wohnen in zentraler Lage - 80 m² 2 Zimmer Wohnung mit Balkon,"Wien, 03. Bezirk, Landstraße",1030,1497,2,81,Wien,Wien,1.0,1,Wohnung,2025-01-17T16:47:00Z,1497.0,N/A
@@ -209,7 +209,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1036375891,Neubauprojekt | 3-Zimmerwohnung mit Loggia,"Wien, 23. Bezirk, Liesing",1230,1599.9,3,79,Wien,Wien,0.72,N/A,Wohnung,2025-01-17T12:56:00Z,1599.9,N/A
 1613918240,2-Zimmerwohnung mit Top Grundriss und Balkon,"Wien, 23. Bezirk, Liesing",1230,1049.9,2,52,Wien,Wien,0.72,N/A,Wohnung,2025-01-17T12:56:00Z,1049.9,N/A
 926520630,Traumhafte 2-Zimmer-Wohnung mit großer Freifläche im 22. Bezirk,"Wien, 22. Bezirk, Donaustadt",1220,824.92,2,51,Wien,Wien,0.94,2,Wohnung,2025-01-17T12:54:00Z,824.92,Nippongasse 8
-1850409127,PFALZGASSE 29 - 2-Zimmer mit Balkon - TRAUMHAFTER ERSTBEZUG IN RUHELAGE,"Wien, 22. Bezirk, Donaustadt",1220,928.99,2,46,Wien,Wien,1.0,3,Wohnung,2025-01-17T12:53:00Z,928.99,Pfalzgasse 29
+2140483672,PENTHOUSE DER SUPERLATIVE - Elegante Dachgeschoss-Maisonette - im 6. BEZIRK Nähe HAUS DES MEERES - ZU VERMIETEN! - JETZT ZUSCHLAGEN,"Wien, 06. Bezirk, Mariahilf",1060,4689.33,4,252,Wien,Wien,1.0,N/A,Wohnung,2025-01-19T06:55:00Z,4689.33,Gumpendorfer Straße 66
 1689741840,Im Jahr 2023 fertiggestellte Wohnhausanlage in neu geschaffener Wohnsiedlung,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-01-19T05:07:00Z,N/A,Bertha-von-Suttner-Gasse
 1581673972,Außergewöhnliches Terrassen-Penthouse in hervorragender Lage!,"Wien, 01. Bezirk, Innere Stadt",1010,7750,7,293,Wien,Wien,1.0,7,Wohnung,2025-01-19T03:46:00Z,7750.0,Reichsratsstraße
 1506616239,All-In Miete | Komplett eingerichtetes 1-Zimmer Apartment | bis 6 Monate mieten | sofort verfügbar,"Wien, 17. Bezirk, Hernals",1170,986.41,1,30,Wien,Wien,1.0,4,Wohnung,2025-01-19T03:40:00Z,986.41,Jörgerstraße 24
@@ -609,7 +609,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1579460491,++Der Platzhirsch++ Großartiger 2 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,1,Wohnung,2025-01-17T16:55:00Z,899.0,N/A
 2128143694,++Der Platzhirsch++ Fantastischer 2 Zimmer Erstbezug mit Garten!,"Wien, 22. Bezirk, Donaustadt",1220,848.99,2,36,Wien,Wien,1.0,0,Wohnung,2025-01-17T16:55:00Z,848.99,N/A
 2010588689,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1599.01,4,74,Wien,Wien,1.0,0,Wohnung,2025-01-17T16:53:00Z,1599.01,Podhagskygasse 12
-1618417554,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1149,3,54,Wien,Wien,1.0,N/A,Wohnung,2025-01-17T16:53:00Z,1149.0,Podhagskygasse 12
+1850409127,PFALZGASSE 29 - 2-Zimmer mit Balkon - TRAUMHAFTER ERSTBEZUG IN RUHELAGE,"Wien, 22. Bezirk, Donaustadt",1220,928.99,2,46,Wien,Wien,1.0,3,Wohnung,2025-01-17T12:53:00Z,928.99,Pfalzgasse 29
 2141339012,2-Zimmer-Wohnung mit Balkon - PFALZGASSE 29 - TRAUMHAFTER ERSTBEZUG IN RUHELAGE,"Wien, 22. Bezirk, Donaustadt",1220,928.99,2,46,Wien,Wien,1.0,3,Wohnung,2025-01-17T12:51:00Z,928.99,Podhagskygasse 12
 1920615930,Modernes Innenstadtappartement mit Innenhof-Loggia in 1010 Wien,"Wien, 01. Bezirk, Innere Stadt",1010,1895.01,2,89,Wien,Wien,0.73,5,Wohnung,2025-01-17T12:51:00Z,1895.01,N/A
 1751769842,Ihr Rückzugsort mitten in Wien: Charmante Wohnung mit privatem Garten,"Wien, 18. Bezirk, Währing",1180,1682.08,3,96,Wien,Wien,1.0,0,Wohnung,2025-01-17T12:48:00Z,1682.08,N/A
@@ -807,6 +807,5 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2085996640,"Exklusives Wohnen im Herzen Wiens - Stilvoll, ruhig und zentral","Wien, 01. Bezirk, Innere Stadt",1010,1999.7,2,66,Wien,Wien,0.73,3,Wohnung,2025-01-17T07:12:00Z,1999.7,N/A
 1775448215,"Exklusives Wohnen im Herzen Wiens - Stilvoll, ruhig und zentral","Wien, 01. Bezirk, Innere Stadt",1010,2100.16,2,61,Wien,Wien,0.73,3,Wohnung,2025-01-17T07:12:00Z,2100.16,N/A
 2040072343,"Exklusives Wohnen im Herzen Wiens - Stilvoll, ruhig und zentral","Wien, 01. Bezirk, Innere Stadt",1010,3624.44,4,121,Wien,Wien,0.73,3,Wohnung,2025-01-17T07:12:00Z,3624.44,N/A
-1066983626,NACHMIETERSUCHE - TOLLE 2 ZIMMER WOHNUNG MIT GARTEN UND TERRASSE. - WOHNTRAUM,"Wien, 23. Bezirk, Liesing",1230,1098.69,2,62,Wien,Wien,1.0,0,Wohnung,2025-01-17T06:56:00Z,1098.69,Draschestraße 10
-1211475129,Nette-2-Zimmer-Wohnung,"Wien, 19. Bezirk, Döbling",1190,816.46,2,47,Wien,Wien,1.0,N/A,Wohnung,2025-01-17T06:48:00Z,816.46,Aslangasse 14
 1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-17T04:52:00Z,N/A,N/A
+950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-15T21:41:00Z,N/A,N/A
