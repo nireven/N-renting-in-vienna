@@ -4,6 +4,7 @@ path_to_data = 'listings/rental_data.csv'
 df = pd.read_csv(path_to_data)
 
 df['Price'] = pd.to_numeric(df['Price'], errors='coerce')
+df['Numeric District'] = df['Location'].str.extract(r'(\d{1,2})\. Bezirk').astype(float)
 df['Published Date'] = pd.to_datetime(df['Published Date'], errors='coerce')
 
 # ---------- FILTERING ---------- #
@@ -11,13 +12,16 @@ df['Published Date'] = pd.to_datetime(df['Published Date'], errors='coerce')
 now = pd.Timestamp.now()
 one_day_ago = now.tz_localize('UTC') - pd.Timedelta(days=1)
 
-# Filter the DataFrame with all conditions
+# Change the districts that you care about here
+allowed_districts = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17}
+
 filtered_df = df[(df.State == 'Wien') & 
                  (df.Price < 800) &
                  (df.Price > 400) &
                  (df.Rooms > 1) &
                  (df['Property Type'] == 'Wohnung') &
-                 (df['Published Date'] >= one_day_ago)]
+                 (df['Published Date'] >= one_day_ago) &
+                 (df['Numeric District'].isin(allowed_districts))]
 
 print(f'There are {filtered_df.shape[0]} listings that match your requirements.')
 
