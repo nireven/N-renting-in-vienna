@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1458576822,"Danubeview! THE modern residential complex. 2 rooms, terrace at the 8th floor.","Wien, 22. Bezirk, Donaustadt",1220,1700,2,58,Wien,Wien,1.0,8,Wohnung,2025-02-01T13:28:00Z,1700.0,Wagramer Straße 2A
 1861058528,Rare opportunity! A luxurious apartment with a dream view over Vienna.,"Wien, 22. Bezirk, Donaustadt",1220,1999.99,2,63,Wien,Wien,1.0,8,Wohnung,2025-02-01T13:26:00Z,1999.99,Wagramer Straße 2A
 1874716750,LUXUSWOHNUNG - Erstbezug nach Sanierung - ca. 147m² NFL - 4 Zimmer - ca. 10qm Loggia -,"Wien, 17. Bezirk, Hernals",1170,3226.74,5,137,Wien,Wien,1.0,2,Wohnung,2025-02-01T13:25:00Z,3226.74,N/A
 1139705950,++Der Platzhirsch++ Großartiger 2 Zimmer Erstbezug mit Dachterrasse,"Wien, 22. Bezirk, Donaustadt",1220,999,2,47,Wien,Wien,1.0,0,Wohnung,2025-02-01T13:25:00Z,999.0,N/A
@@ -198,7 +199,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 366782652,Wohnung zum vermieten,"Wien, 10. Bezirk, Favoriten",1100,690,1,58,Wien,Wien,N/A,5,Wohnung,2025-01-31T20:31:00Z,690.0,Inzersdorferstrasse ident Sonnleithnergasse
 943658078,Provisionsfreier Wohntraum // helle 3 ZI mit Balkon in Wien Mauer,"Wien, 23. Bezirk, Liesing",1230,996,3,60,Wien,Wien,1.0,1,Wohnung,2025-01-31T19:52:00Z,996.0,Lechthalergasse
 814358246,126 m² Wien Mitte - luxuriös sanierte Altbaumiete (provisionsfrei),"Wien, 03. Bezirk, Landstraße",1030,2261.67,4,126,Wien,Wien,N/A,4,Wohnung,2025-01-31T19:47:00Z,2261.67,Kegelgasse / Ecke Seidlgasse
-1784234321,Geräumige und WG-taugliche 4-Zimmer-Neubauwohnung inkl. Abstellraum & mit Balkon - Nähe U4 Friedensbrücke,"Wien, 09. Bezirk, Alsergrund",1090,2699.01,4,94,Wien,Wien,1.0,6,Wohnung,2025-01-31T19:42:00Z,2699.01,Nordbergstraße 13
 1882821515,PROVISIONSFREI! RUHIGE WOHNUNG IN BESTER LAGE,"Wien, 17. Bezirk, Hernals",1170,399,0,31,Wien,Wien,1.0,N/A,Wohnung,2025-01-31T14:14:00Z,399.0,Teichgasse 1
 1181947235,Repräsentative Etage,"Wien, 18. Bezirk, Währing",1180,5478,7,260,Wien,Wien,1.0,1,Wohnung,2025-01-31T14:08:00Z,5478.0,N/A
 1192989934,RARITÄT: 6-Zimmer Altbauwohnung in direkter U1-Nähe!!,"Wien, 04. Bezirk, Wieden",1040,4500,6,236,Wien,Wien,0.9,2,Wohnung,2025-01-31T14:07:00Z,4500.0,N/A
@@ -345,15 +345,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1137953165,ASG IV-Qualitatives Wohnen in urbaner Lage: hochwertiger 2-Zimmer ERSTBEZUG mit BALKON! Provisionsfrei!,"Wien, 12. Bezirk, Meidling",1120,1028.28,2,40,Wien,Wien,1.0,4,Wohnung,2025-01-31T10:48:00Z,1028.28,N/A
 1292448493,#1050 Wohnen in Urbaner Lage mit Flair | 2 Zimmer mit Balkon,"Wien, 05. Bezirk, Margareten",1050,1186.75,2,53,Wien,Wien,1.0,2,Wohnung,2025-01-31T10:47:00Z,1186.75,N/A
 1260479768,Direktvergabe Gemeinde Wohnung,"Wien, 17. Bezirk, Hernals",1170,580,2,52,Wien,Wien,1.0,4,Wohnung,2025-01-31T10:45:00Z,580.0,Rosensteingasse 48
-1600890763,Helle zwei Zimmer mit netter Nachbarschaft!,"Wien, 03. Bezirk, Landstraße",1030,1200,2,61,Wien,Wien,1.0,5,Wohnung,2025-01-31T10:38:00Z,1200.0,N/A
-1815841891,Nur mit Vormerkschein ! Gemeinde Wohnung 33m2 neben Einkaufzentrum und U3. Vormerkschein Reihung 31.01.2025,"Wien, 11. Bezirk, Simmering",1110,362,1,33,Wien,Wien,1.0,1,Wohnung,2025-01-31T10:38:00Z,362.0,Lorystrasse 40-42
-1100076103,++Der Platzhirsch++ Fantastischer 3 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,1698.98,3,79,Wien,Wien,1.0,1,Wohnung,2025-01-31T10:37:00Z,1698.98,N/A
-868217770,++Der Platzhirsch++ Fantastischer 2 Zimmer Erstbezug mit Terrasse und Garten!,"Wien, 22. Bezirk, Donaustadt",1220,1199,2,47,Wien,Wien,1.0,0,Wohnung,2025-01-31T10:37:00Z,1199.0,N/A
-1511416381,++Der Platzhirsch++ Fantastischer 2 Zimmer Erdgeschoss Erstbezug mit 21 m2 Terrasse auf dem Dach!,"Wien, 22. Bezirk, Donaustadt",1220,899,2,41,Wien,Wien,1.0,0,Wohnung,2025-01-31T10:37:00Z,899.0,N/A
-1377439888,50 m² große 2-Zimmerwohnung in Stadlau,"Wien, 22. Bezirk, Donaustadt",1220,850,2,50,Wien,Wien,1.0,1,Wohnung,2025-01-31T10:36:00Z,850.0,Schickgasse
-1197964975,"1020 Wien, Heinestraße, sonnige, vollmöblierte, helle 2-Zimmer-Dachgeschoßwohnung, Nähe Augarten und U2 Taborstrasse privat zu vermieten.","Wien, 02. Bezirk, Leopoldstadt",1020,720,2,35,Wien,Wien,1.0,7,Wohnung,2025-01-31T10:34:00Z,720.0,Heinestrasse 1
-1201784822,ERSTBEZUG | Co-Living | Traumhafte 3-Zimmer Maisonette DG-Wohnung mit Terrasse,"Wien, 17. Bezirk, Hernals",1170,1899,3,89,Wien,Wien,1.0,N/A,Wohnung,2025-01-31T10:30:00Z,1899.0,Lienfeldergasse
-905262446,Exklusiver Familientraum mit Terrasse und 2 Badezimmern - Nähe Tiergarten Schönbrunn,"Wien, 13. Bezirk, Hietzing",1130,2949,4,109,Wien,Wien,1.0,N/A,Wohnung,2025-01-31T10:30:00Z,2949.0,Fleschgasse
 1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-31T04:52:00Z,N/A,N/A
 1362237911,"Bertha-von-Suttner-Gasse 10, 1220 Wien / K2+K3","Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-30T11:17:00Z,N/A,Bertha-von-Suttner-Gasse 10
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-29T21:41:00Z,N/A,N/A
@@ -365,6 +356,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1801029212,Engerth 102- 5 Minuten zu U6 und S-Bahn HANDELSKAI! Hochwertige Einbauküchen und tolle Fensterfronten mit moderner Architektur- Provisionsfrei - JETZT ANFRAGEN,"Wien, 20. Bezirk, Brigittenau",1200,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-27T14:48:00Z,N/A,Engerthstraße 102
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2025-01-27T11:19:00Z,N/A,N/A
 1054658855,"* ALL-INCLUSIVE-LIVING * im HANS-Y - Pauschalmiete (inkl. Strom, Heizung, Internet, Pool, Gym, Spa & vieles mehr) + flexible Laufzeiten!","Wien, 03. Bezirk, Landstraße",1030,699,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-20T19:31:00Z,N/A,Kelsenstraße 5
+1784234321,Geräumige und WG-taugliche 4-Zimmer-Neubauwohnung inkl. Abstellraum & mit Balkon - Nähe U4 Friedensbrücke,"Wien, 09. Bezirk, Alsergrund",1090,2699.01,4,94,Wien,Wien,1.0,6,Wohnung,2025-01-31T19:42:00Z,2699.01,Nordbergstraße 13
 1464416716,Geräumige und WG-taugliche 4-Zimmer-Neubauwohnung inkl. Abstellraum & mit Balkon - Nähe U4 Friedensbrücke,"Wien, 09. Bezirk, Alsergrund",1090,2789.99,4,94,Wien,Wien,1.0,7,Wohnung,2025-01-31T19:39:00Z,2789.99,Nordbergstraße 13
 1579115844,Moderne 3-Zimmerwohnung im Viola Park - Wohn(t)raum zum Aufblühen,"Wien, 10. Bezirk, Favoriten",1100,1050,3,65,Wien,Wien,1.0,2,Wohnung,2025-01-31T19:34:00Z,1050.0,Czeikestraße 8
 1056592178,++Provisionsfrei++ Außergewöhliche 5-Zimmerwohnung in BESTLage des 2. Bezirks,"Wien, 02. Bezirk, Leopoldstadt",1020,3300,5,158,Wien,Wien,1.0,1,Wohnung,2025-01-31T19:32:00Z,3300.0,Fischergasse
@@ -453,7 +445,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1579460491,++Der Platzhirsch++ Großartiger 2 Zimmer Erstbezug mit Balkon!,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,1,Wohnung,2025-01-31T16:55:00Z,899.0,N/A
 2128143694,++Der Platzhirsch++ Fantastischer 2 Zimmer Erstbezug mit Garten!,"Wien, 22. Bezirk, Donaustadt",1220,848.99,2,36,Wien,Wien,1.0,0,Wohnung,2025-01-31T16:55:00Z,848.99,N/A
 1618417554,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1149,3,54,Wien,Wien,1.0,N/A,Wohnung,2025-01-31T16:53:00Z,1149.0,Podhagskygasse 12
-898849961,Exklusives Wohnen in zentraler Lage - 80 m² 2 Zimmer Wohnung mit Balkon,"Wien, 03. Bezirk, Landstraße",1030,1497,2,81,Wien,Wien,1.0,1,Wohnung,2025-01-31T16:47:00Z,1497.0,N/A
 1339214993,ERSTBEZUG - Wunderschöne Gartenwohnung in zentraler Ruhelage Nähe Alte Donau | ZELLMANN IMMOBILIEN,"Wien, 22. Bezirk, Donaustadt",1220,899.69,2,49,Wien,Wien,1.0,0,Wohnung,2025-01-31T16:46:00Z,899.69,Wagramer Straße 64-66
 1813352356,++Der Platzhirsch++ Fantastischer 3 Zimmer Erstbezug mit Terrasse und Garten!,"Wien, 22. Bezirk, Donaustadt",1220,1199,3,56,Wien,Wien,1.0,1,Wohnung,2025-01-31T16:45:00Z,1199.0,N/A
 1803962772,++Der Platzhirsch++ Außergewöhnlicher 2 Zimmer Erstbezug mit riesengroßer Terrasse!,"Wien, 22. Bezirk, Donaustadt",1220,1399,2,44,Wien,Wien,1.0,3,Wohnung,2025-01-31T16:45:00Z,1399.0,N/A
@@ -566,8 +557,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1963007956,Charmante Wohnung steht zum Einzug bereit!,"Wien, 16. Bezirk, Ottakring",1160,1200,2,56,Wien,Wien,1.0,1,Wohnung,2025-01-31T14:16:00Z,1200.0,Rankgasse
 1320119572,"Neubau mit Stil! 3 Zimmer mit Balkon und hipper Wohnküche! Sowie Parkett, Badewanne und Ausblick","Wien, 03. Bezirk, Landstraße",1030,1910,3,73,Wien,Wien,1.0,2,Wohnung,2025-01-31T14:16:00Z,1910.0,Grasbergergasse 9
 2126147485,"Ruhige 3-Zimmer-Wohnung, Nähe Alte Donau - ab sofort verfügbar","Wien, 21. Bezirk, Floridsdorf",1210,1393.94,3,80,Wien,Wien,1.0,3,Wohnung,2025-02-02T10:29:00Z,1393.94,Ferdinand-Pölz-Gasse 7
-1632663792,"EXCLUSIVE LIVING Pappelweg 16: GROßZÜGIGE FREIFLÄCHEN, LUXUS-AUSSTATTUNG, TOP LAGE!","Wien, 22. Bezirk, Donaustadt",1220,1122,2,51,Wien,Wien,1.0,N/A,Wohnung,2025-02-02T10:25:00Z,1122.0,N/A
+1796532514,Möbliert! - DANUBEFLATS 28. Floor! Your New Home (Pool and Wellness included),"Wien, 22. Bezirk, Donaustadt",1220,1980,1,36,Wien,Wien,1.0,28,Wohnung,2025-02-02T10:27:00Z,1980.0,Wagramer Straße 2
 1190521022,DANUBEFLATS Luxus Leben am Wasser - Provisionsfrei - Your New Home,"Wien, 22. Bezirk, Donaustadt",1220,1497.1,2,56,Wien,Wien,1.0,21,Wohnung,2025-02-02T10:25:00Z,1497.1,Wagramer Straße 2
+1632663792,"EXCLUSIVE LIVING Pappelweg 16: GROßZÜGIGE FREIFLÄCHEN, LUXUS-AUSSTATTUNG, TOP LAGE!","Wien, 22. Bezirk, Donaustadt",1220,1122,2,51,Wien,Wien,1.0,N/A,Wohnung,2025-02-02T10:25:00Z,1122.0,N/A
 1904606435,INA - Pärchenwohnung mit Freifläche nähe Wasserspielplatz Leberberg,"Wien, 11. Bezirk, Simmering",1110,799.95,2,43,Wien,Wien,1.0,2,Wohnung,2025-02-02T10:24:00Z,799.95,Rosa-Jochmann-Ring
 1478351199,DANUBEFLATS - 21. Stock! Luxus Leben am Wasser! Provisionsfrei - Your New Home,"Wien, 22. Bezirk, Donaustadt",1220,1150,1,34,Wien,Wien,1.0,20,Wohnung,2025-02-02T10:23:00Z,1150.0,Wagramer Straße 2
 1203371909,helle Wohnung mit Blick über Wien,"Wien, 22. Bezirk, Donaustadt",1220,1376,2,67,Wien,Wien,1.0,14,Wohnung,2025-02-02T10:16:00Z,1376.0,Wagramer Straße 4
@@ -764,4 +756,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1029402230,"3 Zimmer, 2 Bäder, Terrasse & Bulthaup-Küche inkl. Auto-Abstellplatz // 3 Rooms, 2 Baths, terrace & Bulthaup-kitchen incl. Car-Parking //","Wien, 22. Bezirk, Donaustadt",1220,2358.97,3,108,Wien,Wien,1.0,2,Wohnung,2025-02-01T13:37:00Z,2358.97,N/A
 1855538404,WARTEN SIE NICHT LÄNGER - 3 ZIMMER WOHNUNG MIT RIESEN TERRASSE - RUHELAGE - INKL STELLPLATZ. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,1398.46,3,78,Wien,Wien,1.0,1,Wohnung,2025-02-01T13:35:00Z,1398.46,Schlimpweg 3
 1016385823,EFFENBERGPLATZ - WOHNEN NAHE DER DONAU - BEZIEHBAR AB 01.06.2025 - JETZT ANFRAGEN,"Wien, 22. Bezirk, Donaustadt",1220,725.51,1,30,Wien,Wien,1.0,5,Wohnung,2025-02-01T13:35:00Z,725.51,Kaisermühlenstraße 8
-1458576822,"Danubeview! THE modern residential complex. 2 rooms, terrace at the 8th floor.","Wien, 22. Bezirk, Donaustadt",1220,1700,2,58,Wien,Wien,1.0,8,Wohnung,2025-02-01T13:28:00Z,1700.0,Wagramer Straße 2A
