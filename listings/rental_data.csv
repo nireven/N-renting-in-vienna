@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1522262226,Stillvolle 2-Zimmer Wohnung in ruhiger Lage umgeben von viel Grün! Gute Raumaufteilung mit südseitiger Freifläche,"Wien, 22. Bezirk, Donaustadt",1220,849,2,46,Wien,Wien,1.0,1,Wohnung,2025-02-01T11:05:00Z,849.0,N/A
 1066013287,*ESSLING 16* Schöne 2-Zimmer Wohnung in ruhiger Lage umgeben von viel Grün! Gute Raumaufteilung mit südseitiger Freifläche,"Wien, 22. Bezirk, Donaustadt",1220,822.27,2,54,Wien,Wien,1.0,1,Wohnung,2025-02-01T11:05:00Z,822.27,N/A
 1726262397,Ruhig und zentral: Maisonette-Wohnung im Dachgeschoss,"Wien, 03. Bezirk, Landstraße",1030,1999,3,81,Wien,Wien,1.0,N/A,Wohnung,2025-02-01T10:55:00Z,1999.0,Arsenal 3
 1999791055,"Wir weisen darauf hin, dass zwischen dem Vermittler ...","Wien, 03. Bezirk, Landstraße",1030,1999,3,80,Wien,Wien,1.0,N/A,Wohnung,2025-02-01T10:55:00Z,1999.0,Arsenal 3
@@ -104,19 +105,12 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1446931793,"Zweitbezug (Baujahr 2020), dritter Liftstock, große Terrasse, super hochwertige Küche mit Steinarbeitsplatte, Garagenstellplatz, nahe Kaiserebersdorf","Wien, 11. Bezirk, Simmering",1110,1650,4,91,Wien,Wien,1.0,3,Wohnung,2025-02-01T04:48:00Z,1650.0,N/A
 961496563,Helle 2-Zimmer-Dachgeschosswohnung - Sofort beziehbar! Tolle Lage!,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1099,2,71,Wien,Wien,1.0,N/A,Wohnung,2025-02-01T04:41:00Z,1099.0,Sechshauser Straße 34
 2099618822,Helle 3-Zimmer-Dachgeschosswohnung mit Terrasse in ruhiger Hoflage - Nähe Bahnhof Meidling,"Wien, 12. Bezirk, Meidling",1120,1299,3,91,Wien,Wien,1.0,N/A,Wohnung,2025-02-01T04:41:00Z,1299.0,Breitenfurter Straße 29
-1308228184,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1283.78,3,83,Wien,Wien,1.0,2,Wohnung,2025-02-01T03:37:00Z,1283.78,Anni-Haider-Weg
-1110997389,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1311.4,3,88,Wien,Wien,1.0,5,Wohnung,2025-02-01T03:37:00Z,1311.4,Anni-Haider-Weg
-1075846282,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1200.89,3,75,Wien,Wien,1.0,5,Wohnung,2025-02-01T03:37:00Z,1200.89,Anni-Haider-Weg
-1877948224,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,910.77,2,60,Wien,Wien,1.0,3,Wohnung,2025-02-01T03:37:00Z,910.77,Anni-Haider-Weg
-1836236230,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,938.4,2,63,Wien,Wien,1.0,2,Wohnung,2025-02-01T03:37:00Z,938.4,Anni-Haider-Weg
-830055104,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1159.44,3,80,Wien,Wien,1.0,1,Wohnung,2025-02-01T03:37:00Z,1159.44,Anni-Haider-Weg
-2099999415,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1518.62,4,111,Wien,Wien,1.0,2,Wohnung,2025-02-01T03:37:00Z,1518.62,Anni-Haider-Weg
-780955199,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1463.35,3,88,Wien,Wien,1.0,0,Wohnung,2025-02-01T03:37:00Z,1463.35,Anni-Haider-Weg
-1331911994,Weihburggasse - Balkonwohnung bei Kärntnerstraße,"Wien, 01. Bezirk, Innere Stadt",1010,2731.92,2,103,Wien,Wien,1.0,3,Wohnung,2025-02-01T03:35:00Z,2731.92,N/A
 1743712489,1 Monat Mietfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-31T17:32:00Z,N/A,Pfalzgasse 29
 1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-31T04:52:00Z,N/A,N/A
 612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-29T15:17:00Z,N/A,Laxenburger Straße 2D
+770061231,WINZENZ - Genussvoll Wohnen in Nussdorf,"Wien, 19. Bezirk, Döbling",1190,1838.1,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-28T14:34:00Z,N/A,Zahnradbahnstraße 13a
 1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-01-27T17:26:00Z,N/A,Donau-City-Straße
+1608244325,WINZENZ - Genussvoll Wohnen in Nussdorf,"Wien, 19. Bezirk, Döbling",1190,1838.1,3,73,Wien,Wien,1.0,0,Wohnung,2025-02-03T03:35:00Z,1838.1,Zahnradbahnstraße 13a
 1276586930,Großzügige Loggia-Wohnung mit 2 Zimmern **frisch Renoviert**Hofruhelage**U3+S45***,"Wien, 16. Bezirk, Ottakring",1160,1181.76,2,73,Wien,Wien,1.0,2,Wohnung,2025-02-03T03:25:00Z,1181.76,N/A
 1723120182,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,896.96,2,54,Wien,Wien,1.0,2,Wohnung,2025-02-03T03:19:00Z,896.96,Anni-Haider-Weg
 1502662078,Baujahr 2023 in Ottakring | Balkon | Bodentiefe Fenster | 1. Stock - 2 Zimmer - 49m²,"Wien, 16. Bezirk, Ottakring",1160,949,2,49,Wien,Wien,1.0,1,Wohnung,2025-02-03T03:19:00Z,949.0,Gansterergasse
@@ -516,4 +510,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1346784332,UNBEFRISTET - Ruhige 3-Zimmer Wohnung mit offener Küche und Kellerabteil,"Wien, 07. Bezirk, Neubau",1070,1511.77,3,81,Wien,Wien,1.0,4,Wohnung,2025-02-01T11:25:00Z,1511.77,N/A
 1751185143,Top 3 Zimmerwohnung in Sehr gute Lage,"Wien, 12. Bezirk, Meidling",1120,950,3,74,Wien,Wien,1.0,N/A,Wohnung,2025-02-01T11:15:00Z,950.0,N/A
 1040800896,*ESSLING 16* unbefristete 2-Zimmer Wohnung in ruhiger Lage umgeben von viel Grün! Gute Raumaufteilung mit südseitiger Freifläche,"Wien, 22. Bezirk, Donaustadt",1220,849,2,47,Wien,Wien,1.0,2,Wohnung,2025-02-01T11:05:00Z,849.0,N/A
-1522262226,Stillvolle 2-Zimmer Wohnung in ruhiger Lage umgeben von viel Grün! Gute Raumaufteilung mit südseitiger Freifläche,"Wien, 22. Bezirk, Donaustadt",1220,849,2,46,Wien,Wien,1.0,1,Wohnung,2025-02-01T11:05:00Z,849.0,N/A
