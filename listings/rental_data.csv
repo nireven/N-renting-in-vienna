@@ -399,6 +399,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2107832412,Wohnen mit traumhaftem Ausblick: 3-Zimmer Wohnung mit Einbauküche und zwei Terrassen! - JETZT ZUSCHLAGEN,"Wien, 10. Bezirk, Favoriten",1100,1609.86,3,83,Wien,Wien,1.0,5,Wohnung,2025-02-20T18:56:00Z,1609.86,Holbeingasse 6
 1679694433,3-Zimmer-Wohnung mit großzügigen Terrassen - Einbauküche und Klimaanlagen inklusive - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,1826.83,3,95,Wien,Wien,1.0,6,Wohnung,2025-02-20T18:56:00Z,1826.83,Holbeingasse 6
 1423471658,4. ZIMMER! PROVISIONSFREI! 30. STOCK! ERSTBEZUG! HELL! 57m² BALKON! BLICK AUF DEN STEPHANSDOM.,"Wien, 03. Bezirk, Landstraße",1030,2875,4,130,Wien,Wien,1.0,30,Wohnung,2025-02-20T18:51:00Z,2875.0,Leopold böhm straße 5
+925565051,Südseitige 2-Zimmer-Wohnung mit Loggia und schönem Weitblick!,"Wien, 14. Bezirk, Penzing",1140,995,2,51,Wien,Wien,N/A,3,Wohnung,2025-02-22T08:39:00Z,995.0,Linzer Strasse / Ameisbrücke
 820911688,UNBEFRISTETER ERSTBEZUG: 2-Zimmer Altbau-Wohnung nahe Casino Zögernitz in 1190 Wien zu mieten,"Wien, 19. Bezirk, Döbling",1190,1447.58,2,79,Wien,Wien,1.0,2,Wohnung,2025-02-22T08:21:00Z,1447.58,N/A
 1680512684,"NEU: Entzückendes Studio (Doorman, Gym, Spa, Pool, Lounges) mit Einlagerungsraum im Stock Erstbezug","Wien, 22. Bezirk, Donaustadt",1220,898.76,1,30,Wien,Wien,1.0,7,Wohnung,2025-02-22T08:20:00Z,898.76,Wagramer Straße 2
 1772572003,"Erstbezug! Wunderschöne 4 - Zimmer Wohnung, Nähe Oper","Wien, 01. Bezirk, Innere Stadt",1010,3359.54,0,149,Wien,Wien,1.0,3,Wohnung,2025-02-22T08:17:00Z,3359.54,N/A
@@ -524,7 +525,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1369330865,ab Februar: großzügige Altbauwohnung in absoluter Traumlage in 1090 // Nähe Strudlhofstiege! // Jetzt vormerken,"Wien, 09. Bezirk, Alsergrund",1090,2900,3,146,Wien,Wien,1.0,3,Wohnung,2025-02-21T17:28:00Z,2900.0,Strudlhofgasse
 1168417379,Schöne 2-Zimmer-Wohnung mit Garagenstellplatz im 16. Bezirk in Wien!,"Wien, 16. Bezirk, Ottakring",1160,1093.7,2,46,Wien,Wien,1.0,1,Wohnung,2025-02-21T17:27:00Z,1093.7,N/A
 2090807948,Gepflegte 2-Zimmer-Wohnung mit Garagenstellplatz im 16. Bezirk in Wien!,"Wien, 16. Bezirk, Ottakring",1160,1107.91,2,48,Wien,Wien,1.0,1,Wohnung,2025-02-21T17:27:00Z,1107.91,N/A
-1310177784,Nahe U1 Karlsplatz! Ruhige 2-Zimmer Wohnung zu vermieten!,"Wien, 04. Bezirk, Wieden",1040,890,2,59,Wien,Wien,1.0,0,Wohnung,2025-02-21T17:26:00Z,890.0,Frankenberggasse
 1525327568,Topsinglewohnung in Jedlesee!,"Wien, 21. Bezirk, Floridsdorf",1210,570,1,27,Wien,Wien,1.0,2,Wohnung,2025-02-21T17:26:00Z,570.0,Peter-Kaiser-Gasse 6
 868789116,The Loft - Einzigartigkeit par excellence,"Wien, 02. Bezirk, Leopoldstadt",1020,3850,2,153,Wien,Wien,1.0,6,Wohnung,2025-02-21T17:26:00Z,3850.0,Krakauer Straße
 489782661,"1090: 55m² Altbau, befr. 603, --; HWB 155,2","Wien, 09. Bezirk, Alsergrund",1090,603,2,55,Wien,Wien,0.85,2 1/2,Wohnung,2025-02-21T17:22:00Z,603.0,Alsergrund
@@ -780,9 +780,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 895470421,(reserviert) Stilvolle 2-Zimmer-Wohnung in Neubausiedlung mit großem Balkon,"Wien, 22. Bezirk, Donaustadt",1220,850.71,2,45,Wien,Wien,1.0,6,Wohnung,2025-02-20T08:54:00Z,850.71,Bertha-von-Suttner-Gasse 10A
 1188342908,Exklusive 3-Zimmer Gartenwohnung in Innenhoflage mit großzügiger Freifläche und Einbauküche!,"Wien, 12. Bezirk, Meidling",1120,1725,3,77,Wien,Wien,1.0,0,Wohnung,2025-02-20T08:52:00Z,1725.0,Breitenfurter Straße 85
 1437744037,"Donaumarina, Bestlage Donau & Innenstadt, direkt an der U-Bahn, 1 Zimmer mit Fitness, Sauna, etc.","Wien, 02. Bezirk, Leopoldstadt",1020,1490,2,55,Wien,Wien,1.0,10,Wohnung,2025-02-20T08:49:00Z,1490.0,Wehlistraße 330
-1799682882,DC Musicflats - Neue Mietwohnung - Top 13-09,"Wien, 22. Bezirk, Donaustadt",1220,840,2,30,Wien,Wien,1.0,1,Wohnung,2025-02-20T08:36:00Z,840.0,Donau-City-Straße 13
-1421296100,RUHIGER WOHNTRAUM MIT BALKON! Provisionsfrei,"Wien, 22. Bezirk, Donaustadt",1220,1249,3,70,Wien,Wien,0.9,5,Wohnung,2025-02-20T08:30:00Z,1249.0,N/A
-1889044667,"Ursüße, sympathische, hoch oben gelegene, architektonische ungewöhnliche, zentral gelegene Wohnung","Wien, 01. Bezirk, Innere Stadt",1010,1646.63,2,68,Wien,Wien,0.73,5,Wohnung,2025-02-20T08:29:00Z,1646.63,N/A
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-02-19T21:41:00Z,N/A,N/A
 1635107309,In der Stadt der Musik gelangt mit den DC Musicflats ...,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-02-19T17:32:00Z,N/A,Donau-City-Str. 13-13A
 1995450227,Erstbezug: 2- bis 4-Zimmer-Wohnungen in Grünruhelage in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,798.99,0,N/A,Wien,Wien,0.71,N/A,N/A,2025-02-19T13:27:00Z,N/A,N/A
