@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1385764077,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,38,Wien,Wien,0.9,0,Wohnung,2025-03-01T13:57:00Z,899.0,N/A
+1029402230,"3 Zimmer, 2 Bäder, Terrasse & Bulthaup-Küche inkl. Auto-Abstellplatz // 3 Rooms, 2 Baths, terrace & Bulthaup-kitchen incl. Car-Parking //","Wien, 22. Bezirk, Donaustadt",1220,2358.97,3,108,Wien,Wien,1.0,2,Wohnung,2025-03-01T13:37:00Z,2358.97,N/A
 1855538404,Sonnige Süd-West Wohnung mit 2 Terrassen nahe Trillerpark und S-Bahn! - RUHELAGE - inkl. Garagenplatz. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,1398.46,3,78,Wien,Wien,1.0,1,Wohnung,2025-03-01T13:35:00Z,1398.46,Schlimpweg 3
 1458576822,"Danubeview! THE modern residential complex. 2 rooms, terrace at the 8th floor.","Wien, 22. Bezirk, Donaustadt",1220,1700,2,58,Wien,Wien,1.0,8,Wohnung,2025-03-01T13:28:00Z,1700.0,Wagramer Straße 2A
 1427113804,PROVISIONFREI! 6. STOCK! SEHR HELLE 2. ZIMMER WOHNUNG! RUHIG! NÄHE HAUPTBAHNHOF! SONNWENDVIERTEL! WEITBLICK.,"Wien, 10. Bezirk, Favoriten",1100,1090,2,50,Wien,Wien,1.0,6,Wohnung,2025-03-01T13:27:00Z,1090.0,Sissy Löwinger weg 5
@@ -194,7 +196,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1391015446,Gemeinde Wohnung,"Wien, 14. Bezirk, Penzing",1140,854.75,4,89,Wien,Wien,0.9,2,Wohnung,2025-02-28T19:53:00Z,854.75,Penzinger Straße
 1784234321,Geräumige und WG-taugliche 4-Zimmer-Neubauwohnung inkl. Abstellraum & mit Balkon - Nähe U4 Friedensbrücke,"Wien, 09. Bezirk, Alsergrund",1090,2699.01,4,94,Wien,Wien,1.0,6,Wohnung,2025-02-28T19:42:00Z,2699.01,Nordbergstraße 13
 1579115844,Moderne 3-Zimmerwohnung im Viola Park - Wohn(t)raum zum Aufblühen,"Wien, 10. Bezirk, Favoriten",1100,1050,3,65,Wien,Wien,1.0,2,Wohnung,2025-02-28T19:34:00Z,1050.0,Czeikestraße 8
-1737926717,1-Zimmer-Wohnung direkt bei U4+U6 Station Längenfeldgasse,"Wien, 12. Bezirk, Meidling",1120,751.54,1,35,Wien,Wien,1.0,4,Wohnung,2025-02-28T19:34:00Z,751.54,N/A
 1713641851,Urbanes Wohnen mit Top-Ausstattung: Moderne 2-Zimmer-Wohnung mit großer Terrasse,"Wien, 22. Bezirk, Donaustadt",1220,819,2,49,Wien,Wien,1.0,2,Wohnung,2025-02-28T19:34:00Z,819.0,N/A
 1835109311,"Sehr gut aufgeteilte 2,5-Zimmer-Balkon-Wohnung | Atzgersdorf","Wien, 23. Bezirk, Liesing",1230,969,2,53,Wien,Wien,1.0,1,Wohnung,2025-02-28T19:32:00Z,969.0,Podhorezkygasse
 597922423,2-Zi Whg - Bj. 2019 - PROVFREI - inkl. Markenküche - Top Lage U6/ U4 Längenfeldgasse,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1051.36,2,49,Wien,Wien,1.0,5,Wohnung,2025-02-28T19:14:00Z,1051.36,Pfeiffergasse 5
@@ -365,24 +366,14 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1348912695,Perfekter Mix aus Wohn- und Arbeitsatmosphäre - 5 Zimmer - 183 m²,"Wien, 05. Bezirk, Margareten",1050,2376.88,5,183,Wien,Wien,1.0,4,Wohnung,2025-02-28T15:22:00Z,2376.88,N/A
 1243522547,Fantastische voll möblierte 78m2 Wohnung in Sonwendviertel,"Wien, 10. Bezirk, Favoriten",1100,1599,3,78,Wien,Wien,1.0,3,Wohnung,2025-02-28T15:17:00Z,1599.0,Hlawkagasse
 786705674,"3 Zimmer Wohnung - extra Küche - mit Loggia, Fitnessraum, Sauna und Dachterrasse!","Wien, 21. Bezirk, Floridsdorf",1210,1280,3,75,Wien,Wien,1.0,3,Wohnung,2025-02-28T15:17:00Z,1280.0,N/A
-1174363573,NEUBAUMIETE MIT LOGGIA,"Wien, 19. Bezirk, Döbling",1190,2720.55,4,101,Wien,Wien,1.0,2,Wohnung,2025-02-28T15:06:00Z,2720.55,N/A
-1776551220,Provisionsfrei - Wohnen in idealer Lage mit moderner Einbauküche & Balkon,"Wien, 09. Bezirk, Alsergrund",1090,2000,3,63,Wien,Wien,1.0,4,Wohnung,2025-02-28T15:06:00Z,2000.0,N/A
-1396320711,ab 1.6.: praktisch aufgeteilte ruhige 4 Zimmer Wohnung mit Balkon - Wiederbezug,"Wien, 04. Bezirk, Wieden",1040,2191.53,4,91,Wien,Wien,1.0,4,Wohnung,2025-02-28T15:05:00Z,2191.53,Margaretenstraße 25
-1130759111,Luxury City Center Apartment,"Wien, 01. Bezirk, Innere Stadt",1010,3200,2,38,Wien,Wien,1.0,N/A,Wohnung,2025-02-28T15:05:00Z,3200.0,N/A
-1501571730,"Gemütliche, hübsche 1-Zimmer Wohnung in der Antonigasse Nähe AKH!","Wien, 18. Bezirk, Währing",1180,719.84,1,34,Wien,Wien,1.0,-3,Wohnung,2025-02-28T14:56:00Z,719.84,Antonigasse
-2129564879,"Modern, smarter Grundriss und in toller Ruhelage nahe Riverside, Liesingbach und Perchtoldsdorf!","Wien, 23. Bezirk, Liesing",1230,1099,3,55,Wien,Wien,1.0,1,Wohnung,2025-02-28T14:55:00Z,1099.0,N/A
-881578261,Neubau Erstbezug! 2-Zimmer! Perfekte Verkehrsanbindung!,"Wien, 17. Bezirk, Hernals",1170,850,2,42,Wien,Wien,N/A,1,Wohnung,2025-02-28T14:51:00Z,850.0,N/A
-2134039394,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1670.87,3,78,Wien,Wien,1.0,2,Wohnung,2025-02-28T14:51:00Z,1670.87,Linzer Straße
-1960095191,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1672.29,3,78,Wien,Wien,1.0,2,Wohnung,2025-02-28T14:51:00Z,1672.29,Linzer Straße
-955068289,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1249.8,2,57,Wien,Wien,1.0,2,Wohnung,2025-02-28T14:51:00Z,1249.8,Linzer Straße
-1616327394,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1613.09,3,80,Wien,Wien,1.0,1,Wohnung,2025-02-28T14:51:00Z,1613.09,Linzer Straße
-1450633652,Nachhaltiges Wohnen am Park - Ihr neues Zuhause,"Wien, 14. Bezirk, Penzing",1140,1148.37,2,58,Wien,Wien,1.0,2,Wohnung,2025-02-28T14:51:00Z,1148.37,Linzer Straße
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1194.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-02-28T11:26:00Z,N/A,N/A
 1938505230,Provisionsfrei: Erstbezüge 38 - 69m² mit Einbauküchen und Außenflächen zu vermieten!,"Wien, 14. Bezirk, Penzing",1140,1027.38,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-02-28T04:52:00Z,N/A,N/A
 1329290799,IU - Idyllisch Urban,"Wien, 03. Bezirk, Landstraße",1030,1099,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-02-28T03:23:00Z,N/A,Wehleweg
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-02-26T21:41:00Z,N/A,N/A
 1069869140,1 MONAT MITFREI! Hochwertige Mietwohnungen in der Pfalzgasse 29 - Jetzt einziehen!,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-02-26T11:42:00Z,N/A,Pfalzgasse 29
 1075539150,POSTHÖFE - Exklusives Wohnen im Herzen von Wien!,"Wien, 01. Bezirk, Innere Stadt",1010,1160,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-02-26T11:38:00Z,N/A,Postgasse 8
+1723015209,"Hochwertige 81,5 m² Wohnung in U-Bahn Nähe","Wien, 14. Bezirk, Penzing",1140,894,3,81,Wien,Wien,1.0,N/A,Wohnung,2025-03-02T15:02:00Z,894.0,Kienmayergasse 39
+2014223457,3-Zimmer-Wohnung in absoluter Grünruhelage mit Balkon - Nähe Maurer Hauptplatz,"Wien, 23. Bezirk, Liesing",1230,1480,3,73,Wien,Wien,N/A,1,Wohnung,2025-03-02T14:59:00Z,1480.0,Binagasse Ecke Haymogasse
 1140909552,Studenten/ Single Wohnung in 1020 Wien in Toplage zwischen Augarten und Karmelitermarkt - Sofort bezugsfähig,"Wien, 02. Bezirk, Leopoldstadt",1020,610,0,30,Wien,Wien,0.0,N/A,Wohnung,2025-03-02T14:43:00Z,610.0,Miesbachgasse
 899366473,"Provisionsfreie, teilmöblierte Wohnung mit guter Anbindung","Wien, 20. Bezirk, Brigittenau",1200,850,2,62,Wien,Wien,0.0,6,Wohnung,2025-03-02T14:39:00Z,850.0,N/A
 800354340,2-Zimmer Neubauwohnung im 21. Bezirk - Erstbezug,"Wien, 21. Bezirk, Floridsdorf",1210,1150,2,47,Wien,Wien,1.0,2,Wohnung,2025-03-02T14:35:00Z,1150.0,N/A
@@ -581,5 +572,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2023394236,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1509,4,74,Wien,Wien,1.0,2,Wohnung,2025-03-01T14:21:00Z,1509.0,Pfalzgasse 29
 1195920870,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,38,Wien,Wien,1.0,0,Wohnung,2025-03-01T14:10:00Z,899.0,Pfalzgasse 29
 1686620964,"Sofortbezug: Möbliertes Apartment Nähe Wien Mitte, max. 6 Monate","Wien, 03. Bezirk, Landstraße",1030,860,2,50,Wien,Wien,N/A,2,Wohnung,2025-03-01T14:00:00Z,860.0,Matthäusgasse
-1385764077,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,38,Wien,Wien,0.9,0,Wohnung,2025-03-01T13:57:00Z,899.0,N/A
-1029402230,"3 Zimmer, 2 Bäder, Terrasse & Bulthaup-Küche inkl. Auto-Abstellplatz // 3 Rooms, 2 Baths, terrace & Bulthaup-kitchen incl. Car-Parking //","Wien, 22. Bezirk, Donaustadt",1220,2358.97,3,108,Wien,Wien,1.0,2,Wohnung,2025-03-01T13:37:00Z,2358.97,N/A
