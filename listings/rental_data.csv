@@ -1,4 +1,10 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1764899621,"Gut geschnittene, helle 3-Zimmer-Wohnung mit Balkon | U-Bahn und S-Bahn","Wien, 20. Bezirk, Brigittenau",1200,1350,3,80,Wien,Wien,1.0,1,Wohnung,2025-03-08T09:39:00Z,1350.0,Rebhanngasse 3a
+1710594364,"Vollmöbliertes, bezugsfertiges Appartement am Fuße des Wilhelminenbergs in Wien Ottakring","Wien, 16. Bezirk, Ottakring",1160,1300,3,90,Wien,Wien,0.0,N/A,Wohnung,2025-03-08T09:37:00Z,1300.0,N/A
+1453158888,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T09:34:00Z,1099.0,Pfalzgasse 29
+1585511032,Modern & Gemütlich: 2-Zimmer-Wohnung,"Wien, 23. Bezirk, Liesing",1230,1190,2,58,Wien,Wien,1.0,1,Wohnung,2025-03-08T09:33:00Z,1190.0,Gregorygasse
+1628570896,TOP-AUSGESTATTET / neubau / 92 m² 3Z UNTERGESCHOSS-WOHNUNG mit Terrasse,"Wien, 23. Bezirk, Liesing",1230,1199,0,92,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T09:24:00Z,1199.0,Reklewskigasse 31
+1661974691,Top Lage & historischer Charme - Wohnen im Botschaftsviertel,"Wien, 04. Bezirk, Wieden",1040,1480,2,84,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T09:24:00Z,1480.0,Schwindgasse
 1313726667,Helle Altbauperle im 3. Bezirk - Stilvoll wohnen mit Charme,"Wien, 03. Bezirk, Landstraße",1030,1299.74,2,100,Wien,Wien,1.0,3,Wohnung,2025-03-08T09:15:00Z,1299.74,Erdberger Lände
 1870360726,"WG-EIGNUNG! 2,5-ZIMMER-WOHNUNG. UNBEFRISTET. BITTE SCHRIFTLICH ANFRAGEN!","Wien, 12. Bezirk, Meidling",1120,652.1,2,66,Wien,Wien,1.0,4,Wohnung,2025-03-08T09:15:00Z,652.1,Grießergasse 6
 1991631857,Wohnung zu vermieten,"Wien, 05. Bezirk, Margareten",1050,1410,0,80,Wien,Wien,0.0,4,Wohnung,2025-03-08T09:03:00Z,1410.0,Höglmüllergasse
@@ -49,8 +55,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1109888699,"CHARMANTER ALTBAU TRIFFT MODERNE ELEGANZ ? ZENTRAL, GERÄUMIG, STILVOLL!","Wien, 03. Bezirk, Landstraße",1030,2700,4,135,Wien,Wien,0.0,2,Wohnung,2025-03-08T02:25:00Z,2700.0,N/A
 2122874663,FAMILIENHIT NÄHE DONAUZENTRUM,"Wien, 22. Bezirk, Donaustadt",1220,1790,3,69,Wien,Wien,0.9,1,Wohnung,2025-03-08T02:24:00Z,1790.0,N/A
 690124279,traumhaftes Penthouse mit Dachgarten I nahe dem Parlament - befristet,"Wien, 01. Bezirk, Innere Stadt",1010,7114.3,4,213,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T01:33:00Z,7114.3,"Parlament, Rathausplatz, Volksgarten"
-2111438448,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1438.54,3,74,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T00:38:00Z,1438.54,N/A
-1760477170,Modernes Wohnen nahe Stadlauer Straße - Großzügiger Balkon,"Wien, 22. Bezirk, Donaustadt",1220,899,2,46,Wien,Wien,1.0,1,Wohnung,2025-03-08T00:37:00Z,899.0,Miriam-Makeba-Gasse 5
 1743712489,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-07T17:32:00Z,N/A,Pfalzgasse 29
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-05T21:41:00Z,N/A,N/A
 612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-05T15:17:00Z,N/A,Laxenburger Straße 2D
@@ -59,6 +63,12 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,929.48,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-05T03:59:00Z,N/A,Dittmanngasse
 1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-03T17:26:00Z,N/A,Donau-City-Straße
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2025-03-03T11:19:00Z,N/A,N/A
+1922622025,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,924.58,2,63,Wien,Wien,1.0,3,Wohnung,2025-03-10T00:38:00Z,924.58,Anni-Haider-Weg
+1807124541,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1311.4,3,88,Wien,Wien,1.0,4,Wohnung,2025-03-10T00:38:00Z,1311.4,Anni-Haider-Weg
+1866411811,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1311.4,3,84,Wien,Wien,1.0,3,Wohnung,2025-03-10T00:38:00Z,1311.4,Anni-Haider-Weg
+938164198,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1007.48,2,60,Wien,Wien,1.0,0,Wohnung,2025-03-10T00:38:00Z,1007.48,Anni-Haider-Weg
+1070152473,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1256.13,3,83,Wien,Wien,1.0,3,Wohnung,2025-03-10T00:38:00Z,1256.13,Anni-Haider-Weg
+2085928346,Diesterweggasse - Studentenwohnung mit Garage zu vermieten,"Wien, 14. Bezirk, Penzing",1140,486.16,1,28,Wien,Wien,1.0,4,Wohnung,2025-03-10T00:37:00Z,486.16,N/A
 1393880187,Moderne 2-Zimmer-Wohnung zur Vermietung - 50m² inkl. Loggia in bester Lage,"Wien, 03. Bezirk, Landstraße",1030,1190,2,50,Wien,Wien,N/A,4,Wohnung,2025-03-09T23:10:00Z,1190.0,Leopold-Böhm Strasse
 2027127041,Erstbezug! Moderne 2-Zimmer-Wohnung mit Loggia & Gemeinschaftsterrasse zu vermieten!,"Wien, 10. Bezirk, Favoriten",1100,909.2,2,43,Wien,Wien,0.9,1,Wohnung,2025-03-09T22:44:00Z,909.2,Gudrunstraße
 1887808700,4-Zimmer-Genossenschaftswohnung in 1100 Wien zur Weitergabe - Einzug ab Ende Mai,"Wien, 10. Bezirk, Favoriten",1100,1394.27,4,100,Wien,Wien,1.0,5,Wohnung,2025-03-09T22:09:00Z,1394.27,Laaerbergstrasse 39
@@ -453,9 +463,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1988693493,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,2,39,Wien,Wien,1.0,2,Wohnung,2025-03-08T09:44:00Z,799.0,Podhagskygasse 12
 1581418928,Naturnahes WOHLFÜHLEN - Neubau - RUHELAGE - Dachterrasse mit Fernsicht- KLIMAANLAGE - provisionsfrei,"Wien, 22. Bezirk, Donaustadt",1220,1497,3,73,Wien,Wien,1.0,3,Wohnung,2025-03-08T09:40:00Z,1497.0,Lannesstraße 40
 1055631554,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1298.99,3,66,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T09:40:00Z,1298.99,Pfalzgasse 29
-1764899621,"Gut geschnittene, helle 3-Zimmer-Wohnung mit Balkon | U-Bahn und S-Bahn","Wien, 20. Bezirk, Brigittenau",1200,1350,3,80,Wien,Wien,1.0,1,Wohnung,2025-03-08T09:39:00Z,1350.0,Rebhanngasse 3a
-1710594364,"Vollmöbliertes, bezugsfertiges Appartement am Fuße des Wilhelminenbergs in Wien Ottakring","Wien, 16. Bezirk, Ottakring",1160,1300,3,90,Wien,Wien,0.0,N/A,Wohnung,2025-03-08T09:37:00Z,1300.0,N/A
-1453158888,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T09:34:00Z,1099.0,Pfalzgasse 29
-1585511032,Modern & Gemütlich: 2-Zimmer-Wohnung,"Wien, 23. Bezirk, Liesing",1230,1190,2,58,Wien,Wien,1.0,1,Wohnung,2025-03-08T09:33:00Z,1190.0,Gregorygasse
-1628570896,TOP-AUSGESTATTET / neubau / 92 m² 3Z UNTERGESCHOSS-WOHNUNG mit Terrasse,"Wien, 23. Bezirk, Liesing",1230,1199,0,92,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T09:24:00Z,1199.0,Reklewskigasse 31
-1661974691,Top Lage & historischer Charme - Wohnen im Botschaftsviertel,"Wien, 04. Bezirk, Wieden",1040,1480,2,84,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T09:24:00Z,1480.0,Schwindgasse
