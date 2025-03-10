@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1610205268,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,2,39,Wien,Wien,1.0,1,Wohnung,2025-03-08T10:32:00Z,799.0,Podhagskygasse 12
+1111151464,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T10:32:00Z,1099.0,Pfalzgasse 29
 1129317348,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1499,3,73,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T10:32:00Z,1499.0,Podhagskygasse 12
 1183927191,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,2,39,Wien,Wien,1.0,3,Wohnung,2025-03-08T10:32:00Z,799.0,Podhagskygasse 12
 1383050578,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,46,Wien,Wien,1.0,2,Wohnung,2025-03-08T10:32:00Z,899.0,Podhagskygasse 12
@@ -55,11 +57,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 950629155,Moderne Neubauwohnung - Nähe HTL Rennweg - 5.OG!!,"Wien, 03. Bezirk, Landstraße",1030,1048.82,2,50,Wien,Wien,0.0,5,Wohnung,2025-03-08T08:37:00Z,1048.82,N/A
 1848293731,Moderne 1+ Zimmer Neubauwohnung mit großer Loggia - 1.OG,"Wien, 03. Bezirk, Landstraße",1030,949.5,1,47,Wien,Wien,0.0,1,Wohnung,2025-03-08T08:37:00Z,949.5,N/A
 820911688,UNBEFRISTETER ERSTBEZUG: 2-Zimmer Altbau-Wohnung nahe Casino Zögernitz in 1190 Wien zu mieten,"Wien, 19. Bezirk, Döbling",1190,1447.58,2,79,Wien,Wien,1.0,2,Wohnung,2025-03-08T08:21:00Z,1447.58,N/A
-1704249202,Terassenwohnung Grünruhelage,"Wien, 18. Bezirk, Währing",1180,990,2,60,Wien,Wien,1.0,2,Wohnung,2025-03-08T08:15:00Z,990.0,Dr. Heinrich Maierstraße 28/2/18
-1305948891,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,2,39,Wien,Wien,1.0,1,Wohnung,2025-03-08T08:02:00Z,799.0,Pfalzgasse 29
-1117153197,Provisionsfrei! Lichtdurchflutete und luxuriöse 2 Zimmer Wohnung mit großem Balkon im 7. Liftstock!,"Wien, 22. Bezirk, Donaustadt",1220,1349.98,2,49,Wien,Wien,1.0,7,Wohnung,2025-03-08T07:57:00Z,1349.98,Wagramer Straße 2A
-1770133314,Luxuriöse Wohnung mit großem Balkon in top Lage! Die Freizeit beginnt vor der Türe und die U1 ist auch da!,"Wien, 22. Bezirk, Donaustadt",1220,1999.98,3,73,Wien,Wien,1.0,4,Wohnung,2025-03-08T07:55:00Z,1999.98,Wagramer Straße 2A
-1390704747,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,2,39,Wien,Wien,1.0,3,Wohnung,2025-03-08T07:54:00Z,799.0,Podhagskygasse 12
 1743712489,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-07T17:32:00Z,N/A,Pfalzgasse 29
 612831244,BUWOG DECK ZEHN,"Wien, 10. Bezirk, Favoriten",1100,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-05T15:17:00Z,N/A,Laxenburger Straße 2D
 725524970,| DANUBE HORIZON | NEUBAUPROJEKT | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE | ERSTBEZUG |,"Wien, 22. Bezirk, Donaustadt",1220,725,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-05T12:05:00Z,N/A,Effenbergplatz
@@ -67,6 +64,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,929.48,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-05T03:59:00Z,N/A,Dittmanngasse
 1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-03T17:26:00Z,N/A,Donau-City-Straße
 1125025901,Grünruhelage und trotzdem Mitten im Geschehen - 258 Wohnungen in Neubauprojekt Sophie & Joseph - zu Mieten in 1090 Wien,"Wien, 09. Bezirk, Alsergrund",1090,729,0,N/A,Wien,Wien,0.85,N/A,N/A,2025-03-03T11:19:00Z,N/A,N/A
+1752192920,Bezugsfertige Top Singelwohnung,"Wien, 03. Bezirk, Landstraße",1030,700,1,41,Wien,Wien,1.0,7,Wohnung,2025-03-10T08:17:00Z,700.0,Marxergasse 36/17
+1066796256,Wohnen in Gersthof,"Wien, 18. Bezirk, Währing",1180,624,1,34,Wien,Wien,0.0,2,Wohnung,2025-03-10T08:14:00Z,624.0,N/A
 1633240926,(reserviert) helle Wohnung in zentraler Lage zu vermieten,"Wien, 23. Bezirk, Liesing",1230,649,1,30,Wien,Wien,0.72,2,Wohnung,2025-03-10T07:39:00Z,649.0,Färbermühlgasse
 785789774,Traumhafte DG-Maisonette mit herrlichem Grünblick - Top ausgestattetet und geschnitten,"Wien, 18. Bezirk, Währing",1180,2989.04,5,139,Wien,Wien,1.0,N/A,Wohnung,2025-03-10T07:35:00Z,2989.04,N/A
 1171123545,"Ruhelage | Perfekt geschnittene, hochwertige 3-Zimmer-Wohnung | 120 m² Garten + Terrasse","Wien, 23. Bezirk, Liesing",1230,1090,3,60,Wien,Wien,1.0,0,Wohnung,2025-03-10T07:35:00Z,1090.0,N/A
@@ -465,5 +464,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1937640272,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1499,3,63,Wien,Wien,1.0,0,Wohnung,2025-03-08T10:32:00Z,1499.0,Podhagskygasse 12
 1988354118,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,949,2,40,Wien,Wien,1.0,0,Wohnung,2025-03-08T10:32:00Z,949.0,Podhagskygasse 12
 1377879594,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,45,Wien,Wien,1.0,1,Wohnung,2025-03-08T10:32:00Z,899.0,Podhagskygasse 12
-1610205268,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,799,2,39,Wien,Wien,1.0,1,Wohnung,2025-03-08T10:32:00Z,799.0,Podhagskygasse 12
-1111151464,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-03-08T10:32:00Z,1099.0,Pfalzgasse 29
