@@ -1,5 +1,4 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
-950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-12T21:41:00Z,N/A,N/A
 1635107309,In der Stadt der Musik gelangt mit den DC Musicflats ...,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-12T17:32:00Z,N/A,Donau-City-Str. 13-13A
 1995450227,Erstbezug: 2-Zimmer-Wohnungen in Grünruhelage - SOFORT in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,798.99,0,N/A,Wien,Wien,0.71,N/A,N/A,2025-03-12T13:27:00Z,N/A,N/A
 725524970,| DANUBE HORIZON | NEUBAUPROJEKT | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE | ERSTBEZUG |,"Wien, 22. Bezirk, Donaustadt",1220,725,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-12T12:05:00Z,N/A,Effenbergplatz
@@ -416,6 +415,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1442408918,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1311.4,3,88,Wien,Wien,1.0,N/A,Wohnung,2025-03-13T17:27:00Z,1311.4,Anni-Haider-Weg 3
 1870913264,Toller Neubau mit großem Balkon nahe Gewerbepark Stadlau im ruhigen Neubau-Viertel!,"Wien, 22. Bezirk, Donaustadt",1220,1060,3,59,Wien,Wien,1.0,2,Wohnung,2025-03-13T17:27:00Z,1060.0,Pogrelzstraße 83
 950449849,großzügige 3-Zimmer Wohnung mit 2 herrlichen Terrassen!,"Wien, 22. Bezirk, Donaustadt",1220,1950,3,91,Wien,Wien,1.0,1,Wohnung,2025-03-13T17:27:00Z,1950.0,Quadenstraße
+1227563048,Moderne 2-Zimmer-Wohnung mit Balkon und Tiefgaragenstellplatz in TOP-Lage (provisionsfrei) !,"Wien, 12. Bezirk, Meidling",1120,1350,2,58,Wien,Wien,0.95,N/A,Wohnung,2025-03-14T22:01:00Z,1350.0,Arndtstraße
 1891598153,Sonnige und renovierte Altbauwohnung im Gersthofer Cottage,"Wien, 18. Bezirk, Währing",1180,1647,0,108,Wien,Wien,0.0,N/A,Wohnung,2025-03-14T21:51:00Z,1647.0,N/A
 508530681,Ruhige 2 Zimmerwohnung direkt am Botanischen Garten - provisionsfrei!,"Wien, 03. Bezirk, Landstraße",1030,1350,2,71,Wien,Wien,1.0,3,Wohnung,2025-03-14T21:45:00Z,1350.0,Gerlgasse 1a
 844164240,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1077.58,2,55,Wien,Wien,1.0,N/A,Wohnung,2025-03-14T21:42:00Z,1077.58,N/A
@@ -557,7 +557,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 796269140,"2 ZI-WOHNUNG IN WIEN - 4. BEZIRK - WIEDEN, MÖBLIERT","Wien, 14. Bezirk, Penzing",1140,3120,2,65,Wien,Wien,0.9,3,Wohnung,2025-03-14T16:27:00Z,3120.0,N/A
 1987274384,Luxuriöse möblierte Mietwohnung mit Garten - im Herzen des 19.Bezirks,"Wien, 19. Bezirk, Döbling",1190,1795,2,56,Wien,Wien,1.0,N/A,Wohnung,2025-03-14T16:26:00Z,1795.0,N/A
 1656261534,Toller Ausblick in deiner neuen 3-Zimmer-Neubauwohnung im naturnahen Wildgarten,"Wien, 12. Bezirk, Meidling",1120,1149.01,3,61,Wien,Wien,1.0,6,Wohnung,2025-03-14T16:26:00Z,1149.01,Wildgartenallee 23
-792815241,(reserviert) English spoken/ Provisionsfrei: Vollmöblierte Single-Wohnung nähe Liechtensteinspark,"Wien, 09. Bezirk, Alsergrund",1090,945,1,36,Wien,Wien,N/A,1,Wohnung,2025-03-14T16:23:00Z,945.0,Badgasse
 854719714,Dein neues Zuhause in der Wildgartenallee: Helle 3-Zimmerwohnung mit Balkon im 6. OG - toller Weitblick,"Wien, 12. Bezirk, Meidling",1120,1149,3,61,Wien,Wien,1.0,6,Wohnung,2025-03-14T16:23:00Z,1149.0,Wildgartenallee 23
 1186620279,"2 Zi mit Altbauflair im 19. Bezirk, perfekte Anbindung mit der Straßenbahn D sowie U4 Heiligenstadt","Wien, 19. Bezirk, Döbling",1190,990,2,54,Wien,Wien,1.0,Mezzanine,Wohnung,2025-03-14T16:21:00Z,990.0,Greinergasse 6
 943301078,Ideal geschnittene 3-Zimmerwohnung im EG mit 20m² Balkon,"Wien, 12. Bezirk, Meidling",1120,1149.01,3,66,Wien,Wien,1.0,0,Wohnung,2025-03-14T16:21:00Z,1149.01,Wildgartenallee 23
@@ -1015,4 +1014,4 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1170800542,3-Zimmer-Mietwohnung plus Hobbyraum mit 2 Terrassen und Eigengärten (C25),"Wien, 16. Bezirk, Ottakring",1160,1679.2,3,105,Wien,Wien,0.67,N/A,Wohnung,2025-03-13T01:06:00Z,1679.2,N/A
 1746065969,TOP Mietwohnung auch als WG geeignet - moderne 2-Zimmer Wohnung mit Parkett und Einbauküche in 1030 Wien!,"Wien, 03. Bezirk, Landstraße",1030,1316.82,2,62,Wien,Wien,1.0,3,Wohnung,2025-03-13T00:37:00Z,1316.82,Trubelgasse
 1375484231,"Terassenwohnung zentrumsnah, ab Juni 2025, Apartment close to the center with large terrace available from June 2025","Wien, 02. Bezirk, Leopoldstadt",1020,1085.61,3,75,Wien,Wien,N/A,1,Wohnung,2025-03-12T23:52:00Z,1085.61,Dresdnerstrasse
-1410780876,"Topmoderne, vollmöblierte Traumwohnung in zentraler Lage. Bring your suitcase!","Wien, 09. Bezirk, Alsergrund",1090,1390,2,60,Wien,Wien,1.0,3,Wohnung,2025-03-12T22:22:00Z,1390.0,Mariannengasse 30
+950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-12T21:41:00Z,N/A,N/A
