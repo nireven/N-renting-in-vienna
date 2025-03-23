@@ -81,6 +81,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 542428086,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE U3-ENKPLATZ,"Wien, 11. Bezirk, Simmering",1110,820,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-19T03:59:00Z,N/A,Dittmanngasse
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,699.71,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-19T03:59:00Z,N/A,Leopoldauer Straße
 1767223107,"DC Musicflats - Ideal für Musiker, Podcaster und Influencer","Wien, 22. Bezirk, Donaustadt",1220,840,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-17T17:26:00Z,N/A,Donau-City-Straße
+1069066505,(reserviert) (PROVISIONSFREI) Sonnige 3-Zimmerwohnung 1210,"Wien, 21. Bezirk, Floridsdorf",1210,1110,3,67,Wien,Wien,0.0,N/A,Wohnung,2025-03-23T01:39:00Z,1110.0,N/A
 1174202027,Neubauwohnung nahe U1 Kagraner Platz - Ideal für Zwei,"Wien, 22. Bezirk, Donaustadt",1220,889,2,44,Wien,Wien,1.0,8,Wohnung,2025-03-23T00:37:00Z,889.0,Bertha-von-Suttner-Gasse 10A
 1662467710,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1299,3,71,Wien,Wien,1.0,1,Wohnung,2025-03-22T21:49:00Z,1299.0,Pfalzgasse 29
 798627226,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1299,3,66,Wien,Wien,1.0,N/A,Wohnung,2025-03-22T21:47:00Z,1299.0,Podhagskygasse 12
@@ -91,7 +92,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1503546612,HÜBSCHE BALKON WOHNUNG - FERNBLICK - 3 ZIMMER - 2er WG geeignet!,"Wien, 19. Bezirk, Döbling",1190,1245.85,3,76,Wien,Wien,1.0,2,Wohnung,2025-03-22T21:40:00Z,1245.85,N/A
 1840660524,Neubauwohnung nahe U1 Kagraner Platz - Ideal für Zwei,"Wien, 22. Bezirk, Donaustadt",1220,839,2,45,Wien,Wien,1.0,1,Wohnung,2025-03-22T21:38:00Z,839.0,Bertha-von-Suttner-Gasse 10A
 942293347,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1049,2,45,Wien,Wien,1.0,0,Wohnung,2025-03-22T21:38:00Z,1049.0,Podhagskygasse 12
-956371419,4-Zimmer Terassen-Mietwohnung beim Naschmarkt,"Wien, 04. Bezirk, Wieden",1040,2236.87,4,127,Wien,Wien,1.0,2,Wohnung,2025-03-22T21:36:00Z,2236.87,Waaggasse
 1140780144,Perfekter Schnitt - Wohnen im 7. Stock,"Wien, 22. Bezirk, Donaustadt",1220,889,2,45,Wien,Wien,1.0,7,Wohnung,2025-03-22T21:35:00Z,889.0,Bertha-von-Suttner-Gasse 10A
 1903347172,Top Wohnung 1350 Euro inklusive Strom und Gas,"Wien, 03. Bezirk, Landstraße",1030,1350,3,77,Wien,Wien,0.93,5,Wohnung,2025-03-22T21:34:00Z,1350.0,Klopfsteinplaz 3
 1692625121,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1539,3,67,Wien,Wien,1.0,0,Wohnung,2025-03-22T21:34:00Z,1539.0,Podhagskygasse 12
@@ -281,6 +281,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1090931479,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1299,3,54,Wien,Wien,1.0,0,Wohnung,2025-03-22T10:32:00Z,1299.0,Podhagskygasse 12
 909968704,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1248.99,3,57,Wien,Wien,1.0,1,Wohnung,2025-03-22T10:32:00Z,1248.99,Pfalzgasse 29
 1685657348,Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten und Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,46,Wien,Wien,1.0,1,Wohnung,2025-03-22T10:32:00Z,899.0,Podhagskygasse 12
+1362728249,"1010 Wien: Charmante 2-Zimmer-Wohnung in Barock-Altbau nähe ""Goldenes Quartier""","Wien, 01. Bezirk, Innere Stadt",1010,1723.23,2,58,Wien,Wien,1.0,5 (1. DG),Wohnung,2025-03-24T00:27:00Z,1723.23,Kurrentgasse
 1393880187,Top 2-Zimmer Neubau-Wohnung Vollmöbiliert - ca. 50m² mit Loggia in bester Lage,"Wien, 03. Bezirk, Landstraße",1030,1150,2,50,Wien,Wien,1.0,4,Wohnung,2025-03-23T23:10:00Z,1150.0,Leopold-Böhm Strasse 2
 1140494205,Gemeindewohnung zur Vergabe,"Wien, 03. Bezirk, Landstraße",1030,420,2,41,Wien,Wien,N/A,3,Wohnung,2025-03-23T22:07:00Z,420.0,Weissgerberlände
 920227885,Genossenschaftswohnung 2 Zimmer mit Balkon,"Wien, 10. Bezirk, Favoriten",1100,551.09,2,61,Wien,Wien,1.0,4,Wohnung,2025-03-23T22:01:00Z,551.09,Laaer-Berg-Straße 67-69
@@ -480,4 +481,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1437727612,Erstbezug in Ruhelage mit Loggia und Gemeinschaftsdachterrasse nahe U1,"Wien, 10. Bezirk, Favoriten",1100,1193.83,2,58,Wien,Wien,1.0,1,Wohnung,2025-03-23T02:37:00Z,1193.83,Gudrunstraße 120
 1429252834,"Stilvolle 3-Zimmer Wohnung , 2x um´s Eck von der Neubaugasse-großzügig, hell und in begehrter Lage","Wien, 07. Bezirk, Neubau",1070,1790,3,101,Wien,Wien,0.9,4,Wohnung,2025-03-23T02:08:00Z,1790.0,N/A
 1501829331,Am Fuße des Wilhelminenberges,"Wien, 16. Bezirk, Ottakring",1160,810,3,82,Wien,Wien,0.67,N/A,Wohnung,2025-03-23T02:08:00Z,810.0,N/A
-1069066505,(reserviert) (PROVISIONSFREI) Sonnige 3-Zimmerwohnung 1210,"Wien, 21. Bezirk, Floridsdorf",1210,1110,3,67,Wien,Wien,0.0,N/A,Wohnung,2025-03-23T01:39:00Z,1110.0,N/A
