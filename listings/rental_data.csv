@@ -112,7 +112,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1009757046,Exklusive Neubauwohnung mit Balkon,"Wien, 19. Bezirk, Döbling",1190,3189,4,151,Wien,Wien,1.0,2,Wohnung,2025-03-28T02:31:00Z,3189.0,Hutweidengasse 60a
 1932976300,FRISCH RENOVIERTER WOHNTRAUM IM HERZEN DES 9. BEZIRKS,"Wien, 09. Bezirk, Alsergrund",1090,1325,1,N/A,Wien,Wien,0.85,2,Wohnung,2025-03-28T02:23:00Z,1325.0,N/A
 1509489375,Zentral gelegene Wohnung ab 1. September zu vermieten,"Wien, 05. Bezirk, Margareten",1050,1300,3,89,Wien,Wien,1.0,2,Wohnung,2025-03-28T02:13:00Z,1300.0,Johannagasse 27
-1254055810,Aktion - Miete reduziert! Luxury Living! maßgefertigte Tischlerküche! elektrische Rollos! Klima-Vorb! U2!,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,0,Wohnung,2025-03-28T00:38:00Z,899.0,N/A
 1209898785,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1029.78,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-27T11:58:00Z,N/A,Arsenalstraße 8
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-26T21:41:00Z,N/A,N/A
 1995450227,Erstbezug: 2-Zimmer-Wohnungen in Grünruhelage - SOFORT in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,798.99,0,N/A,Wien,Wien,0.71,N/A,N/A,2025-03-26T13:27:00Z,N/A,N/A
@@ -128,6 +127,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1084264605,Mit Sicherheit eine gute Wahl! Wohnen ab 60+ im schönen Oberlaa! Teilbegleitet,"Wien, 10. Bezirk, Favoriten",1100,975.1,0,N/A,Wien,Wien,0.9,N/A,N/A,2025-03-25T07:49:00Z,N/A,N/A
 1750364277,Neubauprojekt in der Welingergasse,"Wien, 23. Bezirk, Liesing",1230,999.9,0,N/A,Wien,Wien,0.72,N/A,N/A,2025-03-24T16:13:00Z,N/A,N/A
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (Erstbezug ab März 2025),"Wien, 07. Bezirk, Neubau",1070,1450,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-23T03:28:00Z,N/A,Apollogasse
+2050406036,"Helle 2-Zimmer, 53m2, zentral begehbar, Oberdöbling","Wien, 19. Bezirk, Döbling",1190,920,2,53,Wien,Wien,N/A,2,Wohnung,2025-03-30T00:23:00Z,920.0,Leidesdorfgasse
 1773117765,**RELAX ERSTBEZUG ** + Balkon,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,1 H5 Top3,Wohnung,2025-03-29T22:22:00Z,899.0,Am Krautgarten
 2004894903,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,54,Wien,Wien,1.0,N/A,Wohnung,2025-03-29T21:45:00Z,1099.0,Podhagskygasse 12
 1292632034,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1289,3,54,Wien,Wien,1.0,0,Wohnung,2025-03-29T21:43:00Z,1289.0,Pfalzgasse 29
@@ -327,7 +327,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 886437349,Topwohnung mit Blick über Wien,"Wien, 19. Bezirk, Döbling",1190,1670,2,92,Wien,Wien,1.0,2,Wohnung,2025-03-29T09:08:00Z,1670.0,Krottenbachstrasse 247
 1902064553,3 Zimmer Gemeindewohnung 76m² in DIREKTVERGABE mit Vormerkschein und Ablöse zu vergeben,"Wien, 10. Bezirk, Favoriten",1100,770,3,76,Wien,Wien,1.0,2,Wohnung,2025-03-29T08:51:00Z,770.0,Alaudagasse 15
 1303382626,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,46,Wien,Wien,1.0,1,Wohnung,2025-03-29T08:50:00Z,899.0,Podhagskygasse 12
-1272208695,"DANUBEFLATS! Nur jetzt! Your New Home (Pool, Fitness and Wellness included)","Wien, 22. Bezirk, Donaustadt",1220,1880,2,58,Wien,Wien,1.0,5,Wohnung,2025-03-29T08:33:00Z,1880.0,Wagramer Straße 2
 1272208695,"DANUBEFLATS! Nur jetzt! Your New Home (Pool, Fitness and Wellness included)","Wien, 22. Bezirk, Donaustadt",1220,1880,2,58,Wien,Wien,1.0,5,Wohnung,2025-03-29T08:33:00Z,1880.0,Wagramer Straße 2
 1655669913,SOFORTBEZUG möglich - Moderne Stadtwohnung inkl. Freifläche mit bester Verkehrsanbindung,"Wien, 10. Bezirk, Favoriten",1100,860,2,35,Wien,Wien,1.0,4,Wohnung,2025-03-29T08:27:00Z,860.0,Laxenburger Straße 2D
 1137310939,2-Zimmer Wohnung mit Balkon im TrIIIple Living! Pool am Dach,"Wien, 03. Bezirk, Landstraße",1030,1400.99,2,57,Wien,Wien,1.0,6,Wohnung,2025-03-29T08:26:00Z,1400.99,N/A
