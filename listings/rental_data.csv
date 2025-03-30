@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1195,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-28T11:26:00Z,N/A,N/A
 1630031099,Geräumige 3-Zimmer-Wohnung mit privatem Balkon - Viola Park - Ihre Wohlfühloase am Laaer Berg,"Wien, 10. Bezirk, Favoriten",1100,1121.12,3,66,Wien,Wien,1.0,5,Wohnung,2025-03-28T11:24:00Z,1121.12,Czeikestraße 8
 1217052974,Großzügige 2-Zimmer-Wohnungen in perfekter Lage mit Balkon!,"Wien, 03. Bezirk, Landstraße",1030,1184.79,2,62,Wien,Wien,1.0,2,Wohnung,2025-03-28T11:21:00Z,1184.79,Steingasse 6 - Top 15
 815382635,"Viola Park - Platz für alles, was zählt: 3 Zimmer und ein herrlicher Balkon | am Laaer Berg","Wien, 10. Bezirk, Favoriten",1100,1040,3,64,Wien,Wien,1.0,5,Wohnung,2025-03-28T11:21:00Z,1040.0,Czeikestraße 8
@@ -112,7 +113,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1211475129,Nette-2-Zimmer-Wohnung,"Wien, 19. Bezirk, Döbling",1190,955.25,2,47,Wien,Wien,1.0,N/A,Wohnung,2025-03-28T06:48:00Z,955.25,Aslangasse 14
 1875088858,Provisionsfreie 4-Zimmer Altbauwohnung,"Wien, 09. Bezirk, Alsergrund",1090,2000,4,109,Wien,Wien,1.0,2,Wohnung,2025-03-28T06:48:00Z,2000.0,Sechsschimmelgasse 6-8
 1842842824,Beeindruckend aufgeteilte 2 Zimmer Loggia Wohnung inkl. Einbauküche in ausgezeichneter Lage im 21. Bezirk,"Wien, 21. Bezirk, Floridsdorf",1210,1100,2,69,Wien,Wien,1.0,2,Wohnung,2025-03-28T06:34:00Z,1100.0,N/A
-1967571613,Ablöse nur 9.000€ - Provisionsfreie Wohnung in Top Lage,"Wien, 23. Bezirk, Liesing",1230,1387,3,74,Wien,Wien,1.0,N/A,Wohnung,2025-03-28T06:23:00Z,1387.0,Atzlergasse
 1209898785,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1029.78,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-27T11:58:00Z,N/A,Arsenalstraße 8
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,829.42,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-26T21:41:00Z,N/A,N/A
 1995450227,Erstbezug: 2-Zimmer-Wohnungen in Grünruhelage - SOFORT in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,798.99,0,N/A,Wien,Wien,0.71,N/A,N/A,2025-03-26T13:27:00Z,N/A,N/A
@@ -127,6 +127,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2054887708,BELVIEW - HIER WIRD WOHNEN NEU DEFINIERT! - MIT TRAUM-AUSSICHTEN AUF DIE GESAMTE CITY - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,1029.78,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-26T02:53:00Z,N/A,Arsenalstraße 8
 1084264605,Mit Sicherheit eine gute Wahl! Wohnen ab 60+ im schönen Oberlaa! Teilbegleitet,"Wien, 10. Bezirk, Favoriten",1100,975.1,0,N/A,Wien,Wien,0.9,N/A,N/A,2025-03-25T07:49:00Z,N/A,N/A
 1750364277,Neubauprojekt in der Welingergasse,"Wien, 23. Bezirk, Liesing",1230,999.9,0,N/A,Wien,Wien,0.72,N/A,N/A,2025-03-24T16:13:00Z,N/A,N/A
+2069190852,WOHNEN IM LOFT IN DER GRÜNGASSE!,"Wien, 05. Bezirk, Margareten",1050,1280,2,52,Wien,Wien,1.0,1,Wohnung,2025-03-30T06:24:00Z,1280.0,Grüngasse
 1689741840,Im Jahr 2023 fertiggestellte Wohnhausanlage in neu geschaffener Wohnsiedlung,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,Wohnung,2025-03-30T05:07:00Z,N/A,Bertha-von-Suttner-Gasse
 1852725879,"Erstbezug nach Revitalisierung: großzügige, helle 3-Zimmer Wohnung!","Wien, 13. Bezirk, Hietzing",1130,1190.01,3,71,Wien,Wien,1.0,3,Wohnung,2025-03-30T04:05:00Z,1190.01,N/A
 1002173870,"Wien-Neubau: DG-Wohnung mit Abstellraum, Balkon, Klimaanlage, Fußbodenheizung, uvm. (Erstbezug ab 02/25)","Wien, 07. Bezirk, Neubau",1070,1725,2,58,Wien,Wien,1.0,3,Wohnung,2025-03-30T03:30:00Z,1725.0,Apollogasse
@@ -726,4 +727,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1817682805,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1299,2,45,Wien,Wien,1.0,17,Wohnung,2025-03-28T11:26:00Z,1299.0,Arsenalstraße 8
 2017271249,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1275.6,2,44,Wien,Wien,1.0,15,Wohnung,2025-03-28T11:26:00Z,1275.6,Arsenalstraße 8
 1470188001,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1140.45,2,52,Wien,Wien,1.0,15,Wohnung,2025-03-28T11:26:00Z,1140.45,Arsenalstraße 8
-1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1195,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-03-28T11:26:00Z,N/A,N/A
