@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1098249383,"Helle Wohnung, 1 Schlafzimmer,1 Arbeitzszimmer und 1 wohnzimmer möbliert, im 16. Bezi","Wien, 16. Bezirk, Ottakring",1160,900,3,55,Wien,Wien,0.95,2,Wohnung,2025-04-11T16:08:00Z,900.0,Abrechtskreithgasse17
 2084696690,"Schöne-moderne Dachgeschoßwohnung mit 6,77m² Balkon in HOFRUHELAGE! Hopfengasse!","Wien, 21. Bezirk, Floridsdorf",1210,799,2,41,Wien,Wien,0.71,4,Wohnung,2025-04-11T16:06:00Z,799.0,N/A
 937224809,2 - Zimmer Wohnung zur Miete in Neustift am Walde - Erstbezug,"Wien, 19. Bezirk, Döbling",1190,1200,2,57,Wien,Wien,1.0,1,Wohnung,2025-04-11T16:04:00Z,1200.0,N/A
 1879916577,Luxuriöse 3Zi Wohnung im schönen 4. Bezirk mit Balkon,"Wien, 04. Bezirk, Wieden",1040,1930,3,70,Wien,Wien,1.0,5,Wohnung,2025-04-11T16:03:00Z,1930.0,Petzvalgasse 4
@@ -79,10 +80,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1356978502,FLAIR in the City - Sonnige Wohnung nahe S-Bahn Atzgersdorf mit Abstellraum und großem Balkon! Ab April 2025 - JETZT ANFRAGEN,"Wien, 23. Bezirk, Liesing",1230,914.75,2,44,Wien,Wien,1.0,3,Wohnung,2025-04-11T13:47:00Z,914.75,Scherbangasse 3
 2049426922,Moderne 2 Zimmer Wohnung mit Loggia und vielen Annehmlichkeiten direkt im Wohnhaus!,"Wien, 22. Bezirk, Donaustadt",1220,1349.27,2,52,Wien,Wien,1.0,12,Wohnung,2025-04-11T13:46:00Z,1349.27,Doktor-Adolf-Schärf-Platz
 1739641228,ZWEITBEZUG - Ideale 2 Zimmer Neubauwohnung,"Wien, 10. Bezirk, Favoriten",1100,949,2,50,Wien,Wien,1.0,2,Wohnung,2025-04-11T13:46:00Z,949.0,Knöllgasse
-1571388983,"Charmante, sanierte helle 2-Zimmer Wohnung","Wien, 09. Bezirk, Alsergrund",1090,925,2,47,Wien,Wien,1.0,3,Wohnung,2025-04-11T13:42:00Z,925.0,Lazarettgasse 9
-2077715935,"1100 Wien - U1 Nähe Keplerplatz - Parkblick - Sonnige, helle geräumige Neubauwohnung","Wien, 10. Bezirk, Favoriten",1100,949,2,47,Wien,Wien,1.0,4,Wohnung,2025-04-11T13:40:00Z,949.0,Erlachplatz 2
-1299888990,Saniert *** Nähe U4 / U6 II Terrassen- und Gartenwohnung II 3 Zimmer mit separater Küche II beim Gaudenzdorfer Gürtel,"Wien, 12. Bezirk, Meidling",1120,1334.79,3,85,Wien,Wien,1.0,0,Wohnung,2025-04-11T13:38:00Z,1334.79,N/A
-2007878421,Moderne Pärchenwohnung mit Balkon,"Wien, 11. Bezirk, Simmering",1110,940.53,2,56,Wien,Wien,0.67,N/A,Wohnung,2025-04-11T13:36:00Z,940.53,N/A
 1808038206,"Das Projekt ""ASG IV"" in der Anton-Scharff-Gasse","Wien, 12. Bezirk, Meidling",1120,878.17,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-11T12:25:00Z,N/A,N/A
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-09T21:41:00Z,N/A,N/A
 621864742,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE SEESTADT,"Wien, 22. Bezirk, Donaustadt",1220,871.77,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-09T12:25:00Z,N/A,Rosthorngasse
@@ -91,6 +88,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1289531621,SONNWEND - LIVING! ERSTBEZUG - KÜCHE - KLIMA - BESCHATTUNG - U1 NÄHE!,"Wien, 10. Bezirk, Favoriten",1100,749,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-09T10:45:00Z,N/A,N/A
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,699.71,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-09T03:59:00Z,N/A,Leopoldauer Straße
 2054887708,Belview - Erstklassige Wohnqualität mit Wohlfühlfaktor beim Schloss Belvedere - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,1029.78,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-09T02:53:00Z,N/A,Arsenalstraße 8
+1916354923,Unbefristete Neubauwohnung in Gehweite des Bahnhof Penzing - Ruhige Seitengasse der Linzer Straße! Ab Mai 2025! - JETZT ZUSCHLAGEN,"Wien, 14. Bezirk, Penzing",1140,898.68,2,42,Wien,Wien,1.0,3,Wohnung,2025-04-13T13:34:00Z,898.68,Lenneisgasse 3-5
 1328864363,Ruhige 2 Zimmer Neubauwohnung,"Wien, 20. Bezirk, Brigittenau",1200,820,2,55,Wien,Wien,1.0,1. Stock,Wohnung,2025-04-13T13:18:00Z,820.0,Denisgasse
 1607404183,"Helle 3 Zimmer-Wohnung in Peter-Jordan-Straße, 82 m2, Erstbezug nach Generalsanierung","Wien, 19. Bezirk, Döbling",1190,1690,3,82,Wien,Wien,0.0,2,Wohnung,2025-04-13T13:17:00Z,1690.0,N/A
 1119144123,3 Zimmer Gemeindewohnung,"Wien, 14. Bezirk, Penzing",1140,784,3,79,Wien,Wien,1.0,8,Wohnung,2025-04-13T13:15:00Z,784.0,"Rottstraße, 3"
@@ -490,4 +488,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1348210486,nahe Burggarten- schöne 3 Zimmer-Altbau I 5 Jahre befristet,"Wien, 01. Bezirk, Innere Stadt",1010,2288.7,3,101,Wien,Wien,1.0,1,Wohnung,2025-04-11T16:17:00Z,2288.7,"Schillerplatz, Burggarten"
 1873255519,Wunderschöne 2 Zimmer Neubauwohnung mit ca. 10m² Balkon! Absolute Ruhelange!,"Wien, 21. Bezirk, Floridsdorf",1210,949.96,2,48,Wien,Wien,1.0,5,Wohnung,2025-04-11T16:15:00Z,949.96,Selma-Steinmetz-Gasse 6
 807004762,Linzer Straße - Neubaugarconniere mit Wohnküche,"Wien, 14. Bezirk, Penzing",1140,582.22,1,33,Wien,Wien,1.0,1,Wohnung,2025-04-11T16:15:00Z,582.22,N/A
-1098249383,"Helle Wohnung, 1 Schlafzimmer,1 Arbeitzszimmer und 1 wohnzimmer möbliert, im 16. Bezi","Wien, 16. Bezirk, Ottakring",1160,900,3,55,Wien,Wien,0.95,2,Wohnung,2025-04-11T16:08:00Z,900.0,Abrechtskreithgasse17
