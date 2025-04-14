@@ -40,7 +40,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1518743472,Neuer Preis! BESTLAGE hinter der Karlskirche! Prunkvolles und prestigträchtiges Altbauhaus! WG geeignete Mietwohnung im letzten Liftstock + Beste Infrastruktur und Anbindung!,"Wien, 04. Bezirk, Wieden",1040,3249.8,4,144,Wien,Wien,1.0,6,Wohnung,2025-04-13T03:27:00Z,3249.8,Maderstraße
 1115706955,BESTE LAGE - 100M ZUR MARIAHILFER STRAßE - FREI AB 01.01.2026,"Wien, 06. Bezirk, Mariahilf",1060,2420,4,97,Wien,Wien,0.67,1,Wohnung,2025-04-13T03:22:00Z,2420.0,N/A
 1418797633,FLORIDSDORFER SPITZ: Freundliches 1-Zimmer Appartement,"Wien, 21. Bezirk, Floridsdorf",1210,500,1,34,Wien,Wien,1.0,2,Wohnung,2025-04-13T03:22:00Z,500.0,N/A
-1174202027,Neubauwohnung nahe U1 Kagraner Platz - Ideal für Zwei,"Wien, 22. Bezirk, Donaustadt",1220,889,2,44,Wien,Wien,1.0,8,Wohnung,2025-04-13T00:37:00Z,889.0,Bertha-von-Suttner-Gasse 10A
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,1379.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-12T04:23:00Z,N/A,Wagramer Straße
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1195,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-11T11:26:00Z,N/A,N/A
 1208697997,"Bertha-von-Suttner-Gasse 10, 1220 Wien / K2+K3","Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-11T08:44:00Z,N/A,Bertha-von-Suttner-Gasse 10
@@ -251,6 +250,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1040825632,++ EINMALIGE GELEGENHEIT ++ KAHLENBERGER STRASSE,"Wien, 19. Bezirk, Döbling",1190,2499,4,140,Wien,Wien,1.0,N/A,Wohnung,2025-04-13T11:54:00Z,2499.0,N/A
 1115205754,"""Provisionsfrei für den Mieter"" 2-Zimmerwohnung mit Balkon nahe Margaretengürtel","Wien, 05. Bezirk, Margareten",1050,875,2,46,Wien,Wien,1.0,5,Wohnung,2025-04-13T11:54:00Z,875.0,Einsiedlergasse
 1503902639,Moderne 2-Zimmer-Wohnung in 1220 Wien - Stadlau | Balkon & Top-Anbindung!,"Wien, 22. Bezirk, Donaustadt",1220,666.4,2,35,Wien,Wien,1.0,4,Wohnung,2025-04-13T11:42:00Z,666.4,Am Bahnhof 1-3
+2014379625,Ein Zuhause zum Verlieben - Nähe Stadtpark,"Wien, 03. Bezirk, Landstraße",1030,2212.42,3,106,Wien,Wien,1.0,1,Wohnung,2025-04-15T00:39:00Z,2212.42,Ölzeltgasse
 1884015687,Exclusive fully furnished apartment near U1Donauinsel & VIC | Living at the highest level | Pool & Gym 49 m² 2 Zimmer Balkon,"Wien, 02. Bezirk, Leopoldstadt",1020,1998,2,49,Wien,Wien,0.0,6,Wohnung,2025-04-14T21:43:00Z,1998.0,N/A
 777236581,SEHR CHARMANTE 3-ZIMMER WOHNUNG MIT BALKON IN SEHR GUTER LAGE - GARAGE OPTIONAL,"Wien, 10. Bezirk, Favoriten",1100,1049.91,3,80,Wien,Wien,1.0,3,Wohnung,2025-04-14T21:40:00Z,1049.91,N/A
 1474779684,Urbanes Wohnen mit Top-Ausstattung: Moderne 2-Zimmer-Wohnung mit Loggia,"Wien, 22. Bezirk, Donaustadt",1220,799,2,50,Wien,Wien,1.0,1,Wohnung,2025-04-14T21:40:00Z,799.0,Erzherzog-Karl-Straße
@@ -357,7 +357,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1339533006,"Traumblick über den Dächern Wiens, wenige Schritte zur Prater Hauptallee, U1 & Innenstadt, saniert","Wien, 02. Bezirk, Leopoldstadt",1020,1150,2,55,Wien,Wien,1.0,6,Wohnung,2025-04-14T16:31:00Z,1150.0,Franzensbrückenstraße 17
 1422276217,Geräumige 2-Zimmer Wohnung inkl. Einbauküche und Freifläche - ab sofort verfügbar!,"Wien, 10. Bezirk, Favoriten",1100,958.87,2,53,Wien,Wien,1.0,1,Wohnung,2025-04-14T16:27:00Z,958.87,Czeikestraße 4
 1258680952,WOHNEN IN MARIAHLIF: Modern möblierte 2-Zimmer Gartenwohnung bei der Mariahilfer Straße,"Wien, 06. Bezirk, Mariahilf",1060,2018.31,2,59,Wien,Wien,1.0,0,Wohnung,2025-04-14T16:27:00Z,2018.31,N/A
-848478806,MIETWOHNUNG - Entzückende 3-Zimmer Wohnung - Nähe AUGARTEN - Innstraße-Dresdner Straße! ERSTBEZUG nach Kernsanierung!,"Wien, 20. Bezirk, Brigittenau",1200,1070.85,3,97,Wien,Wien,1.0,0,Wohnung,2025-04-14T16:27:00Z,1070.85,N/A
 942261023,++Spenger42++ Perfekte 4-Zimmer-Penthouse in TOPLAGE - Wärmepumpe/Klimaanlage,"Wien, 05. Bezirk, Margareten",1050,3299,4,114,Wien,Wien,1.0,7,Wohnung,2025-04-14T16:27:00Z,3299.0,N/A
 1940601594,"++1050++ Wohntraum in Margareten, exklusive 4-Zimmer PENTHOUSE Wohnung in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,2999,4,100,Wien,Wien,1.0,7,Wohnung,2025-04-14T16:27:00Z,2999.0,N/A
 819207944,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1648.99,2,58,Wien,Wien,1.0,5,Wohnung,2025-04-14T16:27:00Z,1648.99,N/A
