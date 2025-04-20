@@ -10,8 +10,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1064706179,Nähe DONAUINSEL & HANDELSKAI - Hinreißende 2 Zimmerwohnung mit Balkon,"Wien, 20. Bezirk, Brigittenau",1200,899,2,50,Wien,Wien,1.0,5,Wohnung,2025-04-20T03:08:00Z,899.0,Marchfeldstraße 25
 2107401764,Balkon | Fußbodenheizung | Garten,"Wien, 21. Bezirk, Floridsdorf",1210,999,2,57,Wien,Wien,1.0,1,Wohnung,2025-04-20T03:04:00Z,999.0,N/A
 1406647643,"PROVISIONSFREI - 1160, Hettenkofergasse -Moderne 2-Zimmerwohnung","Wien, 16. Bezirk, Ottakring",1160,1100,2,70,Wien,Wien,0.67,N/A,Wohnung,2025-04-20T02:24:00Z,1100.0,N/A
-1219761202,Schönbrunn | Altbau | Erdgeschoß,"Wien, 12. Bezirk, Meidling",1120,701.56,3,56,Wien,Wien,1.0,N/A,Wohnung,2025-04-20T00:38:00Z,701.56,N/A
 1199721243,Wohnen wie im eigenen Haus mit Garten! 3 Zimmer + verbaute Loggia + 2 Bäder + 2 WCs - in 1140 Wien - großzügige Mietetage im Schenkweg,"Wien, 14. Bezirk, Penzing",1140,1642,3,113,Wien,Wien,1.0,1,Wohnung,2025-04-20T00:38:00Z,1642.0,Schenkweg
+1219761202,Schönbrunn | Altbau | Erdgeschoß,"Wien, 12. Bezirk, Meidling",1120,701.56,3,56,Wien,Wien,1.0,N/A,Wohnung,2025-04-20T00:38:00Z,701.56,N/A
 2063147240,Exklusive 2-Zimmer-Wohnung im Triiiple Tower - Leben über den Dächern Wiens,"Wien, 03. Bezirk, Landstraße",1030,1990,2,56,Wien,Wien,1.0,20,Wohnung,2025-04-20T00:05:00Z,1990.0,Schnirchgasse 11
 1195897642,"Möblierte, helle 2-Zimmer-Wohnung in 1230 Wien","Wien, 23. Bezirk, Liesing",1230,1550,2,65,Wien,Wien,1.0,3,Wohnung,2025-04-19T23:52:00Z,1550.0,Erlaaerplatz 6
 1091182865,Gemeinde Wohnung mit Direckt Vergabe Wohnticket Stichtag 31.05.2024,"Wien, 21. Bezirk, Floridsdorf",1210,578,3,66,Wien,Wien,1.0,3,Wohnung,2025-04-19T22:36:00Z,578.0,Bellgasse 35
@@ -350,9 +350,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1211475129,Nette-2-Zimmer-Wohnung,"Wien, 19. Bezirk, Döbling",1190,955.25,2,47,Wien,Wien,1.0,N/A,Wohnung,2025-04-18T06:48:00Z,955.25,Aslangasse 14
 1889087703,Erstbezug nach Sanierung: Moderne 3-Zimmer-Wohnung im Grünen (unbefristet),"Wien, 12. Bezirk, Meidling",1120,987.61,3,64,Wien,Wien,1.0,4,Wohnung,2025-04-18T06:48:00Z,987.61,Belghofergasse 43
 1407642259,"9, Nähe BG9- Gymnasium Wasagasse: Exklusive Altbauwohnung im wunderschönen sanierten Biedermeier Zinshaus:","Wien, 09. Bezirk, Alsergrund",1090,1450,3,75,Wien,Wien,1.0,N/A,Wohnung,2025-04-18T06:24:00Z,1450.0,N/A
-1187985828,"Neubau mit 15m2 Balkon direkt am Park am Hundsturm & Ubahn, geräumige 2 Zimmer, 72m2, 6. Liftstock","Wien, 05. Bezirk, Margareten",1050,1410,2,70,Wien,Wien,1.0,9,Wohnung,2025-04-18T05:29:00Z,1410.0,Am Hundsturm 5
-1977644275,Frisch renovierte 3 Zimmer Wohnung im 9. Bezirk mit Aufzug. Viele Tramvai Linien in der Nähe,"Wien, 09. Bezirk, Alsergrund",1090,1970,3,80,Wien,Wien,1.0,5,Wohnung,2025-04-18T05:19:00Z,1970.0,Marktgasse 6
-1268598270,"Wunderschön sanierte 2 Zimmer Altbauwohnung im 3ten Bezirk, Nähe U-Bahn U3, Donaukanal & Prater","Wien, 03. Bezirk, Landstraße",1030,1150,2,46,Wien,Wien,1.0,8,Wohnung,2025-04-18T05:14:00Z,1150.0,Schlachthausgasse 14
 1209898785,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1029.78,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-17T11:58:00Z,N/A,Arsenalstraße 8
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-16T21:41:00Z,N/A,N/A
 1995450227,Erstbezug: 2-Zimmer-Wohnungen in Grünruhelage - SOFORT in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,798.99,0,N/A,Wien,Wien,0.71,N/A,N/A,2025-04-16T13:27:00Z,N/A,N/A
@@ -371,7 +368,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1750364277,Neubauprojekt in der Welingergasse,"Wien, 23. Bezirk, Liesing",1230,999.9,0,N/A,Wien,Wien,0.72,N/A,N/A,2025-04-14T16:13:00Z,N/A,N/A
 1198095429,Topsanierte 2 Zimmeraltbau Wohnung Nähe Spitz und Donauinsel,"Wien, 21. Bezirk, Floridsdorf",1210,828.53,2,66,Wien,Wien,1.0,1,Wohnung,2025-04-18T19:57:00Z,828.53,Pichelwangergasse 25
 1150098439,"Traumhafte, lichtdurchflutete Altbauwohnung Lange Gasse / Josefstädter Straße","Wien, 08. Bezirk, Josefstadt",1080,1646.79,2,85,Wien,Wien,0.0,2,Wohnung,2025-04-18T19:55:00Z,1646.79,N/A
-1946782309,"4-Zi Mauer/ Rodaun, in unmittelbarer Nähe des Liesingbaches","Wien, 23. Bezirk, Liesing",1230,2099,4,98,Wien,Wien,0.0,1,Wohnung,2025-04-18T19:38:00Z,2099.0,N/A
+1946782309,"4-Zi Mauer/ Rodaun, in unmittelbarer Nähe des Liesingbaches","Wien, 23. Bezirk, Liesing",1230,1999,4,98,Wien,Wien,0.0,1,Wohnung,2025-04-18T19:38:00Z,1999.0,N/A
 1289304050,"Erstvermietung 39m² Wohnung, 1150 Wien und 300m² Garten","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,836,2,39,Wien,Wien,1.0,N/A,Wohnung,2025-04-18T19:35:00Z,836.0,Nobilegasse
 1200606966,"++NEU++ Einzigartige Wohnung, BESTLAGE, 3-Zimmer Zweitbezug mit Balkon - ab 01.05.2025","Wien, 09. Bezirk, Alsergrund",1090,2199,3,71,Wien,Wien,1.0,5,Wohnung,2025-04-18T19:33:00Z,2199.0,N/A
 2067786301,Wunderschön sanierte 4 Zimmer Altbau-Mietwohnung - mit BALKON - 1 Gehminute zur U4 - 1140 Wien,"Wien, 14. Bezirk, Penzing",1140,2766.91,4,109,Wien,Wien,1.0,3,Wohnung,2025-04-18T19:32:00Z,2766.91,N/A
