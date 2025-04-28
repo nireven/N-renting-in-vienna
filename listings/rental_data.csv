@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+955077833,Helle und günstige 1-Zimmer Wohnung,"Wien, 20. Bezirk, Brigittenau",1200,482.9,1,35,Wien,Wien,1.0,3,Wohnung,2025-04-26T20:58:00Z,482.9,Karajangasse 13
+1810466483,FRANZ JOSEPH - RUHIGER WOHNTRAUM IM TRENDIGEN SONNWENDVIERTEL!,"Wien, 10. Bezirk, Favoriten",1100,1050,2,49,Wien,Wien,1.0,5,Wohnung,2025-04-26T20:34:00Z,1050.0,Bloch Bauer Promenade 10
 1576770241,FRANZ JOSEPH - RUHIGER WOHNTRAUM IM TRENDIGEN SONNWENDVIERTEL!,"Wien, 10. Bezirk, Favoriten",1100,960,2,41,Wien,Wien,1.0,1,Wohnung,2025-04-26T20:34:00Z,960.0,Bloch Bauer Promenade 10
 1408696159,Voll ausgestattetes Apartment auf Zeit - All-in-Miete für 4 Monate,"Wien, 09. Bezirk, Alsergrund",1090,1000.01,0,42,Wien,Wien,1.0,N/A,Wohnung,2025-04-26T20:34:00Z,1000.01,Liechtensteinstraße
 1205371656,Naturnahes Wohnen am Spindlerweg 3 & 5 - Top 1.13,"Wien, 22. Bezirk, Donaustadt",1220,1200,3,68,Wien,Wien,1.0,N/A,Wohnung,2025-04-26T20:31:00Z,1200.0,Spindlerweg 3
@@ -139,7 +141,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1137310939,2-Zimmer Wohnung mit Balkon im TrIIIple Living! Pool am Dach,"Wien, 03. Bezirk, Landstraße",1030,1400.99,2,57,Wien,Wien,1.0,6,Wohnung,2025-04-26T08:26:00Z,1400.99,N/A
 1340274204,*HOCHWERTIG + MODERN* DESIGNERWOHNUNG IN BESTLAGE,"Wien, 08. Bezirk, Josefstadt",1080,1299,2,59,Wien,Wien,1.0,2,Wohnung,2025-04-26T08:25:00Z,1299.0,N/A
 1416707045,3-Zimmer-Wohnung Marchfeldstr. 6 - Stiege 1 Top 14,"Wien, 20. Bezirk, Brigittenau",1200,1171.71,3,64,Wien,Wien,1.0,4,Wohnung,2025-04-26T08:22:00Z,1171.71,N/A
-1986600133,(reserviert) Gut geschnittene 35m² Wohnung in Top-Lage,"Wien, 20. Bezirk, Brigittenau",1200,540,1,35,Wien,Wien,1.0,EG,Wohnung,2025-04-26T08:17:00Z,540.0,Staudingergasse
 2096489516,"Ruhe, Natur und Komfort in Mauer: Fußbodenheizung. S-Balkon. Komplettsanierung. Anpassbare Küche.","Wien, 23. Bezirk, Liesing",1230,1500,3,68,Wien,Wien,0.0,1,Wohnung,2025-04-26T08:16:00Z,1500.0,N/A
 1858594623,"Möblierte Wohnung mit Balkon in Bestlage - Krugerstraße, 1010 Wien","Wien, 01. Bezirk, Innere Stadt",1010,1300,1,51,Wien,Wien,1.0,N/A,Wohnung,2025-04-26T08:10:00Z,1300.0,Krugerstraße 9
 1770133314,Luxuriöse Wohnung mit großem Balkon in top Lage! Die Freizeit beginnt vor der Türe und die U1 ist auch da!,"Wien, 22. Bezirk, Donaustadt",1220,1999.98,3,73,Wien,Wien,1.0,4,Wohnung,2025-04-26T07:55:00Z,1999.98,Wagramer Straße 2A
@@ -157,11 +158,12 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1894052234,Singlewohnung in Stammersdorf,"Wien, 21. Bezirk, Floridsdorf",1210,583.11,1,47,Wien,Wien,1.0,2,Wohnung,2025-04-26T06:48:00Z,583.11,Brünner Straße 261
 2011070736,"DANUBEFLATS: Erstbezug mit Top-Aublick, großem Balkon, Gym, Sauna, Pool, Lounges, Supermarkt im Haus","Wien, 22. Bezirk, Donaustadt",1220,1599.13,2,49,Wien,Wien,1.0,26,Wohnung,2025-04-26T06:28:00Z,1599.13,N/A
 1329573970,Schöne 2-Zimmer-Wohnung nahe Schmelz - ideal für Paare oder Studenten,"Wien, 16. Bezirk, Ottakring",1160,980,2,60,Wien,Wien,1.0,1,Wohnung,2025-04-26T06:19:00Z,980.0,Koppstraße 69
-1994574632,"Attraktive 3-Zimmerparkwohnung am Danneberplatz - Erstbezug, unbefristet (!)","Wien, 03. Bezirk, Landstraße",1030,3035.99,3,134,Wien,Wien,1.0,3,Wohnung,2025-04-26T06:04:00Z,3035.99,Dannebergplatz 19
 621864742,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE SEESTADT,"Wien, 22. Bezirk, Donaustadt",1220,871.77,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-23T12:25:00Z,N/A,Rosthorngasse
 725524970,| DANUBE HORIZON | NEUBAUPROJEKT | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE | ERSTBEZUG |,"Wien, 22. Bezirk, Donaustadt",1220,825,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-23T12:05:00Z,N/A,Effenbergplatz
 1289531621,SONNWEND - LIVING! ERSTBEZUG - KÜCHE - KLIMA - BESCHATTUNG - U1 NÄHE!,"Wien, 10. Bezirk, Favoriten",1100,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-23T10:45:00Z,N/A,N/A
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,703.31,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-23T03:59:00Z,N/A,Leopoldauer Straße
+1630140815,KOMPAKTES WOHNEN NÄHE U4! Gfrornergasse 5 Top 5,"Wien, 06. Bezirk, Mariahilf",1060,637.98,1,33,Wien,Wien,1.0,1,Wohnung,2025-04-28T06:16:00Z,637.98,N/A
+1349322279,1-Zimmer // Neubau - Erstbezug - 3min zur U1 Kagraner Platz,"Wien, 22. Bezirk, Donaustadt",1220,968.04,1,48,Wien,Wien,1.0,1,Wohnung,2025-04-28T06:13:00Z,968.04,Donaufelder Straße 230
 1368030718,Exklusive Gartenwohnung in Pötzleinsdorf,"Wien, 18. Bezirk, Währing",1180,3417,4,121,Wien,Wien,1.0,N/A,Wohnung,2025-04-28T05:37:00Z,3417.0,N/A
 1634470627,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,910.77,2,58,Wien,Wien,1.0,0,Wohnung,2025-04-28T03:19:00Z,910.77,Anni-Haider-Weg
 1525161954,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,883.15,2,58,Wien,Wien,1.0,1,Wohnung,2025-04-28T03:19:00Z,883.15,Anni-Haider-Weg
@@ -360,5 +362,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1447253706,Hochwertig Wohnen im neuen Stadtviertel an der Lände,"Wien, 03. Bezirk, Landstraße",1030,1190.01,3,53,Wien,Wien,1.0,9,Wohnung,2025-04-26T21:31:00Z,1190.01,Erdberger Lände 36
 1328679504,UNBEFRISTETE 3 Zimmer Altbauwohnung mit Garten Mitbenützung!,"Wien, 14. Bezirk, Penzing",1140,1098.55,3,83,Wien,Wien,1.0,2 ohneLift,Wohnung,2025-04-26T21:25:00Z,1098.55,Linzerstraße
 2038593902,WG-Zimmer direkt neben der U2-Station Hardeggasse in 62m²-großer 2er WG (Neubau)!,"Wien, 22. Bezirk, Donaustadt",1220,575,1,62,Wien,Wien,1.0,3,Wohnung,2025-04-26T21:04:00Z,575.0,Langobardenstraße 51
-955077833,Helle und günstige 1-Zimmer Wohnung,"Wien, 20. Bezirk, Brigittenau",1200,482.9,1,35,Wien,Wien,1.0,3,Wohnung,2025-04-26T20:58:00Z,482.9,Karajangasse 13
-1810466483,FRANZ JOSEPH - RUHIGER WOHNTRAUM IM TRENDIGEN SONNWENDVIERTEL!,"Wien, 10. Bezirk, Favoriten",1100,1050,2,49,Wien,Wien,1.0,5,Wohnung,2025-04-26T20:34:00Z,1050.0,Bloch Bauer Promenade 10
