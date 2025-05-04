@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1140625470,"ENTZÜCKENDE, helle 3-Zimmer-Wohnung in 1130 Toplage sucht neue Mieter!","Wien, 13. Bezirk, Hietzing",1130,1180,3,60,Wien,Wien,0.0,3,Wohnung,2025-05-02T13:24:00Z,1180.0,Seuttergasse
 1875321486,Hofseitige 2-Zimmer Wohnung mit Balkon in 1230 Wien zu mieten,"Wien, 23. Bezirk, Liesing",1230,969.21,2,52,Wien,Wien,0.72,1,Wohnung,2025-05-02T13:19:00Z,969.21,N/A
 1510650949,BelView Apartments: westseitige und großzügige 2-Zimmer-Wohnung mit Balkon im 13. OG zu mieten in 1100 Wien,"Wien, 10. Bezirk, Favoriten",1100,1249,2,52,Wien,Wien,0.9,13,Wohnung,2025-05-02T13:19:00Z,1249.0,N/A
 999604625,Erstbezug: große 4-Zimmer Balkonwohnung am Schwendermarkt,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1739.69,4,126,Wien,Wien,1.0,3,Wohnung,2025-05-02T13:17:00Z,1739.69,N/A
@@ -36,14 +37,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 797398992,Gemütliche 3-Zimmer Wohnung mit Balkon/Loggia in Ottakring!,"Wien, 16. Bezirk, Ottakring",1160,1299,3,64,Wien,Wien,1.0,4,Wohnung,2025-05-02T12:56:00Z,1299.0,Lorenz-Mandl-Gasse
 1109759459,3-Zimmer Neubauwohnung mit Balkon,"Wien, 23. Bezirk, Liesing",1230,1499.91,3,79,Wien,Wien,0.72,N/A,Wohnung,2025-05-02T12:56:00Z,1499.91,N/A
 1036375891,Neubauprojekt | 3-Zimmerwohnung mit Loggia,"Wien, 23. Bezirk, Liesing",1230,1499.91,3,79,Wien,Wien,0.72,N/A,Wohnung,2025-05-02T12:56:00Z,1499.91,N/A
-1576273304,Frisch sanierte 2 Zimmerwohnung in der Hubergasse 10,"Wien, 16. Bezirk, Ottakring",1160,912.16,2,72,Wien,Wien,0.67,N/A,Wohnung,2025-05-02T12:55:00Z,912.16,N/A
-1503838834,"4Zi Altbautraum im Zentrum von Wien, Adlerhof liegt fußläufig von der Innenstadt, frisch saniert.","Wien, 07. Bezirk, Neubau",1070,2460,4,115,Wien,Wien,1.0,6,Wohnung,2025-05-02T12:54:00Z,2460.0,Burggasse 51
-2056547783,"Moderne 3-Zimmer-Wohnung in 1100 Wien - Neu Saniert, inkl. neuer Küche und Bad! Betriebskosten in der Miete enthalten.","Wien, 10. Bezirk, Favoriten",1100,1490,3,73,Wien,Wien,1.0,N/A,Wohnung,2025-05-02T12:54:00Z,1490.0,N/A
-1038687398,Online-Terminbuchung: Hochwertige 2-Zimmer-Nebauwohnung im 1. OG | Gemeinschaftsgarten | Nähe U3 & Wilhelminenberg,"Wien, 16. Bezirk, Ottakring",1160,949,2,46,Wien,Wien,1.0,1,Wohnung,2025-05-02T12:52:00Z,949.0,Lienfeldergasse 36
-864799116,"Altbau 3 Zi mit Freifläche im schönen 4. Bezirk, Nähe Hauptbahnhof und Karlsplatz","Wien, 04. Bezirk, Wieden",1040,2400,3,83,Wien,Wien,1.0,5,Wohnung,2025-05-02T12:48:00Z,2400.0,Viktorgasse 12
-1643714114,"Lichtdurchflutete, neu möblierte 2-Zimmer-Altbauwohnung - Nähe Mariahilfer Straße","Wien, 06. Bezirk, Mariahilf",1060,1350.71,2,53,Wien,Wien,1.0,3,Wohnung,2025-05-02T12:46:00Z,1350.71,Esterházygasse 28
-1276741989,"3 ZI-WOHNUNG IN WIEN - 16. BEZIRK - OTTAKRING, MÖBLIERT, AUF ZEIT","Wien, 16. Bezirk, Ottakring",1160,2438,3,100,Wien,Wien,0.67,5,Wohnung,2025-05-02T12:46:00Z,2438.0,N/A
-921246188,"Möblierte 4Zimmer-Gartenwohnung Nähe U1 Kagran, Furnished Apartment close to U1 Kagran","Wien, 22. Bezirk, Donaustadt",1220,2300,4,110,Wien,Wien,1.0,N/A,Wohnung,2025-05-02T12:44:00Z,2300.0,Tokiostrasse
 1808038206,"Das Projekt ""ASG IV"" in der Anton-Scharff-Gasse","Wien, 12. Bezirk, Meidling",1120,878.17,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-02T12:25:00Z,N/A,N/A
 1209898785,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1029.78,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-01T11:58:00Z,N/A,Arsenalstraße 8
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-30T21:41:00Z,N/A,N/A
@@ -62,6 +55,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 914095833,"Exklusive Neubauwohnungen in zentraler Lage - Ideal gelegen zwischen SCN, Lorettowiese und einer ausgezeichneten Infrastruktur!","Wien, 21. Bezirk, Floridsdorf",1210,748,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-28T14:24:00Z,N/A,Prager Straße 105 109
 1802586627,"Moderne Neubauwohnungen nahe SCN, Lorettowiese und toller Infrastruktur - Straßenbahn 26 und S-Bahn Jedlersdorf in Gehweite! Küche inklusive. - WOHNTRAUM","Wien, 21. Bezirk, Floridsdorf",1210,840.97,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-28T14:24:00Z,N/A,Prager Straße 105 109
 973391654,"LEO 131 - hochwertige Neubauwohnungen mit Anbindung zu U6, S-Bahn und U1 in Leopoldau mit inkludierter Küche - JETZT ANFRAGEN","Wien, 21. Bezirk, Floridsdorf",1210,703.31,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-04-28T13:44:00Z,N/A,Leopoldauer Straße 131
+1058613176,Wohnkonzept zum Wohlfühlen in der Inneren Stadt - Rudolfsplatz,"Wien, 01. Bezirk, Innere Stadt",1010,1596.01,3,59,Wien,Wien,1.0,3,Wohnung,2025-05-04T12:57:00Z,1596.01,Rudolfsplatz
 1895075354,ENTZÜCKENDE GARÇONNIERE IN BAUMGARTEN,"Wien, 14. Bezirk, Penzing",1140,683.27,1,41,Wien,Wien,1.0,3,Wohnung,2025-05-04T12:34:00Z,683.27,Linzer Strasse
 981469582,"Exklusive, sehr helle und ruhige 2-Zimmerwohung in Top-Lage, Neubau, Erstbezug","Wien, 20. Bezirk, Brigittenau",1200,1248,2,46,Wien,Wien,1.0,1,Wohnung,2025-05-04T12:19:00Z,1248.0,Brigittagasse 15
 869601323,Luxury City Center Apartment with Hotel Amenities,"Wien, 01. Bezirk, Innere Stadt",1010,6900,3,73,Wien,Wien,1.0,N/A,Wohnung,2025-05-04T12:14:00Z,6900.0,N/A
@@ -461,4 +455,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1668129602,"Moderne Provisionsfreie Häuser und Wohnungen mit großzügigen Terrassen, hochwertiger Ausstattung und Stellplätzen","Wien, 14. Bezirk, Penzing",1140,3630,3,154,Wien,Wien,1.0,N/A,Wohnung,2025-05-02T13:27:00Z,3630.0,N/A
 1498675728,"LEO 131 - Gartentraum nahe Bahnhof, Siemens und Grünflächen!","Wien, 21. Bezirk, Floridsdorf",1210,879.5,2,42,Wien,Wien,1.0,0,Wohnung,2025-05-02T13:26:00Z,879.5,Leopoldauer Straße 131
 841055978,"Moderne Provisionsfreie Häuser und Wohnungen mit großzügigen Terrassen, hochwertiger Ausstattung und Stellplätzen","Wien, 14. Bezirk, Penzing",1140,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-02T13:25:00Z,N/A,N/A
-1140625470,"ENTZÜCKENDE, helle 3-Zimmer-Wohnung in 1130 Toplage sucht neue Mieter!","Wien, 13. Bezirk, Hietzing",1130,1180,3,60,Wien,Wien,0.0,3,Wohnung,2025-05-02T13:24:00Z,1180.0,Seuttergasse
