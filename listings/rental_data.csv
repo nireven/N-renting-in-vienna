@@ -15,6 +15,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1750364277,Neubauprojekt in der Welingergasse,"Wien, 23. Bezirk, Liesing",1230,999.9,0,N/A,Wien,Wien,0.72,N/A,N/A,2025-05-05T16:13:00Z,N/A,N/A
 1802586627,"Moderne Neubauwohnungen nahe SCN, Lorettowiese und toller Infrastruktur - Straßenbahn 26 und S-Bahn Jedlersdorf in Gehweite! Küche inklusive. - WOHNTRAUM","Wien, 21. Bezirk, Floridsdorf",1210,825,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-05T14:24:00Z,N/A,Prager Straße 105 109
 1618423767,Projekt APOLLOGASSE18 --- 63 exklusive Wohneinheiten mit Freiflächen (bezugsfertig!),"Wien, 07. Bezirk, Neubau",1070,1450,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-04T03:28:00Z,N/A,Apollogasse
+1195897642,"Möblierte, helle 2-Zimmer-Wohnung in 1230 Wien","Wien, 23. Bezirk, Liesing",1230,1550,2,65,Wien,Wien,1.0,3,Wohnung,2025-05-10T23:52:00Z,1550.0,Erlaaerplatz 6
 1494774539,3 Zimmer Gemeindewohnung mit Loggia NUR 500€ Ablöse!! Direktvergabe Vormerkschein 31.5.24,"Wien, 21. Bezirk, Floridsdorf",1210,862,3,81,Wien,Wien,1.0,N/A,Wohnung,2025-05-10T23:20:00Z,862.0,Jedlersdorfer Straße 99
 1322368878,Singelhit / Pärchenhit in Neubau Provsionsfrei,"Wien, 16. Bezirk, Ottakring",1160,749,2,39,Wien,Wien,1.0,2.Stock,Wohnung,2025-05-10T22:58:00Z,749.0,Wilhelminenstraße 12
 1609483290,"Helle 2-Zimmer Wohnung mit Balkon zu vermieten - Perfekt für Pendler, Singles oder Paare - Top Verkehrsanbindung beim Quartier Belvedere","Wien, 10. Bezirk, Favoriten",1100,985.99,2,47,Wien,Wien,1.0,4,Wohnung,2025-05-10T22:25:00Z,985.99,Arsenalstraße
@@ -214,7 +215,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 933673682,++NEU++ Außergewöhnliche 2-Zimmer Neubau-Wohnung in toller Lage (Erstbezug),"Wien, 16. Bezirk, Ottakring",1160,1150,2,52,Wien,Wien,1.0,4,Wohnung,2025-05-09T18:55:00Z,1150.0,N/A
 1341984592,Erstbezug nach Sanierung - Moderne 2-Zimmer-Wohnung mit getrennter Küche in Top-Lage - JETZT ANFRAGEN,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,1048.9,2,57,Wien,Wien,1.0,2,Wohnung,2025-05-09T18:55:00Z,1048.9,Gebrüder-Lang-Gasse 1
 1396055787,Stadthaus mit Freifläche! - Hofruhelage - Zentrale Anbindung - U3 Nähe! - JETZT ZUSCHLAGEN,"Wien, 03. Bezirk, Landstraße",1030,2498.51,4,113,Wien,Wien,1.0,0,Wohnung,2025-05-09T18:55:00Z,2498.51,Steingasse 28
-1069525126,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1575,2,58,Wien,Wien,1.0,3,Wohnung,2025-05-09T18:44:00Z,1575.0,N/A
+1211280294,Hofseitige 2-Zimmerwohnung mit großer Terrasse! Kühlung! U6 Floridsdorf! AB JUNI,"Wien, 21. Bezirk, Floridsdorf",1210,995.02,2,52,Wien,Wien,1.0,2,Wohnung,2025-05-09T12:56:00Z,995.02,Pius-Parsch-Platz
 1503838834,"4Zi Altbautraum im Zentrum von Wien, Adlerhof liegt fußläufig von der Innenstadt, frisch saniert.","Wien, 07. Bezirk, Neubau",1070,2500,4,115,Wien,Wien,1.0,6,Wohnung,2025-05-09T12:54:00Z,2500.0,Burggasse 51
 2056547783,"Moderne 3-Zimmer-Wohnung in 1100 Wien - Neu Saniert, inkl. neuer Küche und Bad! Betriebskosten in der Miete enthalten.","Wien, 10. Bezirk, Favoriten",1100,1490,3,73,Wien,Wien,1.0,N/A,Wohnung,2025-05-09T12:54:00Z,1490.0,N/A
 1038687398,Online-Terminbuchung: Hochwertige 2-Zimmer-Nebauwohnung im 1. OG | Gemeinschaftsgarten | Nähe U3 & Wilhelminenberg,"Wien, 16. Bezirk, Ottakring",1160,949,2,46,Wien,Wien,1.0,1,Wohnung,2025-05-09T12:52:00Z,949.0,Lienfeldergasse 36
@@ -412,9 +413,9 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2119745128,"Helle, ruhige, klimatisierte Wohnung in ausgezeichneter Lage mit guter öffentlicher Anbindung","Wien, 05. Bezirk, Margareten",1050,1200,2,64,Wien,Wien,1.0,7,Wohnung,2025-05-09T02:13:00Z,1200.0,Fendigasse 16
 1254055810,Aktion - Miete reduziert! Luxury Living! maßgefertigte Tischlerküche! elektrische Rollos! Klima-Vorb! U2!,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,0,Wohnung,2025-05-09T00:38:00Z,899.0,N/A
 1620062736,Ruhige Familienwohnung mit Blick ins Grüne in bester Lage,"Wien, 09. Bezirk, Alsergrund",1090,3289.87,4,140,Wien,Wien,1.0,4,Wohnung,2025-05-09T00:37:00Z,3289.87,N/A
-946384466,3 Zimmer Gemeinde Wohnung,"Wien, 10. Bezirk, Favoriten",1100,764,3,75,Wien,Wien,1.0,8,Wohnung,2025-05-08T23:56:00Z,764.0,Wendstattgasse 15/83
 1209898785,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1029,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-08T11:58:00Z,N/A,Arsenalstraße 8
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T21:41:00Z,N/A,N/A
+1069525126,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1575,2,58,Wien,Wien,1.0,3,Wohnung,2025-05-09T18:44:00Z,1575.0,N/A
 979463962,"++1050++ Wohntraum in Margareten, exklusive 2-Zimmer Wohnung in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1698.99,2,58,Wien,Wien,1.0,6,Wohnung,2025-05-09T18:44:00Z,1698.99,N/A
 965222658,"++1050++ Dream home in Margareten, exclusive 2-room apartment in TOP LOCATION with HEAT PUMP and BALCONY!!!","Wien, 05. Bezirk, Margareten",1050,1298.99,2,50,Wien,Wien,1.0,1,Wohnung,2025-05-09T18:44:00Z,1298.99,N/A
 1827134119,360° TOUR // TERRASSEN ERSTBEZUG WOHNUNG / FIRST LETTING BALCONY APARTMENT,"Wien, 21. Bezirk, Floridsdorf",1210,749.99,1,30,Wien,Wien,1.0,1,Wohnung,2025-05-09T18:39:00Z,749.99,N/A
@@ -614,4 +615,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1801180619,Wohnen in Grünruhelage im Herzen Stammersdorfs - Einbauküche und Freifläche inklusive! - JETZT ZUSCHLAGEN,"Wien, 21. Bezirk, Floridsdorf",1210,849.77,2,50,Wien,Wien,1.0,1,Wohnung,2025-05-09T12:57:00Z,849.77,Stammersdorfer Straße 238
 1109759459,3-Zimmer Neubauwohnung mit Balkon,"Wien, 23. Bezirk, Liesing",1230,1499.91,3,79,Wien,Wien,0.72,N/A,Wohnung,2025-05-09T12:56:00Z,1499.91,N/A
 1036375891,Neubauprojekt | 3-Zimmerwohnung mit Loggia,"Wien, 23. Bezirk, Liesing",1230,1499.91,3,79,Wien,Wien,0.72,N/A,Wohnung,2025-05-09T12:56:00Z,1499.91,N/A
-1211280294,Hofseitige 2-Zimmerwohnung mit großer Terrasse! Kühlung! U6 Floridsdorf! AB JUNI,"Wien, 21. Bezirk, Floridsdorf",1210,995.02,2,52,Wien,Wien,1.0,2,Wohnung,2025-05-09T12:56:00Z,995.02,Pius-Parsch-Platz
