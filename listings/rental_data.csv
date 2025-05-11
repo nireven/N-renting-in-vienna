@@ -1,4 +1,7 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T21:41:00Z,N/A,N/A
+621864742,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE SEESTADT,"Wien, 22. Bezirk, Donaustadt",1220,871.77,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T12:25:00Z,N/A,Rosthorngasse
+725524970,| DANUBE HORIZON | NEUBAUPROJEKT | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE | ERSTBEZUG |,"Wien, 22. Bezirk, Donaustadt",1220,725,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T12:05:00Z,N/A,Effenbergplatz
 1069869140,Hochwertige Mietwohnungen in der Pfalzgasse 29 - Jetzt einziehen!,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T11:42:00Z,N/A,Pfalzgasse 29
 1289531621,SONNWEND - LIVING! ERSTBEZUG - KÜCHE - KLIMA - BESCHATTUNG - U1 NÄHE!,"Wien, 10. Bezirk, Favoriten",1100,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T10:45:00Z,N/A,N/A
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,846.88,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T03:59:00Z,N/A,Leopoldauer Straße
@@ -7,6 +10,10 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1454429805,POG 81 - Hochwertige Wohnungen nahe Gewerbepark Stadlau im ruhigen Neubau-Viertel! - JETZT ZUSCHLAGEN,"Wien, 22. Bezirk, Donaustadt",1220,790,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-06T03:04:00Z,N/A,Pogrelzstraße 81
 1661922315,EFFENBERGPLATZ - WOHNGENUSS NAHE DER DONAU - VIELE EXTRAS ZUM WOHLFÜHLEN. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,725,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-05T17:14:00Z,N/A,Kaisermühlenstraße 8
 1802586627,"Moderne Neubauwohnungen nahe SCN, Lorettowiese und toller Infrastruktur - Straßenbahn 26 und S-Bahn Jedlersdorf in Gehweite! Küche inklusive. - WOHNTRAUM","Wien, 21. Bezirk, Floridsdorf",1210,825,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-05T14:24:00Z,N/A,Prager Straße 105 109
+996180786,"Blick zum Palais Coburg, elegantes Wohnen","Wien, 01. Bezirk, Innere Stadt",1010,1999.37,2,62,Wien,Wien,1.0,7,Wohnung,2025-05-11T13:36:00Z,1999.37,N/A
+2050621314,Haslingergasse | Neubau 2 Zimmer Balkonwohnung mit idealer Aufteilung und Südbalkon,"Wien, 17. Bezirk, Hernals",1170,895.01,2,41,Wien,Wien,1.0,1,Wohnung,2025-05-11T13:35:00Z,895.01,N/A
+1255251255,Grünblick-3-Zimmer-Wohnung mit überdachter Süd-Terrasse,"Wien, 18. Bezirk, Währing",1180,1960.6,3,89,Wien,Wien,1.0,N/A,Wohnung,2025-05-11T13:35:00Z,1960.6,N/A
+1916354923,Unbefristete Neubauwohnung in Gehweite des Bahnhof Penzing - Ruhige Seitengasse der Linzer Straße! - JETZT ZUSCHLAGEN,"Wien, 14. Bezirk, Penzing",1140,898.68,2,42,Wien,Wien,1.0,3,Wohnung,2025-05-11T13:34:00Z,898.68,Lenneisgasse 3-5
 1110428200,3-Zimmer-Wohnung mit Balkon - Hochwertige Ausstattung,"Wien, 16. Bezirk, Ottakring",1160,1406.7,3,70,Wien,Wien,N/A,2,Wohnung,2025-05-11T13:25:00Z,1406.7,Friedrich-Kaiser-Gasse
 1816060285,Charmante 2-Zimmer-Wohnung mit Balkon - Top Lage,"Wien, 03. Bezirk, Landstraße",1030,999,2,50,Wien,Wien,0.0,N/A,Wohnung,2025-05-11T13:13:00Z,999.0,N/A
 1611750334,Stylisches Apartment mit Balkon - nur 5 Min. zum Meidling Bahnhof!,"Wien, 12. Bezirk, Meidling",1120,1150,2,65,Wien,Wien,0.0,N/A,Wohnung,2025-05-11T13:05:00Z,1150.0,N/A
@@ -400,10 +407,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1656158499,Gratis Miete Mai - Leopoldsberg-Blick vom Innenhof-Balkon - Donauzentrum,"Wien, 22. Bezirk, Donaustadt",1220,1490,3,67,Wien,Wien,1.0,6,Wohnung,2025-05-09T13:47:00Z,1490.0,Tokiostraße
 2119431925,"Tolle Neubau-Wohnung mit großem Innenhof-Balkon nahe S-Bahn Jedlersdorf, Straßenbahn 26 und SCN mit Einbauküche und Abstellraum!","Wien, 21. Bezirk, Floridsdorf",1210,840.97,2,46,Wien,Wien,1.0,4,Wohnung,2025-05-09T13:47:00Z,840.97,Prager Straße 105 109
 1739641228,ZWEITBEZUG - Ideale 2 Zimmer Neubauwohnung,"Wien, 10. Bezirk, Favoriten",1100,919,2,50,Wien,Wien,1.0,2,Wohnung,2025-05-09T13:46:00Z,919.0,Knöllgasse
-1521788080,3-Zimmer Altbau Wohnung in bester Lage!,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,911.78,3,79,Wien,Wien,1.0,3,Wohnung,2025-05-09T13:33:00Z,911.78,Märzstraße 5
 1808038206,"Das Projekt ""ASG IV"" in der Anton-Scharff-Gasse","Wien, 12. Bezirk, Meidling",1120,931.22,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-09T12:25:00Z,N/A,N/A
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-09T11:26:00Z,N/A,N/A
 1209898785,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,1029,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-08T11:58:00Z,N/A,Arsenalstraße 8
-950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T21:41:00Z,N/A,N/A
-621864742,| NIEDRIGENERGIEHAUS | IN AUSGEZEICHNETER LAGE | NAHE SEESTADT,"Wien, 22. Bezirk, Donaustadt",1220,871.77,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T12:25:00Z,N/A,Rosthorngasse
-725524970,| DANUBE HORIZON | NEUBAUPROJEKT | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE | ERSTBEZUG |,"Wien, 22. Bezirk, Donaustadt",1220,725,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-07T12:05:00Z,N/A,Effenbergplatz
