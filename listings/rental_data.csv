@@ -1,4 +1,6 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1608529207,| 2-ZIMMER | VERFÜGBAR AB SEPTEMBER | INNENHOF | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE | NACHVERMIETUNG,"Wien, 22. Bezirk, Donaustadt",1220,999,2,47,Wien,Wien,1.0,1,Wohnung,2025-05-17T13:05:00Z,999.0,Effenbergplatz
+2072896903,"Elegante Wohnung mit 2 Zimmern, Terrasse und eigener Sauna - Gartennutzung möglich","Wien, 19. Bezirk, Döbling",1190,950,2,69,Wien,Wien,1.0,N/A,Wohnung,2025-05-17T13:04:00Z,950.0,N/A
 1869917781,Elegante 2-Zimmer-Wohnung mit 2 Schlafzimmer in zentraler Lage! Kurzzeitvermietung!,"Wien, 07. Bezirk, Neubau",1070,980,2,55,Wien,Wien,1.0,1,Wohnung,2025-05-17T12:55:00Z,980.0,Lerchenfelder Gürtel 18
 1725854527,Luxurious 3 room flat with balcony! Danubeview,"Wien, 22. Bezirk, Donaustadt",1220,2199.99,3,73,Wien,Wien,1.0,5,Wohnung,2025-05-17T12:51:00Z,2199.99,Wagramer Straße 2A
 1396673716,| NACHVERMIETUNG | BEZUGSFERTIG AB JULI | 2 ZIMMER | 2. STOCK,"Wien, 21. Bezirk, Floridsdorf",1210,846.88,2,45,Wien,Wien,1.0,2,Wohnung,2025-05-17T12:25:00Z,846.88,Leopoldauer Straße
@@ -150,9 +152,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2029806574,"++1050++ Wohntraum in Margareten, fantastische 2-Zimmer Wohnung mit Balkon in BESTLAGE!","Wien, 05. Bezirk, Margareten",1050,1648.99,2,58,Wien,Wien,1.0,5,Wohnung,2025-05-16T17:57:00Z,1648.99,N/A
 1442303554,Wohnen am Rosenhügel im Wildgarten: 3-Zimmer-Neubau-Wohnung mit Balkon ab Februar,"Wien, 12. Bezirk, Meidling",1120,1062.01,3,61,Wien,Wien,1.0,2,Wohnung,2025-05-16T17:56:00Z,1062.01,Wildgartenallee 23
 852587943,WG-Ready | Lichtdurchflutete 3-Zimmer-Wohnung in Top-Ruhelage!,"Wien, 06. Bezirk, Mariahilf",1060,1395,3,66,Wien,Wien,1.0,3,Wohnung,2025-05-16T17:55:00Z,1395.0,Gfrornergasse
-1098146289,Moderne 2-Zimmer-Wohnung mit Top-Infrastruktur - 5. Stock mit Lift - Nähe Millennium City,"Wien, 20. Bezirk, Brigittenau",1200,950,2,55,Wien,Wien,1.0,5,Wohnung,2025-05-16T17:48:00Z,950.0,Hellwagstrasse 14/3
-1452785011,"Dachgeschoß Wohnung mit 2 Terrassen, Nähe Wien Mitte","Wien, 03. Bezirk, Landstraße",1030,2798.96,3,102,Wien,Wien,0.0,N/A,Wohnung,2025-05-16T17:43:00Z,2798.96,N/A
-1837258810,Penthouse Wohnung neben dem Rathaus,"Wien, 01. Bezirk, Innere Stadt",1010,5334.55,5,217,Wien,Wien,0.73,N/A,Wohnung,2025-05-16T17:42:00Z,5334.55,N/A
 1468859937,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,769.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-16T11:35:00Z,N/A,N/A
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-16T11:26:00Z,N/A,N/A
 984971826,Modernes Leben in Atzgersdorf nahe S-Bahn im FLAIR in the City!,"Wien, 23. Bezirk, Liesing",1230,826.56,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-15T17:54:00Z,N/A,Scherbangasse 3
@@ -161,6 +160,8 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1069869140,Hochwertige Mietwohnungen in der Pfalzgasse 29 - Jetzt einziehen!,"Wien, 22. Bezirk, Donaustadt",1220,799,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-14T11:42:00Z,N/A,Pfalzgasse 29
 1289531621,SONNWEND - LIVING! ERSTBEZUG - KÜCHE - KLIMA - BESCHATTUNG - U1 NÄHE!,"Wien, 10. Bezirk, Favoriten",1100,999,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-14T10:45:00Z,N/A,N/A
 542428006,| LEO 131 | NEUBAUPROJEKT | IN AUSGEZEICHNETER LAGE | NAHE THERESA-TAUSCHER-PARK,"Wien, 21. Bezirk, Floridsdorf",1210,846.88,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-14T03:59:00Z,N/A,Leopoldauer Straße
+1116422008,"Erstklassige Innestadtlage, Provisionsfrei, hohe Räume, teilmöbliert, mit freien Blick über den Donaukanal","Wien, 01. Bezirk, Innere Stadt",1010,2400,4,127,Wien,Wien,1.0,N/A,Wohnung,2025-05-18T17:52:00Z,2400.0,Seitenstettengasse
+1852478807,Praktische Zwei-Zimmer Wohnung in guter Lage im 19. Bezirk,"Wien, 19. Bezirk, Döbling",1190,1285,2,56,Wien,Wien,1.0,2,Wohnung,2025-05-18T17:44:00Z,1285.0,N/A
 1764152793,"NEU: Stilvolle Altbauwohnung mit 4 Zimmern & Balkon in Toplage - 1030 Wien, Esteplatz","Wien, 03. Bezirk, Landstraße",1030,4624.05,4,190,Wien,Wien,1.0,3,Wohnung,2025-05-18T17:38:00Z,4624.05,Esteplatz
 1529277235,Kutschkermarkt: Wunderschön Wohnung mit riesigem Lesefenster und Balkon sucht Nachmieter,"Wien, 18. Bezirk, Währing",1180,997.26,2,54,Wien,Wien,1.0,2,Wohnung,2025-05-18T16:55:00Z,997.26,Staudgasse 22
 1098646681,Top sanierte Wohnung mit Gartenmitbenützung und Grünblick,"Wien, 19. Bezirk, Döbling",1190,895,2,46,Wien,Wien,1.0,2,Wohnung,2025-05-18T16:54:00Z,895.0,N/A
@@ -359,5 +360,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 804999290,DANUBE FLATS - Exklusives Wohnen im höchsten Wohnturm Wiens!,"Wien, 22. Bezirk, Donaustadt",1220,1090.56,1,33,Wien,Wien,0.9,6,Wohnung,2025-05-17T13:22:00Z,1090.56,N/A
 1215454318,Erstbezug mit Wohlfühlfaktor - topmoderne Mietwohnung nahe U6 & S-Bahn,"Wien, 12. Bezirk, Meidling",1120,771.81,2,32,Wien,Wien,1.0,2,Wohnung,2025-05-17T13:18:00Z,771.81,Breitenfurter Straße 89
 944295311,Living with a luxurious touch by the Danube.,"Wien, 22. Bezirk, Donaustadt",1220,2270.01,3,73,Wien,Wien,1.0,6,Wohnung,2025-05-17T13:09:00Z,2270.01,Wagramer Straße 2A
-1608529207,| 2-ZIMMER | VERFÜGBAR AB SEPTEMBER | INNENHOF | AN DER ALTEN DONAU | DONAUSTADTBRÜCKE | NACHVERMIETUNG,"Wien, 22. Bezirk, Donaustadt",1220,999,2,47,Wien,Wien,1.0,1,Wohnung,2025-05-17T13:05:00Z,999.0,Effenbergplatz
-2072896903,"Elegante Wohnung mit 2 Zimmern, Terrasse und eigener Sauna - Gartennutzung möglich","Wien, 19. Bezirk, Döbling",1190,950,2,69,Wien,Wien,1.0,N/A,Wohnung,2025-05-17T13:04:00Z,950.0,N/A
