@@ -399,6 +399,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1688707437,KAY - WOHNEN IN DONAUNÄHE - HERVORRAGENDE INFRASTRUKTUR. - WOHNTRAUM,"Wien, 20. Bezirk, Brigittenau",1200,989,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-21T10:14:00Z,N/A,Engerthstraße 61-63
 925409332,WOHNTRAUM in Hietzing,"Wien, 13. Bezirk, Hietzing",1130,1199.18,3,87,Wien,Wien,1.0,3,Wohnung,2025-05-21T10:11:00Z,1199.18,Anton-Langer-Gasse 51
 784037829,Luxuriöse Altbauwohnung im Herzen Wiens - Frisch Renoviert,"Wien, 01. Bezirk, Innere Stadt",1010,4799.5,5,207,Wien,Wien,1.0,N/A,Wohnung,2025-05-21T10:10:00Z,4799.5,Singerstraße 6
+1487779732,Exklusive Villen-Altbauetage mit überdachter Terrasse & kl. Balkon. Repräsentative 225m2. Edel&Chic. #DESIGN meets FLAIR.,"Wien, 19. Bezirk, Döbling",1190,5002.54,4,216,Wien,Wien,1.0,2,Wohnung,2025-05-22T19:35:00Z,5002.54,N/A
 1778625958,KEIN 08/15 - FÜR LIEBHABER:INNEN DES BESONDEREN! AUSSERGEWÖHNLICHE WOHNUNG MIT CHARME,"Wien, 01. Bezirk, Innere Stadt",1010,1830,3,86,Wien,Wien,1.0,2,Wohnung,2025-05-22T18:57:00Z,1830.0,N/A
 1859116195,3-Zimmer-Wohnung mit großem Balkon und herrlicher Aussicht! Fußbodenheizung- und Temperierung! U6 Floridsdorf!,"Wien, 21. Bezirk, Floridsdorf",1210,1230.09,3,68,Wien,Wien,1.0,6,Wohnung,2025-05-22T18:56:00Z,1230.09,Pius-Parsch-Platz
 1220533996,IU - Traumhafte 3-Zimmer Wohnung mit 17m² - Balkon,"Wien, 03. Bezirk, Landstraße",1030,1599,3,66,Wien,Wien,1.0,5,Wohnung,2025-05-22T18:56:00Z,1599.0,Wehleweg
@@ -598,7 +599,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1361168951,1 Monat Mietfrei! PFALZGASSE 29 - Gemütliches Wohnen: 2 Zimmer mit großzügigem Balkon - IN RUHELAGE,"Wien, 22. Bezirk, Donaustadt",1220,898.98,2,45,Wien,Wien,1.0,1,Wohnung,2025-05-22T12:13:00Z,898.98,Podhagskygasse 12
 1633748520,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1426.65,3,84,Wien,Wien,1.0,3,Wohnung,2025-05-22T12:12:00Z,1426.65,Anni-Haider-Weg 3
 1233421596,"2 ZI-WOHNUNG IN WIEN - 3. BEZIRK - LANDSTRASSE, MÖBLIERT, AUF ZEIT","Wien, 03. Bezirk, Landstraße",1030,1800,2,70,Wien,Wien,0.0,2,Wohnung,2025-05-22T12:12:00Z,1800.0,N/A
-1154277773,"Großzügige 4 ZI Altbau im Herzen des 7. Bezirks, zahlreiche Einkaufs- und Essensmöglichkeiten","Wien, 07. Bezirk, Neubau",1070,2310,3,153,Wien,Wien,1.0,1,Wohnung,2025-05-22T12:11:00Z,2310.0,Neubaugasse 56
 1578498560,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,1426.65,3,88,Wien,Wien,1.0,3,Wohnung,2025-05-22T12:10:00Z,1426.65,Anni-Haider-Weg 3
 1096519594,Jetzt unbefristet mieten & später zum Fixpreis kaufen - nahe U2 & Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,990.08,2,60,Wien,Wien,1.0,3,Wohnung,2025-05-22T12:08:00Z,990.08,Anni-Haider-Weg 3
 931272053,"2 Zi im Herzen des 9. Bezirks, zahlreiche Restaurants und Geschäfte, Öffis direkt in der Innen-Stadt","Wien, 09. Bezirk, Alsergrund",1090,1340,2,49,Wien,Wien,1.0,1,Wohnung,2025-05-22T12:07:00Z,1340.0,Nußdorfer Str. 88
@@ -930,10 +930,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 973641659,NEUBAUWOHNUNG - 2 ZIMMER WOHNUNG - BALKONTRAUM - NÄHE ELTERLEINPLATZ,"Wien, 17. Bezirk, Hernals",1170,1300,2,49,Wien,Wien,1.0,3,Wohnung,2025-05-20T19:36:00Z,1300.0,Leopold-Ernst-Gasse
 1564220659,Modern sanierte Wohnung in Top-Lage des 4. Bezirks,"Wien, 04. Bezirk, Wieden",1040,850,0,45,Wien,Wien,1.0,N/A,Wohnung,2025-05-20T19:36:00Z,850.0,N/A
 1228153221,Nahe Matzleinsdorfer Platz | 71m² - 1.Stock - 4-Zimmer-Apartment mit voll ausgestatteter Küche,"Wien, 10. Bezirk, Favoriten",1100,1449,4,71,Wien,Wien,1.0,1,Wohnung,2025-05-20T19:35:00Z,1449.0,Knöllgasse
-1238227727,Naturnah Wohnen in deiner neuen 3-Zimmerwohnung mit 20 m² Balkon im Erdgeschoss ab Februar,"Wien, 12. Bezirk, Meidling",1120,1153.01,3,66,Wien,Wien,1.0,0,Wohnung,2025-05-20T19:32:00Z,1153.01,Wildgartenallee 23
-1354527912,Genießen Sie den Weitblick vom 22. Stock an der Waterfront Wiens mit Doorman und Wellnessbereich,"Wien, 22. Bezirk, Donaustadt",1220,1200,1,30,Wien,Wien,1.0,22,Wohnung,2025-05-20T19:32:00Z,1200.0,Wagramer Straße
-1755171794,Möblierte Premium Wohnung mit Balkon,"Wien, 03. Bezirk, Landstraße",1030,1498,2,45,Wien,Wien,0.0,N/A,Wohnung,2025-05-20T19:32:00Z,1498.0,N/A
-1006091388,***Provisionsfreie*** Mietwohnung in Top-Lage *** - Hochwertiger Neubau mit Qualitätsküche - IDEAL für Familien,"Wien, 23. Bezirk, Liesing",1230,1239.2,3,79,Wien,Wien,1.0,2,Wohnung,2025-05-20T19:32:00Z,1239.2,Ketzergasse
 1663175177,Wiener City-Flair & Natur vereint: Wohnen am Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1170.4,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-20T14:20:00Z,N/A,Dresdner Straße
 1084264605,Mit Sicherheit eine gute Wahl! Wohnen ab 60+ im schönen Oberlaa! Teilbegleitet,"Wien, 10. Bezirk, Favoriten",1100,975.1,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-20T07:49:00Z,N/A,N/A
 1681884236,POG 83 - Tolle Neubau-Wohnungen nahe Gewerbepark Stadlau im ruhigen Neubau-Viertel! - JETZT ZUSCHLAGEN,"Wien, 22. Bezirk, Donaustadt",1220,770,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-20T03:05:00Z,N/A,Pogrelzstraße 83
