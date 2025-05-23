@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1302401502,Urban Living: Schöner Wohnen im stilvollen Wohntraum (Mietbeginn 01.08.2025),"Wien, 06. Bezirk, Mariahilf",1060,1510,2,62,Wien,Wien,1.0,3,Wohnung,2025-05-23T09:16:00Z,1510.0,Kopernikusgasse
 1635987867,BESTENS EINGETEILTE 3 ZIMMER MIT LOGGIA UND BALKON AM GRÜNEN PRATER,"Wien, 02. Bezirk, Leopoldstadt",1020,1549.86,3,71,Wien,Wien,1.0,4,Wohnung,2025-05-23T09:15:00Z,1549.86,N/A
 1721336323,Traumhafte Villenetage in wunderschönem Altbaugebäude! Balkon!,"Wien, 13. Bezirk, Hietzing",1130,1699.5,3,110,Wien,Wien,1.0,2,Wohnung,2025-05-23T09:15:00Z,1699.5,Veitingergasse
 2064771642,| 3 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1629,3,70,Wien,Wien,1.0,2,Wohnung,2025-05-23T09:15:00Z,1629.0,Sankt Veit-Gasse
@@ -290,7 +291,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1758478456,The Metropolitan | 10. OG | Große 1-Zimmerwohnung mit Balkon | ab August verfügbar,"Wien, 10. Bezirk, Favoriten",1100,899,1,45,Wien,Wien,1.0,10,Wohnung,2025-05-22T12:31:00Z,899.0,Karl-Popper-Straße 5
 1341125552,Wohnen in der Innenstadt: ab sofort moderne teilmöblierte 3 Zimmer Wohnung - Top Lage: zwischen Schwedenplatz und Stephansplatz,"Wien, 01. Bezirk, Innere Stadt",1010,2999.01,4,142,Wien,Wien,1.0,3,Wohnung,2025-05-22T12:28:00Z,2999.01,N/A
 1700997687,ERSTBEZUG | Großzügige 3-Zimmer-Wohnung mit traumhafter Loggia,"Wien, 07. Bezirk, Neubau",1070,2795,3,90,Wien,Wien,1.0,2,Wohnung,2025-05-22T12:28:00Z,2795.0,N/A
-1024016722,Sonne genießen? Am besten im eigenen Garten! 2-Zimmer-Wohnung mit Terrasse und Garten! NÄHE U1 KEPLERPLATZ!,"Wien, 10. Bezirk, Favoriten",1100,1059.43,2,49,Wien,Wien,1.0,0,Wohnung,2025-05-22T12:27:00Z,1059.43,Humboldtgasse
 1421563433,Mariahilfer Gürtel 3: Maisonette-Terrassenwohnung - Gute öffentliche Verkehrsanbindung,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,2089.09,3,133,Wien,Wien,1.0,N/A,Wohnung,2025-05-22T12:27:00Z,2089.09,N/A
 1042379802,3 Zimmer / Loggia / tolle Lage!,"Wien, 07. Bezirk, Neubau",1070,2625,3,104,Wien,Wien,1.0,1,Wohnung,2025-05-22T12:27:00Z,2625.0,Apollogasse 18
 1019230862,WOHNEN NAHE KARDINAL NAGL PLATZ,"Wien, 03. Bezirk, Landstraße",1030,1390,2,70,Wien,Wien,1.0,5,Wohnung,2025-05-22T12:27:00Z,1390.0,Erdbergstraße 120A
@@ -399,6 +399,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1842388205,Gemeindewohnung (57 m²) - Direktvergabe möglich!,"Wien, 23. Bezirk, Liesing",1230,543.72,2,57,Wien,Wien,N/A,3,Wohnung,2025-05-22T10:00:00Z,543.72,Rudlof-Zeller-Gasse
 1937731324,Großzügige 2 Zimmerwohnung am Roten Hof!,"Wien, 08. Bezirk, Josefstadt",1080,1299.99,2,65,Wien,Wien,1.0,3,Wohnung,2025-05-22T09:58:00Z,1299.99,Roter Hof
 1952292723,"Sehr gute Lage und Infrastruktur: Hofseitige, moderne 2-Zimmerwohnung mit Balkon!","Wien, 07. Bezirk, Neubau",1070,1775,2,58,Wien,Wien,1.0,5,Wohnung,2025-05-22T09:57:00Z,1775.0,Apollogasse 18
+1549508781,Gartenwohnung! Luxury Living! maßgefertigte Tischlerküche! elektrische Rollos! Klima-Vorb! Nähe U2!,"Wien, 22. Bezirk, Donaustadt",1220,847.44,2,36,Wien,Wien,1.0,0,Wohnung,2025-05-23T18:45:00Z,847.44,N/A
 1578962670,360° TOUR // ERSTBEZUG WOHNUNG / FIRST LETTING APARTMENT,"Wien, 21. Bezirk, Floridsdorf",1210,848,2,42,Wien,Wien,1.0,EG,Wohnung,2025-05-23T18:39:00Z,848.0,N/A
 1840761868,360° TOUR // TERRASSEN ERSTBEZUG WOHNUNG / FIRST LETTING BALCONY APARTMENT,"Wien, 21. Bezirk, Floridsdorf",1210,960,2,44,Wien,Wien,1.0,1,Wohnung,2025-05-23T18:39:00Z,960.0,N/A
 1841556147,360° TOUR // TERRASSEN ERSTBEZUG WOHNUNG / FIRST LETTING BALCONY APARTMENT,"Wien, 21. Bezirk, Floridsdorf",1210,960,2,44,Wien,Wien,1.0,1,Wohnung,2025-05-23T18:39:00Z,960.0,N/A
@@ -798,7 +799,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 817808123,Luxurious apartment in a perfect location by the New Danube!,"Wien, 22. Bezirk, Donaustadt",1220,1849.99,3,71,Wien,Wien,1.0,3,Wohnung,2025-05-23T09:20:00Z,1849.99,Wagramer Straße 2A
 1823834693,3-Zimmer-Wohung im Herzen Wiens mit Blick auf die Karlskirche - zu mieten in 1010 Wien,"Wien, 01. Bezirk, Innere Stadt",1010,2999,3,142,Wien,Wien,0.73,3,Wohnung,2025-05-23T09:19:00Z,2999.0,N/A
 1191927158,Außergewöhnliche Citywohnung in Toplage des 7. Bezirks,"Wien, 07. Bezirk, Neubau",1070,940.17,1,37,Wien,Wien,1.0,1,Wohnung,2025-05-23T09:17:00Z,940.17,N/A
-1302401502,Urban Living: Schöner Wohnen im stilvollen Wohntraum (Mietbeginn 01.08.2025),"Wien, 06. Bezirk, Mariahilf",1060,1510,2,62,Wien,Wien,1.0,3,Wohnung,2025-05-23T09:16:00Z,1510.0,Kopernikusgasse
 2045108132,Stylisch wohnen 2 Zimmer mit Wohlfühlfaktor,"Wien, 14. Bezirk, Penzing",1140,1095,2,50,Wien,Wien,1.0,6,Wohnung,2025-05-22T09:57:00Z,1095.0,Cumberlandstraße
 2017959718,ruhiger Rückzugsort inmitten der Stadt - perfekt öffentlich angebunden! 2 Zimmer Erstbezug mit Loggia - ab sofort!,"Wien, 07. Bezirk, Neubau",1070,1600,2,58,Wien,Wien,1.0,2,Wohnung,2025-05-22T09:57:00Z,1600.0,Apollogasse
 2068114711,orea | Marina Tower · Stilvoll möblierte 3-Zimmer-Wohnung mit Weitblick und Loggia,"Wien, 02. Bezirk, Leopoldstadt",1020,2499,3,75,Wien,Wien,1.0,24,Wohnung,2025-05-22T09:56:00Z,2499.0,Wehlistraße
@@ -950,7 +950,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1985666485,Smart & All-inclusive - Ihre perfekte Singlewohnung - U1 Kagran - JETZT ANFRAGEN,"Wien, 22. Bezirk, Donaustadt",1220,842.73,1,38,Wien,Wien,1.0,7,Wohnung,2025-05-21T18:56:00Z,842.73,Tokiostraße 12
 1507251222,All-inclusive 1-Zimmer Wohnung - U1 Kagran - ab sofort - JETZT ANFRAGEN,"Wien, 22. Bezirk, Donaustadt",1220,913.47,1,49,Wien,Wien,1.0,2,Wohnung,2025-05-21T18:56:00Z,913.47,Tokiostraße 12
 1505811986,All-inclusive Miete in 1220 Wien - U1 Kagran - ab sofort. - WOHNTRAUM,"Wien, 22. Bezirk, Donaustadt",1220,686.76,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-21T18:54:00Z,N/A,Tokiostraße 12
-1567904942,ERSTBEZUG 4 Zimmer Neubauwohnung,"Wien, 10. Bezirk, Favoriten",1100,1449,4,71,Wien,Wien,1.0,1,Wohnung,2025-05-21T18:45:00Z,1449.0,Knöllgasse
 1635107309,In der Stadt der Musik gelangt mit den DC Musicflats ...,"Wien, 22. Bezirk, Donaustadt",1220,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-21T17:32:00Z,N/A,Donau-City-Str. 13-13A
 1057711058,Junges und urbanes Wohnen in Alt-Penzing,"Wien, 14. Bezirk, Penzing",1140,1095,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-05-21T16:18:00Z,N/A,Cumberlandstraße
 1995450227,Erstbezug: 2-Zimmer-Wohnungen in Grünruhelage - SOFORT in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,849,0,N/A,Wien,Wien,0.71,N/A,N/A,2025-05-21T13:27:00Z,N/A,N/A
