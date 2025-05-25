@@ -22,6 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                           | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          660 |            32 |          2 | 06. Mariahilf | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1060-mariahilf/provisionsfreie-wohnung-in-gr%C3%BCnruhelage-1934592111/) | May 25, 14:51      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                                                                    | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          870 |            63 |          2 | 04. Wieden    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/gro%C3%9Fz%C3%BCgige-2-zimmer-altbauwohnung-mit-charme---ruhig-gelegen-im-herzen-des-4.-bezirks-%7C-einzelbesichtigungen-am-7.-&-8.-juni-1474676516/) | May 25, 17:45      |
