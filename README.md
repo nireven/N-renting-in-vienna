@@ -22,6 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                                                                    | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          870 |            63 |          2 | 04. Wieden    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/gro%C3%9Fz%C3%BCgige-2-zimmer-altbauwohnung-mit-charme---ruhig-gelegen-im-herzen-des-4.-bezirks-%7C-einzelbesichtigungen-am-7.-&-8.-juni-1474676516/) | May 25, 17:45      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                       | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          560 |            50 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/direktvergabe-gemeindewohnung-%5Bvmd-31.01.2025%5D-2137780015/) | May 26, 09:38      |
