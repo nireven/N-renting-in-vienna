@@ -22,7 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District      | Link                                                                                                                                              | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:-----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          790 |            55 |          2 | 07. Neubau       | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1070-neubau/kaiserstra%C3%9Fe---hofseitige-2-zimmer-wohnung%21-1398419192/) | May 31, 09:50      |
-|          790 |            35 |          2 | 02. Leopoldstadt | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/2-zimmer-wohnung-nahe-vorgartenstrasse-1369930099/)       | May 30, 12:23      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District      | Link                                                                                                                                                                                     | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          790 |            55 |          2 | 07. Neubau       | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1070-neubau/%28vor%C3%BCbergehender-terminstopp%29-kaiserstra%C3%9Fe---hofseitige-2-zimmer-wohnung%21-1398419192/) | May 31, 09:50      |
+|          790 |            35 |          2 | 02. Leopoldstadt | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/2-zimmer-wohnung-nahe-vorgartenstrasse-1369930099/)                                              | May 30, 12:23      |
