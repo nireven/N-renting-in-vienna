@@ -9,10 +9,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 885128221,| 2 ZIMMER | 3. OG | BALKON | ERSTBEZUG IN HIETZING | NAHE UNTER ST. VEIT | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199.01,2,51,Wien,Wien,1.0,3,Wohnung,2025-06-06T07:45:00Z,1199.01,Sankt Veit-Gasse
 1055820739,| 3 ZIMMER | 3. OG | BALKON | ERSTBEZUG IN HIETZING | NAHE UNTER ST. VEIT | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1689,3,70,Wien,Wien,1.0,3,Wohnung,2025-06-06T07:35:00Z,1689.0,Sankt Veit-Gasse
 1317322271,| DREI ZIMMER | 3. GESCHOSS | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1729,3,70,Wien,Wien,1.0,3,Wohnung,2025-06-06T07:35:00Z,1729.0,Sankt Veit-Gasse
-1059303014,Sehr gemütliche Singlewohnung mit ruhiger Loggia,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,738.17,1,42,Wien,Wien,1.0,1,Wohnung,2025-06-06T07:14:00Z,738.17,Pouthongasse 20
-1155551790,Großzügige 4 Zimmer Wohnung mit Loggia und Garage,"Wien, 11. Bezirk, Simmering",1110,1500,4,113,Wien,Wien,0.67,5,Wohnung,2025-06-06T07:13:00Z,1500.0,N/A
-1130141605,"""Lage spricht für sich - Argentienstraße 16""","Wien, 04. Bezirk, Wieden",1040,1689.49,3,73,Wien,Wien,1.0,N/A,Wohnung,2025-06-06T07:13:00Z,1689.49,N/A
-1079058850,Repräsentation groß geschrieben: Altbauwohnung mit 138 qm und 12 qm Balkon,"Wien, 04. Bezirk, Wieden",1040,2657.16,4,138,Wien,Wien,1.0,3,Wohnung,2025-06-06T07:13:00Z,2657.16,N/A
 1209898785,Exklusiver Neubau mit atemberaubendem Stadtblick! BELVIEW APARTMENTS,"Wien, 10. Bezirk, Favoriten",1100,919.15,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-05T11:58:00Z,N/A,Arsenalstraße 8
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-05T10:26:00Z,N/A,N/A
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-04T21:41:00Z,N/A,N/A
@@ -634,6 +630,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1222423648,PROVISIONSFREIER MIETKAUF IN GRETL'S GARTEN!,"Wien, 22. Bezirk, Donaustadt",1220,1311.4,3,84,Wien,Wien,1.0,N/A,Wohnung,2025-06-06T08:04:00Z,1311.4,Anni-Haider-Weg 3
 1630360355,| ZWEI ZIMMER | 3. OG | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1219,2,51,Wien,Wien,1.0,3,Wohnung,2025-06-06T08:01:00Z,1219.0,Sankt Veit-Gasse
 1158307680,| 2 ZIMMER | VERFÜGBAR AB 1.08.2025 | BALKON | 3. STOCK | AUSGEZEICHNETE LAGE | DIREKT AM KIRSCHBLÜTENPARK,"Wien, 22. Bezirk, Donaustadt",1220,892.68,2,46,Wien,Wien,1.0,3,Wohnung,2025-06-06T07:54:00Z,892.68,Nippongasse 8-10
+1940855632,ELEGANTE 4-ZIMMERWOHNUNG IN BESTLAGE - ERSTBEZUG NACH RENOVIERUNG!,"Wien, 03. Bezirk, Landstraße",1030,2845.96,4,134,Wien,Wien,0.0,N/A,Wohnung,2025-06-08T07:10:00Z,2845.96,N/A
 969780167,Ihr neues Zuhause in 1080 Wien: 2-Zimmer Wohnung inkl. Einbauküche und Balkon - JETZT ANFRAGEN,"Wien, 08. Bezirk, Josefstadt",1080,1474.95,2,61,Wien,Wien,1.0,5,Wohnung,2025-06-08T06:54:00Z,1474.95,Breitenfelder Gasse 13
 1219732050,Schöne 2-Zimmer-Altbau-Wohnung in der Kahlenbergerstraße 1g - Top 4,"Wien, 19. Bezirk, Döbling",1190,858,2,49,Wien,Wien,1.0,N/A,Wohnung,2025-06-08T06:18:00Z,858.0,N/A
 1339577022,"Leben wie in Klein-Paris - Erstbezug ""Dachtraum"" im Herzen des Servitenviertels","Wien, 09. Bezirk, Alsergrund",1090,2074.19,3,67,Wien,Wien,1.0,1,Wohnung,2025-06-08T03:35:00Z,2074.19,N/A
@@ -737,7 +734,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1516399608,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,1099,2,52,Wien,Wien,1.0,N/A,Wohnung,2025-06-07T15:40:00Z,1099.0,Podhagskygasse 12
 1446400809,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,N/A,Wohnung,2025-06-07T15:38:00Z,899.0,Podhagskygasse 12
 1873288807,1 Monat Mietzinsfrei: Erstbezug im Grünen Nahe der U2 - zwischen Badeteich Hirschstetten & Seestadt,"Wien, 22. Bezirk, Donaustadt",1220,899,2,40,Wien,Wien,1.0,N/A,Wohnung,2025-06-07T15:36:00Z,899.0,Podhagskygasse 12
-1082995329,Im--GRÜNEN ___provisionsfrei!!,"Wien, 13. Bezirk, Hietzing",1130,865,3,65,Wien,Wien,1.0,1,Wohnung,2025-06-07T15:36:00Z,865.0,"Hietzinger Hauptstraße 174,"
 971528635,Exklusive Neubauwohnung mit Außenflächen,"Wien, 19. Bezirk, Döbling",1190,3320,4,125,Wien,Wien,1.0,3,Wohnung,2025-06-07T15:25:00Z,3320.0,Kaasgrabengasse 6
 1013751777,HELL | RUHIG | ZENTRAL | GUTE ANBINDUNG,"Wien, 06. Bezirk, Mariahilf",1060,1488.53,3,83,Wien,Wien,1.0,5,Wohnung,2025-06-07T15:24:00Z,1488.53,N/A
 801051660,Miete Familienwohnung 80 m2 in Wien 20 - renoviert,"Wien, 20. Bezirk, Brigittenau",1200,1150,3,80,Wien,Wien,1.0,N/A,Wohnung,2025-06-07T15:23:00Z,1150.0,Donaueschingenstraße 5
