@@ -24,5 +24,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 |   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                   | 📅 Published Date   |
 |-------------:|--------------:|-----------:|:---------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       819.25 |            49 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/fasanviertel---tolle-zwei-zimmer-wohnung-1783608545/)                       | Jun 09, 10:54      |
 |       854.47 |            51 |          2 | 08. Josefstadt | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1080-josefstadt/in-toplage-2-zimmerwohnung-n%C3%A4he-bennoplatz%21-bennogasse-23/33-1164629880/) | Jun 09, 06:31      |
 |       795    |            53 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/ruhige-nette-2-zimmer-wohnung-im-loggia-954090482/)                         | Jun 08, 12:44      |
