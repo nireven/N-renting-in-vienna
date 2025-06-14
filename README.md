@@ -22,6 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                                                                                | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       493.77 |            45 |          2 | 04. Wieden    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/2-zimmer-wohnung-1040-direktvergabe---wiener-wohnen-%28ticket-bis-31.05.2025%29---nachmieter-gesucht-1350352858/) | Jun 14, 20:43      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                                | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|       578.13 |            44 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/44m2-wohnung-in-perfekter-lage-im-3.-bezirk-1492263353/)                                                 | Jun 14, 22:12      |
+|       493.77 |            45 |          2 | 04. Wieden     | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/2-zimmer-wohnung-1040-direktvergabe---wiener-wohnen-%28ticket-bis-31.05.2025%29---nachmieter-gesucht-1350352858/) | Jun 14, 20:43      |
