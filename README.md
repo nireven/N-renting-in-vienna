@@ -22,7 +22,6 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                              | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       870    |            37 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/2-zimmerwohnung-mit-bad-m%C3%B6bliert-modern-sofortbezug-1499986130/)                                       | Jun 13, 15:00      |
-|       868.07 |            58 |          2 | 05. Margareten | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1050-margareten/helle-2-zimmer-wohnung-%2858-qm%29-im-5.-bezirk-mit-k%C3%BCche-und-terrasse-4.-stock-mit-aufzug-863528939/) | Jun 13, 10:52      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                        | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          870 |            37 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/2-zimmerwohnung-mit-bad-m%C3%B6bliert-modern-sofortbezug-1499986130/) | Jun 13, 15:00      |
