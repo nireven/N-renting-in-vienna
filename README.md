@@ -22,7 +22,8 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                        | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          870 |            47 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/zentrale-2-zimmer-wohnung-im-9.-bezirk-1341490588/)   | Jun 15, 19:35      |
-|          440 |            61 |          3 | 04. Wieden     | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/direktvergabe-%7C-wohnungsvergabe-3---zimmer-1109762545/) | Jun 15, 16:53      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                              | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|        897.6 |            72 |          3 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/wundersch%C3%B6ne-sehr-helle-stilaltbauwohnung-n%C3%A4he-nussdorfer-stra%C3%9Fe-815807687/) | Jun 16, 03:15      |
+|        870   |            47 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/zentrale-2-zimmer-wohnung-im-9.-bezirk-1341490588/)                                         | Jun 15, 19:35      |
+|        440   |            61 |          3 | 04. Wieden     | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1040-wieden/direktvergabe-%7C-wohnungsvergabe-3---zimmer-1109762545/)                                       | Jun 15, 16:53      |
