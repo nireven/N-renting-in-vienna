@@ -1,4 +1,12 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+942767321,Lebensqualität in Stammersdorf: Grünruhelage genießen. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,850,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-10T02:57:00Z,N/A,Stammersdorfer Straße 236-238
+1588622726,Exklusiver Altbaujuwel in Wiener Toplage | ZELLMANN IMMOBILIEN,"Wien, 01. Bezirk, Innere Stadt",1010,4800,4,164,Wien,Wien,1.0,2,Wohnung,2025-06-16T21:39:00Z,4800.0,Bellariastraße
+1146296302,Ruhige 1 Zimmer Wohnung in der Geblergasse - Nähe AKH,"Wien, 17. Bezirk, Hernals",1170,577.75,1,46,Wien,Wien,1.0,N/A,Wohnung,2025-06-16T21:39:00Z,577.75,N/A
+1539125724,Familienwohnung mit Garten beim Höchstädtplatz,"Wien, 20. Bezirk, Brigittenau",1200,1579.79,3,91,Wien,Wien,1.0,0,Wohnung,2025-06-16T21:38:00Z,1579.79,Dresdner Straße
+1206119287,Gleich beim Stadtpark!,"Wien, 03. Bezirk, Landstraße",1030,1890,4,111,Wien,Wien,1.0,4,Wohnung,2025-06-16T21:36:00Z,1890.0,N/A
+1123405619,TOPLAGE - NÄHE DONAUZENTRUM | HELLE SINGLE-WOHNUNG | U-BAHN-NÄHE,"Wien, 22. Bezirk, Donaustadt",1220,738,1,45,Wien,Wien,0.9,3.OG,Wohnung,2025-06-16T21:36:00Z,738.0,N/A
+1139233944,von Privat! -geräumige 2- Zimmer Wohnung mit exzellenter Ausstattung und Fernblick,"Wien, 22. Bezirk, Donaustadt",1220,1141.17,2,58,Wien,Wien,N/A,7,Wohnung,2025-06-16T21:35:00Z,1141.17,Berta von Suttner Gasse
+2020505244,Moderne 2-Zimmer-Wohnung mit Garten + Terrasse ab JUNI 2025,"Wien, 22. Bezirk, Donaustadt",1220,828.22,2,48,Wien,Wien,1.0,1,Wohnung,2025-06-16T21:35:00Z,828.22,Quadenstraße
 2141782353,"Sanierte, ruhige 3-Zimmer Wohung Nähe AKH/ Kutschkermarkt - Erstbezug mit 2 Garagen (optional), Loggia und Kellerabteil","Wien, 18. Bezirk, Währing",1180,2117.5,3,77,Wien,Wien,1.0,1,Wohnung,2025-06-16T21:22:00Z,2117.5,Eduardgasse 11-13
 1840102690,"Generalsanierte Wohnung, ruhige zentrale Lage,","Wien, 16. Bezirk, Ottakring",1160,620,2,39,Wien,Wien,1.0,2,Wohnung,2025-06-16T20:59:00Z,620.0,Neulerchenfelderstrasse 4
 1104390456,All IN TARIF! PROVISIONSFREI! Koffer packen und einziehen! Kurzzeitmiete Auhofstraße,"Wien, 13. Bezirk, Hietzing",1130,1099,2,35,Wien,Wien,1.0,N/A,Wohnung,2025-06-16T20:50:00Z,1099.0,Auhofstraße 210
@@ -41,7 +49,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1774361537,Sonnige 2-Zimmerwohnung im 17. Stock privat zu vermieten,"Wien, 11. Bezirk, Simmering",1110,1060,2,65,Wien,Wien,0.0,17,Wohnung,2025-06-16T18:43:00Z,1060.0,N/A
 1306423858,"COMING SOON!!! Hochwertige Neubauwohnung mit 10,67m² westseitiger Loggia","Wien, 02. Bezirk, Leopoldstadt",1020,1749,2,77,Wien,Wien,0.85,2,Wohnung,2025-06-16T18:36:00Z,1749.0,N/A
 1691610297,3-Zimmer Wohnung Nähe U4 Friedensbrücke,"Wien, 20. Bezirk, Brigittenau",1200,1349,3,52,Wien,Wien,1.0,2,Wohnung,2025-06-16T18:35:00Z,1349.0,Webergasse
-1139618896,Sonnige 2-Zimmerwohnung mit Loggia in U-Bahn-Nähe (U3),"Wien, 16. Bezirk, Ottakring",1160,899,2,51,Wien,Wien,1.0,1,Wohnung,2025-06-16T18:34:00Z,899.0,Enenkelstraße
 872028332,HELLE 3 ZIMMER WOHNUNG -U-BAHN NÄHE -,"Wien, 12. Bezirk, Meidling",1120,1079.1,3,65,Wien,Wien,1.0,4,Wohnung,2025-06-16T18:25:00Z,1079.1,N/A
 1339115273,Traumhafte 3-Zimmer-Wohnung mit Loggia nahe Sonnwendviertel!,"Wien, 10. Bezirk, Favoriten",1100,1276.36,3,85,Wien,Wien,1.0,2,Wohnung,2025-06-16T18:25:00Z,1276.36,N/A
 1120435379,Erstebzug - topsanierte Altbauwohnung im ersten Bezirk,"Wien, 01. Bezirk, Innere Stadt",1010,2284.13,4,102,Wien,Wien,0.73,1,Wohnung,2025-06-16T18:16:00Z,2284.13,N/A
@@ -584,7 +591,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1936180552,"Wollen Sie wie der frühere Präsident Österreichs wohnen, dann ist das die richtige Wohnung für Sie","Wien, 01. Bezirk, Innere Stadt",1010,4150,5,173,Wien,Wien,1.0,4. Stock,Wohnung,2025-06-14T23:39:00Z,4150.0,Mahlerstraße 5/60
 1357491437,Privat: Möblierte Wohnung auf Zeit (inkl. Internet u. regelmäßige Reinigung) // Private: temporary furnished apartment (incl. Internet and regular cleaning),"Wien, 03. Bezirk, Landstraße",1030,2800,3,114,Wien,Wien,N/A,N/A,Wohnung,2025-06-14T22:47:00Z,2800.0,Hörnesgasse
 1492263353,(reserviert) 44m2 Wohnung in perfekter Lage im 3. Bezirk,"Wien, 03. Bezirk, Landstraße",1030,578.13,2,44,Wien,Wien,1.0,1,Wohnung,2025-06-14T22:12:00Z,578.13,Würtzlerstraße 20/4
-1140780144,Perfekter Schnitt - Wohnen im 7. Stock,"Wien, 22. Bezirk, Donaustadt",1220,889,2,45,Wien,Wien,1.0,7,Wohnung,2025-06-14T21:35:00Z,889.0,Bertha-von-Suttner-Gasse 10A
 1057891163,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,928.29,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-14T04:23:00Z,N/A,Wagramer Straße
 1468859937,DANUBEVIEW - Exklusives Wohnen am Wasser,"Wien, 22. Bezirk, Donaustadt",1220,769.99,0,N/A,Wien,Wien,0.9,N/A,N/A,2025-06-13T11:35:00Z,N/A,N/A
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-13T11:26:00Z,N/A,N/A
@@ -594,4 +600,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2054887708,Belview - Erstklassige Wohnqualität mit Wohlfühlfaktor beim Schloss Belvedere - JETZT ANFRAGEN,"Wien, 10. Bezirk, Favoriten",1100,1029,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-11T02:53:00Z,N/A,Arsenalstraße 8
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-10T12:28:00Z,N/A,St. Veit-Gasse 25
 779294000,Neubau mit stilvollem Wohnkomfort - Ihre neue Wohnung im grünen Herzen von Wien,"Wien, 22. Bezirk, Donaustadt",1220,790,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-10T02:58:00Z,N/A,Pogrelzstraße 81
-942767321,Lebensqualität in Stammersdorf: Grünruhelage genießen. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,850,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-10T02:57:00Z,N/A,Stammersdorfer Straße 236-238
