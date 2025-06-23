@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+945191087,2 Zimmer Wohnung in 1190 Wien voll möbliert,"Wien, 19. Bezirk, Döbling",1190,1495,2,60,Wien,Wien,1.0,4,Wohnung,2025-06-23T08:51:00Z,1495.0,Friedlgasse 12
 1070866293,Provisionsfreie 2-Zimmer-DG-Wohnung mit Terrasse in 1210 Wien zu mieten,"Wien, 21. Bezirk, Floridsdorf",1210,795.21,2,40,Wien,Wien,0.71,N/A,Wohnung,2025-06-23T08:49:00Z,795.21,N/A
 1423403745,"2 ZI-WOHNUNG IN WIEN - 17. BEZIRK - HERNALS, MÖBLIERT, AUF ZEIT","Wien, 17. Bezirk, Hernals",1170,1896,2,60,Wien,Wien,N/A,2,Wohnung,2025-06-23T08:47:00Z,1896.0,N/A
 776259638,TOP LAGE am Passauerplatz - 131m² Wohnung,"Wien, 01. Bezirk, Innere Stadt",1010,2990,4,131,Wien,Wien,1.0,2,Wohnung,2025-06-23T08:47:00Z,2990.0,Passauerplatz
@@ -122,7 +123,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 2078239155,Wunderschöne Wohnung im Boho Stil direkt an der U-Bahn,"Wien, 10. Bezirk, Favoriten",1100,950,0,55,Wien,Wien,0.85,N/A,Wohnung,2025-06-22T11:47:00Z,950.0,Etternreichgasse
 1140934938,Business Apartment,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,995,2,40,Wien,Wien,1.0,1,Wohnung,2025-06-22T11:38:00Z,995.0,Sturzgasse 45
 1041226511,Provisionsfreie Wohnung in zentraler Lage zwischen Karlskirche und Belvedere,"Wien, 04. Bezirk, Wieden",1040,1342,2,60,Wien,Wien,1.0,1,Wohnung,2025-06-22T11:28:00Z,1342.0,Argentinierstrasse 11
-1423523778,Helle 2-Zimmer-Wohnung in zentraler Lage im 2. Bezirk - ab September,"Wien, 02. Bezirk, Leopoldstadt",1020,804,2,50,Wien,Wien,0.0,3,Wohnung,2025-06-22T11:16:00Z,804.0,N/A
 1832586241,Neubauwohnung mit großer Terrasse Pool/ Sauna/ Fitness,"Wien, 18. Bezirk, Währing",1180,3000,3,109,Wien,Wien,0.93,3,Wohnung,2025-06-22T11:04:00Z,3000.0,Wallrisstrasse 47
 818157414,Schöne Zwei-Zimmer-Wohnung im Grünen mit super Anbindung / Charming 2-Room apartment in a green setting with excellent transport connections,"Wien, 14. Bezirk, Penzing",1140,919.46,2,49,Wien,Wien,1.0,1,Wohnung,2025-06-22T10:34:00Z,919.46,Hüttelbergstraße 20
 1528114653,All-Inclusive Bright 2-Room Apartment in Vienna,"Wien, 16. Bezirk, Ottakring",1160,720,2,42,Wien,Wien,1.0,N/A,Wohnung,2025-06-22T10:33:00Z,720.0,Brunnengasse 14
@@ -177,6 +177,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1454429805,POG 81 - Hochwertige Wohnungen nahe Gewerbepark Stadlau im ruhigen Neubau-Viertel! - JETZT ZUSCHLAGEN,"Wien, 22. Bezirk, Donaustadt",1220,810,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-17T03:04:00Z,N/A,Pogrelzstraße 81
 779294000,Neubau mit stilvollem Wohnkomfort - Ihre neue Wohnung im grünen Herzen von Wien,"Wien, 22. Bezirk, Donaustadt",1220,790,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-17T02:58:00Z,N/A,Pogrelzstraße 81
 942767321,Lebensqualität in Stammersdorf: Grünruhelage genießen. - WOHNTRAUM,"Wien, 21. Bezirk, Floridsdorf",1210,870,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-06-17T02:57:00Z,N/A,Stammersdorfer Straße 236-238
+1120112059,55m2 TOP Lage unbefistet,"Wien, 10. Bezirk, Favoriten",1100,844.25,2,55,Wien,Wien,0.0,N/A,Wohnung,2025-06-23T21:10:00Z,844.25,Johannitergasse
 1633938099,TRAUMAUSBLICK: Freundliche 1-Zimmer Wohnung in zentraler Lage im 14. Liftstock,"Wien, 11. Bezirk, Simmering",1110,650,1,42,Wien,Wien,1.0,14,Wohnung,2025-06-23T20:38:00Z,650.0,Geiselbergstraße
 1481186398,"TOPLAGE und ERSTBEZUG: Hofseitige, moderne 2-Zimmerwohnung mit großer Loggia!","Wien, 07. Bezirk, Neubau",1070,1599,2,60,Wien,Wien,1.0,1,Wohnung,2025-06-23T20:36:00Z,1599.0,Apollogasse 18
 2023129876,"Zentrale Lage und Ruhelage: Hofseitige, moderne 2-Zimmerwohnung mit großer Loggia!","Wien, 07. Bezirk, Neubau",1070,1695,2,64,Wien,Wien,1.0,2,Wohnung,2025-06-23T20:36:00Z,1695.0,Apollogasse 18
@@ -576,4 +577,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1346461129,Lichtdurchflutete Dachgeschosswohnung mit moderner Ausstattung und Einbauküche - ab sofort beziehbar!,"Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,934.48,2,65,Wien,Wien,1.0,N/A,Wohnung,2025-06-23T08:56:00Z,934.48,Henriettenplatz 3
 987563582,Helle Mietwohnung in absoluter Bestlage! Ab sofort!,"Wien, 01. Bezirk, Innere Stadt",1010,1390.01,2,56,Wien,Wien,1.0,3,Wohnung,2025-06-23T08:56:00Z,1390.01,Wollzeile
 1020008795,"2 Zimmer Wohnung - Vollmöbliert, inkl. verglaste Loggia und Schwimmbad","Wien, 11. Bezirk, Simmering",1110,1090,2,65,Wien,Wien,0.0,N/A,Wohnung,2025-06-23T08:56:00Z,1090.0,N/A
-945191087,2 Zimmer Wohnung in 1190 Wien voll möbliert,"Wien, 19. Bezirk, Döbling",1190,1495,2,60,Wien,Wien,1.0,4,Wohnung,2025-06-23T08:51:00Z,1495.0,Friedlgasse 12
