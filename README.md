@@ -22,8 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District      | Link                                                                                                                                                                        | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|       890    |            65 |          2 | 07. Neubau       | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1070-neubau/open-house---%22komplett-m%C3%B6bliert%22-1537167917/)                                    | Jul 12, 07:13      |
-|       827    |            43 |          2 | 03. Landstraße   | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/renovierte-helle-singlehit-wohnung-n%C3%A4he-kardinal-nagl-platz-1331396005/)    | Jul 11, 08:36      |
-|       544.69 |            50 |          2 | 02. Leopoldstadt | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1020-leopoldstadt/%28reserviert%29-gemeindewohnung-direktvergabe-vormerkschein28.02.2025-1358765607/) | Jul 11, 06:44      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                     | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          890 |            65 |          2 | 07. Neubau     | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1070-neubau/open-house---%22komplett-m%C3%B6bliert%22-1537167917/)                                 | Jul 12, 07:13      |
+|          827 |            43 |          2 | 03. Landstraße | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1030-landstra%C3%9Fe/renovierte-helle-singlehit-wohnung-n%C3%A4he-kardinal-nagl-platz-1331396005/) | Jul 11, 08:36      |
