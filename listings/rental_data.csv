@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+2137594571,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,910.77,2,60,Wien,Wien,1.0,5,Wohnung,2025-07-12T03:24:00Z,910.77,Anni-Haider-Weg
 1761247336,ERSTBEZUG nach Sanierzung - 3-Zimmer Altbauwohnung in 1180 Wien,"Wien, 18. Bezirk, Währing",1180,1500,3,87,Wien,Wien,1.0,2,Wohnung,2025-07-12T03:18:00Z,1500.0,N/A
 1629780776,Exklusive City-Wohnung mit Terrasse - Ruhe & Ausblick mitten im 1. Bezirk,"Wien, 01. Bezirk, Innere Stadt",1010,2416.51,2,66,Wien,Wien,1.0,8,Wohnung,2025-07-12T03:18:00Z,2416.51,N/A
 1886645301,"Coole Gartenwohnung- Top U3 Anbindung, nur 5 Minuten zur Fuß entfernt, Genießen Sie die Ruhe.","Wien, 11. Bezirk, Simmering",1110,990.09,2,54,Wien,Wien,1.0,0,Wohnung,2025-07-12T03:14:00Z,990.09,N/A
@@ -497,7 +498,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1091367772,Sonniger Familientraum Casino Baumgarten Nähe,"Wien, 14. Bezirk, Penzing",1140,1300,3,98,Wien,Wien,1.0,3,Wohnung,2025-07-10T21:34:00Z,1300.0,N/A
 1307402330,"Helle Wohnung mit Balkon und Lift, 1.200,-- Pauschalmiete inkl. Heizung","Wien, 12. Bezirk, Meidling",1120,1200,3,67,Wien,Wien,N/A,4,Wohnung,2025-07-10T21:34:00Z,1200.0,N/A
 1451173608,"SCHÖNE, KLEINE STARTWOHNUNG IN GRÜNLAGE","Wien, 23. Bezirk, Liesing",1230,624.91,1,30,Wien,Wien,1.0,2,Wohnung,2025-07-10T21:32:00Z,624.91,N/A
-1028117838,Sonnige 3-Zimmer-Wohnung mit Balkon - Erstbezug - zu mieten in 1020 Wien,"Wien, 02. Bezirk, Leopoldstadt",1020,1650,3,74,Wien,Wien,N/A,5,Wohnung,2025-07-10T21:00:00Z,1650.0,N/A
 984971826,Modernes Leben in Atzgersdorf nahe S-Bahn im FLAIR in the City!,"Wien, 23. Bezirk, Liesing",1230,1089.11,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-10T17:54:00Z,N/A,Scherbangasse 3
 1991926708,Apollogasse 18 | Exklusives Wohnen in zentraler Lage,"Wien, 07. Bezirk, Neubau",1070,1525,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-10T10:26:00Z,N/A,N/A
 950247415,Leo am Teich - Wohnen am Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,857.32,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-09T21:41:00Z,N/A,N/A
@@ -513,6 +513,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1750364277,Neubauprojekt in der Welingergasse,"Wien, 23. Bezirk, Liesing",1230,1199.9,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-07T16:13:00Z,N/A,N/A
 1802586627,"Moderne Neubauwohnungen nahe SCN, Lorettowiese und toller Infrastruktur - Straßenbahn 26 und S-Bahn Jedlersdorf in Gehweite! Küche inklusive. - WOHNTRAUM","Wien, 21. Bezirk, Floridsdorf",1210,815,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-07T14:24:00Z,N/A,Prager Straße 105 109
 1603776733,Exklusive Townhouses in Zentrumsnähe - Ihr neues Zuhause in Bestlage!,"Wien, 03. Bezirk, Landstraße",1030,3390,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-07T12:15:00Z,N/A,Charasgasse
+1612280081,Bestens aufgeteilte Zweizimmerwohnung bei U3 Hütteldorfer Straße,"Wien, 14. Bezirk, Penzing",1140,1287.96,2,62,Wien,Wien,N/A,5,Wohnung,2025-07-12T21:17:00Z,1287.96,"Grassigasse 2, Hüttelsdorfer Straße 108"
 2040932120,ERSTBEZUG nach Sanierung: 2 Zimmer mit separater Küche nähe Karmelitermarkt!,"Wien, 02. Bezirk, Leopoldstadt",1020,1398,2,61,Wien,Wien,1.0,6,Wohnung,2025-07-12T20:38:00Z,1398.0,Große Sperlgasse
 951577152,"Sonnenlicht, Stil & Stadtnähe - 2,5 Zimmer-DG-Wohnung mit Balkon in Grünruhelage","Wien, 12. Bezirk, Meidling",1120,1390,2,80,Wien,Wien,1.0,N/A,Wohnung,2025-07-12T20:37:00Z,1390.0,N/A
 1560518979,3-Zimmer-Wohnung mit Vollausstattung - All-in-Miete - Mietdauer: 6 Monate,"Wien, 08. Bezirk, Josefstadt",1080,2500,3,70,Wien,Wien,1.0,2,Wohnung,2025-07-12T20:35:00Z,2500.0,N/A
@@ -712,4 +713,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1269040287,Perfekte Stadtwohnung mitten in Wien - urbanes Wohnen leicht gemacht!,"Wien, 06. Bezirk, Mariahilf",1060,1750,2,49,Wien,Wien,1.0,2,Wohnung,2025-07-12T03:35:00Z,1750.0,N/A
 1151224012,"Im Herzen von Lainz - helle NEU sanierte 2,5 Zimmerwohnung!","Wien, 13. Bezirk, Hietzing",1130,990,2,53,Wien,Wien,1.0,2,Wohnung,2025-07-12T03:35:00Z,990.0,Steinhardtgasse 4
 834988978,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,910.77,2,60,Wien,Wien,1.0,4,Wohnung,2025-07-12T03:24:00Z,910.77,Anni-Haider-Weg
-2137594571,Gretls Garten - Miete mit Kaufoption - Erstbezug nahe Badeteich Hirschstetten,"Wien, 22. Bezirk, Donaustadt",1220,910.77,2,60,Wien,Wien,1.0,5,Wohnung,2025-07-12T03:24:00Z,910.77,Anni-Haider-Weg
