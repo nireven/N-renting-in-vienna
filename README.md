@@ -22,6 +22,7 @@ If you want to get notifications in real time for when new apartments pop up, yo
 
 ## Recent Active Listings
 
-|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District   | Link                                                                                                                                     | 📅 Published Date   |
-|-------------:|--------------:|-----------:|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
-|          890 |            65 |          2 | 07. Neubau    | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1070-neubau/open-house---%22komplett-m%C3%B6bliert%22-1537167917/) | Jul 12, 07:13      |
+|   💰 Rent (€) |   📏 Size (m²) |   🛏️ Rooms | 🏙️ District    | Link                                                                                                                                                                                                                      | 📅 Published Date   |
+|-------------:|--------------:|-----------:|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|
+|          890 |            40 |          2 | 09. Alsergrund | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1090-alsergrund/besichtigungen:-dienstag-15.-juli-um-9:30%21-helle-westseitige-2-zimmer-wohnung---nahe-u6-nussdorferstrasse---1090-wien-894319032/) | Jul 12, 22:27      |
+|          890 |            65 |          2 | 07. Neubau     | [🔗](https://www.willhaben.at/iad/immobilien/d/mietwohnungen/wien/wien-1070-neubau/open-house---%22komplett-m%C3%B6bliert%22-1537167917/)                                                                                  | Jul 12, 07:13      |
