@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1243031292,Gemütliche Dreizimmerwohnung bei der oberen alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,990.47,0,83,Wien,Wien,1.0,0,Wohnung,2025-07-11T14:35:00Z,990.47,N/A
 2002526222,Traumhafte 2-Zimmer-Wohnung in Toplage - Ihr neues Zuhause wartet auf Sie!,"Wien, 13. Bezirk, Hietzing",1130,890,2,51,Wien,Wien,1.0,1,Wohnung,2025-07-11T14:35:00Z,890.0,N/A
 1599734951,* Zauberhafte Auszeit in Neustift mit Pool und Garten! *,"Wien, 19. Bezirk, Döbling",1190,5250,4,165,Wien,Wien,1.0,0,Wohnung,2025-07-11T14:35:00Z,5250.0,N/A
 1080018259,Erstbezug: Geräumige 3-Zimmerwohnung mit großem südseitigen Balkon im 3. OG,"Wien, 12. Bezirk, Meidling",1120,1265,3,68,Wien,Wien,1.0,3,Wohnung,2025-07-11T14:33:00Z,1265.0,Spitzahornweg 1
@@ -121,13 +122,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1877626460,Nähe U4 und Hietzinger Hauptstraße - inkl. zwei Terrassen (ca 26m²) und Garagenstellplatz - zwischen Auhofstraße und Hietzinger Kai,"Wien, 13. Bezirk, Hietzing",1130,1819.98,3,116,Wien,Wien,1.0,3,Wohnung,2025-07-11T11:51:00Z,1819.98,N/A
 1717325628,All-inclusive Wohnung in Hofruhelage beim Kirschblütenpark - nahe U1 Kagran! Warmmiete!,"Wien, 22. Bezirk, Donaustadt",1220,758.71,1,35,Wien,Wien,1.0,6,Wohnung,2025-07-11T11:51:00Z,758.71,Tokiostraße 12
 1324403897,All-inclusive Wohnungen beim Kirschblütenpark - nahe U1 Kagran - JETZT ANFRAGEN,"Wien, 22. Bezirk, Donaustadt",1220,735.82,1,39,Wien,Wien,1.0,6,Wohnung,2025-07-11T11:51:00Z,735.82,Tokiostraße 12
-1324120296,"Klassischer Altbau, 6 Zimmer, Nähe Judenplatz - unbefristet zu mieten","Wien, 01. Bezirk, Innere Stadt",1010,4198.39,6,211,Wien,Wien,0.73,3,Wohnung,2025-07-11T11:49:00Z,4198.39,N/A
-883710946,"Neubauwohnung gleich beim Reumannplatz - 2-Zimmerwohnung mit Balkon, hell und freundlich!","Wien, 10. Bezirk, Favoriten",1100,888.78,2,47,Wien,Wien,1.0,N/A,Wohnung,2025-07-11T11:48:00Z,888.78,Steudelgasse 34
-1236968115,"UNBEFRISTET, 3-Zimmer Dachgeschoßwohnung mit wunderschönem Ausblick - klimatisiert","Wien, 06. Bezirk, Mariahilf",1060,1990,3,108,Wien,Wien,1.0,N/A,Wohnung,2025-07-11T11:48:00Z,1990.0,N/A
-913172235,KLIMATISIERT - beste Aussicht in Donaustadt inkl. Tiefgaragenplatz,"Wien, 22. Bezirk, Donaustadt",1220,949,2,40,Wien,Wien,1.0,6,Wohnung,2025-07-11T11:48:00Z,949.0,N/A
-1085172201,Großzügige Mietwohnung in traumhafter Ruhelage unweit Roter Berg in Hietzing,"Wien, 13. Bezirk, Hietzing",1130,1590,0,95,Wien,Wien,1.0,N/A,Wohnung,2025-07-11T11:46:00Z,1590.0,N/A
-812289887,*** Dachgeschoßgenießer aufgepasst *** 4 Zimmer zentral begehbar in der Zieglergasse 50 *** - ab 01.09.!,"Wien, 07. Bezirk, Neubau",1070,2459,4,98,Wien,Wien,1.0,N/A,Wohnung,2025-07-11T11:46:00Z,2459.0,Zieglergasse
-1968658603,Modernes Wohnen in Brigittenau - 4-Zimmer-DG-Wohnung mit drei Freiflächen,"Wien, 20. Bezirk, Brigittenau",1200,1999.9,4,101,Wien,Wien,1.0,7,Wohnung,2025-07-11T11:40:00Z,1999.9,N/A
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-11T11:26:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,949,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-11T09:14:00Z,N/A,Sankt Veit-Gasse
 984971826,Modernes Leben in Atzgersdorf nahe S-Bahn im FLAIR in the City!,"Wien, 23. Bezirk, Liesing",1230,1089.11,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-10T17:54:00Z,N/A,Scherbangasse 3
@@ -142,6 +136,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1925683547,"Erstbezug: 302 Mietwohnungen im Neubauprojekt ""DC Flats"" in 1220 zu mieten","Wien, 22. Bezirk, Donaustadt",1220,695,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-08T11:49:00Z,N/A,N/A
 1750364277,Neubauprojekt in der Welingergasse,"Wien, 23. Bezirk, Liesing",1230,1199.9,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-07T16:13:00Z,N/A,N/A
 915235432,Sensationeller ERSTBEZUG! Fußbodenheizung - UND kühlung!,"Wien, 05. Bezirk, Margareten",1050,1225,0,N/A,Wien,Wien,N/A,N/A,N/A,2025-07-07T15:06:00Z,N/A,N/A
+880980111,"| 1,5 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025","Wien, 13. Bezirk, Hietzing",1130,1009.01,1,42,Wien,Wien,1.0,1,Wohnung,2025-07-12T08:35:00Z,1009.01,Sankt Veit-Gasse
 1758431752,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,51,Wien,Wien,1.0,1,Wohnung,2025-07-12T08:35:00Z,1199.0,Sankt Veit-Gasse
 1183883019,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1139,2,50,Wien,Wien,1.0,1,Wohnung,2025-07-12T08:35:00Z,1139.0,Sankt Veit-Gasse
 1149624922,| 3 ZIMMER | 3. OG | BALKON | ERSTBEZUG IN HIETZING | NAHE UNTER ST. VEIT | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1729,3,76,Wien,Wien,1.0,3,Wohnung,2025-07-12T08:35:00Z,1729.0,Sankt Veit-Gasse
@@ -341,7 +336,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1707773981,42 m² | 2-Zimmer Wohnung mit 5 m² Loggia | Thaliastraße | Billa im Haus | 4. Liftstock,"Wien, 16. Bezirk, Ottakring",1160,979,2,42,Wien,Wien,1.0,4,Wohnung,2025-07-11T14:45:00Z,979.0,Lindauergasse
 893962787,| VIOLA HOMES | HOCHWERTIGE MIETWOHNUNGEN | BEIM LAAER WALD | ZWEITBEZUG,"Wien, 10. Bezirk, Favoriten",1100,1375.01,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-11T14:44:00Z,N/A,Erich-Sokol-Gasse
 1771985065,"Blueground ID439, Alsergrund","Wien, 09. Bezirk, Alsergrund",1090,1490,2,52,Wien,Wien,1.0,6,Wohnung,2025-07-11T14:43:00Z,1490.0,Bindergasse 4
-1243031292,Gemütliche Dreizimmerwohnung bei der oberen alten Donau,"Wien, 21. Bezirk, Floridsdorf",1210,990.47,0,83,Wien,Wien,1.0,0,Wohnung,2025-07-11T14:35:00Z,990.47,N/A
+2078239155,Wunderschöne Wohnung im Boho Stil direkt an der U-Bahn,"Wien, 10. Bezirk, Favoriten",1100,950,0,55,Wien,Wien,0.85,N/A,Wohnung,2025-07-13T11:47:00Z,950.0,Etternreichgasse
 1329862055,Gellertplatz - Erstbezüge in U-Bahn Nähe - Balkone optional,"Wien, 10. Bezirk, Favoriten",1100,1800,3,90,Wien,Wien,1.0,N/A,Wohnung,2025-07-13T11:35:00Z,1800.0,Gellertgasse 22
 2127177424,EXKLUSIV MÖBLIERT,"Wien, 02. Bezirk, Leopoldstadt",1020,1290,2,55,Wien,Wien,N/A,2,Wohnung,2025-07-13T10:43:00Z,1290.0,Wolfgang-Schmaelzl-Gasse
 1528114653,(reserviert) All-Inclusive Bright 2-Room Apartment in Vienna,"Wien, 16. Bezirk, Ottakring",1160,720,2,42,Wien,Wien,1.0,N/A,Wohnung,2025-07-13T10:33:00Z,720.0,Brunnengasse 14
@@ -541,4 +536,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1737022088,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,51,Wien,Wien,1.0,1,Wohnung,2025-07-12T08:35:00Z,1199.0,Sankt Veit-Gasse
 1776605148,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1239,2,51,Wien,Wien,1.0,1,Wohnung,2025-07-12T08:35:00Z,1239.0,Sankt Veit-Gasse
 1856702202,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25| ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1219.01,2,51,Wien,Wien,1.0,1,Wohnung,2025-07-12T08:35:00Z,1219.01,Sankt Veit-Gasse
-880980111,"| 1,5 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025","Wien, 13. Bezirk, Hietzing",1130,1009.01,1,42,Wien,Wien,1.0,1,Wohnung,2025-07-12T08:35:00Z,1009.01,Sankt Veit-Gasse
