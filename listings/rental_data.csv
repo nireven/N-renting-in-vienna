@@ -1,4 +1,5 @@
 Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Location Quality,Floor,Property Type,Published Date,Rent (€),Address
+1325893377,MIETWOHNUNG - 1140 WIEN - MAUERBACHSTRAßE,"Wien, 14. Bezirk, Penzing",1140,1200,3,75,Wien,Wien,N/A,N/A,Wohnung,2025-07-16T11:08:00Z,1200.0,Mauerbachstraße
 838057203,3 ZIMMER |BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1689.01,3,72,Wien,Wien,1.0,2,Wohnung,2025-07-16T11:05:00Z,1689.01,St. Veit-Gasse 25
 1006580961,2 ZIMMER |BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,979,2,41,Wien,Wien,1.0,2,Wohnung,2025-07-16T11:02:00Z,979.0,St. Veit-Gasse 25
 1995109767,4 ZIMMER |BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,2248.99,4,93,Wien,Wien,1.0,1,Wohnung,2025-07-16T11:00:00Z,2248.99,St. Veit-Gasse 25
@@ -85,11 +86,6 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1542307242,Couple Loft For Internationals - Stylish Fully Furnished Apartment All inclusive - SHORT TERM RENTAL 3 - 6 MONTHS ONLY | COMMISSION FREE,"Wien, 17. Bezirk, Hernals",1170,900,2,30,Wien,Wien,1.0,N/A,Wohnung,2025-07-16T00:09:00Z,900.0,Hernalser Hauptstraße 170
 1919580654,Koffer packen und einziehen! Wohnung in Innenhoflage Nähe U4/ U6 Längefeldgasse,"Wien, 12. Bezirk, Meidling",1120,1030,3,55,Wien,Wien,1.0,2,Wohnung,2025-07-15T22:58:00Z,1030.0,Aßmayergasse 3
 1399852057,ERSTBEZUG / Wohnung privat zu vermieten / Neubau / direkt vom Eigentümer,"Wien, 22. Bezirk, Donaustadt",1220,1150,2,52,Wien,Wien,0.92,N/A,Wohnung,2025-07-15T22:51:00Z,1150.0,Wimpfengasse 30
-1244576325,Taubstummengasse moeblierte Studio Wohnung,"Wien, 04. Bezirk, Wieden",1040,890,1,42,Wien,Wien,N/A,6,Wohnung,2025-07-15T22:14:00Z,890.0,Taubstummengasse
-1941475143,Möblierte Singelhit nähe 1010 in Architekturikone klimatisiert,"Wien, 03. Bezirk, Landstraße",1030,1149,2,35,Wien,Wien,1.0,2.Stock,Wohnung,2025-07-15T22:06:00Z,1149.0,Gottfried-Keller-Gasse 3
-1882929492,2 Zimmer- Wohnung WARM/ Vollmöbiliert,"Wien, 16. Bezirk, Ottakring",1160,950,2,55,Wien,Wien,N/A,N/A,Wohnung,2025-07-15T22:05:00Z,950.0,N/A
-1940066926,Schöne 1 Zimmer Wohnung,"Wien, 12. Bezirk, Meidling",1120,590,1,32,Wien,Wien,1.0,4,Wohnung,2025-07-15T22:02:00Z,590.0,flurschützstraße 23
-1927140936,"1 room appartment, New building, next to Schönbrunn","Wien, 15. Bezirk, Rudolfsheim-Fünfhaus",1150,762,1,38,Wien,Wien,N/A,2,Wohnung,2025-07-15T21:57:00Z,762.0,N/A
 1663175177,Wiener City-Flair & Natur vereint: Wohnen am Nordwestbahnhof,"Wien, 20. Bezirk, Brigittenau",1200,1170.4,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-15T14:20:00Z,N/A,Dresdner Straße
 1341342871,Hinterhofliebe - exklusive 1-Zimmer Garconnieren im ruhigen Innenhof,"Wien, 16. Bezirk, Ottakring",1160,792.99,0,N/A,Wien,Wien,0.67,N/A,N/A,2025-07-15T13:35:00Z,N/A,N/A
 919915826,ST. VEITGASSE 25 - Moderne Wohnungen im Hietzinger Cottage,"Wien, 13. Bezirk, Hietzing",1130,879,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-15T12:28:00Z,N/A,St. Veit-Gasse 25
@@ -108,6 +104,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1674310216,"++1050++ Wohntraum in Margareten, 32 exklusive Wohnungen in TOPLAGE!","Wien, 05. Bezirk, Margareten",1050,1298.99,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-11T11:26:00Z,N/A,N/A
 868465965,| ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,949,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-11T09:14:00Z,N/A,Sankt Veit-Gasse
 696091923,Hochwertiger Neubau mit Gemeinschaftspool in 1130 Wien,"Wien, 13. Bezirk, Hietzing",1130,N/A,0,N/A,Wien,Wien,1.0,N/A,N/A,2025-07-07T11:48:00Z,N/A,N/A
+1204735687,ZIEGLERGASSE: Super-schicke 3-Zimmer Neubauwohnung mit 2 Badezimmer,"Wien, 07. Bezirk, Neubau",1070,1695,3,75,Wien,Wien,0.9,1,Wohnung,2025-07-17T07:10:00Z,1695.0,N/A
 1377165941,"Gartenwohnung im Cottage inkl 2 Garagenplätzen, inkl. Heizung und Warmwasser Akonto","Wien, 18. Bezirk, Währing",1180,4411.56,6,201,Wien,Wien,1.0,0,Wohnung,2025-07-17T06:35:00Z,4411.56,N/A
 1910079622,"Dem Himmel so nah: Elegant möbliertes Studio im 42. Stock mit Cityblick (Pool, Gym, Spa, Lounges)","Wien, 22. Bezirk, Donaustadt",1220,1749.86,1,36,Wien,Wien,N/A,42,Wohnung,2025-07-17T06:09:00Z,1749.86,N/A
 1591345091,Traumhafte 4-Zimmer-Wohnung im Herzen von Wien - Top-Innenstadtlage beim Stephansplatz!,"Wien, 01. Bezirk, Innere Stadt",1010,2799,4,107,Wien,Wien,1.0,5,Wohnung,2025-07-17T04:44:00Z,2799.0,N/A
@@ -507,7 +504,7 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 857780248,LOGGIA | BALKON | 2 ZIMMER | ERSTBEZUG |ST. VEITGASSE 25 | MIETBEGINN AB 1. DEZEMBER 2025 | HIETZING,"Wien, 13. Bezirk, Hietzing",1130,1199.01,2,51,Wien,Wien,1.0,3,Wohnung,2025-07-16T11:13:00Z,1199.01,St. Veit-Gasse 25
 1709677196,SOFORTBEZUG IN 7 PARTEIENHAUS MIT LOGGIA IN DER HOHENAUERGASSE,"Wien, 19. Bezirk, Döbling",1190,1995.2,4,117,Wien,Wien,1.0,1,Wohnung,2025-07-16T11:10:00Z,1995.2,Hohenauergasse
 1742065943,3 ZIMMER |BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN AB 1. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1719,3,70,Wien,Wien,1.0,1,Wohnung,2025-07-16T11:09:00Z,1719.0,St. Veit-Gasse 25
-1325893377,MIETWOHNUNG - 1140 WIEN - MAUERBACHSTRAßE,"Wien, 14. Bezirk, Penzing",1140,1200,3,75,Wien,Wien,N/A,N/A,Wohnung,2025-07-16T11:08:00Z,1200.0,Mauerbachstraße
+1862206556,"helle und ruhige Wohnung, 5 min von der U4 entfernt","Wien, 13. Bezirk, Hietzing",1130,1908,4,87,Wien,Wien,N/A,3,Wohnung,2025-07-17T22:08:00Z,1908.0,Auhofstraße 33
 1143480627,Gemeindewohnung - Direktvergabe mit Wiener Wohn Ticket,"Wien, 19. Bezirk, Döbling",1190,388.51,1,38,Wien,Wien,1.0,2,Wohnung,2025-07-17T21:51:00Z,388.51,Hutweidengasse 23
 1310347254,"ALTBAUTRAUM | SONNIG | 3,5 ZIMMER | 3.STOCK | ERSTBEZUG NACH KOMPLETTSANIERUNG","Wien, 19. Bezirk, Döbling",1190,2089.38,4,147,Wien,Wien,1.0,3. Stock,Wohnung,2025-07-17T21:42:00Z,2089.38,N/A
 1637011195,UNBEFRISTET | TRAUMHAFTE ALTBAU-WOHNUNG MIT WINTERGARTEN | TOPLAGE IN U-BAHN-NÄHE,"Wien, 03. Bezirk, Landstraße",1030,1980,3,106,Wien,Wien,N/A,Hochparterre,Wohnung,2025-07-17T21:39:00Z,1980.0,N/A
@@ -907,4 +904,3 @@ Ad ID,Description,Location,Postcode,Price,Rooms,Size (m²),State,District,Locati
 1638850327,| 2 ZIMMER | BALKON | ST. VEIT GASSE 25 | ERSTBEZUG IN HIETZING | MIETBEGINN PER 01. DEZEMBER 2025,"Wien, 13. Bezirk, Hietzing",1130,1199,2,52,Wien,Wien,1.0,1,Wohnung,2025-07-17T07:45:00Z,1199.0,Sankt Veit-Gasse
 1906669106,Wunderschöne Wohnung neben DONAUZENTRUM & 3 min entfernt von der U1 Kagran!,"Wien, 22. Bezirk, Donaustadt",1220,1980,3,90,Wien,Wien,1.0,5,Wohnung,2025-07-17T07:38:00Z,1980.0,Wagramer straße 93
 1609259449,Charmante 2-Zimmer-Wohnung mit Erker und Grünblick in 1190 Wien,"Wien, 19. Bezirk, Döbling",1190,1300.2,0,54,Wien,Wien,1.0,4,Wohnung,2025-07-17T07:24:00Z,1300.2,N/A
-1204735687,ZIEGLERGASSE: Super-schicke 3-Zimmer Neubauwohnung mit 2 Badezimmer,"Wien, 07. Bezirk, Neubau",1070,1695,3,75,Wien,Wien,0.9,1,Wohnung,2025-07-17T07:10:00Z,1695.0,N/A
